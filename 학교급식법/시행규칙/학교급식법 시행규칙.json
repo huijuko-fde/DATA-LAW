@@ -330,6 +330,19 @@
       "source_version_uid": "008585:233553:20210630",
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20210630"
+    },
+    {
+      "promulgation_date": "20260625",
+      "promulgation_no": "00386",
+      "addendum_key": "2026062500386",
+      "content": "부칙 <제386호,2026.6.25>\n이 규칙은 2027년 3월 1일부터 시행한다.",
+      "provision_id": "law:학교급식법시행규칙#ADDENDUM",
+      "is_future": true,
+      "source_mst": "287709",
+      "source_version_uid": "008585:287709:20270301",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20270301",
+      "enforcement_date": "20270301"
     }
   ],
   "appendices": [
@@ -796,8 +809,10 @@
   "provision_id": "law:학교급식법시행규칙#DOC",
   "addendum_provision_id": "law:학교급식법시행규칙#ADDENDUM",
   "amendment_provision_id": "law:학교급식법시행규칙#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20270301"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "학교급식법/시행규칙/학교급식법 시행규칙.json"
 }
