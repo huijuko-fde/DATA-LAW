@@ -1654,6 +1654,19 @@
       "version_enforcement_date": "20260201"
     },
     {
+      "promulgation_date": "20260310",
+      "promulgation_no": "21432",
+      "addendum_key": "2026031021432",
+      "content": "부칙(농수산물 온라인 도매거래 촉진에 관한 법률) <제21432호,2026.3.10>\n제1조(시행일) 이 법은 공포 후 1년이 경과한 날부터 시행한다.\n제2조 생략\n제3조(다른 법률의 개정) ① 공익신고자 보호법 일부를 다음과 같이 개정한다.\n별표에 제106호의2를 다음과 같이 신설한다.\n106의2. 「농수산물 온라인 도매거래 촉진에 관한 법률」\n② 생략",
+      "provision_id": "law:공익신고자보호법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "283909",
+      "source_version_uid": "011358:283909:20270311",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20270311",
+      "enforcement_date": "20270311"
+    },
+    {
       "promulgation_date": "20260317",
       "promulgation_no": "21467",
       "addendum_key": "2026031721467",
@@ -1828,9 +1841,10 @@
   "amendment_provision_id": "law:공익신고자보호법#AMENDMENT",
   "future_enforcement_dates": [
     "20260918",
-    "20261001"
+    "20261001",
+    "20270311"
   ],
   "has_future": true,
-  "version_count": 3,
+  "version_count": 4,
   "git_path": "공익신고자 보호법/법률/공익신고자 보호법.json"
 }
