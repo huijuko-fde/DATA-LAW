@@ -3355,7 +3355,14 @@
         "changed": "N",
         "article_key": "0046001",
         "images": [],
-        "provision_id": "law:응급의료에관한법률#JO0046"
+        "provision_id": "law:응급의료에관한법률#JO0046",
+        "scheduled": [
+          {
+            "enforcement_date": "20270402",
+            "change": "개정",
+            "content": "제46조(구급차등의 기준)\n① 구급차등은 환자이송 및 응급의료를 하는 데에 적합하게 설계ㆍ제작되어야 한다. 이 경우 구급차 내에서의 원활한 응급처치를 위하여 운전석과의 구획 칸막이와 간이침대 사이에 70센티미터 이상의 공간을 확보하여야 한다. <개정 2025.4.1>\n② 구급차의 형태, 표시, 내부장치 등에 관한 기준은 보건복지부와 국토교통부의 공동부령으로 정한다. <개정 2013.3.23, 2015.1.28, 2016.12.2>"
+          }
+        ]
       },
       {
         "article_no": "제46조의2",
@@ -5401,9 +5408,10 @@
   "addendum_provision_id": "law:응급의료에관한법률#ADDENDUM",
   "amendment_provision_id": "law:응급의료에관한법률#AMENDMENT",
   "future_enforcement_dates": [
-    "20261210"
+    "20261210",
+    "20270402"
   ],
   "has_future": true,
-  "version_count": 2,
+  "version_count": 3,
   "git_path": "응급의료에 관한 법률/법률/응급의료에 관한 법률.json"
 }
