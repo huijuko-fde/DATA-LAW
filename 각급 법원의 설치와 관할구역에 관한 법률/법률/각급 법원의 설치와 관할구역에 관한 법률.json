@@ -1241,9 +1241,10 @@
   "addendum_provision_id": "law:각급법원의설치와관할구역에관한법률#ADDENDUM",
   "amendment_provision_id": "law:각급법원의설치와관할구역에관한법률#AMENDMENT",
   "future_enforcement_dates": [
-    "20280301"
+    "20280301",
+    "20290301"
   ],
   "has_future": true,
-  "version_count": 5,
+  "version_count": 6,
   "git_path": "각급 법원의 설치와 관할구역에 관한 법률/법률/각급 법원의 설치와 관할구역에 관한 법률.json"
 }
