@@ -552,7 +552,14 @@
         "changed": "N",
         "article_key": "0024001",
         "images": [],
-        "provision_id": "law:소방공무원임용령시행규칙#JO0024"
+        "provision_id": "law:소방공무원임용령시행규칙#JO0024",
+        "scheduled": [
+          {
+            "enforcement_date": "20270901",
+            "change": "개정",
+            "content": "제24조(채용시험의 가점) 영 제42조에 따른 소방사 공개경쟁채용시험이나 소방간부후보생 선발시험에 대한 면허증 소지자의 가점비율은 별표 6과 같다. <개정 2025.12.31>"
+          }
+        ]
       },
       {
         "article_no": "제25조",
@@ -2403,8 +2410,10 @@
   "provision_id": "law:소방공무원임용령시행규칙#DOC",
   "addendum_provision_id": "law:소방공무원임용령시행규칙#ADDENDUM",
   "amendment_provision_id": "law:소방공무원임용령시행규칙#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20270901"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "소방공무원 임용령/시행규칙/소방공무원 임용령 시행규칙.json"
 }
