@@ -2710,7 +2710,14 @@
         "changed": "N",
         "article_key": "0119001",
         "images": [],
-        "provision_id": "law:형사소송규칙#JO0119"
+        "provision_id": "law:형사소송규칙#JO0119",
+        "scheduled": [
+          {
+            "enforcement_date": "20270205",
+            "change": "개정",
+            "content": "제119조(재정신청서 기재사항)\n① 법 제260조제1항제2호부터 제6호까지의 고발인은 해당 법률상 신고의무가 있는 사람에 해당한다는 사실을 신청서에 기재하고, 그 자격을 소명할 수 있는 자료를 첨부하여야 한다.\n② 법원은 신청서 기재나 첨부자료만으로 제1항의 소명이 부족한 경우에는 재정신청인에게 보정을 명할 수 있다."
+          }
+        ]
       },
       {
         "article_no": "제120조",
@@ -2739,7 +2746,14 @@
         "changed": "N",
         "article_key": "0121001",
         "images": [],
-        "provision_id": "law:형사소송규칙#JO0121"
+        "provision_id": "law:형사소송규칙#JO0121",
+        "scheduled": [
+          {
+            "enforcement_date": "20270205",
+            "change": "개정",
+            "content": "제121조(재정신청의 취소방식 및 취소의 통지)\n①법 제264조제2항에 규정된 취소는 관할 지방법원에 서면으로 하여야 한다. 다만, 기록이 관할 지방법원에 송부되기 전에는 그 기록이 있는 지방공소청장 또는 지청장에게 하여야 한다. <개정 2026.10.2>\n②제1항의 취소서를 제출받은 지방법원의 법원사무관등은 즉시 관할 지방공소청장 또는 지청장 및 피의자에게 그 사유를 통지하여야 한다. <개정 2007.10.29, 2026.10.2>"
+          }
+        ]
       },
       {
         "article_no": "제122조",
@@ -5033,8 +5047,10 @@
   "provision_id": "law:형사소송규칙#DOC",
   "addendum_provision_id": "law:형사소송규칙#ADDENDUM",
   "amendment_provision_id": "law:형사소송규칙#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20270205"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "형사소송규칙/법률/형사소송규칙.json"
 }
