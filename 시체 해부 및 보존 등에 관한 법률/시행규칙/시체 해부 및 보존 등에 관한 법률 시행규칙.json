@@ -655,8 +655,10 @@
   "provision_id": "law:시체해부및보존등에관한법률시행규칙#DOC",
   "addendum_provision_id": "law:시체해부및보존등에관한법률시행규칙#ADDENDUM",
   "amendment_provision_id": "law:시체해부및보존등에관한법률시행규칙#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20271112"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "시체 해부 및 보존 등에 관한 법률/시행규칙/시체 해부 및 보존 등에 관한 법률 시행규칙.json"
 }
