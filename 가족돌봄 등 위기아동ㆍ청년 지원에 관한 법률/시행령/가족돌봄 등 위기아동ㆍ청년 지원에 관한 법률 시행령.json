@@ -887,8 +887,10 @@
   "provision_id": "law:가족돌봄등위기아동청년지원에관한법률시행령#DOC",
   "addendum_provision_id": "law:가족돌봄등위기아동청년지원에관한법률시행령#ADDENDUM",
   "amendment_provision_id": "law:가족돌봄등위기아동청년지원에관한법률시행령#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20270326"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "가족돌봄 등 위기아동ㆍ청년 지원에 관한 법률/시행령/가족돌봄 등 위기아동ㆍ청년 지원에 관한 법률 시행령.json"
 }
