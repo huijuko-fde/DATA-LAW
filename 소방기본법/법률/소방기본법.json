@@ -931,7 +931,14 @@
         "changed": "N",
         "article_key": "0016021",
         "images": [],
-        "provision_id": "law:소방기본법#JO0016_02"
+        "provision_id": "law:소방기본법#JO0016_02",
+        "scheduled": [
+          {
+            "enforcement_date": "20270414",
+            "change": "개정",
+            "content": "제16조의2(소방지원활동)\n① 소방청장ㆍ소방본부장 또는 소방서장은 공공의 안녕질서 유지 또는 복리증진을 위하여 필요한 경우 소방활동 외에 다음 각 호의 활동(이하 \"소방지원활동\"이라 한다)을 하게 할 수 있다. <개정 2013.3.23, 2014.11.19, 2017.7.26>\n1. 삭제<2026.10.13>\n2. 자연재해에 따른 급수ㆍ배수 및 제설 등 지원활동\n3. 집회ㆍ공연 등 각종 행사 시 사고에 대비한 근접대기 등 지원활동\n4. 화재, 재난ㆍ재해로 인한 피해복구 지원활동\n5. 삭제<2015.7.24>\n6. 그 밖에 행정안전부령으로 정하는 활동\n② 소방지원활동은 제16조의 소방활동 수행에 지장을 주지 아니하는 범위에서 할 수 있다.\n③ 유관기관ㆍ단체 등의 요청에 따른 소방지원활동에 드는 비용은 지원요청을 한 유관기관ㆍ단체 등에게 부담하게 할 수 있다. 다만, 부담금액 및 부담방법에 관하여는 지원요청을 한 유관기관ㆍ단체 등과 협의하여 결정한다."
+          }
+        ]
       },
       {
         "article_no": "제16조의3",
@@ -3165,6 +3172,19 @@
       "source_version_uid": "009505:286459:20260903",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20260903"
+    },
+    {
+      "promulgation_date": "20261013",
+      "promulgation_no": "22070",
+      "addendum_key": "2026101322070",
+      "content": "부칙 <제22070호,2026.10.13>\n제1조(시행일) 이 법은 공포 후 6개월이 경과한 날부터 시행한다.\n제2조(다른 법률의 개정) ① 국립묘지의 설치 및 운영에 관한 법률 일부를 다음과 같이 개정한다.\n제5조제1항제1호아목2) 중 \"「소방기본법」 제16조의2제1항제1호\"를 \"「소방기본법」 제16조의2제1항제2호\"로 한다.\n② 산림재난방지법 일부를 다음과 같이 개정한다.\n제36조제1항제1호를 다음과 같이 한다.\n1. 소방관서",
+      "provision_id": "law:소방기본법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "291137",
+      "source_version_uid": "009505:291137:20270414",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20270414",
+      "enforcement_date": "20270414"
     }
   ],
   "appendices": [],
@@ -3522,8 +3542,10 @@
   "provision_id": "law:소방기본법#DOC",
   "addendum_provision_id": "law:소방기본법#ADDENDUM",
   "amendment_provision_id": "law:소방기본법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20270414"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "소방기본법/법률/소방기본법.json"
 }
