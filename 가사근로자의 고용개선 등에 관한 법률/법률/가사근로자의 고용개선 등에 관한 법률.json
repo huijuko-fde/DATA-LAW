@@ -143,7 +143,14 @@
         "article_key": "0006001",
         "moved": "000000",
         "images": [],
-        "provision_id": "law:가사근로자의고용개선등에관한법률#JO0006"
+        "provision_id": "law:가사근로자의고용개선등에관한법률#JO0006",
+        "scheduled": [
+          {
+            "enforcement_date": "20270610",
+            "change": "개정",
+            "content": "제6조(다른 법률과의 관계)\n① 이 법의 적용을 받는 가사근로자는 「근로기준법」, 「남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률」, 「최저임금법」 등 근로 관계 법령의 적용이 제외되는 가사(家事) 사용인으로 보지 아니하고, 이 법의 적용을 받는 가사근로자가 행하는 가사서비스는 「근로자퇴직급여 보장법」 등 근로 관계 법령의 적용이 제외되는 가구 내 고용활동으로 보지 아니한다.\n② 가사근로자의 근로 관계에 관하여는 「근로기준법」 제17조, 제54조(입주가사근로자의 경우는 제외한다), 제55조, 제60조제1항ㆍ제2항ㆍ제4항부터 제6항까지를 적용하지 아니하고, 입주가사근로자의 근로 관계에 관하여는 「근로기준법」 제50조 및 제53조를 적용하지 아니한다. <개정 2026.6.9>"
+          }
+        ]
       },
       {
         "article_no": "제7조",
@@ -880,6 +887,19 @@
       "source_version_uid": "014099:232959:20220616",
       "source_revision_type": "제정",
       "version_enforcement_date": "20220616"
+    },
+    {
+      "promulgation_date": "20260609",
+      "promulgation_no": "21784",
+      "addendum_key": "2026060921784",
+      "content": "부칙(근로기준법) <제21784호,2026.6.9>\n제1조(시행일) 이 법은 공포 후 1년이 경과한 날부터 시행한다. <단서 생략>\n제2조(다른 법률의 개정) 가사근로자의 고용개선 등에 관한 법률 일부를 다음과 같이 개정한다.\n제6조제2항 중 \"제4항 및 제5항을\"을 \"제4항부터 제6항까지를\"로 한다.",
+      "provision_id": "law:가사근로자의고용개선등에관한법률#ADDENDUM",
+      "is_future": true,
+      "source_mst": "286773",
+      "source_version_uid": "014099:286773:20270610",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20270610",
+      "enforcement_date": "20270610"
     }
   ],
   "appendices": [],
@@ -912,8 +932,10 @@
   "provision_id": "law:가사근로자의고용개선등에관한법률#DOC",
   "addendum_provision_id": "law:가사근로자의고용개선등에관한법률#ADDENDUM",
   "amendment_provision_id": "law:가사근로자의고용개선등에관한법률#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20270610"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "가사근로자의 고용개선 등에 관한 법률/법률/가사근로자의 고용개선 등에 관한 법률.json"
 }
