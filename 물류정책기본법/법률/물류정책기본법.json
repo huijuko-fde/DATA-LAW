@@ -2886,7 +2886,14 @@
         "changed": "N",
         "article_key": "0059001",
         "images": [],
-        "provision_id": "law:물류정책기본법#JO0059"
+        "provision_id": "law:물류정책기본법#JO0059",
+        "scheduled": [
+          {
+            "enforcement_date": "20270923",
+            "change": "개정",
+            "content": "제59조(환경친화적 물류의 촉진)\n① 국토교통부장관ㆍ해양수산부장관 또는 시ㆍ도지사는 물류활동이 환경친화적으로 추진될 수 있도록 관련 시책을 마련하여야 한다. <개정 2008.2.29, 2013.3.23, 2013.8.6>\n② 국토교통부장관ㆍ해양수산부장관 또는 시ㆍ도지사는 물류기업, 화주기업 또는 「화물자동차 운수사업법」 제2조제15호가목에 따른 개인 운송사업자가 환경친화적 물류활동을 위하여 다음 각 호의 활동을 하는 경우에는 행정적ㆍ재정적 지원을 할 수 있다. <개정 2008.2.29, 2013.3.23, 2013.8.6, 2020.10.20, 2026.9.22>\n1. 환경친화적인 운송수단 또는 포장재료의 사용\n2. 기존 물류시설ㆍ장비ㆍ운송수단을 환경친화적인 물류시설ㆍ장비ㆍ운송수단으로 변경\n3. 그 밖에 대통령령으로 정하는 환경친화적 물류활동\n③ 시ㆍ도지사는 제1항 또는 제2항의 조치를 하려는 경우에는 중복을 방지하기 위하여 미리 국토교통부장관 및 해양수산부장관과 협의하고, 그 내용을 제14조에 따른 지역물류기본계획과 제16조에 따른 지역물류시행계획에 반영하여야 한다. <신설 2013.8.6>"
+          }
+        ]
       },
       {
         "article_no": "제60조",
@@ -3013,6 +3020,11 @@
             "enforcement_date": "20270323",
             "change": "삭제",
             "content": ""
+          },
+          {
+            "enforcement_date": "20270923",
+            "change": "신설",
+            "content": "제60조의3 삭제 <2026.9.22>"
           }
         ]
       },
@@ -3062,6 +3074,11 @@
             "enforcement_date": "20270323",
             "change": "삭제",
             "content": ""
+          },
+          {
+            "enforcement_date": "20270923",
+            "change": "신설",
+            "content": "제60조의4 삭제 <2026.9.22>"
           }
         ]
       },
@@ -3098,6 +3115,11 @@
             "enforcement_date": "20270323",
             "change": "삭제",
             "content": ""
+          },
+          {
+            "enforcement_date": "20270923",
+            "change": "신설",
+            "content": "제60조의6 삭제 <2026.9.22>"
           }
         ]
       },
@@ -3178,6 +3200,11 @@
             "enforcement_date": "20270323",
             "change": "삭제",
             "content": ""
+          },
+          {
+            "enforcement_date": "20270923",
+            "change": "신설",
+            "content": "제60조의7 삭제 <2026.9.22>"
           }
         ]
       },
@@ -3200,6 +3227,11 @@
             "enforcement_date": "20270323",
             "change": "삭제",
             "content": ""
+          },
+          {
+            "enforcement_date": "20270923",
+            "change": "신설",
+            "content": "제60조의8 삭제 <2026.9.22>"
           }
         ]
       },
@@ -4007,6 +4039,19 @@
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20270323",
       "enforcement_date": "20270323"
+    },
+    {
+      "promulgation_date": "20260922",
+      "promulgation_no": "21970",
+      "addendum_key": "2026092221970",
+      "content": "부칙(화물자동차 운수사업법) <제21970호,2026.9.22>\n제1조(시행일) 이 법은 공포 후 1년이 경과한 날부터 시행한다. <단서 생략>\n제2조 및 제3조 생략\n제4조(다른 법률의 개정) ① 생략\n② 물류정책기본법 일부를 다음과 같이 개정한다.\n제59조제2항 각 호 외의 부분 중 \"「화물자동차 운수사업법」 제2조제11호가목\"을 \"「화물자동차 운수사업법」 제2조제15호가목\"으로 한다.",
+      "provision_id": "law:물류정책기본법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "289797",
+      "source_version_uid": "000092:289797:20270923",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20270923",
+      "enforcement_date": "20270923"
     }
   ],
   "appendices": [],
@@ -4041,9 +4086,10 @@
   "addendum_provision_id": "law:물류정책기본법#ADDENDUM",
   "amendment_provision_id": "law:물류정책기본법#AMENDMENT",
   "future_enforcement_dates": [
-    "20270323"
+    "20270323",
+    "20270923"
   ],
   "has_future": true,
-  "version_count": 2,
+  "version_count": 3,
   "git_path": "물류정책기본법/법률/물류정책기본법.json"
 }
