@@ -378,8 +378,10 @@
   "provision_id": "law:공급망위험대응을위한필수농자재등지원에관한법률#DOC",
   "addendum_provision_id": "law:공급망위험대응을위한필수농자재등지원에관한법률#ADDENDUM",
   "amendment_provision_id": "law:공급망위험대응을위한필수농자재등지원에관한법률#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261217"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "공급망 위험 대응을 위한 필수농자재등 지원에 관한 법률/법률/공급망 위험 대응을 위한 필수농자재등 지원에 관한 법률.json"
 }
