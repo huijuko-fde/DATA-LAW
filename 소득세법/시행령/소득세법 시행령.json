@@ -8636,9 +8636,9 @@
             "type": "image",
             "url": "http://www.law.go.kr/flDownload.do?flSeq=56772989",
             "seq": "",
-            "filename": "제158조_1.gif",
+            "filename": "제158조_1.bmp",
             "file_dir": "본문이미지",
-            "local_path": "본문이미지/제158조_1.gif",
+            "local_path": "본문이미지/제158조_1.bmp",
             "file_store_url": ""
           }
         ],
@@ -18763,9 +18763,10 @@
   "amendment_provision_id": "law:소득세법시행령#AMENDMENT",
   "future_enforcement_dates": [
     "20260701",
-    "20270101"
+    "20270101",
+    "20280101"
   ],
   "has_future": true,
-  "version_count": 11,
+  "version_count": 12,
   "git_path": "소득세법/시행령/소득세법 시행령.json"
 }
