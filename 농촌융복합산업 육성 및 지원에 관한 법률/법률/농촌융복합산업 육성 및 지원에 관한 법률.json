@@ -1231,7 +1231,14 @@
         "changed": "N",
         "article_key": "0025001",
         "images": [],
-        "provision_id": "law:농촌융복합산업육성및지원에관한법률#JO0025"
+        "provision_id": "law:농촌융복합산업육성및지원에관한법률#JO0025",
+        "scheduled": [
+          {
+            "enforcement_date": "20270108",
+            "change": "개정",
+            "content": "제25조(금융지원 등)\n① 농림축산식품부장관은 농촌융복합산업 사업자에 대하여 필요한 자금을 융자ㆍ투자하거나 그 밖에 필요한 지원을 할 수 있다.\n② 농림축산식품부장관 또는 지방자치단체의 장은 주요 원자재의 공급망 위험, 국제 에너지 가격의 급격한 상승 등에 따라 경영상 부담이 급증한 농촌융복합산업 사업자에 대하여 예산의 범위에서 필요한 지원을 할 수 있다. <신설 2026.7.7>\n③ 농림축산식품부장관은 농촌융복합산업의 사업 활성화에 필요한 자금의 원활한 조달을 위하여 「농림수산업자 신용보증법」 제4조에 따른 농림수산업자 신용보증기금, 「농림수산식품투자조합 결성 및 운용에 관한 법률」 제7조에 따라 설립한 농식품투자모태조합으로 하여금 농촌융복합산업 사업자를 대상으로 하는 보증 또는 투자제도를 수립ㆍ운용하도록 할 수 있다. <개정 2026.7.7>"
+          }
+        ]
       },
       {
         "article_no": "제26조",
@@ -2061,6 +2068,19 @@
       "source_version_uid": "012069:259081:20240724",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20240724"
+    },
+    {
+      "promulgation_date": "20260707",
+      "promulgation_no": "21838",
+      "addendum_key": "2026070721838",
+      "content": "부칙 <제21838호,2026.7.7>\n이 법은 공포 후 6개월이 경과한 날부터 시행한다.",
+      "provision_id": "law:농촌융복합산업육성및지원에관한법률#ADDENDUM",
+      "is_future": true,
+      "source_mst": "287971",
+      "source_version_uid": "012069:287971:20270108",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20270108",
+      "enforcement_date": "20270108"
     }
   ],
   "appendices": [],
@@ -2652,8 +2672,10 @@
   "provision_id": "law:농촌융복합산업육성및지원에관한법률#DOC",
   "addendum_provision_id": "law:농촌융복합산업육성및지원에관한법률#ADDENDUM",
   "amendment_provision_id": "law:농촌융복합산업육성및지원에관한법률#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20270108"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "농촌융복합산업 육성 및 지원에 관한 법률/법률/농촌융복합산업 육성 및 지원에 관한 법률.json"
 }
