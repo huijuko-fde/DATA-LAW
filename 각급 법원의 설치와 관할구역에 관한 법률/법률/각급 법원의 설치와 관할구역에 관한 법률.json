@@ -736,6 +736,19 @@
       "version_enforcement_date": "20260317"
     },
     {
+      "promulgation_date": "20241016",
+      "promulgation_no": "20464",
+      "addendum_key": "2024101620464",
+      "content": "부칙 <제20464호,2024.10.16>\n제1조(시행일) 이 법은 2031년 3월 1일부터 시행한다.\n제2조(사건관할에 관한 경과조치) ① 2031년 2월 28일 현재 대전지방법원 세종특별자치시법원에 계속 중인 사건은 이 법 시행일부터 세종지방법원에 계속 중인 것으로 본다.\n② 이 법 시행으로 2031년 3월 1일부터 세종지방법원의 관할에 속할 사건으로 2031년 2월 28일 현재 대전지방법원 본원 및 대전가정법원 본원에 계속 중인 사건은 그 계속 중인 법원의 관할로 한다.",
+      "provision_id": "law:각급법원의설치와관할구역에관한법률#ADDENDUM",
+      "is_future": true,
+      "source_mst": "265785",
+      "source_version_uid": "001709:265785:20310301",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20310301",
+      "enforcement_date": "20310301"
+    },
+    {
       "promulgation_date": "20241220",
       "promulgation_no": "20605",
       "addendum_key": "2024122020605",
@@ -1242,9 +1255,10 @@
   "amendment_provision_id": "law:각급법원의설치와관할구역에관한법률#AMENDMENT",
   "future_enforcement_dates": [
     "20280301",
-    "20290301"
+    "20290301",
+    "20310301"
   ],
   "has_future": true,
-  "version_count": 6,
+  "version_count": 7,
   "git_path": "각급 법원의 설치와 관할구역에 관한 법률/법률/각급 법원의 설치와 관할구역에 관한 법률.json"
 }
