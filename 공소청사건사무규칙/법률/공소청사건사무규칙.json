@@ -355,7 +355,14 @@
         "changed": "N",
         "article_key": "0018001",
         "images": [],
-        "provision_id": "law:공소청사건사무규칙#JO0018"
+        "provision_id": "law:공소청사건사무규칙#JO0018",
+        "scheduled": [
+          {
+            "enforcement_date": "20270205",
+            "change": "삭제",
+            "content": ""
+          }
+        ]
       },
       {
         "article_no": "제19조",
@@ -369,7 +376,14 @@
         "changed": "N",
         "article_key": "0019001",
         "images": [],
-        "provision_id": "law:공소청사건사무규칙#JO0019"
+        "provision_id": "law:공소청사건사무규칙#JO0019",
+        "scheduled": [
+          {
+            "enforcement_date": "20270205",
+            "change": "삭제",
+            "content": ""
+          }
+        ]
       },
       {
         "article_no": "제20조",
@@ -383,7 +397,14 @@
         "changed": "N",
         "article_key": "0020001",
         "images": [],
-        "provision_id": "law:공소청사건사무규칙#JO0020"
+        "provision_id": "law:공소청사건사무규칙#JO0020",
+        "scheduled": [
+          {
+            "enforcement_date": "20270205",
+            "change": "삭제",
+            "content": ""
+          }
+        ]
       },
       {
         "article_no": "제21조",
@@ -22117,8 +22138,10 @@
   "provision_id": "law:공소청사건사무규칙#DOC",
   "addendum_provision_id": "law:공소청사건사무규칙#ADDENDUM",
   "amendment_provision_id": "law:공소청사건사무규칙#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20270205"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "공소청사건사무규칙/법률/공소청사건사무규칙.json"
 }
