@@ -791,7 +791,14 @@
         "changed": "N",
         "article_key": "0019001",
         "images": [],
-        "provision_id": "law:시설물의안전및유지관리에관한특별법시행령#JO0019"
+        "provision_id": "law:시설물의안전및유지관리에관한특별법시행령#JO0019",
+        "scheduled": [
+          {
+            "enforcement_date": "20261204",
+            "change": "개정",
+            "content": "제19조(중대한결함등에 대한 보수ㆍ보강조치의 이행) 관리주체는 법 제24조제1항에 따라 같은 항 제1호부터 제3호까지에 따른 조치명령, 지정 또는 통보를 받은 날부터 1년 이내에 시설물의 보수ㆍ보강 등 필요한 조치에 착수해야 하며, 특별한 사유가 없으면 착수한 날부터 2년 이내에 이를 완료해야 한다. 다만, 시설물의 중대한결함등이 광범위하게 발생하거나 철거 후 재시공이 필요한 경우 등 기한 내에 필요한 조치를 완료하기 어렵다고 인정되는 경우에는 국토교통부장관과 협의하여 완료 기한을 연장할 수 있다. <개정 2025.12.2>"
+          }
+        ]
       },
       {
         "article_no": "제20조",
@@ -2546,8 +2553,10 @@
   "provision_id": "law:시설물의안전및유지관리에관한특별법시행령#DOC",
   "addendum_provision_id": "law:시설물의안전및유지관리에관한특별법시행령#ADDENDUM",
   "amendment_provision_id": "law:시설물의안전및유지관리에관한특별법시행령#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261204"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "시설물의 안전 및 유지관리에 관한 특별법/시행령/시설물의 안전 및 유지관리에 관한 특별법 시행령.json"
 }
