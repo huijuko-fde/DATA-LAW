@@ -67,7 +67,7 @@
   "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n국민들의 의료비 부담을 줄이고 과도한 외래진료로 의료자원이 낭비되는 것을 막기 위하여 의료적으로 꼭 필요하지 않음에도 남용될 수 있는 비급여 치료를 예비적인 요양급여인 선별급여로 전환할 수 있는 근거를 마련하는 한편,\n종전에는 선별급여의 적합성평가는 5년마다 실시하되 신속한 평가가 필요하다고 인정하는 경우에만 평가주기를 달리 정할 수 있도록 하던 것을, 앞으로는 선별급여 적용의 효과 등이 나타나는 기간을 고려하여 보건복지부장관이 평가주기를 단축하거나 연장할 수 있도록 하려는 것임.\n<법제처 제공>",
   "body": {
     "format": "articles",
-    "article_count": 129,
+    "article_count": 130,
     "articles": [
       {
         "article_no": "제1조",
@@ -542,6 +542,30 @@
         "moved": "000000",
         "images": [],
         "provision_id": "law:국민건강보험법시행령#JO0018_04"
+      },
+      {
+        "article_no": "제18조의5",
+        "article_title": "요양급여내역 확인시스템 업무의 위탁",
+        "chapter": "제4장 보험급여",
+        "chapter_path": "제4장 보험급여",
+        "content": "제18조의5(요양급여내역 확인시스템 업무의 위탁) 보건복지부장관은 법 제41조의6제2항 전단에 따라 같은 조 제1항에 따른 요양급여내역 확인시스템의 구축ㆍ운영에 관한 업무를 심사평가원에 위탁한다.",
+        "enforcement_date": "20261224",
+        "relations": [],
+        "note": "[본조신설 2026.9.15]",
+        "revision_type": "일부개정",
+        "changed": "Y",
+        "article_key": "0018051",
+        "moved": "000000",
+        "images": [],
+        "provision_id": "law:국민건강보험법시행령#JO0018_05",
+        "future_only": true,
+        "scheduled": [
+          {
+            "enforcement_date": "20261224",
+            "change": "신설",
+            "content": "제18조의5(요양급여내역 확인시스템 업무의 위탁) 보건복지부장관은 법 제41조의6제2항 전단에 따라 같은 조 제1항에 따른 요양급여내역 확인시스템의 구축ㆍ운영에 관한 업무를 심사평가원에 위탁한다."
+          }
+        ]
       },
       {
         "article_no": "제19조",
@@ -5389,9 +5413,10 @@
   "addendum_provision_id": "law:국민건강보험법시행령#ADDENDUM",
   "amendment_provision_id": "law:국민건강보험법시행령#AMENDMENT",
   "future_enforcement_dates": [
-    "20261001"
+    "20261001",
+    "20261224"
   ],
   "has_future": true,
-  "version_count": 2,
+  "version_count": 3,
   "git_path": "국민건강보험법/시행령/국민건강보험법 시행령.json"
 }
