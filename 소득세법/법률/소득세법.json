@@ -3860,9 +3860,9 @@
             "type": "image",
             "url": "http://www.law.go.kr/flDownload.do?flSeq=92069563",
             "seq": "",
-            "filename": "제35조_1.gif",
+            "filename": "제35조_1.bmp",
             "file_dir": "본문이미지",
-            "local_path": "본문이미지/제35조_1.gif",
+            "local_path": "본문이미지/제35조_1.bmp",
             "file_store_url": ""
           },
           {
@@ -5557,9 +5557,9 @@
             "type": "image",
             "url": "http://www.law.go.kr/flDownload.do?flSeq=92069607",
             "seq": "",
-            "filename": "제57조_1.gif",
+            "filename": "제57조_1.bmp",
             "file_dir": "본문이미지",
-            "local_path": "본문이미지/제57조_1.gif",
+            "local_path": "본문이미지/제57조_1.bmp",
             "file_store_url": ""
           }
         ],
@@ -9962,9 +9962,9 @@
             "type": "image",
             "url": "http://www.law.go.kr/flDownload.do?flSeq=39763405",
             "seq": "",
-            "filename": "제95조_1.gif",
+            "filename": "제95조_1.bmp",
             "file_dir": "본문이미지",
-            "local_path": "본문이미지/제95조_1.gif",
+            "local_path": "본문이미지/제95조_1.bmp",
             "file_store_url": ""
           },
           {
@@ -11917,9 +11917,9 @@
             "type": "image",
             "url": "http://www.law.go.kr/flDownload.do?flSeq=92071303",
             "seq": "",
-            "filename": "제107조_3.gif",
+            "filename": "제107조_3.bmp",
             "file_dir": "본문이미지",
-            "local_path": "본문이미지/제107조_3.gif",
+            "local_path": "본문이미지/제107조_3.bmp",
             "file_store_url": ""
           },
           {
@@ -18520,6 +18520,11 @@
             "enforcement_date": "20270101",
             "change": "신설",
             "content": "제164조의4(가상자산 거래내역 등의 제출) 「가상자산 이용자 보호 등에 관한 법률」에 따른 가상자산사업자는 가상자산 거래내역 등 소득세 부과에 필요한 자료를 대통령령으로 정하는 바에 따라 거래가 발생한 날이 속하는 분기 또는 연도의 종료일의 다음다음 달 말일까지 납세지 관할 세무서장, 지방국세청장 또는 국세청장에게 제출하여야 한다. <개정 2024.12.31>"
+          },
+          {
+            "enforcement_date": "20280101",
+            "change": "개정",
+            "content": "제164조의4(가상자산 거래내역 등의 제출)\n① 「가상자산 이용자 보호 등에 관한 법률」에 따른 가상자산사업자는 가상자산 거래내역 등 소득세 부과에 필요한 자료를 대통령령으로 정하는 바에 따라 거래가 발생한 날이 속하는 분기 또는 연도의 종료일의 다음다음 달 말일까지 납세지 관할 세무서장, 지방국세청장 또는 국세청장에게 제출하여야 한다. <개정 2024.12.31>\n② 국세청장은 제1항에 따른 가상자산사업자가 가상자산 거래내역 등 소득세 부과에 필요한 자료를 제출하지 아니한 경우에는 그 시정에 필요한 명령을 할 수 있다. <신설 2024.12.31>"
           }
         ]
       },
@@ -19268,7 +19273,14 @@
         "changed": "N",
         "article_key": "0177001",
         "images": [],
-        "provision_id": "law:소득세법#JO0177"
+        "provision_id": "law:소득세법#JO0177",
+        "scheduled": [
+          {
+            "enforcement_date": "20280101",
+            "change": "개정",
+            "content": "제177조(명령사항 위반에 대한 과태료) 관할 세무서장은 다음 각 호의 어느 하나에 해당하는 명령사항을 위반한 사업자(제3호 및 제4호의 경우에는 법인을 포함한다)에게 2천만원 이하의 과태료를 부과ㆍ징수한다. <개정 2021.8.10, 2021.12.8, 2024.12.31>\n1. 제162조의2제5항에 따른 신용카드가맹점에 대한 명령\n2. 제162조의3제8항에 따른 현금영수증가맹점에 대한 명령\n3. 제173조제2항에 따른 과세자료를 제출하여야 할 자에 대한 명령\n4. 제164조의4제2항에 따른 가상자산사업자에 대한 명령"
+          }
+        ]
       }
     ]
   },
@@ -20713,9 +20725,10 @@
   "amendment_provision_id": "law:소득세법#AMENDMENT",
   "future_enforcement_dates": [
     "20270101",
-    "20270909"
+    "20270909",
+    "20280101"
   ],
   "has_future": true,
-  "version_count": 8,
+  "version_count": 9,
   "git_path": "소득세법/법률/소득세법.json"
 }
