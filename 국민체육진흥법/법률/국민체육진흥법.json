@@ -2549,7 +2549,14 @@
         "changed": "N",
         "article_key": "0021001",
         "images": [],
-        "provision_id": "law:국민체육진흥법#JO0021"
+        "provision_id": "law:국민체육진흥법#JO0021",
+        "scheduled": [
+          {
+            "enforcement_date": "20261203",
+            "change": "개정",
+            "content": "제21조(올림픽 휘장 사업)\n①올림픽을 상징하는 오륜(五輪)과 오륜을 포함하고 있는 모든 표지ㆍ도안ㆍ표어 또는 이와 비슷한 것을 영리를 목적으로 사용하려는 자는 대한체육회의 승인을 받아야 한다. <개정 2026.6.2>\n②대한체육회는 제1항의 승인에 관한 권한을 서울올림픽기념국민체육진흥공단으로 하여금 대행하게 할 수 있다. <개정 2026.6.2>\n③제1항에 따른 사용 승인을 받은 자는 대통령령으로 정하는 바에 따라 그 사용료를 내야 한다.\n④ 대한체육회는 국제경기대회 출전 준비 등을 위하여 필요한 경우, 제1항에 따른 사용 승인을 받은 자가 공급하는 지식재산권(상표권, 휘장 사용에 관한 권리 등을 말한다)을 활용한 물품, 용역 등을 문화체육관광부장관과 협의하여 수의계약으로 구매할 수 있다. 이 경우 수의계약의 조건과 범위, 기준 등은 대통령령으로 정한다. <신설 2026.6.2>"
+          }
+        ]
       },
       {
         "article_no": "제22조",
@@ -7799,8 +7806,10 @@
   "provision_id": "law:국민체육진흥법#DOC",
   "addendum_provision_id": "law:국민체육진흥법#ADDENDUM",
   "amendment_provision_id": "law:국민체육진흥법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261203"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "국민체육진흥법/법률/국민체육진흥법.json"
 }
