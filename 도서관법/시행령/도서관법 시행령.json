@@ -1527,8 +1527,10 @@
   "provision_id": "law:도서관법시행령#DOC",
   "addendum_provision_id": "law:도서관법시행령#ADDENDUM",
   "amendment_provision_id": "law:도서관법시행령#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20270513"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "도서관법/시행령/도서관법 시행령.json"
 }
