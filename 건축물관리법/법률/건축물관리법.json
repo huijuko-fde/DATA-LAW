@@ -1314,7 +1314,14 @@
         "changed": "N",
         "article_key": "0029021",
         "images": [],
-        "provision_id": "law:건축물관리법#JO0029_02"
+        "provision_id": "law:건축물관리법#JO0029_02",
+        "scheduled": [
+          {
+            "enforcement_date": "20270212",
+            "change": "개정",
+            "content": "제29조의2(화재안전성능보강에 대한 지원)\n① 국가 또는 지방자치단체는 관리자가 건축물의 화재안전성능보강을 하기 위하여 필요한 기술을 지원하거나 정보를 제공할 수 있다. <개정 2026.8.11>\n② 국가 및 지방자치단체는 보강대상 건축물의 화재안전성능보강에 소요되는 공사비용에 대하여 대통령령으로 정하는 바에 따라 보조하여야 한다.\n③ 국가 또는 지방자치단체는 「건축법」 제2조제2항제2호에 따른 공동주택 중 용도, 마감재료 등 대통령령으로 정하는 요건에 해당하는 공동주택에 대하여 화재안전성능보강에 필요한 시설 또는 설비를 설치하는 경우 소요되는 비용을 보조할 수 있다. <신설 2026.8.11>"
+          }
+        ]
       },
       {
         "article_no": "제30조",
@@ -3078,6 +3085,19 @@
       "source_version_uid": "013478:266691:20250604",
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20250604"
+    },
+    {
+      "promulgation_date": "20260811",
+      "promulgation_no": "21879",
+      "addendum_key": "2026081121879",
+      "content": "부칙 <제21879호,2026.8.11>\n이 법은 공포 후 6개월이 경과한 날부터 시행한다.",
+      "provision_id": "law:건축물관리법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "288699",
+      "source_version_uid": "013478:288699:20270212",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20270212",
+      "enforcement_date": "20270212"
     }
   ],
   "appendices": [],
@@ -5315,8 +5335,10 @@
   "provision_id": "law:건축물관리법#DOC",
   "addendum_provision_id": "law:건축물관리법#ADDENDUM",
   "amendment_provision_id": "law:건축물관리법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20270212"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "건축물관리법/법률/건축물관리법.json"
 }
