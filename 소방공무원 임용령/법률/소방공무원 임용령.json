@@ -1190,7 +1190,14 @@
         "changed": "N",
         "article_key": "0042001",
         "images": [],
-        "provision_id": "law:소방공무원임용령#JO0042"
+        "provision_id": "law:소방공무원임용령#JO0042",
+        "scheduled": [
+          {
+            "enforcement_date": "20270901",
+            "change": "개정",
+            "content": "제42조(채용시험의 가점) 소방사 공개경쟁채용시험이나 소방간부후보생 선발시험에 행정안전부령으로 정하는 면허증 소지자가 응시하는 경우에는 해당 응시자가 취득한 점수(시험단계별 득점을 각각 100점으로 환산한 후 제46조제5항제1호 각 목에 따른 비율을 적용하여 합산한 점수를 말한다)에 만점의 1퍼센트 범위에서 행정안전부령으로 정하는 가점비율에 따른 점수를 가산한다."
+          }
+        ]
       },
       {
         "article_no": "제42조의2",
@@ -2981,8 +2988,10 @@
   "provision_id": "law:소방공무원임용령#DOC",
   "addendum_provision_id": "law:소방공무원임용령#ADDENDUM",
   "amendment_provision_id": "law:소방공무원임용령#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20270901"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "소방공무원 임용령/법률/소방공무원 임용령.json"
 }
