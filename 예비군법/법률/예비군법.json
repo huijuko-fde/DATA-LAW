@@ -307,7 +307,14 @@
         "changed": "N",
         "article_key": "0003031",
         "images": [],
-        "provision_id": "law:예비군법#JO0003_03"
+        "provision_id": "law:예비군법#JO0003_03",
+        "scheduled": [
+          {
+            "enforcement_date": "20261210",
+            "change": "개정",
+            "content": "제3조의3(상비예비군 제도)\n① 국방부장관은 평시에 일정기간 소집할 수 있는 예비군(이하 \"상비예비군\"이라 한다) 제도를 시행할 수 있다. <개정 2026.6.9>\n② 국방부장관은 예비역인 장교, 준사관, 부사관 및 병에 해당하는 사람 중에서 지원을 받아 상비예비군을 선발한다. <개정 2026.6.9>\n③ 그 밖에 상비예비군의 정원, 소집 분야, 소집 기간, 선발, 소집 중단, 보상 등은 대통령령으로 정한다. <개정 2026.6.9>"
+          }
+        ]
       },
       {
         "article_no": "제4조",
@@ -872,7 +879,14 @@
         "article_key": "0010031",
         "moved": "000000",
         "images": [],
-        "provision_id": "law:예비군법#JO0010_03"
+        "provision_id": "law:예비군법#JO0010_03",
+        "scheduled": [
+          {
+            "enforcement_date": "20261210",
+            "change": "개정",
+            "content": "제10조의3(상비예비군의 휴무 등 처리) 제10조와 제10조의2에도 불구하고 제3조의3에 따라 선발된 상비예비군의 훈련 소집기간 중 연간 30일을 초과한 기간에 대하여는 제10조와 제10조의2를 적용하지 아니할 수 있다. <개정 2026.6.9>"
+          }
+        ]
       },
       {
         "article_no": "제10조의4",
@@ -1792,6 +1806,19 @@
       "source_version_uid": "001619:283687:20260828",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20260828"
+    },
+    {
+      "promulgation_date": "20260609",
+      "promulgation_no": "21770",
+      "addendum_key": "2026060921770",
+      "content": "부칙 <제21770호,2026.6.9>\n제1조(시행일) 이 법은 공포 후 6개월이 경과한 날부터 시행한다.\n제2조(비상근 예비군의 명칭 변경에 따른 경과조치) 이 법 시행 당시 종전의 규정에 따라 선발된 비상근 예비군은 제3조의3의 개정규정에 따라 선발된 상비예비군으로 본다.\n제3조(다른 법률의 개정) 병역법 일부를 다음과 같이 개정한다.\n제49조제1항 단서 중 \"비상근 예비군\"을 \"상비예비군\"으로 한다.\n제50조제1항 단서 중 \"비상근 예비군\"을 \"상비예비군\"으로 한다.\n법률 제21387호 병역법 일부개정법률 제74조의5의 제목 및 같은 조 중 \"비상근 예비군\"을 각각 \"상비예비군\"으로 하고, 부칙 제3조의 제목 및 같은 조 중 \"비상근 예비군\"을 각각 \"상비예비군\"으로 한다.",
+      "provision_id": "law:예비군법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "286865",
+      "source_version_uid": "001619:286865:20261210",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261210",
+      "enforcement_date": "20261210"
     }
   ],
   "appendices": [],
@@ -1824,8 +1851,10 @@
   "provision_id": "law:예비군법#DOC",
   "addendum_provision_id": "law:예비군법#ADDENDUM",
   "amendment_provision_id": "law:예비군법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261210"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "예비군법/법률/예비군법.json"
 }
