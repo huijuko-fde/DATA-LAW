@@ -1484,7 +1484,14 @@
         "article_key": "0032001",
         "moved": "000000",
         "images": [],
-        "provision_id": "law:석면피해구제법#JO0032"
+        "provision_id": "law:석면피해구제법#JO0032",
+        "scheduled": [
+          {
+            "enforcement_date": "20270101",
+            "change": "개정",
+            "content": "제32조(분담금의 산정 등)\n① 제31조제1항에 따른 분담금은 같은 항 제1호의 경우에는 보험료징수법 제13조제5항에 따른 보험료 산정의 기초가 되는 보수 또는 같은 조 제6항에 따른 보험료 산정의 기초가 되는 보수총액에 석면피해구제분담금률(이하 \"분담금률\"이라 한다)을 곱한 금액으로 한다. <개정 2026.3.17>\n② 분담금률은 다음 각 호의 사항을 고려하여 기후에너지환경부장관이 매년 고시한다. <개정 2025.10.1>\n1. 제24조제3항에 따른 정부의 출연금액\n2. 예상되는 구제급여의 지급액\n3. 전년도까지 적립된 분담금의 총액\n4. 그 밖에 석면노출로 인한 피해의 예방 및 구제에 필요한 비용\n③ 도급사업의 일괄적용에 관한 보험료징수법 제9조는 분담금의 징수에 관하여 준용한다. 이 경우 같은 법 제9조제1항 단서 중 \"공단\"은 \"기후에너지환경부장관\"으로 본다. <개정 2025.10.1>"
+          }
+        ]
       },
       {
         "article_no": "제33조",
@@ -2555,6 +2562,19 @@
       "source_version_uid": "011168:276751:20251001",
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20251001"
+    },
+    {
+      "promulgation_date": "20260317",
+      "promulgation_no": "21472",
+      "addendum_key": "2026031721472",
+      "content": "부칙(고용보험 및 산업재해보상보험의 보험료징수 등에 관한 법률) <제21472호,2026.3.17>\n제1조(시행일) 이 법은 2027년 1월 1일부터 시행한다.\n제2조 부터 제8조까지 생략\n제9조(다른 법률의 개정) ① 생략\n② 석면피해구제법 일부를 다음과 같이 개정한다.\n제32조제1항 중 \"제13조제5항 및 제6항에 따른 보험료 산정의 기초가 되는 보수총액(보험료징수법 제16조의2제1항의 적용을 받는 사업주인 경우 해당 근로자 전체의 개인별 월평균보수의 전체 합계액을 말한다)\"을 \"제13조제5항에 따른 보험료 산정의 기초가 되는 보수 또는 같은 조 제6항에 따른 보험료 산정의 기초가 되는 보수총액\"으로 한다.\n③ 생략",
+      "provision_id": "law:석면피해구제법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "284445",
+      "source_version_uid": "011168:284445:20270101",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20270101",
+      "enforcement_date": "20270101"
     }
   ],
   "appendices": [],
@@ -2588,8 +2608,10 @@
   "provision_id": "law:석면피해구제법#DOC",
   "addendum_provision_id": "law:석면피해구제법#ADDENDUM",
   "amendment_provision_id": "law:석면피해구제법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20270101"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "석면피해구제법/법률/석면피해구제법.json"
 }
