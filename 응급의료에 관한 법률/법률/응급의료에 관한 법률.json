@@ -2204,7 +2204,14 @@
         "changed": "N",
         "article_key": "0034021",
         "images": [],
-        "provision_id": "law:응급의료에관한법률#JO0034_02"
+        "provision_id": "law:응급의료에관한법률#JO0034_02",
+        "scheduled": [
+          {
+            "enforcement_date": "20261210",
+            "change": "개정",
+            "content": "제34조의2(야간ㆍ휴일 소아 진료기관의 지정)\n① 보건복지부장관, 시ㆍ도지사 또는 시장ㆍ군수ㆍ구청장은 응급실 과밀화 해소 및 소아환자에 대한 의료 공백 방지를 위하여 「의료법」 제3조에 따른 의료기관 중에서 야간 또는 휴일에 소아환자를 진료하는 야간ㆍ휴일 소아 진료기관을 지정할 수 있다. <개정 2026.6.9>\n② 보건복지부장관, 시ㆍ도지사 또는 시장ㆍ군수ㆍ구청장은 야간ㆍ휴일 소아 진료기관에 대한 행정적ㆍ재정적 지원을 할 수 있다.\n③ 야간ㆍ휴일 소아 진료기관의 지정 기준ㆍ방법ㆍ절차 및 업무 등에 관하여 필요한 사항은 보건복지부령으로 정한다."
+          }
+        ]
       },
       {
         "article_no": "제35조",
@@ -5250,6 +5257,19 @@
       "source_version_uid": "000218:280429:20260624",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20260624"
+    },
+    {
+      "promulgation_date": "20260609",
+      "promulgation_no": "21774",
+      "addendum_key": "2026060921774",
+      "content": "부칙 <제21774호,2026.6.9>\n이 법은 공포 후 6개월이 경과한 날부터 시행한다.",
+      "provision_id": "law:응급의료에관한법률#ADDENDUM",
+      "is_future": true,
+      "source_mst": "286763",
+      "source_version_uid": "000218:286763:20261210",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261210",
+      "enforcement_date": "20261210"
     }
   ],
   "appendices": [],
@@ -5380,8 +5400,10 @@
   "provision_id": "law:응급의료에관한법률#DOC",
   "addendum_provision_id": "law:응급의료에관한법률#ADDENDUM",
   "amendment_provision_id": "law:응급의료에관한법률#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261210"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "응급의료에 관한 법률/법률/응급의료에 관한 법률.json"
 }
