@@ -61,7 +61,7 @@
   "revision_reason": "[일괄개정]\n◇ 제정이유 및 주요내용\n공중위생영업자 등에 대한 영업시간 및 영업행위의 제한 권한, 감염병의심자를 격리하기 위한 시설의 지정 권한 등을 시장ㆍ군수ㆍ구청장에게도 부여하는 등 중앙행정권한 및 사무 등의 지방 일괄이양을 위해 「공중위생관리법」 등 4개 법률을 개정함.\n<법제처 제공>",
   "body": {
     "format": "articles",
-    "article_count": 38,
+    "article_count": 39,
     "articles": [
       {
         "article_no": "제1조",
@@ -1403,6 +1403,30 @@
         "provision_id": "law:공중위생관리법#JO0017"
       },
       {
+        "article_no": "제17조의2",
+        "article_title": "직무교육",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제17조의2(직무교육)\n① 보건복지부장관은 이용사 및 미용사의 수준과 자질의 향상을 위하여 직무교육을 실시하여야 한다.\n② 보건복지부장관은 제1항에 따른 직무교육을 보건복지부장관이 허가한 단체 또는 제16조에 따른 단체에 위탁하여 실시할 수 있다.\n③ 제1항 및 제2항에 따른 직무교육의 방법ㆍ절차 등에 필요한 사항은 보건복지부령으로 정한다.",
+        "enforcement_date": "20270812",
+        "relations": [],
+        "note": "[본조신설 2026.8.11]",
+        "revision_type": "일부개정",
+        "changed": "Y",
+        "article_key": "0017021",
+        "moved": "000000",
+        "images": [],
+        "provision_id": "law:공중위생관리법#JO0017_02",
+        "future_only": true,
+        "scheduled": [
+          {
+            "enforcement_date": "20270812",
+            "change": "신설",
+            "content": "제17조의2(직무교육)\n① 보건복지부장관은 이용사 및 미용사의 수준과 자질의 향상을 위하여 직무교육을 실시하여야 한다.\n② 보건복지부장관은 제1항에 따른 직무교육을 보건복지부장관이 허가한 단체 또는 제16조에 따른 단체에 위탁하여 실시할 수 있다.\n③ 제1항 및 제2항에 따른 직무교육의 방법ㆍ절차 등에 필요한 사항은 보건복지부령으로 정한다."
+          }
+        ]
+      },
+      {
         "article_no": "제18조",
         "article_title": "위임 및 위탁",
         "chapter": "",
@@ -2015,6 +2039,19 @@
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20261112",
       "enforcement_date": "20261112"
+    },
+    {
+      "promulgation_date": "20260811",
+      "promulgation_no": "21877",
+      "addendum_key": "2026081121877",
+      "content": "부칙 <제21877호,2026.8.11>\n이 법은 공포 후 1년이 경과한 날부터 시행한다.",
+      "provision_id": "law:공중위생관리법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "288707",
+      "source_version_uid": "001964:288707:20270812",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20270812",
+      "enforcement_date": "20270812"
     }
   ],
   "appendices": [],
@@ -2049,9 +2086,10 @@
   "addendum_provision_id": "law:공중위생관리법#ADDENDUM",
   "amendment_provision_id": "law:공중위생관리법#AMENDMENT",
   "future_enforcement_dates": [
-    "20261112"
+    "20261112",
+    "20270812"
   ],
   "has_future": true,
-  "version_count": 2,
+  "version_count": 3,
   "git_path": "공중위생관리법/법률/공중위생관리법.json"
 }
