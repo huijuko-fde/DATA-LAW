@@ -446,7 +446,7 @@
         "article_title": "사건의 송치",
         "chapter": "제5장 사법경찰관의 직무",
         "chapter_path": "제5장 사법경찰관의 직무",
-        "content": "제27조(사건의 송치) 중앙노동감독관은 수사를 종결한 때에는 관할 지방검찰청 검사장 또는 지청장에게 사건을 송치하여야 한다.",
+        "content": "제27조(사건의 송치) 중앙노동감독관은 수사를 종결한 때에는 관할 지방공소청장 또는 지청장에게 사건을 송치하여야 한다. <개정 2026.3.24>",
         "enforcement_date": "20261208",
         "relations": [],
         "revision_type": "제정",
@@ -700,6 +700,18 @@
   },
   "addenda": [
     {
+      "promulgation_date": "20260324",
+      "promulgation_no": "21490",
+      "addendum_key": "2026032421490",
+      "content": "부칙(공소청법) <제21490호,2026.3.24>\n제1조(시행일) 이 법은 2026년 10월 2일부터 시행한다. 다만, ㆍㆍㆍ<생략>ㆍㆍㆍ 부칙 제9조제17항은 2026년 12월 8일부터 시행한다.\n제2조부터 제8조까지 생략\n제9조(다른 법률의 개정) ①부터 <16>까지 생략\n<17> 법률 제21534호 노동감독관 직무집행법 일부를 다음과 같이 개정한다.\n제27조 중 \"지방검찰청 검사장\"을 \"지방공소청장\"으로 한다.\n<18>부터 <51>까지 생략\n제10조 및 제11조 생략",
+      "provision_id": "law:노동감독관직무집행법#ADDENDUM",
+      "is_future": false,
+      "source_mst": "285371",
+      "source_version_uid": "015101:285371:20261208",
+      "source_revision_type": "제정",
+      "version_enforcement_date": "20261208"
+    },
+    {
       "promulgation_date": "20260407",
       "promulgation_no": "21534",
       "addendum_key": "2026040721534",
@@ -726,7 +738,7 @@
     "phantom_self_ref_samples": [],
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 1,
+    "addenda_count": 2,
     "appendices_count": 0,
     "pop_miss": 0,
     "pop_miss_by_reason": {},
