@@ -51,7 +51,7 @@
   "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n수급권자인 유족이 사망한 경우 다른 유족에게 미지급된 보험급여의 수급권이 상속될 수 있도록 미지급 보험급여 수급권 상속 순위에 관하여 ‘장해보상연금 또는 유족급여 수급권자인 유족의 순위’에 따르도록 하는 한편, 근로복지공단은 요양급여나 유족급여를 신청한 자 등의 요구가 있는 경우 사업장 등에 대한 조사에 요양급여나 유족급여를 신청한 자 또는 그 대리인을 참여시키도록 하고, 조사업무에 종사하거나 종사하였던 자와 조사에 참여한 자는 조사 과정에서 알게 된 정보를 다른 사람에게 제공 또는 누설하거나 목적 외의 용도로 사용할 수 없도록 하며, 이를 위반한 경우 2년 이하의 징역 또는 1천만원 이하의 벌금에 처하도록 하려는 것임.\n<법제처 제공>",
   "body": {
     "format": "articles",
-    "article_count": 161,
+    "article_count": 162,
     "articles": [
       {
         "article_no": "제1조",
@@ -6779,7 +6779,38 @@
         "changed": "N",
         "article_key": "0126021",
         "images": [],
-        "provision_id": "law:산업재해보상보험법#JO0126_02"
+        "provision_id": "law:산업재해보상보험법#JO0126_02",
+        "scheduled": [
+          {
+            "enforcement_date": "20270330",
+            "change": "개정",
+            "content": "제126조의2(사회취약계층의 보험급여 청구 등 지원)\n① 공단은 사회취약계층을 위하여 변호사나 공인노무사로 하여금 제36조제2항에 따른 보험급여의 청구, 제103조에 따른 심사 청구 및 제106조에 따른 재심사 청구(이하 \"보험급여청구등\"이라 한다)를 대리하게 할 수 있다.\n② 제1항에 따라 변호사나 공인노무사로 하여금 보험급여청구등을 대리하게 하려는 경우의 요건, 대상, 지원 범위 및 변호사ㆍ공인노무사의 보수 등에 필요한 사항은 고용노동부령으로 정한다."
+          }
+        ]
+      },
+      {
+        "article_no": "제126조의3",
+        "article_title": "벌칙 적용에서 공무원 의제",
+        "chapter": "제7장 보칙",
+        "chapter_path": "제7장 보칙",
+        "content": "제126조의3(벌칙 적용에서 공무원 의제) 재심사위원회 위원 중 공무원이 아닌 위원은 「형법」 제129조부터 제132조까지의 규정을 적용할 때에는 공무원으로 본다.",
+        "enforcement_date": "20270330",
+        "relations": [],
+        "note": "[본조신설 2018.6.12][제126조의2에서 이동 <2026.9.29>]",
+        "revision_type": "일부개정",
+        "changed": "Y",
+        "article_key": "0126031",
+        "moved": "012602",
+        "images": [],
+        "provision_id": "law:산업재해보상보험법#JO0126_03",
+        "future_only": true,
+        "scheduled": [
+          {
+            "enforcement_date": "20270330",
+            "change": "신설",
+            "content": "제126조의3(벌칙 적용에서 공무원 의제) 재심사위원회 위원 중 공무원이 아닌 위원은 「형법」 제129조부터 제132조까지의 규정을 적용할 때에는 공무원으로 본다."
+          }
+        ]
       },
       {
         "article_no": "제127조",
@@ -7279,6 +7310,19 @@
       "source_version_uid": "001760:283459:20260701",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20260701"
+    },
+    {
+      "promulgation_date": "20260929",
+      "promulgation_no": "22025",
+      "addendum_key": "2026092922025",
+      "content": "부칙 <제22025호,2026.9.29>\n이 법은 공포 후 6개월이 경과한 날부터 시행한다.",
+      "provision_id": "law:산업재해보상보험법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290149",
+      "source_version_uid": "001760:290149:20270330",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20270330",
+      "enforcement_date": "20270330"
     }
   ],
   "appendices": [
@@ -7536,8 +7580,10 @@
   "provision_id": "law:산업재해보상보험법#DOC",
   "addendum_provision_id": "law:산업재해보상보험법#ADDENDUM",
   "amendment_provision_id": "law:산업재해보상보험법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20270330"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "산업재해보상보험법/법률/산업재해보상보험법.json"
 }
