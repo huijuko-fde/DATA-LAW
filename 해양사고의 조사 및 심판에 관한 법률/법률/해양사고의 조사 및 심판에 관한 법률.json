@@ -651,7 +651,14 @@
         "changed": "N",
         "article_key": "0014001",
         "images": [],
-        "provision_id": "law:해양사고의조사및심판에관한법률#JO0014"
+        "provision_id": "law:해양사고의조사및심판에관한법률#JO0014",
+        "scheduled": [
+          {
+            "enforcement_date": "20261223",
+            "change": "개정",
+            "content": "제14조(비상임심판관)\n① 각급 심판원에 비상임심판관을 두되, 비상임심판관은 그 직무에 필요한 학식과 경험이 있는 사람 중에서 각급 심판원장이 위촉한다. 이 경우 지방심판원장은 중앙심판원장의 승인을 받아야 한다. <개정 2018.12.31>\n② 비상임심판관은 해양사고의 원인규명이 특히 곤란한 사건의 심판에 참여한다.\n③ 심판에 참여하는 비상임심판관의 직무와 권한은 심판관과 같다.\n④ 각급 심판원장은 비상임심판관이 다음 각 호의 어느 하나에 해당하는 경우에는 비상임심판관을 해촉할 수 있다. 이 경우 지방심판원장은 중앙심판원장의 승인을 받아야 한다. <신설 2018.12.31, 2026.9.22>\n1. 직무수행이 현저히 곤란한 신체적ㆍ정신적 질환이 있다고 인정되는 경우\n2. 비상임심판관 스스로 직무를 수행하는 것이 곤란하다고 의사를 밝히는 경우\n3. 심판과 관련된 비위(非違)사실이 있는 경우\n4. 직무태만, 품위손상이나 그 밖의 사유로 인하여 비상임심판관으로 적합하지 아니하다고 인정되는 경우\n5. 「국가공무원법」 제33조 각 호의 어느 하나에 해당되는 경우\n6. 제15조제2항 각 호의 어느 하나에 해당함에도 불구하고 같은 조 제4항에 따라 회피하지 아니한 경우\n⑤ 각급 심판원에 두는 비상임심판관의 수와 자격 등에 관하여 필요한 사항은 대통령령으로 정한다. <개정 2018.12.31>"
+          }
+        ]
       },
       {
         "article_no": "제15조",
@@ -4026,6 +4033,19 @@
       "source_version_uid": "000047:252943:20240126",
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20240126"
+    },
+    {
+      "promulgation_date": "20260922",
+      "promulgation_no": "21984",
+      "addendum_key": "2026092221984",
+      "content": "부칙 <제21984호,2026.9.22>\n이 법은 공포 후 3개월이 경과한 날부터 시행한다.",
+      "provision_id": "law:해양사고의조사및심판에관한법률#ADDENDUM",
+      "is_future": true,
+      "source_mst": "289925",
+      "source_version_uid": "000047:289925:20261223",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261223",
+      "enforcement_date": "20261223"
     }
   ],
   "appendices": [],
@@ -4058,8 +4078,10 @@
   "provision_id": "law:해양사고의조사및심판에관한법률#DOC",
   "addendum_provision_id": "law:해양사고의조사및심판에관한법률#ADDENDUM",
   "amendment_provision_id": "law:해양사고의조사및심판에관한법률#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261223"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "해양사고의 조사 및 심판에 관한 법률/법률/해양사고의 조사 및 심판에 관한 법률.json"
 }
