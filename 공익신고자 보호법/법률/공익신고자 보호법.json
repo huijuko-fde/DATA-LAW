@@ -1654,6 +1654,19 @@
       "version_enforcement_date": "20260201"
     },
     {
+      "promulgation_date": "20251028",
+      "promulgation_no": "21070",
+      "addendum_key": "2025102821070",
+      "content": "부칙(문신사법) <제21070호,2025.10.28>\n제1조(시행일) 이 법은 공포 후 2년이 경과한 날부터 시행한다.\n제2조 및 제3조 생략\n제4조(다른 법률의 개정) 공익신고자 보호법 일부를 다음과 같이 개정한다.\n별표에 제149호의2를 다음과 같이 신설한다.\n149의2. 「문신사법」",
+      "provision_id": "law:공익신고자보호법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "279293",
+      "source_version_uid": "011358:279293:20271029",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20271029",
+      "enforcement_date": "20271029"
+    },
+    {
       "promulgation_date": "20260310",
       "promulgation_no": "21432",
       "addendum_key": "2026031021432",
@@ -1884,9 +1897,10 @@
     "20270311",
     "20270401",
     "20270408",
-    "20270429"
+    "20270429",
+    "20271029"
   ],
   "has_future": true,
-  "version_count": 7,
+  "version_count": 8,
   "git_path": "공익신고자 보호법/법률/공익신고자 보호법.json"
 }
