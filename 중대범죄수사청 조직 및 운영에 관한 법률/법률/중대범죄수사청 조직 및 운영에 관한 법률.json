@@ -863,8 +863,10 @@
   "provision_id": "law:중대범죄수사청조직및운영에관한법률#DOC",
   "addendum_provision_id": "law:중대범죄수사청조직및운영에관한법률#ADDENDUM",
   "amendment_provision_id": "law:중대범죄수사청조직및운영에관한법률#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20281002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "중대범죄수사청 조직 및 운영에 관한 법률/법률/중대범죄수사청 조직 및 운영에 관한 법률.json"
 }
