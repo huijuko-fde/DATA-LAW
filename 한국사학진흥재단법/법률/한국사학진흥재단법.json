@@ -387,7 +387,14 @@
         "changed": "N",
         "article_key": "0006001",
         "images": [],
-        "provision_id": "law:한국사학진흥재단법#JO0006"
+        "provision_id": "law:한국사학진흥재단법#JO0006",
+        "scheduled": [
+          {
+            "enforcement_date": "20270108",
+            "change": "개정",
+            "content": "제6조(사업)\n① 재단은 사학기관을 지원하기 위하여 다음 각 호의 사업을 한다. <개정 2013.3.23, 2016.2.3, 2020.3.24>\n1. 기금의 조성ㆍ운용 및 관리\n2. 사학기관 경영개선을 위한 연수 및 조사ㆍ연구 사업\n2의2. 학교 경영컨설팅 및 경영상담 지원사업\n3. 관리ㆍ처분이 위탁된 사학기관의 재산 관리ㆍ처분\n3의2. 「사립학교법」 제34조제2항 또는 제47조에 따라 해산된 학교법인의 효율적 청산 절차 진행을 위한 행정적ㆍ재정적 지원 사업\n3의3. 「사립학교법」 제48조의2에 따른 해산된 학교법인 및 폐지ㆍ폐쇄된 학교의 기록물 이관 및 관리 사업\n4. 교육부장관으로부터 위탁받은 사업\n5. 다른 법률의 규정에 따라 재단이 시행할 수 있는 사업\n6. 그 밖에 사학진흥 및 경영개선을 위하여 필요한 사업\n② 재단은 기숙사 운영 및 관리 등 학생의 주거복지 증진을 위한 지원 사업을 할 수 있다. <신설 2026.7.7>\n③ 제1항의 사업 운영에 필요한 사항은 대통령령으로 정한다. <개정 2026.7.7>"
+          }
+        ]
       },
       {
         "article_no": "제7조",
@@ -1190,6 +1197,19 @@
       "source_version_uid": "000887:235545:20220325",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20220325"
+    },
+    {
+      "promulgation_date": "20260707",
+      "promulgation_no": "21828",
+      "addendum_key": "2026070721828",
+      "content": "부칙 <제21828호,2026.7.7>\n이 법은 공포 후 6개월이 경과한 날부터 시행한다.",
+      "provision_id": "law:한국사학진흥재단법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "287975",
+      "source_version_uid": "000887:287975:20270108",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20270108",
+      "enforcement_date": "20270108"
     }
   ],
   "appendices": [],
@@ -1223,8 +1243,10 @@
   "provision_id": "law:한국사학진흥재단법#DOC",
   "addendum_provision_id": "law:한국사학진흥재단법#ADDENDUM",
   "amendment_provision_id": "law:한국사학진흥재단법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20270108"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "한국사학진흥재단법/법률/한국사학진흥재단법.json"
 }
