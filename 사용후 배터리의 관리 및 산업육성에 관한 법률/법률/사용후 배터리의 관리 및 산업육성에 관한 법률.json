@@ -564,8 +564,10 @@
   "provision_id": "law:사용후배터리의관리및산업육성에관한법률#DOC",
   "addendum_provision_id": "law:사용후배터리의관리및산업육성에관한법률#ADDENDUM",
   "amendment_provision_id": "law:사용후배터리의관리및산업육성에관한법률#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20270701"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "사용후 배터리의 관리 및 산업육성에 관한 법률/법률/사용후 배터리의 관리 및 산업육성에 관한 법률.json"
 }
