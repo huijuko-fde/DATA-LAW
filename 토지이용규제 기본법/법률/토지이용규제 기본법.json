@@ -2718,6 +2718,19 @@
       "source_version_uid": "010071:283679:20260227",
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20260227"
+    },
+    {
+      "promulgation_date": "20260908",
+      "promulgation_no": "21896",
+      "addendum_key": "2026090821896",
+      "content": "부칙(공항시설법) <제21896호,2026.9.8>\n제1조(시행일) 이 법은 공포 후 3개월이 경과한 날부터 시행한다. 다만, ㆍㆍ<생략>ㆍㆍㆍ하고, 부칙 제5조에 따라 개정되는 법률 중 이 법 시행 전에 공포되었으나 시행일이 도래하지 아니한 법률을 개정한 부분은 해당 법률의 시행일부터 시행한다.\n제2조부터 제4조까지 생략\n제5조(다른 법률의 개정) ① 토지이용규제 기본법 일부를 다음과 같이 개정한다.\n별표에 연번 254를 다음과 같이 신설한다.\n[그림]\n② 생략",
+      "provision_id": "law:토지이용규제기본법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "289517",
+      "source_version_uid": "010071:289517:20261209",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261209",
+      "enforcement_date": "20261209"
     }
   ],
   "appendices": [
@@ -4184,8 +4197,10 @@
   "provision_id": "law:토지이용규제기본법#DOC",
   "addendum_provision_id": "law:토지이용규제기본법#ADDENDUM",
   "amendment_provision_id": "law:토지이용규제기본법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261209"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "토지이용규제 기본법/법률/토지이용규제 기본법.json"
 }
