@@ -605,6 +605,11 @@
             "enforcement_date": "20270101",
             "change": "삭제",
             "content": ""
+          },
+          {
+            "enforcement_date": "20270101",
+            "change": "신설",
+            "content": "제20조 삭제 <2023.12.26>"
           }
         ]
       },
@@ -1729,6 +1734,6 @@
     "20270101"
   ],
   "has_future": true,
-  "version_count": 2,
+  "version_count": 3,
   "git_path": "청소년 기본법/시행령/청소년 기본법 시행령.json"
 }
