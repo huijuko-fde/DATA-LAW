@@ -1691,6 +1691,19 @@
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20261001",
       "enforcement_date": "20261001"
+    },
+    {
+      "promulgation_date": "20260331",
+      "promulgation_no": "21512",
+      "addendum_key": "2026033121512",
+      "content": "부칙(국제항해선박의 안전하고 환경친화적인 재활용을 위한 법률) <제21512호,2026.3.31>\n제1조(시행일) 이 법은 공포 후 1년이 경과한 날부터 시행한다.\n제2조 및 제3조 생략\n제4조(다른 법률의 개정) 공익신고자 보호법 일부를 다음과 같이 개정한다.\n별표에 제74호의2를 다음과 같이 신설한다.\n74의2. 「국제항해선박의 안전하고 환경친화적인 재활용을 위한 법률」",
+      "provision_id": "law:공익신고자보호법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "285211",
+      "source_version_uid": "011358:285211:20270401",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20270401",
+      "enforcement_date": "20270401"
     }
   ],
   "appendices": [
@@ -1842,9 +1855,10 @@
   "future_enforcement_dates": [
     "20260918",
     "20261001",
-    "20270311"
+    "20270311",
+    "20270401"
   ],
   "has_future": true,
-  "version_count": 4,
+  "version_count": 5,
   "git_path": "공익신고자 보호법/법률/공익신고자 보호법.json"
 }
