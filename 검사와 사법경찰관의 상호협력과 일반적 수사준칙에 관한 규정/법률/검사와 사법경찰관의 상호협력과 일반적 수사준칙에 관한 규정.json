@@ -988,7 +988,14 @@
         "changed": "N",
         "article_key": "0048001",
         "images": [],
-        "provision_id": "law:검사와사법경찰관의상호협력과일반적수사준칙에관한규정#JO0048"
+        "provision_id": "law:검사와사법경찰관의상호협력과일반적수사준칙에관한규정#JO0048",
+        "scheduled": [
+          {
+            "enforcement_date": "20270205",
+            "change": "삭제",
+            "content": ""
+          }
+        ]
       },
       {
         "article_no": "제49조",
@@ -1002,7 +1009,14 @@
         "changed": "N",
         "article_key": "0049001",
         "images": [],
-        "provision_id": "law:검사와사법경찰관의상호협력과일반적수사준칙에관한규정#JO0049"
+        "provision_id": "law:검사와사법경찰관의상호협력과일반적수사준칙에관한규정#JO0049",
+        "scheduled": [
+          {
+            "enforcement_date": "20270205",
+            "change": "삭제",
+            "content": ""
+          }
+        ]
       },
       {
         "article_no": "제50조",
@@ -1016,7 +1030,14 @@
         "changed": "N",
         "article_key": "0050001",
         "images": [],
-        "provision_id": "law:검사와사법경찰관의상호협력과일반적수사준칙에관한규정#JO0050"
+        "provision_id": "law:검사와사법경찰관의상호협력과일반적수사준칙에관한규정#JO0050",
+        "scheduled": [
+          {
+            "enforcement_date": "20270205",
+            "change": "삭제",
+            "content": ""
+          }
+        ]
       },
       {
         "article_no": "제51조",
@@ -1544,8 +1565,10 @@
   "provision_id": "law:검사와사법경찰관의상호협력과일반적수사준칙에관한규정#DOC",
   "addendum_provision_id": "law:검사와사법경찰관의상호협력과일반적수사준칙에관한규정#ADDENDUM",
   "amendment_provision_id": "law:검사와사법경찰관의상호협력과일반적수사준칙에관한규정#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20270205"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "검사와 사법경찰관의 상호협력과 일반적 수사준칙에 관한 규정/법률/검사와 사법경찰관의 상호협력과 일반적 수사준칙에 관한 규정.json"
 }
