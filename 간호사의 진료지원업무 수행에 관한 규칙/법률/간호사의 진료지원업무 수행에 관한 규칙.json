@@ -482,8 +482,10 @@
   "provision_id": "law:간호사의진료지원업무수행에관한규칙#DOC",
   "addendum_provision_id": "law:간호사의진료지원업무수행에관한규칙#ADDENDUM",
   "amendment_provision_id": "law:간호사의진료지원업무수행에관한규칙#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20270701"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "간호사의 진료지원업무 수행에 관한 규칙/법률/간호사의 진료지원업무 수행에 관한 규칙.json"
 }
