@@ -1494,7 +1494,14 @@
         "changed": "Y",
         "article_key": "0023001",
         "images": [],
-        "provision_id": "law:디지털의료제품법#JO0023"
+        "provision_id": "law:디지털의료제품법#JO0023",
+        "scheduled": [
+          {
+            "enforcement_date": "20270316",
+            "change": "개정",
+            "content": "제23조(디지털의료기기소프트웨어의 광고)\n① 디지털의료기기소프트웨어의 광고에 관하여는 「의료기기법」 제24조제2항, 제25조, 제25조의2 및 제25조의3을 준용한다. <개정 2026.9.15>\n② 제1항에도 불구하고 제21조에 따라 식품의약품안전처장이 전문가용임을 표시하도록 한 디지털의료기기소프트웨어의 광고에 대하여는 광고의 방법, 매체 등을 대통령령으로 따로 정할 수 있다."
+          }
+        ]
       },
       {
         "article_no": "제24조",
@@ -3006,6 +3013,19 @@
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20261008",
       "enforcement_date": "20261008"
+    },
+    {
+      "promulgation_date": "20260915",
+      "promulgation_no": "21949",
+      "addendum_key": "2026091521949",
+      "content": "부칙(의료기기법) <제21949호,2026.9.15>\n제1조(시행일) 이 법은 공포 후 6개월이 경과한 날부터 시행한다. <단서 생략>\n제2조(다른 법률의 개정) 디지털의료제품법 일부를 다음과 같이 개정한다.\n제23조제1항 중 \"제25조의2부터 제25조의4까지를\"을 \"제25조의2 및 제25조의3을\"로 한다.",
+      "provision_id": "law:디지털의료제품법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "289783",
+      "source_version_uid": "014601:289783:20270316",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20270316",
+      "enforcement_date": "20270316"
     }
   ],
   "appendices": [],
@@ -3040,9 +3060,10 @@
   "addendum_provision_id": "law:디지털의료제품법#ADDENDUM",
   "amendment_provision_id": "law:디지털의료제품법#AMENDMENT",
   "future_enforcement_dates": [
-    "20261008"
+    "20261008",
+    "20270316"
   ],
   "has_future": true,
-  "version_count": 2,
+  "version_count": 3,
   "git_path": "디지털의료제품법/법률/디지털의료제품법.json"
 }
