@@ -156,7 +156,14 @@
         "changed": "N",
         "article_key": "0004001",
         "images": [],
-        "provision_id": "law:법원조직법#JO0004"
+        "provision_id": "law:법원조직법#JO0004",
+        "scheduled": [
+          {
+            "enforcement_date": "20280313",
+            "change": "개정",
+            "content": "제4조(대법관)\n① 대법원에 대법관을 둔다.\n② 대법관의 수는 대법원장을 포함하여 26명으로 한다. <개정 2026.3.12>"
+          }
+        ]
       },
       {
         "article_no": "제5조",
@@ -4800,9 +4807,10 @@
   "amendment_provision_id": "law:법원조직법#AMENDMENT",
   "future_enforcement_dates": [
     "20261001",
-    "20280301"
+    "20280301",
+    "20280313"
   ],
   "has_future": true,
-  "version_count": 3,
+  "version_count": 4,
   "git_path": "법원조직법/법률/법원조직법.json"
 }
