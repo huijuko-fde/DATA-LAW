@@ -1126,7 +1126,14 @@
         "changed": "N",
         "article_key": "0021001",
         "images": [],
-        "provision_id": "law:방위산업기술보호법#JO0021"
+        "provision_id": "law:방위산업기술보호법#JO0021",
+        "scheduled": [
+          {
+            "enforcement_date": "20261210",
+            "change": "개정",
+            "content": "제21조(벌칙)\n① 방위산업기술이 외국에서 사용될 것을 알면서 제10조제1호ㆍ제2호 및 제4호에 해당하는 행위를 한 사람은 3년 이상의 유기징역에 처한다. 이 경우 65억원 이하의 벌금을 병과한다. <개정 2017.11.28, 2024.12.3, 2026.6.9>\n② 제10조제1호ㆍ제2호 및 제4호에 해당하는 행위를 한 사람은 10년 이하의 징역 또는 10억원 이하의 벌금에 처한다. <개정 2017.11.28, 2024.12.3>\n③ 제10조제3호 및 제5호에 해당하는 행위를 한 사람은 5년 이하의 징역 또는 5억원 이하의 벌금에 처한다. <개정 2017.11.28, 2024.12.3>\n④ 제19조를 위반하여 비밀을 누설ㆍ도용한 사람은 7년 이하의 징역이나 10년 이하의 자격정지 또는 7천만원 이하의 벌금에 처한다.\n⑤ 제1항부터 제3항까지의 죄를 범한 사람이 그 범죄행위로 인하여 얻은 재산은 몰수한다. 다만, 그 재산의 전부 또는 일부를 몰수할 수 없는 때에는 그 가액을 추징한다.\n⑥ 제1항 및 제2항의 미수범은 처벌한다.\n⑦ 제2항 및 제3항의 징역형과 벌금형은 병과할 수 있다. <개정 2024.12.3>"
+          }
+        ]
       },
       {
         "article_no": "제22조",
@@ -1313,6 +1320,19 @@
       "source_version_uid": "012437:283945:20260911",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20260911"
+    },
+    {
+      "promulgation_date": "20260609",
+      "promulgation_no": "21768",
+      "addendum_key": "2026060921768",
+      "content": "부칙 <제21768호,2026.6.9>\n이 법은 공포 후 6개월이 경과한 날부터 시행한다.",
+      "provision_id": "law:방위산업기술보호법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "286753",
+      "source_version_uid": "012437:286753:20261210",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261210",
+      "enforcement_date": "20261210"
     }
   ],
   "appendices": [],
@@ -1346,8 +1366,10 @@
   "provision_id": "law:방위산업기술보호법#DOC",
   "addendum_provision_id": "law:방위산업기술보호법#ADDENDUM",
   "amendment_provision_id": "law:방위산업기술보호법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261210"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "방위산업기술 보호법/법률/방위산업기술 보호법.json"
 }
