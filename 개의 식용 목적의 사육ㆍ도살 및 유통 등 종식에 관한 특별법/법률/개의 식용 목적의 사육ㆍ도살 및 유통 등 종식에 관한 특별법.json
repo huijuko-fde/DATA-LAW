@@ -656,8 +656,10 @@
   "provision_id": "law:개의식용목적의사육도살및유통등종식에관한특별법#DOC",
   "addendum_provision_id": "law:개의식용목적의사육도살및유통등종식에관한특별법#ADDENDUM",
   "amendment_provision_id": "law:개의식용목적의사육도살및유통등종식에관한특별법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20270207"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "개의 식용 목적의 사육ㆍ도살 및 유통 등 종식에 관한 특별법/법률/개의 식용 목적의 사육ㆍ도살 및 유통 등 종식에 관한 특별법.json"
 }
