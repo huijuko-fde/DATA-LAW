@@ -1159,7 +1159,14 @@
         "changed": "N",
         "article_key": "0018021",
         "images": [],
-        "provision_id": "law:수목원정원의조성및진흥에관한법률#JO0018_02"
+        "provision_id": "law:수목원정원의조성및진흥에관한법률#JO0018_02",
+        "scheduled": [
+          {
+            "enforcement_date": "20270323",
+            "change": "개정",
+            "content": "제18조의2(정원의 조성 등) 정원조성예정지의 지정ㆍ해제, 국가정원조성계획의 수립, 정원조성계획의 승인, 다른 법률과의 관계, 토지 등의 수용 및 사업비 등의 보조에 관하여는 제6조의2(같은 조 제4항제1호는 제외한다), 제6조의3, 제7조, 제8조, 제8조의2 및 제22조를 각각 준용한다. <개정 2020.3.24, 2026.9.22>"
+          }
+        ]
       },
       {
         "article_no": "제18조의3",
@@ -3284,8 +3291,10 @@
   "provision_id": "law:수목원정원의조성및진흥에관한법률#DOC",
   "addendum_provision_id": "law:수목원정원의조성및진흥에관한법률#ADDENDUM",
   "amendment_provision_id": "law:수목원정원의조성및진흥에관한법률#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20270323"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "수목원ㆍ정원의 조성 및 진흥에 관한 법률/법률/수목원ㆍ정원의 조성 및 진흥에 관한 법률.json"
 }
