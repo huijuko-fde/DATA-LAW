@@ -2205,8 +2205,10 @@
   "provision_id": "law:어린이놀이시설안전관리법시행령#DOC",
   "addendum_provision_id": "law:어린이놀이시설안전관리법시행령#ADDENDUM",
   "amendment_provision_id": "law:어린이놀이시설안전관리법시행령#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261218"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "어린이놀이시설 안전관리법/시행령/어린이놀이시설 안전관리법 시행령.json"
 }
