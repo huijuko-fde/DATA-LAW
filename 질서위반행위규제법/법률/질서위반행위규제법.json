@@ -861,7 +861,14 @@
         "article_key": "0025001",
         "moved": "000000",
         "images": [],
-        "provision_id": "law:질서위반행위규제법#JO0025"
+        "provision_id": "law:질서위반행위규제법#JO0025",
+        "scheduled": [
+          {
+            "enforcement_date": "20280301",
+            "change": "개정",
+            "content": "제25조(관할 법원)\n① 과태료 사건은 다른 법령에 특별한 규정이 있는 경우를 제외하고는 당사자의 주소지의 지방법원 또는 그 지원의 관할로 한다. <개정 2026.3.17>\n② 제1항에도 불구하고 「법원조직법」 제40조의10제1항제2호에 따른 해사공법에 의한 과태료 사건은 당사자의 주소지를 관할하는 지방법원 및 그 지원(해사국제상사법원이 위치한 지방법원 및 그 지원은 제외한다) 또는 해사국제상사법원의 관할로 한다. <신설 2026.3.17>"
+          }
+        ]
       },
       {
         "article_no": "제26조",
@@ -1628,6 +1635,19 @@
       "source_version_uid": "010592:224847:20210101",
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20210101"
+    },
+    {
+      "promulgation_date": "20260317",
+      "promulgation_no": "21460",
+      "addendum_key": "2026031721460",
+      "content": "부칙 <제21460호,2026.3.17>\n제1조(시행일) 이 법은 2028년 3월 1일부터 시행한다.\n제2조(계속 중인 사건의 관할에 대한 경과조치) 이 법 시행 당시 법원에 계속 중인 사건의 관할에 대해서는 종전의 규정에 따른다.",
+      "provision_id": "law:질서위반행위규제법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "284425",
+      "source_version_uid": "010592:284425:20280301",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20280301",
+      "enforcement_date": "20280301"
     }
   ],
   "appendices": [],
@@ -1660,8 +1680,10 @@
   "provision_id": "law:질서위반행위규제법#DOC",
   "addendum_provision_id": "law:질서위반행위규제법#ADDENDUM",
   "amendment_provision_id": "law:질서위반행위규제법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20280301"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "질서위반행위규제법/법률/질서위반행위규제법.json"
 }
