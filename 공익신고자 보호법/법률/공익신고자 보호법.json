@@ -1717,6 +1717,19 @@
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20270408",
       "enforcement_date": "20270408"
+    },
+    {
+      "promulgation_date": "20260428",
+      "promulgation_no": "21599",
+      "addendum_key": "2026042821599",
+      "content": "부칙(환자기본법) <제21599호,2026.4.28>\n제1조(시행일) 이 법은 공포 후 1년이 경과한 날부터 시행한다.\n제2조 부터 제4조까지 생략\n제5조(다른 법률의 개정) ① 공익신고자 보호법 일부를 다음과 같이 개정한다.\n별표 제490호를 다음과 같이 한다.\n490. 「환자기본법」\n②부터 ④까지 생략\n제6조 생략",
+      "provision_id": "law:공익신고자보호법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "285703",
+      "source_version_uid": "011358:285703:20270429",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20270429",
+      "enforcement_date": "20270429"
     }
   ],
   "appendices": [
@@ -1870,9 +1883,10 @@
     "20261001",
     "20270311",
     "20270401",
-    "20270408"
+    "20270408",
+    "20270429"
   ],
   "has_future": true,
-  "version_count": 6,
+  "version_count": 7,
   "git_path": "공익신고자 보호법/법률/공익신고자 보호법.json"
 }
