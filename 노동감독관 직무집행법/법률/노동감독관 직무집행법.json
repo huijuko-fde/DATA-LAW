@@ -750,8 +750,10 @@
   "provision_id": "law:노동감독관직무집행법#DOC",
   "addendum_provision_id": "law:노동감독관직무집행법#ADDENDUM",
   "amendment_provision_id": "law:노동감독관직무집행법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261208"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "노동감독관 직무집행법/법률/노동감독관 직무집행법.json"
 }
