@@ -2672,8 +2672,10 @@
   "provision_id": "law:자동차관리법시행령#DOC",
   "addendum_provision_id": "law:자동차관리법시행령#ADDENDUM",
   "amendment_provision_id": "law:자동차관리법시행령#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261203"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "자동차관리법/시행령/자동차관리법 시행령.json"
 }
