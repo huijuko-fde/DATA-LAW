@@ -4295,8 +4295,10 @@
   "provision_id": "law:환경분야시험검사등에관한법률시행규칙#DOC",
   "addendum_provision_id": "law:환경분야시험검사등에관한법률시행규칙#ADDENDUM",
   "amendment_provision_id": "law:환경분야시험검사등에관한법률시행규칙#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20270101"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "환경분야 시험ㆍ검사 등에 관한 법률/시행규칙/환경분야 시험ㆍ검사 등에 관한 법률 시행규칙.json"
 }
