@@ -2720,6 +2720,19 @@
       "version_enforcement_date": "20260227"
     },
     {
+      "promulgation_date": "20260811",
+      "promulgation_no": "21866",
+      "addendum_key": "2026081121866",
+      "content": "부칙(우주개발 진흥법) <제21866호,2026.8.11>\n제1조(시행일) 이 법은 공포 후 6개월이 경과한 날부터 시행한다.\n제2조 생략\n제3조(다른 법률의 개정) ① 생략\n② 토지이용규제 기본법 일부를 다음과 같이 개정한다.\n별표 중 연번 254를 다음과 같이 하고, 별표에 연번 255를 다음과 같이 신설한다.\n[그림]",
+      "provision_id": "law:토지이용규제기본법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "288681",
+      "source_version_uid": "010071:288681:20270212",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20270212",
+      "enforcement_date": "20270212"
+    },
+    {
       "promulgation_date": "20260908",
       "promulgation_no": "21896",
       "addendum_key": "2026090821896",
@@ -4198,9 +4211,10 @@
   "addendum_provision_id": "law:토지이용규제기본법#ADDENDUM",
   "amendment_provision_id": "law:토지이용규제기본법#AMENDMENT",
   "future_enforcement_dates": [
-    "20261209"
+    "20261209",
+    "20270212"
   ],
   "has_future": true,
-  "version_count": 2,
+  "version_count": 3,
   "git_path": "토지이용규제 기본법/법률/토지이용규제 기본법.json"
 }
