@@ -1256,9 +1256,10 @@
   "future_enforcement_dates": [
     "20280301",
     "20290301",
-    "20310301"
+    "20310301",
+    "20320301"
   ],
   "has_future": true,
-  "version_count": 7,
+  "version_count": 8,
   "git_path": "각급 법원의 설치와 관할구역에 관한 법률/법률/각급 법원의 설치와 관할구역에 관한 법률.json"
 }
