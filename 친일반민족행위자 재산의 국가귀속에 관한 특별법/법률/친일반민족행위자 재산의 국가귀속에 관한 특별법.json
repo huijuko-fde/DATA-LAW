@@ -693,6 +693,19 @@
       "source_version_uid": "010086:113181:20110519",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20110519"
+    },
+    {
+      "promulgation_date": "20260602",
+      "promulgation_no": "21727",
+      "addendum_key": "2026060221727",
+      "content": "부칙(친일반민족행위자 재산의 국가귀속 등에 관한 특별법) <제21727호,2026.6.2>\n제1조(시행일) 이 법은 공포 후 6개월이 경과한 날부터 시행한다.\n제2조(다른 법률의 폐지) 친일반민족행위자 재산의 국가귀속에 관한 특별법을 폐지한다.\n제3조 부터 제10조까지 생략",
+      "provision_id": "law:친일반민족행위자재산의국가귀속에관한특별법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "286345",
+      "source_version_uid": "010086:286345:20261203",
+      "source_revision_type": "타법폐지",
+      "version_enforcement_date": "20261203",
+      "enforcement_date": "20261203"
     }
   ],
   "appendices": [],
@@ -726,8 +739,14 @@
   "provision_id": "law:친일반민족행위자재산의국가귀속에관한특별법#DOC",
   "addendum_provision_id": "law:친일반민족행위자재산의국가귀속에관한특별법#ADDENDUM",
   "amendment_provision_id": "law:친일반민족행위자재산의국가귀속에관한특별법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261203"
+  ],
+  "has_future": true,
+  "repeal_scheduled": {
+    "enforcement_date": "20261203",
+    "revision_type": "타법폐지"
+  },
+  "version_count": 2,
   "git_path": "친일반민족행위자 재산의 국가귀속에 관한 특별법/법률/친일반민족행위자 재산의 국가귀속에 관한 특별법.json"
 }
