@@ -2666,7 +2666,14 @@
         "changed": "N",
         "article_key": "0059001",
         "images": [],
-        "provision_id": "law:지방자치분권및균형성장에관한특별법#JO0059"
+        "provision_id": "law:지방자치분권및균형성장에관한특별법#JO0059",
+        "scheduled": [
+          {
+            "enforcement_date": "20270603",
+            "change": "삭제",
+            "content": ""
+          }
+        ]
       },
       {
         "article_no": "제60조",
@@ -2680,7 +2687,14 @@
         "changed": "N",
         "article_key": "0060001",
         "images": [],
-        "provision_id": "law:지방자치분권및균형성장에관한특별법#JO0060"
+        "provision_id": "law:지방자치분권및균형성장에관한특별법#JO0060",
+        "scheduled": [
+          {
+            "enforcement_date": "20270603",
+            "change": "삭제",
+            "content": ""
+          }
+        ]
       },
       {
         "article_no": "제61조",
@@ -4190,6 +4204,19 @@
       "version_enforcement_date": "20260910"
     },
     {
+      "promulgation_date": "20260602",
+      "promulgation_no": "21740",
+      "addendum_key": "2026060221740",
+      "content": "부칙(특례시 지원에 관한 특별법) <제21740호,2026.6.2>\n제1조(시행일) 이 법은 공포 후 1년이 경과한 날부터 시행한다.\n제2조 생략\n제3조(다른 법률의 개정) 지방자치분권 및 균형성장에 관한 특별법 일부를 다음과 같이 개정한다.\n제59조 및 제60조를 각각 삭제한다.",
+      "provision_id": "law:지방자치분권및균형성장에관한특별법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "286625",
+      "source_version_uid": "014455:286625:20270603",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20270603",
+      "enforcement_date": "20270603"
+    },
+    {
       "promulgation_date": "20260609",
       "promulgation_no": "21777",
       "addendum_key": "2026060921777",
@@ -5148,9 +5175,10 @@
   "amendment_provision_id": "law:지방자치분권및균형성장에관한특별법#AMENDMENT",
   "future_enforcement_dates": [
     "20261203",
-    "20270101"
+    "20270101",
+    "20270603"
   ],
   "has_future": true,
-  "version_count": 3,
+  "version_count": 4,
   "git_path": "지방자치분권 및 균형성장에 관한 특별법/법률/지방자치분권 및 균형성장에 관한 특별법.json"
 }
