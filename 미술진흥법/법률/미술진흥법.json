@@ -916,8 +916,10 @@
   "provision_id": "law:미술진흥법#DOC",
   "addendum_provision_id": "law:미술진흥법#ADDENDUM",
   "amendment_provision_id": "law:미술진흥법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20270726"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "미술진흥법/법률/미술진흥법.json"
 }
