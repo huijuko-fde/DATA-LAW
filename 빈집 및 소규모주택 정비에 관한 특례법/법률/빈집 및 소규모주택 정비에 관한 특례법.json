@@ -170,7 +170,14 @@
         "changed": "N",
         "article_key": "0003001",
         "images": [],
-        "provision_id": "law:빈집및소규모주택정비에관한특례법#JO0003"
+        "provision_id": "law:빈집및소규모주택정비에관한특례법#JO0003",
+        "scheduled": [
+          {
+            "enforcement_date": "20270617",
+            "change": "개정",
+            "content": "제3조(다른 법률과의 관계)\n① 이 법은 빈집정비사업 및 소규모주택정비사업에 관하여 다른 법률에 우선하여 적용한다. 다만, 「농어촌 빈집 정비 및 관리에 관한 특별법」에 따른 빈집정비사업에 대하여는 이 법을 적용하지 아니한다. <개정 2026.6.16>\n② 자율주택정비사업에 관하여 「농어촌 빈집 정비 및 관리에 관한 특별법」 제2조제1호에 따른 농어촌에서는 이 법을 적용하지 아니한다. 다만, 「도시재생 활성화 및 지원에 관한 특별법」 제2조제1항제5호에 따른 도시재생활성화지역에서 시행하는 자율주택정비사업에 관해서는 그러하지 아니하다. <개정 2019.4.23, 2026.6.16>"
+          }
+        ]
       },
       {
         "article_no": "제4조",
@@ -3919,6 +3926,19 @@
       "source_version_uid": "012805:284083:20260701",
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20260701"
+    },
+    {
+      "promulgation_date": "20260616",
+      "promulgation_no": "21816",
+      "addendum_key": "2026061621816",
+      "content": "부칙 <제21816호,2026.6.16>\n이 법은 공포 후 1년이 경과한 날부터 시행한다.",
+      "provision_id": "law:빈집및소규모주택정비에관한특례법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "286947",
+      "source_version_uid": "012805:286947:20270617",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20270617",
+      "enforcement_date": "20270617"
     }
   ],
   "appendices": [],
@@ -8878,8 +8898,10 @@
   "provision_id": "law:빈집및소규모주택정비에관한특례법#DOC",
   "addendum_provision_id": "law:빈집및소규모주택정비에관한특례법#ADDENDUM",
   "amendment_provision_id": "law:빈집및소규모주택정비에관한특례법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20270617"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "빈집 및 소규모주택 정비에 관한 특례법/법률/빈집 및 소규모주택 정비에 관한 특례법.json"
 }
