@@ -677,7 +677,14 @@
         "changed": "N",
         "article_key": "0011021",
         "images": [],
-        "provision_id": "law:한국과학기술원법#JO0011_02"
+        "provision_id": "law:한국과학기술원법#JO0011_02",
+        "scheduled": [
+          {
+            "enforcement_date": "20270316",
+            "change": "개정",
+            "content": "제11조의2(기술의 이전 및 사업화 촉진)\n① 과학기술원은 연구 결과의 확산과 활용을 위하여 보유하고 있는 기술의 이전 및 사업화를 촉진할 수 있도록 노력하여야 하며, 기술평가, 정보 제공, 관계 기관 및 단체와의 협정 체결 등 적극적 지원시책을 마련하여야 한다. <개정 2026.9.15>\n② 과학기술원은 소속 교원 및 임직원(연구원을 포함한다)이 과학기술원의 보유 기술을 이전받은 기업 또는 해당 기술을 활용하여 창업한 기업 등(이하 \"창업기업등\"이라 한다)에 대하여 다음 각 호의 어느 하나에 해당하는 행위를 하는 경우 이를 허용할 수 있다. <신설 2026.9.15>\n1. 창업기업등에 노무 또는 조언ㆍ자문 등을 제공하고 대가를 받는 행위\n2. 창업기업등에 과학기술원의 소관 직무와 관련된 지식이나 정보 중 제23조에 따른 비밀엄수의 의무에 위반되지 아니하는 범위의 지식이나 정보를 제공하고 대가를 받는 행위\n3. 창업기업등의 직위에 취임하는 행위"
+          }
+        ]
       },
       {
         "article_no": "제11조의3",
@@ -1897,6 +1904,19 @@
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20270212",
       "enforcement_date": "20270212"
+    },
+    {
+      "promulgation_date": "20260915",
+      "promulgation_no": "21918",
+      "addendum_key": "2026091521918",
+      "content": "부칙 <제21918호,2026.9.15>\n이 법은 공포 후 6개월이 경과한 날부터 시행한다.",
+      "provision_id": "law:한국과학기술원법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "289571",
+      "source_version_uid": "000773:289571:20270316",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20270316",
+      "enforcement_date": "20270316"
     }
   ],
   "appendices": [],
@@ -1931,9 +1951,10 @@
   "addendum_provision_id": "law:한국과학기술원법#ADDENDUM",
   "amendment_provision_id": "law:한국과학기술원법#AMENDMENT",
   "future_enforcement_dates": [
-    "20270212"
+    "20270212",
+    "20270316"
   ],
   "has_future": true,
-  "version_count": 2,
+  "version_count": 3,
   "git_path": "한국과학기술원법/법률/한국과학기술원법.json"
 }
