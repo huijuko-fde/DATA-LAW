@@ -5414,9 +5414,10 @@
   "amendment_provision_id": "law:국민건강보험법시행령#AMENDMENT",
   "future_enforcement_dates": [
     "20261001",
-    "20261224"
+    "20261224",
+    "20270101"
   ],
   "has_future": true,
-  "version_count": 3,
+  "version_count": 4,
   "git_path": "국민건강보험법/시행령/국민건강보험법 시행령.json"
 }
