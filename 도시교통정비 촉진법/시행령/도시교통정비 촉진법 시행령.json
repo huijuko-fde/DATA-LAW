@@ -2993,8 +2993,10 @@
   "provision_id": "law:도시교통정비촉진법시행령#DOC",
   "addendum_provision_id": "law:도시교통정비촉진법시행령#ADDENDUM",
   "amendment_provision_id": "law:도시교통정비촉진법시행령#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20270801"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "도시교통정비 촉진법/시행령/도시교통정비 촉진법 시행령.json"
 }
