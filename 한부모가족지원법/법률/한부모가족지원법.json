@@ -1497,7 +1497,14 @@
         "changed": "N",
         "article_key": "0024001",
         "images": [],
-        "provision_id": "law:한부모가족지원법#JO0024"
+        "provision_id": "law:한부모가족지원법#JO0024",
+        "scheduled": [
+          {
+            "enforcement_date": "20261210",
+            "change": "개정",
+            "content": "제24조(시설 폐쇄 등)\n① 특별자치시장ㆍ특별자치도지사ㆍ시장ㆍ군수ㆍ구청장은 한부모가족복지시설이 다음 각 호의 어느 하나에 해당하면 그 사업의 폐지 또는 6개월의 범위에서 기간을 정하여 사업의 정지를 명하거나 시설을 폐쇄할 수 있다. <개정 2010.5.17, 2011.4.12, 2014.1.21, 2016.3.2, 2020.10.20, 2026.6.9>\n1. 제20조제6항의 시설 기준에 미달하게 된 경우\n2. 제22조를 위반한 경우\n3. 정당한 이유 없이 제23조제1항에 따른 보고를 하지 아니하거나 거짓으로 한 경우 또는 조사ㆍ검사를 거부하거나 기피한 경우\n② 특별자치시장ㆍ특별자치도지사ㆍ시장ㆍ군수ㆍ구청장은 한부모가족복지시설이 제1항에 따라 그 사업이 정지 또는 폐지되거나 시설이 폐쇄되는 경우에는 해당 시설에 입소하고 있는 사람이 다른 한부모가족복지시설로 옮길 수 있도록 하는 등 성평등가족부령으로 정하는 바에 따라 입소자의 권익을 보호하기 위하여 필요한 조치를 하여야 한다. <신설 2016.3.2, 2025.10.1>\n③ 제1항에 따른 처분의 세부종류 및 기준에 필요한 사항은 성평등가족부령으로 정한다. <신설 2026.6.9>\n④ 제1항에 따른 조치 중 행정상 강제에 관하여는 「행정기본법」 제32조에 따른다. <신설 2026.6.9>"
+          }
+        ]
       },
       {
         "article_no": "제24조의2",
@@ -2102,6 +2109,19 @@
       "source_version_uid": "000184:266687:20251204",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20251204"
+    },
+    {
+      "promulgation_date": "20260609",
+      "promulgation_no": "21792",
+      "addendum_key": "2026060921792",
+      "content": "부칙 <제21792호,2026.6.9>\n이 법은 공포 후 6개월이 경과한 날부터 시행한다.",
+      "provision_id": "law:한부모가족지원법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "286821",
+      "source_version_uid": "000184:286821:20261210",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261210",
+      "enforcement_date": "20261210"
     }
   ],
   "appendices": [],
@@ -2261,8 +2281,10 @@
   "provision_id": "law:한부모가족지원법#DOC",
   "addendum_provision_id": "law:한부모가족지원법#ADDENDUM",
   "amendment_provision_id": "law:한부모가족지원법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261210"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "한부모가족지원법/법률/한부모가족지원법.json"
 }
