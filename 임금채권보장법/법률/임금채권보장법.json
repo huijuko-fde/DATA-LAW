@@ -1551,7 +1551,14 @@
         "changed": "N",
         "article_key": "0025001",
         "images": [],
-        "provision_id": "law:임금채권보장법#JO0025"
+        "provision_id": "law:임금채권보장법#JO0025",
+        "scheduled": [
+          {
+            "enforcement_date": "20261208",
+            "change": "개정",
+            "content": "제25조(신고) 사업주가 이 법 또는 이 법에 따른 명령을 위반하는 사실이 있으면 근로자는 그 사실을 노동감독관에게 신고하여 시정을 위한 조치를 요구할 수 있다. <개정 2026.4.7>"
+          }
+        ]
       },
       {
         "article_no": "제26조",
@@ -2057,6 +2064,19 @@
       "source_version_uid": "000128:283451:20260820",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20260820"
+    },
+    {
+      "promulgation_date": "20260407",
+      "promulgation_no": "21534",
+      "addendum_key": "2026040721534",
+      "content": "부칙(노동감독관 직무집행법) <제21534호,2026.4.7>\n제1조(시행일) 이 법은 공포 후 8개월이 경과한 날부터 시행한다.\n제2조 생략\n제3조(다른 법률의 개정) ①부터 ⑤까지 생략\n⑥ 임금채권보장법 일부를 다음과 같이 개정한다.\n제25조 중 \"근로감독관\"을 \"노동감독관\"으로 한다.\n⑦부터 ⑩까지 생략",
+      "provision_id": "law:임금채권보장법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "285383",
+      "source_version_uid": "000128:285383:20261208",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261208",
+      "enforcement_date": "20261208"
     }
   ],
   "appendices": [],
@@ -2090,8 +2110,10 @@
   "provision_id": "law:임금채권보장법#DOC",
   "addendum_provision_id": "law:임금채권보장법#ADDENDUM",
   "amendment_provision_id": "law:임금채권보장법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261208"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "임금채권보장법/법률/임금채권보장법.json"
 }
