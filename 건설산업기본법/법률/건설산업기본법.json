@@ -6320,7 +6320,14 @@
         "changed": "N",
         "article_key": "0098021",
         "images": [],
-        "provision_id": "law:건설산업기본법#JO0098_02"
+        "provision_id": "law:건설산업기본법#JO0098_02",
+        "scheduled": [
+          {
+            "enforcement_date": "20280101",
+            "change": "개정",
+            "content": "제98조의2(과태료) 다음 각 호의 어느 하나에 해당하는 자에게는 2천만원 이하의 과태료를 부과한다. <개정 2026.9.8>\n1. 제29조의2제1항에 따른 하수급인에 대한 관리의무를 이행하지 아니한 자(하수급인이 제82조제2항제3호에 따른 영업정지 등의 처분을 받은 경우로서 그 위반행위를 묵인한 사실이 확인된 경우만 해당한다)\n2. 제34조제9항(제32조제4항에 따라 준용되는 경우를 포함한다)을 위반하여 전자대금지급시스템을 이용하지 아니하고 공사대금을 지급한 자\n3. 제65조의2제3항에 따른 명령을 이행하지 아니한 자"
+          }
+        ]
       },
       {
         "article_no": "제99조",
@@ -7223,9 +7230,10 @@
   "addendum_provision_id": "law:건설산업기본법#ADDENDUM",
   "amendment_provision_id": "law:건설산업기본법#AMENDMENT",
   "future_enforcement_dates": [
-    "20270101"
+    "20270101",
+    "20280101"
   ],
   "has_future": true,
-  "version_count": 2,
+  "version_count": 3,
   "git_path": "건설산업기본법/법률/건설산업기본법.json"
 }
