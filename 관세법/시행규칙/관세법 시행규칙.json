@@ -7994,8 +7994,10 @@
   "provision_id": "law:관세법시행규칙#DOC",
   "addendum_provision_id": "law:관세법시행규칙#ADDENDUM",
   "amendment_provision_id": "law:관세법시행규칙#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20270101"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "관세법/시행규칙/관세법 시행규칙.json"
 }
