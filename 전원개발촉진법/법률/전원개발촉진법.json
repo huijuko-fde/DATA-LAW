@@ -97,7 +97,14 @@
         "changed": "N",
         "article_key": "0003001",
         "images": [],
-        "provision_id": "law:전원개발촉진법#JO0003"
+        "provision_id": "law:전원개발촉진법#JO0003",
+        "scheduled": [
+          {
+            "enforcement_date": "20270316",
+            "change": "개정",
+            "content": "제3조(전원개발사업자) 전원개발사업은 「전기사업법」 제7조에 따라 허가를 받은 발전사업자ㆍ송전사업자, 같은 법 제7조의4에 따라 허가를 받은 재생에너지공동접속설비건설사업자, 「방사성폐기물 관리법」 제10조에 따른 방사성폐기물 관리사업자 및 「고준위 방사성폐기물 관리에 관한 특별법」 제38조에 따른 고준위 방사성폐기물 관리사업자(이하 \"전원개발사업자\"라 한다)가 시행한다. <개정 2025.3.25, 2026.9.15>"
+          }
+        ]
       },
       {
         "article_no": "제4조",
@@ -1668,6 +1675,19 @@
       "source_version_uid": "001852:276597:20251001",
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20251001"
+    },
+    {
+      "promulgation_date": "20260915",
+      "promulgation_no": "21945",
+      "addendum_key": "2026091521945",
+      "content": "부칙 <제21945호,2026.9.15>\n이 법은 공포 후 6개월이 경과한 날부터 시행한다.",
+      "provision_id": "law:전원개발촉진법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "289757",
+      "source_version_uid": "001852:289757:20270316",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20270316",
+      "enforcement_date": "20270316"
     }
   ],
   "appendices": [],
@@ -1700,8 +1720,10 @@
   "provision_id": "law:전원개발촉진법#DOC",
   "addendum_provision_id": "law:전원개발촉진법#ADDENDUM",
   "amendment_provision_id": "law:전원개발촉진법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20270316"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "전원개발촉진법/법률/전원개발촉진법.json"
 }
