@@ -4926,9 +4926,10 @@
   "addendum_provision_id": "law:공익사업을위한토지등의취득및보상에관한법률#ADDENDUM",
   "amendment_provision_id": "law:공익사업을위한토지등의취득및보상에관한법률#AMENDMENT",
   "future_enforcement_dates": [
-    "20261217"
+    "20261217",
+    "20270617"
   ],
   "has_future": true,
-  "version_count": 2,
+  "version_count": 3,
   "git_path": "공익사업을 위한 토지 등의 취득 및 보상에 관한 법률/법률/공익사업을 위한 토지 등의 취득 및 보상에 관한 법률.json"
 }
