@@ -705,7 +705,14 @@
         "changed": "N",
         "article_key": "0020031",
         "images": [],
-        "provision_id": "law:임금채권보장법시행령#JO0020_03"
+        "provision_id": "law:임금채권보장법시행령#JO0020_03",
+        "scheduled": [
+          {
+            "enforcement_date": "20270101",
+            "change": "개정",
+            "content": "제20조의3(포상금의 지급기준) 포상금은 2억원을 지급한도액으로 하여 다음 각 호의 기준에 따라 고용노동부장관이 지급한다. 이 경우 1천원 단위 미만은 지급하지 않는다. <개정 2021.10.14, 2026.10.13>\n1. 거짓이나 그 밖의 부정한 방법으로 지급받은 대지급금(이하 \"부정수급액\"이라 한다)이 5천만원 이상인 경우: 1,100만원 + (5천만원 초과 부정수급액 × 10/100)\n2. 부정수급액이 1천만원 이상 5천만원 미만인 경우: 300만원＋(1천만원 초과 부정수급액× 20/100)\n3. 부정수급액이 1천만원 미만인 경우: 부정수급액× 30/100"
+          }
+        ]
       },
       {
         "article_no": "제20조의4",
@@ -1316,6 +1323,19 @@
       "source_version_uid": "004551:285855:20260512",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20260512"
+    },
+    {
+      "promulgation_date": "20261013",
+      "promulgation_no": "36751",
+      "addendum_key": "2026101336751",
+      "content": "부칙 <제36751호,2026.10.13>\n제1조(시행일) 이 영은 2027년 1월 1일부터 시행한다.\n제2조(포상금의 지급기준에 관한 경과조치) 이 영 시행 전에 신고 또는 고발된 부정수급사실에 대한 포상금의 지급기준에 관하여는 제20조의3의 개정규정에도 불구하고 종전의 규정에 따른다.",
+      "provision_id": "law:임금채권보장법시행령#ADDENDUM",
+      "is_future": true,
+      "source_mst": "291177",
+      "source_version_uid": "004551:291177:20270101",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20270101",
+      "enforcement_date": "20270101"
     }
   ],
   "appendices": [
@@ -1467,8 +1487,10 @@
   "provision_id": "law:임금채권보장법시행령#DOC",
   "addendum_provision_id": "law:임금채권보장법시행령#ADDENDUM",
   "amendment_provision_id": "law:임금채권보장법시행령#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20270101"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "임금채권보장법/시행령/임금채권보장법 시행령.json"
 }
