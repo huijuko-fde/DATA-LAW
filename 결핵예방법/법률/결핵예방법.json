@@ -1045,7 +1045,14 @@
         "changed": "N",
         "article_key": "0026001",
         "images": [],
-        "provision_id": "law:결핵예방법#JO0026"
+        "provision_id": "law:결핵예방법#JO0026",
+        "scheduled": [
+          {
+            "enforcement_date": "20270610",
+            "change": "개정",
+            "content": "제26조(특별자치시ㆍ특별자치도 또는 시ㆍ군ㆍ구가 부담하는 경비)\n① 다음 각 호의 경비는 특별자치시ㆍ특별자치도 또는 시ㆍ군ㆍ구(자치구를 말한다. 이하 같다)가 부담한다. <개정 2014.1.28, 2026.6.9>\n1. 제10조에 따른 결핵 집단발생 시 조치에 드는 경비\n2. 제11조제2항에 따른 결핵검진등에 드는 경비\n3. 제12조에 따른 결핵예방접종과 관련된 경비\n4. 제15조제1항 및 제15조의2제1항에 따른 결핵환자의 입원비\n5. 생활보호조치에 드는 경비\n6. 제19조에 따른 전염성결핵환자 접촉자의 관리에 드는 경비\n7. 그 밖에 특별자치시장ㆍ특별자치도지사 또는 시장ㆍ군수ㆍ구청장이 시행하는 결핵예방 및 결핵환자 발견 등에 드는 경비\n② 특별자치시ㆍ특별자치도 또는 시ㆍ군ㆍ구는 보건복지부령으로 정하는 바에 따라 제11조제1항에 따른 결핵검진등 실시에 드는 경비의 전부 또는 일부를 부담할 수 있다. <신설 2026.6.9>"
+          }
+        ]
       },
       {
         "article_no": "제27조",
@@ -1389,6 +1396,19 @@
       "source_version_uid": "001791:277213:20251001",
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20251001"
+    },
+    {
+      "promulgation_date": "20260609",
+      "promulgation_no": "21773",
+      "addendum_key": "2026060921773",
+      "content": "부칙 <제21773호,2026.6.9>\n이 법은 공포 후 1년이 경과한 날부터 시행한다.",
+      "provision_id": "law:결핵예방법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "286761",
+      "source_version_uid": "001791:286761:20270610",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20270610",
+      "enforcement_date": "20270610"
     }
   ],
   "appendices": [],
@@ -1743,8 +1763,10 @@
   "provision_id": "law:결핵예방법#DOC",
   "addendum_provision_id": "law:결핵예방법#ADDENDUM",
   "amendment_provision_id": "law:결핵예방법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20270610"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "결핵예방법/법률/결핵예방법.json"
 }
