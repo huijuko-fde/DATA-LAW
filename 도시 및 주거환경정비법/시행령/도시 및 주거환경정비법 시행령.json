@@ -8284,8 +8284,10 @@
   "provision_id": "law:도시및주거환경정비법시행령#DOC",
   "addendum_provision_id": "law:도시및주거환경정비법시행령#ADDENDUM",
   "amendment_provision_id": "law:도시및주거환경정비법시행령#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20280101"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "도시 및 주거환경정비법/시행령/도시 및 주거환경정비법 시행령.json"
 }
