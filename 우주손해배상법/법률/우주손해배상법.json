@@ -292,7 +292,14 @@
         "article_key": "0006001",
         "moved": "000000",
         "images": [],
-        "provision_id": "law:우주손해배상법#JO0006"
+        "provision_id": "law:우주손해배상법#JO0006",
+        "scheduled": [
+          {
+            "enforcement_date": "20270212",
+            "change": "개정",
+            "content": "제6조(손해배상 책임보험의 가입)\n① 「우주개발진흥법」 제11조에 따라 우주발사체의 발사허가를 받고자 하는 자는 손해배상을 목적으로 하는 책임보험에 가입하여야 한다.\n② 제1항에 따라 가입하여야 하는 보험금액은 제5조에 따른 손해배상책임 한도액의 범위 안에서 우주물체의 특성, 기술의 난이도, 발사장 주변 여건 및 국내외 보험시장 등을 고려하여 우주항공청장(국방부장관이 우주발사체 발사허가를 한 경우에는 국방부장관을 말한다)이 정하여 고시한다. <개정 2013.3.23, 2017.7.26, 2024.1.26, 2026.8.11>"
+          }
+        ]
       },
       {
         "article_no": "제7조",
@@ -412,6 +419,19 @@
       "source_version_uid": "010587:259391:20240527",
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20240527"
+    },
+    {
+      "promulgation_date": "20260811",
+      "promulgation_no": "21866",
+      "addendum_key": "2026081121866",
+      "content": "부칙(우주개발 진흥법) <제21866호,2026.8.11>\n제1조(시행일) 이 법은 공포 후 6개월이 경과한 날부터 시행한다.\n제2조 생략\n제3조(다른 법률의 개정) ① 우주손해배상법 일부를 다음과 같이 개정한다.\n제6조제2항 중 \"우주항공청장\"을 \"우주항공청장(국방부장관이 우주발사체 발사허가를 한 경우에는 국방부장관을 말한다)\"으로 한다.\n② 생략",
+      "provision_id": "law:우주손해배상법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "288679",
+      "source_version_uid": "010587:288679:20270212",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20270212",
+      "enforcement_date": "20270212"
     }
   ],
   "appendices": [],
@@ -444,8 +464,10 @@
   "provision_id": "law:우주손해배상법#DOC",
   "addendum_provision_id": "law:우주손해배상법#ADDENDUM",
   "amendment_provision_id": "law:우주손해배상법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20270212"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "우주손해배상법/법률/우주손해배상법.json"
 }
