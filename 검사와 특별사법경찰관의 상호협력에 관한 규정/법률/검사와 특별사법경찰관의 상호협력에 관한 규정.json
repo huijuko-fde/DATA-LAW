@@ -619,8 +619,10 @@
   "provision_id": "law:검사와특별사법경찰관의상호협력에관한규정#DOC",
   "addendum_provision_id": "law:검사와특별사법경찰관의상호협력에관한규정#ADDENDUM",
   "amendment_provision_id": "law:검사와특별사법경찰관의상호협력에관한규정#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20270205"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "검사와 특별사법경찰관의 상호협력에 관한 규정/법률/검사와 특별사법경찰관의 상호협력에 관한 규정.json"
 }
