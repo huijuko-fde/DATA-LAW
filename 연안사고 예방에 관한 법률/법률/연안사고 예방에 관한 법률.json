@@ -1088,7 +1088,14 @@
         "changed": "N",
         "article_key": "0017001",
         "images": [],
-        "provision_id": "law:연안사고예방에관한법률#JO0017"
+        "provision_id": "law:연안사고예방에관한법률#JO0017",
+        "scheduled": [
+          {
+            "enforcement_date": "20270323",
+            "change": "개정",
+            "content": "제17조(연안안전지킴이 위촉)\n① 해양경찰청장 및 지방자치단체의 장은 지역주민으로서 연안해역의 특성을 잘 아는 사람 등을 연안안전지킴이로 위촉하여 연안사고예방을 위한 순찰ㆍ지도업무를 보조하게 할 수 있다. <개정 2014.11.19, 2017.7.26, 2021.4.13, 2026.9.22>\n② 연안안전지킴이가 그 직무를 수행하는 경우에는 신분을 표시하는 증표를 지니고 이를 관계인에게 내보여야 한다. <개정 2021.4.13>\n③ 연안안전지킴이의 위촉방법, 활동범위, 수당의 지급 등에 관한 사항은 해양수산부령으로 정한다. <개정 2014.11.19, 2017.7.26, 2021.4.13>\n④ 해양경찰청장 및 지방자치단체의 장은 필요한 경우 연안안전지킴이가 활동하는 데 소요되는 경비의 전부 또는 일부를 지원할 수 있다. <신설 2021.4.13, 2026.9.22>"
+          }
+        ]
       },
       {
         "article_no": "제18조",
@@ -1492,6 +1499,19 @@
       "source_version_uid": "012049:270841:20251023",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20251023"
+    },
+    {
+      "promulgation_date": "20260922",
+      "promulgation_no": "21983",
+      "addendum_key": "2026092221983",
+      "content": "부칙 <제21983호,2026.9.22>\n이 법은 공포 후 6개월이 경과한 날부터 시행한다.",
+      "provision_id": "law:연안사고예방에관한법률#ADDENDUM",
+      "is_future": true,
+      "source_mst": "289923",
+      "source_version_uid": "012049:289923:20270323",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20270323",
+      "enforcement_date": "20270323"
     }
   ],
   "appendices": [],
@@ -1525,8 +1545,10 @@
   "provision_id": "law:연안사고예방에관한법률#DOC",
   "addendum_provision_id": "law:연안사고예방에관한법률#ADDENDUM",
   "amendment_provision_id": "law:연안사고예방에관한법률#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20270323"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "연안사고 예방에 관한 법률/법률/연안사고 예방에 관한 법률.json"
 }
