@@ -842,7 +842,14 @@
         "article_key": "0026001",
         "moved": "000000",
         "images": [],
-        "provision_id": "law:행정사법시행령#JO0026"
+        "provision_id": "law:행정사법시행령#JO0026",
+        "scheduled": [
+          {
+            "enforcement_date": "20271011",
+            "change": "개정",
+            "content": "제26조(고유식별정보의 처리) 행정안전부장관(제25조에 따라 행정안전부장관의 업무를 위탁받은 자를 포함한다) 및 「한국산업인력공단법」에 따른 한국산업인력공단 이사장은 다음 각 호의 사무를 수행하기 위하여 불가피한 경우에는 「개인정보 보호법 시행령」 제19조제1호에 따른 주민등록번호, 같은 조 제2호에 따른 여권번호 또는 같은 조 제4호에 따른 외국인등록번호가 포함된 자료를 처리할 수 있다. <개정 2013.3.23, 2014.11.19, 2017.7.26, 2024.4.23, 2025.10.10>\n1. 법 제5조ㆍ제6조ㆍ제8조ㆍ제9조 및 제9조의2에 따른 행정사의 자격 및 시험에 관한 사무\n2. 제18조에 따른 행정사 자격증의 발급 및 관리에 관한 사무\n3. 행정사정보시스템의 구축ㆍ운영에 관한 사무(제1호 및 제2호의 업무 수행에 필요한 경우로 한정한다)"
+          }
+        ]
       },
       {
         "article_no": "제26조의2",
@@ -1308,8 +1315,10 @@
   "provision_id": "law:행정사법시행령#DOC",
   "addendum_provision_id": "law:행정사법시행령#ADDENDUM",
   "amendment_provision_id": "law:행정사법시행령#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20271011"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "행정사법/시행령/행정사법 시행령.json"
 }
