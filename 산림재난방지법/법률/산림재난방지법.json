@@ -1709,7 +1709,14 @@
         "changed": "N",
         "article_key": "0036001",
         "images": [],
-        "provision_id": "law:산림재난방지법#JO0036"
+        "provision_id": "law:산림재난방지법#JO0036",
+        "scheduled": [
+          {
+            "enforcement_date": "20270414",
+            "change": "개정",
+            "content": "제36조(협조)\n① 산불현장 통합지휘본부장은 산불 진화와 관련하여 필요하면 다음 각 호의 기관 또는 단체의 장에게 산불 진화, 현장 통제 등에 필요한 장비 및 인력의 협조를 요청할 수 있으며, 요청을 받은 기관 및 단체의 장은 특별한 사유가 없으면 이에 적극 협조하여야 한다. <개정 2026.10.13>\n1. 소방관서\n2. 경찰관서(지구대, 파출소 및 출장소를 포함한다)\n3. 군부대\n4. 국가유산청 및 그 소속기관\n5. 기상청 및 지방기상청\n6. 「국립공원공단법」에 따른 국립공원공단 및 그 소속 공원사무소(하부조직을 포함한다)\n7. 그 밖에 대통령령으로 정하는 산림재난 관련 기관 및 단체\n② 제1항에 따라 산불현장에 파견된 사람은 산불현장 통합지휘본부장의 지휘에 따라 주어진 임무를 수행하여야 한다.\n③ 제1항에 따라 산불현장 통합지휘본부장이 협조를 요청하는 대상ㆍ방법ㆍ절차ㆍ규모 및 경비의 부담, 그 밖에 필요한 사항은 대통령령으로 정한다."
+          }
+        ]
       },
       {
         "article_no": "제37조",
@@ -3756,6 +3763,19 @@
       "source_version_uid": "014829:285927:20260512",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20260512"
+    },
+    {
+      "promulgation_date": "20261013",
+      "promulgation_no": "22070",
+      "addendum_key": "2026101322070",
+      "content": "부칙(소방기본법) <제22070호,2026.10.13>\n제1조(시행일) 이 법은 공포 후 6개월이 경과한 날부터 시행한다.\n제2조(다른 법률의 개정) ① 생략\n② 산림재난방지법 일부를 다음과 같이 개정한다.\n제36조제1항제1호를 다음과 같이 한다.\n1. 소방관서",
+      "provision_id": "law:산림재난방지법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "291141",
+      "source_version_uid": "014829:291141:20270414",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20270414",
+      "enforcement_date": "20270414"
     }
   ],
   "appendices": [],
@@ -4922,9 +4942,10 @@
   "addendum_provision_id": "law:산림재난방지법#ADDENDUM",
   "amendment_provision_id": "law:산림재난방지법#AMENDMENT",
   "future_enforcement_dates": [
-    "20261113"
+    "20261113",
+    "20270414"
   ],
   "has_future": true,
-  "version_count": 2,
+  "version_count": 3,
   "git_path": "산림재난방지법/법률/산림재난방지법.json"
 }
