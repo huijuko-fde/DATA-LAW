@@ -443,7 +443,14 @@
         "changed": "N",
         "article_key": "0010001",
         "images": [],
-        "provision_id": "law:양봉산업의육성및지원에관한법률#JO0010"
+        "provision_id": "law:양봉산업의육성및지원에관한법률#JO0010",
+        "scheduled": [
+          {
+            "enforcement_date": "20270617",
+            "change": "개정",
+            "content": "제10조(밀원식물의 조성)\n① 국가와 지방자치단체는 국공유림을 조성하거나 국공유림의 수종(樹種)을 갱신할 경우 지역적 특성을 고려하여 밀원식물을 확충하도록 노력하여야 한다.\n② 양봉농가는 양봉장 주변 등에 밀원식물을 적극 식재하여야 한다.\n③ 국가와 지방자치단체는 밀원식물의 선발ㆍ증식 및 보호ㆍ관리에 필요한 사업비의 전부나 일부를 예산의 범위에서 지원할 수 있다.\n④ 제1항부터 제3항까지에 따른 밀원식물의 조성에 필요한 사항은 농림축산식품부령 또는 해당 지방자치단체의 조례로 정한다. <개정 2026.6.16>"
+          }
+        ]
       },
       {
         "article_no": "제11조",
@@ -722,6 +729,19 @@
       "source_version_uid": "013570:272867:20260123",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20260123"
+    },
+    {
+      "promulgation_date": "20260616",
+      "promulgation_no": "21803",
+      "addendum_key": "2026061621803",
+      "content": "부칙 <제21803호,2026.6.16>\n이 법은 공포 후 1년이 경과한 날부터 시행한다.",
+      "provision_id": "law:양봉산업의육성및지원에관한법률#ADDENDUM",
+      "is_future": true,
+      "source_mst": "286923",
+      "source_version_uid": "013570:286923:20270617",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20270617",
+      "enforcement_date": "20270617"
     }
   ],
   "appendices": [],
@@ -754,8 +774,10 @@
   "provision_id": "law:양봉산업의육성및지원에관한법률#DOC",
   "addendum_provision_id": "law:양봉산업의육성및지원에관한법률#ADDENDUM",
   "amendment_provision_id": "law:양봉산업의육성및지원에관한법률#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20270617"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "양봉산업의 육성 및 지원에 관한 법률/법률/양봉산업의 육성 및 지원에 관한 법률.json"
 }
