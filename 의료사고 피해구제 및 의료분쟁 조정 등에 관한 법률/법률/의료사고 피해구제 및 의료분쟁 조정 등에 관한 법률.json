@@ -547,6 +547,11 @@
             "enforcement_date": "20270527",
             "change": "삭제",
             "content": ""
+          },
+          {
+            "enforcement_date": "20270527",
+            "change": "신설",
+            "content": "제14조 삭제 <2026.5.26>"
           }
         ]
       },
@@ -2555,6 +2560,6 @@
     "20270527"
   ],
   "has_future": true,
-  "version_count": 2,
+  "version_count": 3,
   "git_path": "의료사고 피해구제 및 의료분쟁 조정 등에 관한 법률/법률/의료사고 피해구제 및 의료분쟁 조정 등에 관한 법률.json"
 }
