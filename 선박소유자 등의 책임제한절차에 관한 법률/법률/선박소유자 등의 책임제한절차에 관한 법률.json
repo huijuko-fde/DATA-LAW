@@ -86,7 +86,14 @@
         "changed": "Y",
         "article_key": "0002001",
         "images": [],
-        "provision_id": "law:선박소유자등의책임제한절차에관한법률#JO0002"
+        "provision_id": "law:선박소유자등의책임제한절차에관한법률#JO0002",
+        "scheduled": [
+          {
+            "enforcement_date": "20280301",
+            "change": "개정",
+            "content": "제2조(책임제한사건의 관할) 책임제한사건은 책임을 제한할 수 있는 채권(이하 \"제한채권\"이라 한다)이 발생한 선박의 선적(船籍) 소재지, 신청인의 보통재판적(普通裁判籍) 소재지, 사고 발생지, 사고 후에 사고선박이 최초로 도달한 곳 또는 제한채권에 의하여 신청인의 재산에 대한 압류 또는 가압류가 집행된 곳을 관할하는 해사국제상사법원의 관할에 전속(專屬)한다. <개정 2026.3.17>"
+          }
+        ]
       },
       {
         "article_no": "제3조",
@@ -101,7 +108,14 @@
         "changed": "Y",
         "article_key": "0003001",
         "images": [],
-        "provision_id": "law:선박소유자등의책임제한절차에관한법률#JO0003"
+        "provision_id": "law:선박소유자등의책임제한절차에관한법률#JO0003",
+        "scheduled": [
+          {
+            "enforcement_date": "20280301",
+            "change": "개정",
+            "content": "제3조(책임제한사건의 이송) 법원은 현저한 손해 또는 지연을 피하기 위하여 필요하다고 인정할 때에는 직권으로 책임제한사건을 다른 관할 해사국제상사법원이나 제한채권자의 보통재판적 소재지의 관할 해사국제상사법원 또는 동일한 사고로 인하여 생긴 유류오염손해에 관한 책임제한사건이 계속(係屬)하는 해사국제상사법원에 이송(移送)할 수 있다. <개정 2026.3.17>"
+          }
+        ]
       },
       {
         "article_no": "제4조",
@@ -491,7 +505,14 @@
         "changed": "Y",
         "article_key": "0029001",
         "images": [],
-        "provision_id": "law:선박소유자등의책임제한절차에관한법률#JO0029"
+        "provision_id": "law:선박소유자등의책임제한절차에관한법률#JO0029",
+        "scheduled": [
+          {
+            "enforcement_date": "20280301",
+            "change": "개정",
+            "content": "제29조(강제집행에 대한 이의의 소)\n① 신청인 또는 수익채무자가 제27조제2항의 사유를 주장하여 제한채권에 의한 강제집행의 불허(不許)를 청구하려면 강제집행에 대한 이의(異議)의 소(訴)를 제기하여야 한다.\n② 제1항에 따른 소는 책임제한사건이 계속된 해사국제상사법원의 관할에 전속한다. <신설 2026.3.17>\n③ 제1항에 따른 소에 대하여는 「민사집행법」 제44조를 준용한다. <개정 2026.3.17>"
+          }
+        ]
       },
       {
         "article_no": "제30조",
@@ -506,7 +527,14 @@
         "changed": "Y",
         "article_key": "0030001",
         "images": [],
-        "provision_id": "law:선박소유자등의책임제한절차에관한법률#JO0030"
+        "provision_id": "law:선박소유자등의책임제한절차에관한법률#JO0030",
+        "scheduled": [
+          {
+            "enforcement_date": "20280301",
+            "change": "개정",
+            "content": "제30조(담보권 실행에 대한 이의의 소)\n① 신청인 또는 수익채무자가 제27조제2항의 사유를 주장하여 제한채권에 의한 담보권 실행의 불허를 청구하려면 담보권 실행에 대한 이의의 소를 제기하여야 한다.\n② 제1항에 따른 소는 책임제한사건이 계속된 해사국제상사법원의 관할에 전속한다. <개정 2026.3.17>\n③ 제1항에 따른 소에 대하여는 「민사집행법」 제46조 및 제47조를 준용한다."
+          }
+        ]
       },
       {
         "article_no": "제31조",
@@ -1577,6 +1605,19 @@
       "source_version_uid": "001226:97989:20091229",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20091229"
+    },
+    {
+      "promulgation_date": "20260317",
+      "promulgation_no": "21457",
+      "addendum_key": "2026031721457",
+      "content": "부칙 <제21457호,2026.3.17>\n제1조(시행일) 이 법은 2028년 3월 1일부터 시행한다.\n제2조(계속 중인 사건의 관할에 관한 경과조치) 이 법 시행 당시 법원에 계속 중인 사건의 관할에 대해서는 종전의 규정에 따른다.",
+      "provision_id": "law:선박소유자등의책임제한절차에관한법률#ADDENDUM",
+      "is_future": true,
+      "source_mst": "284161",
+      "source_version_uid": "001226:284161:20280301",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20280301",
+      "enforcement_date": "20280301"
     }
   ],
   "appendices": [],
@@ -1609,8 +1650,10 @@
   "provision_id": "law:선박소유자등의책임제한절차에관한법률#DOC",
   "addendum_provision_id": "law:선박소유자등의책임제한절차에관한법률#ADDENDUM",
   "amendment_provision_id": "law:선박소유자등의책임제한절차에관한법률#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20280301"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "선박소유자 등의 책임제한절차에 관한 법률/법률/선박소유자 등의 책임제한절차에 관한 법률.json"
 }
