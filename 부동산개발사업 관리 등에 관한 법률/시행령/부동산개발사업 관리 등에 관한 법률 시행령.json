@@ -465,8 +465,10 @@
   "provision_id": "law:부동산개발사업관리등에관한법률시행령#DOC",
   "addendum_provision_id": "law:부동산개발사업관리등에관한법률시행령#ADDENDUM",
   "amendment_provision_id": "law:부동산개발사업관리등에관한법률시행령#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20270528"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "부동산개발사업 관리 등에 관한 법률/시행령/부동산개발사업 관리 등에 관한 법률 시행령.json"
 }
