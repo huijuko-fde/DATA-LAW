@@ -7604,9 +7604,9 @@
             "type": "image",
             "url": "http://www.law.go.kr/flDownload.do?flSeq=23729070",
             "seq": "",
-            "filename": "제120조의20_1.gif",
+            "filename": "제120조의20_1.bmp",
             "file_dir": "본문이미지",
-            "local_path": "본문이미지/제120조의20_1.gif",
+            "local_path": "본문이미지/제120조의20_1.bmp",
             "file_store_url": ""
           },
           {
@@ -12059,6 +12059,6 @@
     "20270101"
   ],
   "has_future": true,
-  "version_count": 3,
+  "version_count": 4,
   "git_path": "법인세법/시행령/법인세법 시행령.json"
 }
