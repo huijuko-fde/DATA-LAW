@@ -806,7 +806,14 @@
         "changed": "N",
         "article_key": "0022001",
         "images": [],
-        "provision_id": "law:낚시관리및육성법#JO0022"
+        "provision_id": "law:낚시관리및육성법#JO0022",
+        "scheduled": [
+          {
+            "enforcement_date": "20270323",
+            "change": "개정",
+            "content": "제22조(행정제재처분 효과의 승계)\n① 제14조제1항 또는 제19조제1항에 따라 종전의 낚시터업자에게 한 행정제재처분의 효과는 그 처분기간이 만료된 날부터 1년간 제21조제1항에 따라 낚시터업을 승계한 낚시터업자에게 승계된다.\n② 제21조제1항에 따라 낚시터업을 승계한 낚시터업자에 대하여는 제14조제1항 또는 제19조제1항에 따라 진행 중인 행정제재처분의 절차를 계속 이어서 할 수 있다.\n③ 제1항 및 제2항에도 불구하고 제21조제1항에 따라 낚시터업을 승계한 낚시터업자가 그 영업의 승계 시에 종전의 낚시터업자에 대한 행정제재처분 또는 종전의 낚시터업자의 위반사실을 알지 못하였음을 증명하는 때에는 그러하지 아니하다.\n④ 제21조제1항에 따라 낚시터업을 승계하려는 자는 종전의 낚시터업자가 제14조제1항 또는 제19조제1항에 따라 행정제재처분의 절차가 진행 중인지 및 행정제재처분을 받은 이력이 있는지 여부를 확인하여야 하며, 시장ㆍ군수ㆍ구청장은 지위를 승계하려는 자가 그 확인을 요청하는 경우 해양수산부령으로 정하는 바에 따라 이를 확인하는 서류를 발급할 수 있다. <신설 2026.9.22>"
+          }
+        ]
       },
       {
         "article_no": "제23조",
@@ -2385,6 +2392,19 @@
       "source_version_uid": "011350:267435:20250621",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20250621"
+    },
+    {
+      "promulgation_date": "20260922",
+      "promulgation_no": "21973",
+      "addendum_key": "2026092221973",
+      "content": "부칙 <제21973호,2026.9.22>\n제1조(시행일) 이 법은 공포 후 6개월이 경과한 날부터 시행한다.\n제2조(행정제재처분 효과의 승계에 관한 적용례) 제22조제4항의 개정규정은 이 법 시행 이후 낚시터업자의 지위를 승계하려는 경우부터 적용한다.",
+      "provision_id": "law:낚시관리및육성법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "289933",
+      "source_version_uid": "011350:289933:20270323",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20270323",
+      "enforcement_date": "20270323"
     }
   ],
   "appendices": [],
@@ -3487,8 +3507,10 @@
   "provision_id": "law:낚시관리및육성법#DOC",
   "addendum_provision_id": "law:낚시관리및육성법#ADDENDUM",
   "amendment_provision_id": "law:낚시관리및육성법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20270323"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "낚시 관리 및 육성법/법률/낚시 관리 및 육성법.json"
 }
