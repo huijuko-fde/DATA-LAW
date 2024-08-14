@@ -35,21 +35,21 @@
       "부서단위": [
         {
           "부서연락처": "044-205-7048",
-          "부서키": "349117",
+          "부서키": "432007",
           "부서명": "운영지원과",
           "소관부처명": "소방청",
           "소관부처코드": "1661000"
         },
         {
           "부서연락처": "044-205-7292",
-          "부서키": "349115",
+          "부서키": "432005",
           "부서명": "교육훈련담당관",
           "소관부처명": "소방청",
           "소관부처코드": "1661000"
         },
         {
           "부서연락처": "044-205-7423",
-          "부서키": "349113",
+          "부서키": "432003",
           "부서명": "보건안전담당관",
           "소관부처명": "소방청",
           "소관부처코드": "1661000"
@@ -2987,7 +2987,7 @@
             "target_law_name": "공무원고충처리규정",
             "target_article_no": "제3조의3",
             "target_article_title": "소방공무원 고충심사위원회",
-            "target_mst": "287521",
+            "target_mst": "290319",
             "target_url": "https://www.law.go.kr/법령/공무원고충처리규정/제3조의3",
             "resolve_method": "delegation",
             "source_provision_id": "law:소방공무원법#JO0027",
@@ -3006,7 +3006,7 @@
             "target_law_name": "공무원고충처리규정",
             "target_article_no": "",
             "target_article_title": "모든조문",
-            "target_mst": "287521",
+            "target_mst": "290319",
             "target_url": "https://www.law.go.kr/법령/공무원고충처리규정",
             "resolve_method": "delegation",
             "source_provision_id": "law:소방공무원법#JO0027",
@@ -3140,7 +3140,7 @@
             "target_law_name": "공무원보수규정",
             "target_article_no": "제5조",
             "target_article_title": "공무원의 봉급",
-            "target_mst": "288433",
+            "target_mst": "290321",
             "target_url": "https://www.law.go.kr/법령/공무원보수규정/제5조",
             "resolve_method": "delegation",
             "source_provision_id": "law:소방공무원법#JO0031",
