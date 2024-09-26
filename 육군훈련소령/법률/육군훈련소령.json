@@ -1,0 +1,221 @@
+{
+  "law_id": "004460",
+  "mst": "265531",
+  "version_uid": "004460:265531:20240926",
+  "law_name": "육군훈련소령",
+  "law_abbr": "",
+  "name_aliases": [],
+  "law_type": "대통령령",
+  "promulgation_no": "34908",
+  "promulgation_date": "20240926",
+  "enforcement_date": "20240926",
+  "revision_date": "20240926",
+  "revision_type": "타법개정",
+  "is_current": true,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "육군훈련소령",
+    "공포번호": "34908",
+    "전화번호": "02-748-6562",
+    "언어": "한글",
+    "제개정구분": "타법개정",
+    "법령ID": "004460",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "국방부",
+      "소관부처코드": "1290000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "대통령령",
+      "법종구분코드": "A0007"
+    },
+    "시행일자": "20240926",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "02-748-6562",
+        "부서키": "362503",
+        "부서명": "국군조직담당관",
+        "소관부처명": "국방부",
+        "소관부처코드": "1290000"
+      }
+    },
+    "법령명_한자": "육군훈련소령",
+    "법령명약칭": "",
+    "공포일자": "20240926",
+    "편장절관": "13010000"
+  },
+  "amendment_text": "⊙대통령령 제34908호(2024.9.26)\n군 조직 운영의 효율성을 높이기 위한 6개 법령의 일부개정에 관한 대통령령\n제1조 및 제2조 생략\n제3조(「육군훈련소령」의 개정) 육군훈련소령 일부를 다음과 같이 개정한다.\n제4조제2항을 다음과 같이 한다.\n② 참모장은 육군의 장성급 장교 또는 영관급 장교로 보한다.\n제4조부터 제6조까지 생략\n부칙\n이 영은 공포한 날부터 시행한다.",
+  "revision_reason": "[일괄개정]\n◇ 개정이유 및 주요내용\n군 조직 운영의 효율성을 높이기 위하여 장성급 장교로 보하던 해군잠수함사령부 등의 부사령관과 공군작전사령부 등의 참모장을 영관급 장교로도 보할 수 있도록 하고, 영관급 장교로 보하던 육군훈련소 등의 참모장을 장성급 장교로도 보할 수 있도록 하는 등의 내용으로 「공군작전사령부령」 등 6개 대통령령을 개정하려는 것임.\n<법제처 제공>",
+  "body": {
+    "format": "articles",
+    "article_count": 6,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "설치와 임무",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제1조(설치와 임무)\n①육군의 신병에 대한 군사의 기본훈련과 교육에 관한 사항을 관장하기 위하여 육군에 육군훈련소(이하 \"훈련소\"라 한다)를 둔다.\n②훈련소는 제1항의 신병외에 국방부장관이 필요하다고 인정하는 자에 대한 훈련과 교육을 할 수 있다.",
+        "enforcement_date": "20240926",
+        "relations": [],
+        "revision_type": "타법개정",
+        "changed": "N",
+        "article_key": "0001001",
+        "images": [],
+        "provision_id": "law:육군훈련소령#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "명칭 및 위치",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제2조(명칭 및 위치) 훈련소의 명칭과 위치는 국방부장관이 정한다.",
+        "enforcement_date": "20240926",
+        "relations": [],
+        "revision_type": "타법개정",
+        "changed": "N",
+        "article_key": "0002001",
+        "images": [],
+        "provision_id": "law:육군훈련소령#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "소장",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제3조(소장)\n①훈련소에 소장을 둔다.\n②소장은 육군의 장성급(將星級)장교로 보한다. <개정 1992.8.13, 2017.9.5>\n③소장은 육군참모총장의 명을 받아 훈련소의 업무를 통할하고 소속부하를 지휘ㆍ감독한다.",
+        "enforcement_date": "20240926",
+        "relations": [],
+        "revision_type": "타법개정",
+        "changed": "N",
+        "article_key": "0003001",
+        "images": [],
+        "provision_id": "law:육군훈련소령#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "참모장",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제4조(참모장)\n①훈련소에 참모장을 둔다.\n② 참모장은 육군의 장성급 장교 또는 영관급 장교로 보한다. <개정 2024.9.26>\n③참모장은 소장을 보좌하며 그 명을 받아 참모업무를 조정ㆍ감독한다.",
+        "enforcement_date": "20240926",
+        "relations": [],
+        "revision_type": "타법개정",
+        "changed": "Y",
+        "article_key": "0004001",
+        "moved": "000000",
+        "images": [],
+        "provision_id": "law:육군훈련소령#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "부서와 부대의 설치",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제5조(부서와 부대의 설치)\n①훈련소에 필요한 부서와 부대를 둔다.\n②제1항의 부서의 설치와 그 업무분장에 관한 사항은 육군참모총장이 정하고 부대의 설치와 임무 및 조직에 관한 사항은 국방부장관이 정한다.",
+        "enforcement_date": "20240926",
+        "relations": [],
+        "revision_type": "타법개정",
+        "changed": "N",
+        "article_key": "0005001",
+        "images": [],
+        "provision_id": "law:육군훈련소령#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "정원",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제6조(정원) 훈련소에 군인과 군무원을 두되 그 정원은 국방부장관이 정한다.",
+        "enforcement_date": "20240926",
+        "relations": [],
+        "revision_type": "타법개정",
+        "changed": "N",
+        "article_key": "0006001",
+        "images": [],
+        "provision_id": "law:육군훈련소령#JO0006"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19830212",
+      "promulgation_no": "11045",
+      "addendum_key": "1983021211045",
+      "content": "부칙 <제11045호,1983.2.12>\n이 영은 공포한 날로부터 시행한다.",
+      "provision_id": "law:육군훈련소령#ADDENDUM",
+      "is_future": false,
+      "source_mst": "265531",
+      "source_version_uid": "004460:265531:20240926",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20240926"
+    },
+    {
+      "promulgation_date": "19920813",
+      "promulgation_no": "13708",
+      "addendum_key": "1992081313708",
+      "content": "부칙(군인사법시행령) <제13708호,1992.8.13>\n제1조 (시행일) 이 영은 공포한 날부터 시행한다.\n제2조 (다른 법령의 개정) ①생략\n②육군훈련소령중 다음과 같이 개정한다.\n제3조 제2항을 다음과 같이 한다.\n②소장은 육군의 장관급장교로 보한다.\n③ 내지 ⑨생략",
+      "provision_id": "law:육군훈련소령#ADDENDUM",
+      "is_future": false,
+      "source_mst": "265531",
+      "source_version_uid": "004460:265531:20240926",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20240926"
+    },
+    {
+      "promulgation_date": "20170905",
+      "promulgation_no": "28266",
+      "addendum_key": "2017090528266",
+      "content": "부칙(군인사법 시행령) <제28266호,2017.9.5>\n제1조(시행일) 이 영은 공포한 날부터 시행한다. <단서 생략>\n제2조 및 제3조 생략\n제4조(다른 법령의 개정) ①부터 <72>까지 생략\n<73> 육군훈련소령 일부를 다음과 같이 개정한다.\n제3조제2항 중 \"장관급\"을 \"장성급(將星級)\"으로 한다.\n<74>부터 <90>까지 생략",
+      "provision_id": "law:육군훈련소령#ADDENDUM",
+      "is_future": false,
+      "source_mst": "265531",
+      "source_version_uid": "004460:265531:20240926",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20240926"
+    },
+    {
+      "promulgation_date": "20240926",
+      "promulgation_no": "34908",
+      "addendum_key": "2024092634908",
+      "content": "부칙(군 조직 운영의 효율성을 높이기 위한 6개 법령의 일부개정에 관한 대통령령) <제34908호,2024.9.26>\n이 영은 공포한 날부터 시행한다.",
+      "provision_id": "law:육군훈련소령#ADDENDUM",
+      "is_future": false,
+      "source_mst": "265531",
+      "source_version_uid": "004460:265531:20240926",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20240926"
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 6,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "phantom_self_refs": 0,
+    "phantom_self_ref_samples": [],
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 4,
+    "appendices_count": 0,
+    "pop_miss": 0,
+    "pop_miss_by_reason": {},
+    "pop_skipped_addendum": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/육군훈련소령"
+  },
+  "provision_id": "law:육군훈련소령#DOC",
+  "addendum_provision_id": "law:육군훈련소령#ADDENDUM",
+  "amendment_provision_id": "law:육군훈련소령#AMENDMENT",
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "육군훈련소령/법률/육군훈련소령.json"
+}
