@@ -1,0 +1,332 @@
+{
+  "law_id": "011713",
+  "mst": "266263",
+  "version_uid": "011713:266263:20241105",
+  "law_name": "예술인 복지법 시행규칙",
+  "law_abbr": "",
+  "name_aliases": [],
+  "law_type": "문화체육관광부령",
+  "promulgation_no": "00569",
+  "promulgation_date": "20241105",
+  "enforcement_date": "20241105",
+  "revision_date": "20241105",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "예술인 복지법 시행규칙",
+    "공포번호": "00569",
+    "전화번호": "044-203-2718",
+    "언어": "한글",
+    "제개정구분": "일부개정",
+    "법령ID": "011713",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "문화체육관광부",
+      "소관부처코드": "1371000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "문화체육관광부령",
+      "법종구분코드": "A0046"
+    },
+    "시행일자": "20241105",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "044-203-2718",
+        "부서키": "364631",
+        "부서명": "예술인권리보호과",
+        "소관부처명": "문화체육관광부",
+        "소관부처코드": "1371000"
+      }
+    },
+    "법령명_한자": "예술인 복지법 시행규칙",
+    "법령명약칭": "",
+    "공포일자": "20241105",
+    "편장절관": "17020000"
+  },
+  "amendment_text": "⊙문화체육관광부령 제569호\n예술인 복지법 시행규칙 일부개정령을 다음과 같이 공포한다.\n2024년 11월 5일\n문화체육관광부장관 (인)\n예술인 복지법 시행규칙 일부개정령\n예술인 복지법 시행규칙 일부를 다음과 같이 개정한다.\n제2조를 다음과 같이 신설한다.\n제2조(예술 활동 확인을 위한 개인정보 등 공유) 「예술인 복지법」(이하 \"법\"이라 한다) 제8조에 따른 한국예술인복지재단 또는 「예술인 복지법 시행령」(이하 \"영\"이라 한다) 제2조제3항에 따른 기관은 법 제3조의2제4항에 따라 법 제6조제2항에 따른 예술인경력정보시스템을 통하여 예술 활동의 증명에 관한 사항과 영 제2조의4에 따른 개인정보를 서로 공유할 수 있다.\n제3조제1항 각 호 외의 부분 중 \"「예술인 복지법」(이하 \"법\"이라 한다) 제5조제1항\"을 \"법 제5조제1항\"으로 한다.\n부칙\n이 규칙은 공포한 날부터 시행한다.",
+  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n한국예술인복지재단 또는 지방자치단체가 출연ㆍ출자한 지역문화재단 중 문화체육관광부장관이 해당 지방자치단체의 장과 협의하여 고시하는 기관은 예술 활동의 증명에 관한 사항과 해당 예술인 식별에 필요하다고 인정되는 개인정보를 서로 공유할 수 있도록 하는 등의 내용으로 「예술인 복지법」이 개정됨에 따라, 이들 기관들이 예술인경력정보시스템을 통하여 예술 활동의 증명에 관한 사항과 성명ㆍ연락처 등의 개인정보를 서로 공유할 수 있도록 하려는 것임.",
+  "body": {
+    "format": "articles",
+    "article_count": 5,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제1조(목적) 이 규칙은 「예술인 복지법」 및 같은 법 시행령에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "20241105",
+        "relations": [],
+        "revision_type": "일부개정",
+        "changed": "N",
+        "article_key": "0001001",
+        "images": [],
+        "provision_id": "law:예술인복지법시행규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "예술 활동 확인을 위한 개인정보 등 공유",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제2조(예술 활동 확인을 위한 개인정보 등 공유) 「예술인 복지법」(이하 \"법\"이라 한다) 제8조에 따른 한국예술인복지재단 또는 「예술인 복지법 시행령」(이하 \"영\"이라 한다) 제2조제3항에 따른 기관은 법 제3조의2제4항에 따라 법 제6조제2항에 따른 예술인경력정보시스템을 통하여 예술 활동의 증명에 관한 사항과 영 제2조의4에 따른 개인정보를 서로 공유할 수 있다.",
+        "enforcement_date": "20241105",
+        "relations": [],
+        "note": "[본조신설 2024.11.5]",
+        "revision_type": "일부개정",
+        "changed": "Y",
+        "article_key": "0002001",
+        "moved": "000000",
+        "images": [],
+        "provision_id": "law:예술인복지법시행규칙#JO0002"
+      },
+      {
+        "article_no": "제2조의2",
+        "article_title": "",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제2조의2 삭제 <2023.9.22>",
+        "enforcement_date": "20241105",
+        "relations": [],
+        "revision_type": "일부개정",
+        "changed": "N",
+        "article_key": "0002021",
+        "images": [],
+        "provision_id": "law:예술인복지법시행규칙#JO0002_02"
+      },
+      {
+        "article_no": "제2조의3",
+        "article_title": "",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제2조의3 삭제 <2023.9.22>",
+        "enforcement_date": "20241105",
+        "relations": [],
+        "revision_type": "일부개정",
+        "changed": "N",
+        "article_key": "0002031",
+        "images": [],
+        "provision_id": "law:예술인복지법시행규칙#JO0002_03"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "표준계약서의 보급",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제3조(표준계약서의 보급)\n① 문화체육관광부장관은 법 제5조제1항에 따라 다음 각 호의 사항이 포함된 표준계약서를 공정거래위원회 위원장과의 협의를 거쳐 개발하여야 한다. <개정 2016.5.4, 2024.11.5>\n1. 계약 당사자\n2. 계약 기간\n3. 업무 또는 과업의 범위\n4. 업무 또는 과업의 시간 및 장소\n5. 계약 당사자의 권리와 의무\n6. 계약 금액\n7. 저작권 및 저작인접권 관련 사항\n8. 국민연금, 건강보험, 고용보험에 관한 사항(근로계약의 경우만 해당한다)\n9. 산업재해보상보험에 관한 사항\n10. 계약의 효력 발생, 변경 및 해지, 손해배상에 관한 사항\n11. 계약 불이행의 불가항력 사유, 권리ㆍ의무의 승계금지\n12. 분쟁해결 관련 사항\n② 문화체육관광부장관은 법 제5조제1항에 따라 개발된 표준계약서를 문화체육관광부 홈페이지 등에 게시하여야 한다. <개정 2016.5.4>",
+        "enforcement_date": "20241105",
+        "relations": [],
+        "revision_type": "일부개정",
+        "changed": "Y",
+        "article_key": "0003001",
+        "moved": "000000",
+        "images": [],
+        "provision_id": "law:예술인복지법시행규칙#JO0003"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20121116",
+      "promulgation_no": "00135",
+      "addendum_key": "2012111600135",
+      "content": "부칙 <제135호,2012.11.16>\n이 규칙은 2012년 11월 18일부터 시행한다.",
+      "provision_id": "law:예술인복지법시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "266263",
+      "source_version_uid": "011713:266263:20241105",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20241105"
+    },
+    {
+      "promulgation_date": "20140331",
+      "promulgation_no": "00168",
+      "addendum_key": "2014033100168",
+      "content": "부칙 <제168호,2014.3.31>\n제1조(시행일) 이 규칙은 2014년 3월 31일부터 시행한다.\n제2조(예술 활동 증명에 관한 경과조치) 이 규칙 시행 당시 종전의 별표 제1호에 따라 예술 활동을 증명한 사람은 별표 제1호의 개정규정에 따라 예술 활동을 증명한 것으로 본다.",
+      "provision_id": "law:예술인복지법시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "266263",
+      "source_version_uid": "011713:266263:20241105",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20241105"
+    },
+    {
+      "promulgation_date": "20141226",
+      "promulgation_no": "00189",
+      "addendum_key": "2014122600189",
+      "content": "부칙 <제189호,2014.12.26>\n이 규칙은 공포한 날부터 시행한다.",
+      "provision_id": "law:예술인복지법시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "266263",
+      "source_version_uid": "011713:266263:20241105",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20241105"
+    },
+    {
+      "promulgation_date": "20160504",
+      "promulgation_no": "00257",
+      "addendum_key": "2016050400257",
+      "content": "부칙 <제257호,2016.5.4>\n이 규칙은 2016년 5월 4일부터 시행한다.",
+      "provision_id": "law:예술인복지법시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "266263",
+      "source_version_uid": "011713:266263:20241105",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20241105"
+    },
+    {
+      "promulgation_date": "20210324",
+      "promulgation_no": "00434",
+      "addendum_key": "2021032400434",
+      "content": "부칙 <제434호,2021.3.24>\n제1조(시행일) 이 규칙은 공포한 날부터 시행한다.\n제2조(위원의 연임에 관한 적용례) 제2조의2제2항의 개정규정은 이 규칙 시행 이후 위원을 위촉하는 경우부터 적용한다. 이 경우 연임 횟수는 이 규칙 시행 전에 위원으로 위촉되어 개시된 임기를 제외하고 계산한다.",
+      "provision_id": "law:예술인복지법시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "266263",
+      "source_version_uid": "011713:266263:20241105",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20241105"
+    },
+    {
+      "promulgation_date": "20230630",
+      "promulgation_no": "00516",
+      "addendum_key": "2023063000516",
+      "content": "부칙 <제516호,2023.6.30>\n제1조(시행일) 이 규칙은 공포한 날부터 시행한다.\n제2조(예술활동증명의 유효기간 연장에 관한 특례) ① 제2조의3제2항에도 불구하고 한국예술인복지재단은 이 규칙 시행 전에 코로나바이러스감염증-19로 「재난 및 안전관리 기본법」 제38조제2항에 따른 주의 이상의 위기경보가 발령되어 있던 기간 중에 유효기간이 만료된 예술활동증명의 경우에 대해서도 제2조의3제2항의 개정규정에 따라 유효기간을 연장할 수 있다.\n② 제1항에 따른 유효기간 연장은 이 규칙 시행 이후 법 제7조 또는 제10조 등에 따라 실시하는 지원부터 적용한다.\n제3조(예술활동증명의 유효기간에 관한 경과조치) 제2조의3제1항 및 별표 2의 개정규정에도 불구하고 이 규칙 시행 전에 신청한 예술활동증명의 유효기간에 대해서는 종전의 제2조의3 및 별표 2의 규정에 따른다.\n제4조(예술활동증명의 세부 기준에 관한 경과조치) 별표 1의 개정규정에도 불구하고 이 규칙 시행 전에 신청한 예술활동증명의 세부기준에 대해서는 종전의 규정에 따른다.",
+      "provision_id": "law:예술인복지법시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "266263",
+      "source_version_uid": "011713:266263:20241105",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20241105"
+    },
+    {
+      "promulgation_date": "20230922",
+      "promulgation_no": "00523",
+      "addendum_key": "2023092200523",
+      "content": "부칙 <제523호,2023.9.22>\n이 규칙은 2023년 9월 22일부터 시행한다.",
+      "provision_id": "law:예술인복지법시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "266263",
+      "source_version_uid": "011713:266263:20241105",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20241105"
+    },
+    {
+      "promulgation_date": "20241105",
+      "promulgation_no": "00569",
+      "addendum_key": "2024110500569",
+      "content": "부칙 <제569호,2024.11.5>\n이 규칙은 공포한 날부터 시행한다.",
+      "provision_id": "law:예술인복지법시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "266263",
+      "source_version_uid": "011713:266263:20241105",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20241105"
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "삭제 <2023. 9. 22.>",
+      "enforcement_date": "20241105",
+      "content": "■ 예술인 복지법 시행규칙 [별표 1] 삭제 <2023. 9. 22.>",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=266263&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145145869",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145145867",
+          "name": "law0117132024110500569KC_000100E_20241105.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145145869",
+          "name": "law0117132024110500569KC_000100E_20241105.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145145871",
+          "name": "000100110201_P1_20241105.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "law:예술인복지법시행규칙#BYL0001",
+      "filename": "별표1_삭제 _2023. 9. 22._.pdf",
+      "file_dir": "별표",
+      "local_path": "별표/별표1_삭제 _2023. 9. 22._.pdf",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "삭제 <2023. 6. 30.>",
+      "enforcement_date": "20241105",
+      "content": "■ 예술인 복지법 시행규칙 [별표 2] 삭제 <2023. 6. 30.>",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=266263&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145145875",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145145873",
+          "name": "law0117132024110500569KC_000200E_20241105.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145145875",
+          "name": "law0117132024110500569KC_000200E_20241105.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145145877",
+          "name": "000200110201_P1_20241105.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "law:예술인복지법시행규칙#BYL0002",
+      "filename": "별표2_삭제 _2023. 6. 30._.pdf",
+      "file_dir": "별표",
+      "local_path": "별표/별표2_삭제 _2023. 6. 30._.pdf",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 5,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "phantom_self_refs": 0,
+    "phantom_self_ref_samples": [],
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 8,
+    "appendices_count": 2,
+    "pop_miss": 0,
+    "pop_miss_by_reason": {},
+    "pop_skipped_addendum": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/예술인 복지법 시행규칙"
+  },
+  "provision_id": "law:예술인복지법시행규칙#DOC",
+  "addendum_provision_id": "law:예술인복지법시행규칙#ADDENDUM",
+  "amendment_provision_id": "law:예술인복지법시행규칙#AMENDMENT",
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "예술인 복지법/시행규칙/예술인 복지법 시행규칙.json"
+}
