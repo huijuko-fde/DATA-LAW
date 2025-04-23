@@ -39,7 +39,7 @@
     "연락부서": {
       "부서단위": {
         "부서연락처": "044-203-2534",
-        "부서키": "378083",
+        "부서키": "432089",
         "부서명": "국어정책과",
         "소관부처명": "문화체육관광부",
         "소관부처코드": "1371000"
@@ -1338,7 +1338,7 @@
             "target_law_name": "소방분야 전문용어 표준화 고시",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "2100000226062",
+            "target_mst": "2100000285168",
             "target_url": "https://www.law.go.kr/행정규칙/소방분야 전문용어 표준화 고시",
             "resolve_method": "delegation+current",
             "target_doc_target": "admrul",
