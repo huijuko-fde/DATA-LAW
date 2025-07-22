@@ -125,6 +125,11 @@
             "enforcement_date": "99990101",
             "change": "삭제",
             "content": ""
+          },
+          {
+            "enforcement_date": "99990101",
+            "change": "신설",
+            "content": "제2조 삭제 <2013.2.15>"
           }
         ]
       },
@@ -5867,6 +5872,6 @@
     "99990101"
   ],
   "has_future": true,
-  "version_count": 3,
+  "version_count": 4,
   "git_path": "자유무역협정의 이행을 위한 관세법의 특례에 관한 법률/시행령/자유무역협정의 이행을 위한 관세법의 특례에 관한 법률 시행령.json"
 }
