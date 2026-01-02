@@ -1523,7 +1523,14 @@
         "changed": "N",
         "article_key": "0029001",
         "images": [],
-        "provision_id": "law:간호법#JO0029"
+        "provision_id": "law:간호법#JO0029",
+        "scheduled": [
+          {
+            "enforcement_date": "99990101",
+            "change": "개정",
+            "content": "제29조(간호사 대 환자 수)\n① 국가는 병원급 의료기관 중 보건복지부령으로 정하는 의료기관에 근무하는 간호사 1명당 환자 수를 줄이기 위하여 필요한 정책을 수립하고 그에 따른 지원을 할 수 있다.\n② 보건복지부장관은 제1항에 따른 의료기관의 간호사 1명당 환자 수의 적정 기준(이하 \"간호사적정배치기준\"이라 한다)을 다음 각 호의 사항을 고려하여 정하여야 한다. 이 경우 간호사는 환자를 직접 간호하는 간호사만을 말한다.\n1. 환자의 특성 및 중증도\n2. 의료기관의 종류별 특성\n3. 간호사의 근무 형태 및 근무 부서별 특성\n4. 그 밖에 보건복지부장관이 필요하다고 인정하는 사항\n③ 제2항에 따라 간호사적정배치기준을 정할 때에는 제38조에 따른 간호정책심의위원회의 심의ㆍ의결을 거쳐야 한다.\n④ 제1항에 따른 의료기관의 장은 해당 의료기관의 간호사 배치 현황에 관한 정보를 보건복지부령으로 정하는 바에 따라 공개하여야 한다.\n⑤ 보건복지부장관은 간호사적정배치기준 준수 현황을 관계 법령에 따라 실시하는 의료기관에 대한 평가에 반영하도록 노력하여야 한다.\n⑥ 그 밖에 간호사적정배치기준의 설정에 필요한 사항은 보건복지부령으로 정한다."
+          }
+        ]
       },
       {
         "article_no": "제30조",
@@ -2040,6 +2047,19 @@
       "source_version_uid": "014736:283885:20260911",
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20260911"
+    },
+    {
+      "promulgation_date": "20260915",
+      "promulgation_no": "21929",
+      "addendum_key": "2026091521929",
+      "content": "부칙 <제21929호,2026.9.15>\n이 법은 공포한 날부터 3년을 넘지 아니하는 범위에서 보건복지부령으로 정하는 시점부터 시행한다.",
+      "provision_id": "law:간호법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "289557",
+      "source_version_uid": "014736:289557:99990101",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "99990101",
+      "enforcement_date": "99990101"
     }
   ],
   "appendices": [],
@@ -2073,8 +2093,10 @@
   "provision_id": "law:간호법#DOC",
   "addendum_provision_id": "law:간호법#ADDENDUM",
   "amendment_provision_id": "law:간호법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "99990101"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "간호법/법률/간호법.json"
 }
