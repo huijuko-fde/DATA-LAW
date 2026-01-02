@@ -3440,8 +3440,10 @@
   "provision_id": "law:외교부와그소속기관직제#DOC",
   "addendum_provision_id": "law:외교부와그소속기관직제#ADDENDUM",
   "amendment_provision_id": "law:외교부와그소속기관직제#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "99990101"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "외교부와 그 소속기관 직제/법률/외교부와 그 소속기관 직제.json"
 }
