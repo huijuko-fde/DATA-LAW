@@ -36,7 +36,7 @@
     "연락부서": {
       "부서단위": {
         "부서연락처": "044-201-1517, 1516",
-        "부서키": "399765",
+        "부서키": "429397",
         "부서명": "농촌정책과-총괄",
         "소관부처명": "농림축산식품부",
         "소관부처코드": "1543000"
@@ -2310,7 +2310,7 @@
       "target_category": "자치법규",
       "source_article_no": "제23조의6",
       "link_text": "조례로",
-      "ordinance_count": 167,
+      "ordinance_count": 168,
       "ordinances": [
         {
           "target_law_name": "익산시 로컬푸드 육성 및 지원에 관한 조례",
@@ -2418,19 +2418,14 @@
           "target_url": "https://www.law.go.kr/자치법규/장성군 먹거리 기본 조례"
         },
         {
+          "target_law_name": "울산광역시 울주군 먹거리 기본 조례",
+          "target_mst": "2170065",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 울주군 먹거리 기본 조례"
+        },
+        {
           "target_law_name": "울산광역시 먹거리 기본 조례",
           "target_mst": "2160993",
           "target_url": "https://www.law.go.kr/자치법규/울산광역시 먹거리 기본 조례"
-        },
-        {
-          "target_law_name": "용인시 먹거리 보장 기본 조례",
-          "target_mst": "2062829",
-          "target_url": "https://www.law.go.kr/자치법규/용인시 먹거리 보장 기본 조례"
-        },
-        {
-          "target_law_name": "안성시 안전한 먹거리 보장 기본 조례",
-          "target_mst": "2071777",
-          "target_url": "https://www.law.go.kr/자치법규/안성시 안전한 먹거리 보장 기본 조례"
         },
         {
           "target_law_name": "안양시 먹거리 보장 기본 조례",
@@ -2449,18 +2444,18 @@
         },
         {
           "target_law_name": "여주시 먹거리 보장 기본 조례",
-          "target_mst": "1959673",
+          "target_mst": "2174117",
           "target_url": "https://www.law.go.kr/자치법규/여주시 먹거리 보장 기본 조례"
-        },
-        {
-          "target_law_name": "안동시 로컬푸드 육성 및 지원에 관한 조례",
-          "target_mst": "2103259",
-          "target_url": "https://www.law.go.kr/자치법규/안동시 로컬푸드 육성 및 지원에 관한 조례"
         },
         {
           "target_law_name": "연천군 먹거리 보장 기본 조례",
           "target_mst": "1883471",
           "target_url": "https://www.law.go.kr/자치법규/연천군 먹거리 보장 기본 조례"
+        },
+        {
+          "target_law_name": "안산시 먹거리계획 기본 조례",
+          "target_mst": "1768583",
+          "target_url": "https://www.law.go.kr/자치법규/안산시 먹거리계획 기본 조례"
         },
         {
           "target_law_name": "영동군 먹거리 기본권 보장 조례",
@@ -2483,6 +2478,16 @@
           "target_url": "https://www.law.go.kr/자치법규/예산군 먹거리 보장에 관한 조례"
         },
         {
+          "target_law_name": "오산시 먹거리 기본 조례",
+          "target_mst": "1838149",
+          "target_url": "https://www.law.go.kr/자치법규/오산시 먹거리 기본 조례"
+        },
+        {
+          "target_law_name": "안동시 로컬푸드 육성 및 지원에 관한 조례",
+          "target_mst": "2103259",
+          "target_url": "https://www.law.go.kr/자치법규/안동시 로컬푸드 육성 및 지원에 관한 조례"
+        },
+        {
           "target_law_name": "아산시 먹거리 보장 기본 조례",
           "target_mst": "1992721",
           "target_url": "https://www.law.go.kr/자치법규/아산시 먹거리 보장 기본 조례"
@@ -2493,19 +2498,9 @@
           "target_url": "https://www.law.go.kr/자치법규/신안군 먹거리 기본 조례"
         },
         {
-          "target_law_name": "시흥시 먹거리 보장 기본 조례",
-          "target_mst": "2077029",
-          "target_url": "https://www.law.go.kr/자치법규/시흥시 먹거리 보장 기본 조례"
-        },
-        {
-          "target_law_name": "안산시 먹거리계획 기본 조례",
-          "target_mst": "1768583",
-          "target_url": "https://www.law.go.kr/자치법규/안산시 먹거리계획 기본 조례"
-        },
-        {
-          "target_law_name": "오산시 먹거리 기본 조례",
-          "target_mst": "1838149",
-          "target_url": "https://www.law.go.kr/자치법규/오산시 먹거리 기본 조례"
+          "target_law_name": "안성시 안전한 먹거리 보장 기본 조례",
+          "target_mst": "2071777",
+          "target_url": "https://www.law.go.kr/자치법규/안성시 안전한 먹거리 보장 기본 조례"
         },
         {
           "target_law_name": "옥천군 먹거리 보장 기본 조례",
@@ -2531,6 +2526,11 @@
           "target_law_name": "완주로컬푸드 육성 및 지원에 관한 조례",
           "target_mst": "2085647",
           "target_url": "https://www.law.go.kr/자치법규/완주로컬푸드 육성 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "용인시 먹거리 보장 기본 조례",
+          "target_mst": "2062829",
+          "target_url": "https://www.law.go.kr/자치법규/용인시 먹거리 보장 기본 조례"
         },
         {
           "target_law_name": "전북특별자치도 먹거리 기본 조례",
@@ -2754,13 +2754,18 @@
         },
         {
           "target_law_name": "춘천시 지역먹거리 육성 및 지원에 관한 조례",
-          "target_mst": "2067691",
+          "target_mst": "2173899",
           "target_url": "https://www.law.go.kr/자치법규/춘천시 지역먹거리 육성 및 지원에 관한 조례"
         },
         {
           "target_law_name": "충주시 먹거리 보장 기본 조례",
           "target_mst": "1809173",
           "target_url": "https://www.law.go.kr/자치법규/충주시 먹거리 보장 기본 조례"
+        },
+        {
+          "target_law_name": "시흥시 먹거리 보장 기본 조례",
+          "target_mst": "2077029",
+          "target_url": "https://www.law.go.kr/자치법규/시흥시 먹거리 보장 기본 조례"
         },
         {
           "target_law_name": "순천시 먹거리 보장 기본 조례",
@@ -2969,7 +2974,7 @@
         },
         {
           "target_law_name": "부산광역시 먹거리 기본 조례",
-          "target_mst": "1940941",
+          "target_mst": "2170549",
           "target_url": "https://www.law.go.kr/자치법규/부산광역시 먹거리 기본 조례"
         },
         {
@@ -2994,7 +2999,7 @@
         },
         {
           "target_law_name": "산청군 먹거리 보장 기본 조례",
-          "target_mst": "1877681",
+          "target_mst": "2170899",
           "target_url": "https://www.law.go.kr/자치법규/산청군 먹거리 보장 기본 조례"
         },
         {
@@ -3139,7 +3144,7 @@
         },
         {
           "target_law_name": "무주군 먹거리 기본 조례",
-          "target_mst": "1934941",
+          "target_mst": "2172755",
           "target_url": "https://www.law.go.kr/자치법규/무주군 먹거리 기본 조례"
         },
         {
@@ -3167,7 +3172,7 @@
     "phantom_self_refs": 0,
     "phantom_self_ref_samples": [],
     "ordinance_groups": 1,
-    "ordinance_docs_total": 167,
+    "ordinance_docs_total": 168,
     "addenda_count": 25,
     "appendices_count": 0,
     "pop_miss": 0,
