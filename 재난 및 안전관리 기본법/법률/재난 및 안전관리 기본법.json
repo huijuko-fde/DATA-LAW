@@ -37,63 +37,63 @@
       "부서단위": [
         {
           "부서연락처": "044-205-4124",
-          "부서키": "423581",
+          "부서키": "431915",
           "부서명": "안전정책총괄과",
           "소관부처명": "행정안전부",
           "소관부처코드": "1741000"
         },
         {
           "부서연락처": "044-205-5315",
-          "부서키": "423579",
+          "부서키": "431913",
           "부서명": "복구지원과-피해신고, 복구계획, 특별재난지역",
           "소관부처명": "행정안전부",
           "소관부처코드": "1741000"
         },
         {
           "부서연락처": "044-205-7568",
-          "부서키": "423575",
+          "부서키": "431909",
           "부서명": "대응총괄과",
           "소관부처명": "소방청",
           "소관부처코드": "1661000"
         },
         {
           "부서연락처": "032-835-2246",
-          "부서키": "423583",
+          "부서키": "431917",
           "부서명": "수색구조과-긴급구조",
           "소관부처명": "해양경찰청",
           "소관부처코드": "1532000"
         },
         {
           "부서연락처": "044-205-4244,4252,4254,4266",
-          "부서키": "423585",
+          "부서키": "431919",
           "부서명": "재난안전점검과-안전점검, 안전조치명령, 지역축제",
           "소관부처명": "행정안전부",
           "소관부처코드": "1741000"
         },
         {
           "부서연락처": "044-205-5297, 5299",
-          "부서키": "423587",
+          "부서키": "431921",
           "부서명": "재난대응훈련과-재난대비훈련, 종사자교육",
           "소관부처명": "행정안전부",
           "소관부처코드": "1741000"
         },
         {
           "부서연락처": "044-205-5221, 5218, 5213",
-          "부서키": "423589",
+          "부서키": "431923",
           "부서명": "재난대응총괄과-위기관리매뉴얼, 재난사태, 재난 예보·경보 등 응급조치",
           "소관부처명": "행정안전부",
           "소관부처코드": "1741000"
         },
         {
           "부서연락처": "044-205-5357",
-          "부서키": "423591",
+          "부서키": "431925",
           "부서명": "재난보험과-재난보험",
           "소관부처명": "행정안전부",
           "소관부처코드": "1741000"
         },
         {
           "부서연락처": "044-205-5120, 5126",
-          "부서키": "423593",
+          "부서키": "431927",
           "부서명": "재난관리정책과-재난관리기금, 특별교부세",
           "소관부처명": "행정안전부",
           "소관부처코드": "1741000"
@@ -1640,8 +1640,8 @@
             "target_category": "법령",
             "source_article_no": "제25조의4",
             "source_clause": "제25조의4제8항",
-            "link_text": "대법원규칙",
-            "line_text": "대법원규칙",
+            "link_text": "중앙선거관리위원회규칙",
+            "line_text": "중앙선거관리위원회규칙",
             "target_law_name": "헌법재판소 기능연속성계획 수립 및 시행에 관한 규칙",
             "target_article_no": "",
             "target_article_title": "모든조문",
@@ -1659,8 +1659,8 @@
             "target_category": "법령",
             "source_article_no": "제25조의4",
             "source_clause": "제25조의4제8항",
-            "link_text": "중앙선거관리위원회규칙",
-            "line_text": "중앙선거관리위원회규칙",
+            "link_text": "대법원규칙",
+            "line_text": "대법원규칙",
             "target_law_name": "헌법재판소 기능연속성계획 수립 및 시행에 관한 규칙",
             "target_article_no": "",
             "target_article_title": "모든조문",
@@ -1696,27 +1696,6 @@
             "source_clause": "제26조제1항",
             "link_text": "지정할 수 있다",
             "line_text": "관계 중앙행정기관의 장은 소관 분야의 국가핵심기반을 다음 각 호의 기준에 따라 조정위원회의 심의를 거쳐 지정할 수 있다.",
-            "target_law_name": "국가기반시설 지정(신규, 변경)",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "2100000086409",
-            "target_url": "https://www.law.go.kr/행정규칙/국가기반시설 지정(신규, 변경)",
-            "resolve_method": "delegation",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙",
-            "source_provision_id": "law:재난및안전관리기본법#JO0026",
-            "reference_id": "admrul:국가기반시설지정(신규,변경)#DOC",
-            "target_repo": "ADMRUL",
-            "target_git_path_guess": "국가기반시설 지정(신규, 변경)/국가기반시설 지정(신규, 변경).json"
-          },
-          {
-            "relation_type": "delegation",
-            "delegation_type": "위임행정규칙",
-            "target_category": "행정규칙",
-            "source_article_no": "제26조",
-            "source_clause": "제26조제1항",
-            "link_text": "지정할 수 있다",
-            "line_text": "관계 중앙행정기관의 장은 소관 분야의 국가핵심기반을 다음 각 호의 기준에 따라 조정위원회의 심의를 거쳐 지정할 수 있다.",
             "target_law_name": "국가기반시설 지정",
             "target_article_no": "",
             "target_article_title": "",
@@ -1729,6 +1708,27 @@
             "reference_id": "admrul:국가기반시설지정#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "국가기반시설 지정/국가기반시설 지정.json"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제26조",
+            "source_clause": "제26조제1항",
+            "link_text": "지정할 수 있다",
+            "line_text": "관계 중앙행정기관의 장은 소관 분야의 국가핵심기반을 다음 각 호의 기준에 따라 조정위원회의 심의를 거쳐 지정할 수 있다.",
+            "target_law_name": "국가기반시설 지정(신규, 변경)",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2100000086409",
+            "target_url": "https://www.law.go.kr/행정규칙/국가기반시설 지정(신규, 변경)",
+            "resolve_method": "delegation",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙",
+            "source_provision_id": "law:재난및안전관리기본법#JO0026",
+            "reference_id": "admrul:국가기반시설지정(신규,변경)#DOC",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "국가기반시설 지정(신규, 변경)/국가기반시설 지정(신규, 변경).json"
           },
           {
             "relation_type": "delegation",
@@ -2193,7 +2193,7 @@
             "source_article_no": "제30조",
             "source_clause": "제30조제1항",
             "link_text": "대통령령",
-            "line_text": "대통령령으로 정하는 시설",
+            "line_text": "대통령령으로 정하는 긴급한",
             "target_law_name": "재난 및 안전관리 기본법 시행령",
             "target_article_no": "제38조",
             "target_article_title": "긴급안전점검 대상 시설 등",
@@ -2212,7 +2212,7 @@
             "source_article_no": "제30조",
             "source_clause": "제30조제1항",
             "link_text": "대통령령",
-            "line_text": "대통령령으로 정하는 긴급한",
+            "line_text": "대통령령으로 정하는 시설",
             "target_law_name": "재난 및 안전관리 기본법 시행령",
             "target_article_no": "제38조",
             "target_article_title": "긴급안전점검 대상 시설 등",
@@ -2338,14 +2338,7 @@
         "changed": "N",
         "article_key": "0031021",
         "images": [],
-        "provision_id": "law:재난및안전관리기본법#JO0031_02",
-        "scheduled": [
-          {
-            "enforcement_date": "20270108",
-            "change": "개정",
-            "content": "제31조의2(안전취약계층에 대한 안전 환경 지원)\n① 제3조제5호가목에 따른 재난관리책임기관의 장은 안전취약계층이 재난이나 그 밖의 각종 사고로부터 안전을 확보할 수 있는 생활환경을 조성하기 위하여 안전용품의 제공 및 시설 개선 등 필요한 사항을 지원하기 위하여 노력하여야 한다.\n② 제1항에 따른 지원의 대상, 범위, 방법 및 절차 등에 필요한 사항은 대통령령 또는 해당 지방자치단체의 조례로 정한다.\n③ 행정안전부장관은 제3조제5호가목에 따른 재난관리책임기관의 장에게 제1항에 따른 지원이 원활히 수행되는 데 필요한 사항을 요청할 수 있다. 이 경우 요청을 받은 재난관리책임기관의 장은 특별한 사유가 없으면 요청에 따라야 한다.\n④ 행정안전부장관은 제1항에 따른 지원과 관련하여 지방자치단체에 필요한 지원 및 지도를 할 수 있다.\n⑤ 지방자치단체의 장은 재난 발생 시 자력으로 대피가 어려운 안전취약계층의 인명피해를 최소화하기 위하여 대피장소 및 대피로의 정비 등 안전취약계층 대피계획을 수립ㆍ추진하여야 한다. <신설 2026.7.7>"
-          }
-        ]
+        "provision_id": "law:재난및안전관리기본법#JO0031_02"
       },
       {
         "article_no": "제31조의3",
@@ -2785,6 +2778,32 @@
             "source_clause": "제34조의5제1항",
             "link_text": "매뉴얼을 작성",
             "line_text": "① 재난관리책임기관의 장은 재난을 효율적으로 관리하기 위하여 재난유형에 따라 다음 각 호의 위기관리 매뉴얼을 작성·운용하고, 이를 준수하도록 노력하여야 한다. 이 경우 재난대응활동계획과 위기관리 매뉴얼이 서로 연계되도록 하여야 한다.",
+            "target_law_name": "(한국원자력의학원) 재난관리 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2200000148655",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국원자력의학원) 재난관리 규정",
+            "resolve_method": "delegation+current",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관",
+            "superseded_target": {
+              "target_law_name": "(한국원자력의학원) 재난관리 규정",
+              "target_mst": "2200000133339",
+              "target_url": "https://www.law.go.kr/학칙공단/(한국원자력의학원) 재난관리 규정"
+            },
+            "source_provision_id": "law:재난및안전관리기본법#JO0034_05",
+            "reference_id": "SchlPubRul:(한국원자력의학원)재난관리규정#DOC",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한국원자력의학원) 재난관리 규정/(한국원자력의학원) 재난관리 규정.json"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임학칙공단",
+            "target_category": "학칙공단",
+            "source_article_no": "제34조의5",
+            "source_clause": "제34조의5제1항",
+            "link_text": "매뉴얼을 작성",
+            "line_text": "① 재난관리책임기관의 장은 재난을 효율적으로 관리하기 위하여 재난유형에 따라 다음 각 호의 위기관리 매뉴얼을 작성·운용하고, 이를 준수하도록 노력하여야 한다. 이 경우 재난대응활동계획과 위기관리 매뉴얼이 서로 연계되도록 하여야 한다.",
             "target_law_name": "(건설근로자공제회) 재난 및 안전관리 규정",
             "target_article_no": "",
             "target_article_title": "",
@@ -2852,91 +2871,16 @@
             "source_clause": "제34조의5제1항",
             "link_text": "매뉴얼을 작성",
             "line_text": "① 재난관리책임기관의 장은 재난을 효율적으로 관리하기 위하여 재난유형에 따라 다음 각 호의 위기관리 매뉴얼을 작성·운용하고, 이를 준수하도록 노력하여야 한다. 이 경우 재난대응활동계획과 위기관리 매뉴얼이 서로 연계되도록 하여야 한다.",
-            "target_law_name": "(한국원자력의학원) 재난관리 규정",
+            "target_law_name": "(국립생태원) 위기·재난·안전관리 업무에 관한 규정",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "2200000148655",
-            "target_url": "https://www.law.go.kr/학칙공단/(한국원자력의학원) 재난관리 규정",
-            "resolve_method": "delegation+current",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관",
-            "superseded_target": {
-              "target_law_name": "(한국원자력의학원) 재난관리 규정",
-              "target_mst": "2200000133339",
-              "target_url": "https://www.law.go.kr/학칙공단/(한국원자력의학원) 재난관리 규정"
-            },
-            "source_provision_id": "law:재난및안전관리기본법#JO0034_05",
-            "reference_id": "SchlPubRul:(한국원자력의학원)재난관리규정#DOC",
-            "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국원자력의학원) 재난관리 규정/(한국원자력의학원) 재난관리 규정.json"
-          },
-          {
-            "relation_type": "delegation",
-            "delegation_type": "위임학칙공단",
-            "target_category": "학칙공단",
-            "source_article_no": "제34조의5",
-            "source_clause": "제34조의5제1항",
-            "link_text": "매뉴얼을 작성",
-            "line_text": "① 재난관리책임기관의 장은 재난을 효율적으로 관리하기 위하여 재난유형에 따라 다음 각 호의 위기관리 매뉴얼을 작성·운용하고, 이를 준수하도록 노력하여야 한다. 이 경우 재난대응활동계획과 위기관리 매뉴얼이 서로 연계되도록 하여야 한다.",
-            "target_law_name": "(한국환경연구원) 안전관리규칙",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "2200000133829",
-            "target_url": "https://www.law.go.kr/학칙공단/(한국환경연구원) 안전관리규칙",
+            "target_mst": "2200000128547",
+            "target_url": "https://www.law.go.kr/학칙공단/(국립생태원) 위기·재난·안전관리 업무에 관한 규정",
             "resolve_method": "delegation",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관",
             "source_provision_id": "law:재난및안전관리기본법#JO0034_05",
-            "reference_id": "SchlPubRul:(한국환경연구원)안전관리규칙#DOC",
+            "reference_id": "SchlPubRul:(국립생태원)위기재난안전관리업무에관한규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국환경연구원) 안전관리규칙/(한국환경연구원) 안전관리규칙.json"
-          },
-          {
-            "relation_type": "delegation",
-            "delegation_type": "위임학칙공단",
-            "target_category": "학칙공단",
-            "source_article_no": "제34조의5",
-            "source_clause": "제34조의5제1항",
-            "link_text": "매뉴얼을 작성",
-            "line_text": "① 재난관리책임기관의 장은 재난을 효율적으로 관리하기 위하여 재난유형에 따라 다음 각 호의 위기관리 매뉴얼을 작성·운용하고, 이를 준수하도록 노력하여야 한다. 이 경우 재난대응활동계획과 위기관리 매뉴얼이 서로 연계되도록 하여야 한다.",
-            "target_law_name": "(영화진흥위원회) 안전관리규정",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "2200000150321",
-            "target_url": "https://www.law.go.kr/학칙공단/(영화진흥위원회) 안전관리규정",
-            "resolve_method": "delegation+current",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관",
-            "superseded_target": {
-              "target_law_name": "(영화진흥위원회) 안전관리규정",
-              "target_mst": "2200000127177",
-              "target_url": "https://www.law.go.kr/학칙공단/(영화진흥위원회) 안전관리규정"
-            },
-            "source_provision_id": "law:재난및안전관리기본법#JO0034_05",
-            "reference_id": "SchlPubRul:(영화진흥위원회)안전관리규정#DOC",
-            "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(영화진흥위원회) 안전관리규정/(영화진흥위원회) 안전관리규정.json"
-          },
-          {
-            "relation_type": "delegation",
-            "delegation_type": "위임학칙공단",
-            "target_category": "학칙공단",
-            "source_article_no": "제34조의5",
-            "source_clause": "제34조의5제1항",
-            "link_text": "매뉴얼을 작성",
-            "line_text": "① 재난관리책임기관의 장은 재난을 효율적으로 관리하기 위하여 재난유형에 따라 다음 각 호의 위기관리 매뉴얼을 작성·운용하고, 이를 준수하도록 노력하여야 한다. 이 경우 재난대응활동계획과 위기관리 매뉴얼이 서로 연계되도록 하여야 한다.",
-            "target_law_name": "(인천항만공사) 재난관리규정",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "2200000128087",
-            "target_url": "https://www.law.go.kr/학칙공단/(인천항만공사) 재난관리규정",
-            "resolve_method": "delegation",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관",
-            "source_provision_id": "law:재난및안전관리기본법#JO0034_05",
-            "reference_id": "SchlPubRul:(인천항만공사)재난관리규정#DOC",
-            "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천항만공사) 재난관리규정/(인천항만공사) 재난관리규정.json"
+            "target_git_path_guess": "(국립생태원) 위기·재난·안전관리 업무에 관한 규정/(국립생태원) 위기·재난·안전관리 업무에 관한 규정.json"
           },
           {
             "relation_type": "delegation",
@@ -3005,6 +2949,32 @@
             "reference_id": "SchlPubRul:(한국가스안전공사)재난관리업무처리지침#DOC",
             "target_repo": "SCHLPUBRUL",
             "target_git_path_guess": "(한국가스안전공사) 재난관리업무 처리지침/(한국가스안전공사) 재난관리업무 처리지침.json"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임학칙공단",
+            "target_category": "학칙공단",
+            "source_article_no": "제34조의5",
+            "source_clause": "제34조의5제1항",
+            "link_text": "매뉴얼을 작성",
+            "line_text": "① 재난관리책임기관의 장은 재난을 효율적으로 관리하기 위하여 재난유형에 따라 다음 각 호의 위기관리 매뉴얼을 작성·운용하고, 이를 준수하도록 노력하여야 한다. 이 경우 재난대응활동계획과 위기관리 매뉴얼이 서로 연계되도록 하여야 한다.",
+            "target_law_name": "(한국장애인개발원) 재난 및 안전보건관리 규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2200000160605",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국장애인개발원) 재난 및 안전보건관리 규칙",
+            "resolve_method": "delegation+current",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관",
+            "superseded_target": {
+              "target_law_name": "(한국장애인개발원) 재난 및 안전보건관리 규칙",
+              "target_mst": "2200000133989",
+              "target_url": "https://www.law.go.kr/학칙공단/(한국장애인개발원) 재난 및 안전보건관리 규칙"
+            },
+            "source_provision_id": "law:재난및안전관리기본법#JO0034_05",
+            "reference_id": "SchlPubRul:(한국장애인개발원)재난및안전보건관리규칙#DOC",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한국장애인개발원) 재난 및 안전보건관리 규칙/(한국장애인개발원) 재난 및 안전보건관리 규칙.json"
           },
           {
             "relation_type": "delegation",
@@ -3113,6 +3083,58 @@
             "source_clause": "제34조의5제1항",
             "link_text": "매뉴얼을 작성",
             "line_text": "① 재난관리책임기관의 장은 재난을 효율적으로 관리하기 위하여 재난유형에 따라 다음 각 호의 위기관리 매뉴얼을 작성·운용하고, 이를 준수하도록 노력하여야 한다. 이 경우 재난대응활동계획과 위기관리 매뉴얼이 서로 연계되도록 하여야 한다.",
+            "target_law_name": "(한국전기안전공사) 재난관리규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2200000153929",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국전기안전공사) 재난관리규정",
+            "resolve_method": "delegation+current",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관",
+            "superseded_target": {
+              "target_law_name": "(한국전기안전공사) 재난관리규정",
+              "target_mst": "2200000134489",
+              "target_url": "https://www.law.go.kr/학칙공단/(한국전기안전공사) 재난관리규정"
+            },
+            "source_provision_id": "law:재난및안전관리기본법#JO0034_05",
+            "reference_id": "SchlPubRul:(한국전기안전공사)재난관리규정#DOC",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한국전기안전공사) 재난관리규정/(한국전기안전공사) 재난관리규정.json"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임학칙공단",
+            "target_category": "학칙공단",
+            "source_article_no": "제34조의5",
+            "source_clause": "제34조의5제1항",
+            "link_text": "매뉴얼을 작성",
+            "line_text": "① 재난관리책임기관의 장은 재난을 효율적으로 관리하기 위하여 재난유형에 따라 다음 각 호의 위기관리 매뉴얼을 작성·운용하고, 이를 준수하도록 노력하여야 한다. 이 경우 재난대응활동계획과 위기관리 매뉴얼이 서로 연계되도록 하여야 한다.",
+            "target_law_name": "(한국철도공사) 비상대응 시행세칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2200000139249",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국철도공사) 비상대응 시행세칙",
+            "resolve_method": "delegation+current",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관",
+            "superseded_target": {
+              "target_law_name": "(한국철도공사) 비상대응 시행세칙",
+              "target_mst": "2200000104641",
+              "target_url": "https://www.law.go.kr/학칙공단/(한국철도공사) 비상대응 시행세칙"
+            },
+            "source_provision_id": "law:재난및안전관리기본법#JO0034_05",
+            "reference_id": "SchlPubRul:(한국철도공사)비상대응시행세칙#DOC",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한국철도공사) 비상대응 시행세칙/(한국철도공사) 비상대응 시행세칙.json"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임학칙공단",
+            "target_category": "학칙공단",
+            "source_article_no": "제34조의5",
+            "source_clause": "제34조의5제1항",
+            "link_text": "매뉴얼을 작성",
+            "line_text": "① 재난관리책임기관의 장은 재난을 효율적으로 관리하기 위하여 재난유형에 따라 다음 각 호의 위기관리 매뉴얼을 작성·운용하고, 이를 준수하도록 노력하여야 한다. 이 경우 재난대응활동계획과 위기관리 매뉴얼이 서로 연계되도록 하여야 한다.",
             "target_law_name": "(한국산림복지진흥원) 안전보건관리규정",
             "target_article_no": "",
             "target_article_title": "",
@@ -3156,53 +3178,6 @@
             "reference_id": "SchlPubRul:(한국산업단지공단)재난안전관리규정#DOC",
             "target_repo": "SCHLPUBRUL",
             "target_git_path_guess": "(한국산업단지공단) 재난안전관리규정/(한국산업단지공단) 재난안전관리규정.json"
-          },
-          {
-            "relation_type": "delegation",
-            "delegation_type": "위임학칙공단",
-            "target_category": "학칙공단",
-            "source_article_no": "제34조의5",
-            "source_clause": "제34조의5제1항",
-            "link_text": "매뉴얼을 작성",
-            "line_text": "① 재난관리책임기관의 장은 재난을 효율적으로 관리하기 위하여 재난유형에 따라 다음 각 호의 위기관리 매뉴얼을 작성·운용하고, 이를 준수하도록 노력하여야 한다. 이 경우 재난대응활동계획과 위기관리 매뉴얼이 서로 연계되도록 하여야 한다.",
-            "target_law_name": "(한국청소년상담복지개발원) 재해 재난 대비 개인정보처리시스템 위기대응 매뉴얼",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "2200000134903",
-            "target_url": "https://www.law.go.kr/학칙공단/(한국청소년상담복지개발원) 재해 재난 대비 개인정보처리시스템 위기대응 매뉴얼",
-            "resolve_method": "delegation",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관",
-            "source_provision_id": "law:재난및안전관리기본법#JO0034_05",
-            "reference_id": "SchlPubRul:(한국청소년상담복지개발원)재해재난대비개인정보처리시스템위기대응매뉴얼#DOC",
-            "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국청소년상담복지개발원) 재해 재난 대비 개인정보처리시스템 위기대응 매뉴얼/(한국청소년상담복지개발원) 재해 재난 대비 개인정보처리시스템 위기대응 매뉴얼.json"
-          },
-          {
-            "relation_type": "delegation",
-            "delegation_type": "위임학칙공단",
-            "target_category": "학칙공단",
-            "source_article_no": "제34조의5",
-            "source_clause": "제34조의5제1항",
-            "link_text": "매뉴얼을 작성",
-            "line_text": "① 재난관리책임기관의 장은 재난을 효율적으로 관리하기 위하여 재난유형에 따라 다음 각 호의 위기관리 매뉴얼을 작성·운용하고, 이를 준수하도록 노력하여야 한다. 이 경우 재난대응활동계획과 위기관리 매뉴얼이 서로 연계되도록 하여야 한다.",
-            "target_law_name": "(한국환경공단) 재난 및 안전관리 예규",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "2200000157609",
-            "target_url": "https://www.law.go.kr/학칙공단/(한국환경공단) 재난 및 안전관리 예규",
-            "resolve_method": "delegation+current",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관",
-            "superseded_target": {
-              "target_law_name": "(한국환경공단) 재난 및 안전관리 예규",
-              "target_mst": "2200000087413",
-              "target_url": "https://www.law.go.kr/학칙공단/(한국환경공단) 재난 및 안전관리 예규"
-            },
-            "source_provision_id": "law:재난및안전관리기본법#JO0034_05",
-            "reference_id": "SchlPubRul:(한국환경공단)재난및안전관리예규#DOC",
-            "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국환경공단) 재난 및 안전관리 예규/(한국환경공단) 재난 및 안전관리 예규.json"
           },
           {
             "relation_type": "delegation",
@@ -3259,6 +3234,140 @@
             "source_clause": "제34조의5제1항",
             "link_text": "매뉴얼을 작성",
             "line_text": "① 재난관리책임기관의 장은 재난을 효율적으로 관리하기 위하여 재난유형에 따라 다음 각 호의 위기관리 매뉴얼을 작성·운용하고, 이를 준수하도록 노력하여야 한다. 이 경우 재난대응활동계획과 위기관리 매뉴얼이 서로 연계되도록 하여야 한다.",
+            "target_law_name": "(한국환경연구원) 안전관리규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2200000133829",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국환경연구원) 안전관리규칙",
+            "resolve_method": "delegation",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관",
+            "source_provision_id": "law:재난및안전관리기본법#JO0034_05",
+            "reference_id": "SchlPubRul:(한국환경연구원)안전관리규칙#DOC",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한국환경연구원) 안전관리규칙/(한국환경연구원) 안전관리규칙.json"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임학칙공단",
+            "target_category": "학칙공단",
+            "source_article_no": "제34조의5",
+            "source_clause": "제34조의5제1항",
+            "link_text": "매뉴얼을 작성",
+            "line_text": "① 재난관리책임기관의 장은 재난을 효율적으로 관리하기 위하여 재난유형에 따라 다음 각 호의 위기관리 매뉴얼을 작성·운용하고, 이를 준수하도록 노력하여야 한다. 이 경우 재난대응활동계획과 위기관리 매뉴얼이 서로 연계되도록 하여야 한다.",
+            "target_law_name": "(한국환경공단) 재난 및 안전관리 예규",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2200000157609",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국환경공단) 재난 및 안전관리 예규",
+            "resolve_method": "delegation+current",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관",
+            "superseded_target": {
+              "target_law_name": "(한국환경공단) 재난 및 안전관리 예규",
+              "target_mst": "2200000087413",
+              "target_url": "https://www.law.go.kr/학칙공단/(한국환경공단) 재난 및 안전관리 예규"
+            },
+            "source_provision_id": "law:재난및안전관리기본법#JO0034_05",
+            "reference_id": "SchlPubRul:(한국환경공단)재난및안전관리예규#DOC",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한국환경공단) 재난 및 안전관리 예규/(한국환경공단) 재난 및 안전관리 예규.json"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임학칙공단",
+            "target_category": "학칙공단",
+            "source_article_no": "제34조의5",
+            "source_clause": "제34조의5제1항",
+            "link_text": "매뉴얼을 작성",
+            "line_text": "① 재난관리책임기관의 장은 재난을 효율적으로 관리하기 위하여 재난유형에 따라 다음 각 호의 위기관리 매뉴얼을 작성·운용하고, 이를 준수하도록 노력하여야 한다. 이 경우 재난대응활동계획과 위기관리 매뉴얼이 서로 연계되도록 하여야 한다.",
+            "target_law_name": "(한국청소년상담복지개발원) 재해 재난 대비 개인정보처리시스템 위기대응 매뉴얼",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2200000134903",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국청소년상담복지개발원) 재해 재난 대비 개인정보처리시스템 위기대응 매뉴얼",
+            "resolve_method": "delegation",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관",
+            "source_provision_id": "law:재난및안전관리기본법#JO0034_05",
+            "reference_id": "SchlPubRul:(한국청소년상담복지개발원)재해재난대비개인정보처리시스템위기대응매뉴얼#DOC",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한국청소년상담복지개발원) 재해 재난 대비 개인정보처리시스템 위기대응 매뉴얼/(한국청소년상담복지개발원) 재해 재난 대비 개인정보처리시스템 위기대응 매뉴얼.json"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임학칙공단",
+            "target_category": "학칙공단",
+            "source_article_no": "제34조의5",
+            "source_clause": "제34조의5제1항",
+            "link_text": "매뉴얼을 작성",
+            "line_text": "① 재난관리책임기관의 장은 재난을 효율적으로 관리하기 위하여 재난유형에 따라 다음 각 호의 위기관리 매뉴얼을 작성·운용하고, 이를 준수하도록 노력하여야 한다. 이 경우 재난대응활동계획과 위기관리 매뉴얼이 서로 연계되도록 하여야 한다.",
+            "target_law_name": "(영화진흥위원회) 안전관리규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2200000150321",
+            "target_url": "https://www.law.go.kr/학칙공단/(영화진흥위원회) 안전관리규정",
+            "resolve_method": "delegation+current",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관",
+            "superseded_target": {
+              "target_law_name": "(영화진흥위원회) 안전관리규정",
+              "target_mst": "2200000127177",
+              "target_url": "https://www.law.go.kr/학칙공단/(영화진흥위원회) 안전관리규정"
+            },
+            "source_provision_id": "law:재난및안전관리기본법#JO0034_05",
+            "reference_id": "SchlPubRul:(영화진흥위원회)안전관리규정#DOC",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(영화진흥위원회) 안전관리규정/(영화진흥위원회) 안전관리규정.json"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임학칙공단",
+            "target_category": "학칙공단",
+            "source_article_no": "제34조의5",
+            "source_clause": "제34조의5제1항",
+            "link_text": "매뉴얼을 작성",
+            "line_text": "① 재난관리책임기관의 장은 재난을 효율적으로 관리하기 위하여 재난유형에 따라 다음 각 호의 위기관리 매뉴얼을 작성·운용하고, 이를 준수하도록 노력하여야 한다. 이 경우 재난대응활동계획과 위기관리 매뉴얼이 서로 연계되도록 하여야 한다.",
+            "target_law_name": "(시청자미디어재단) 재난 및 안전관리 지침",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2200000131549",
+            "target_url": "https://www.law.go.kr/학칙공단/(시청자미디어재단) 재난 및 안전관리 지침",
+            "resolve_method": "delegation",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관",
+            "source_provision_id": "law:재난및안전관리기본법#JO0034_05",
+            "reference_id": "SchlPubRul:(시청자미디어재단)재난및안전관리지침#DOC",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(시청자미디어재단) 재난 및 안전관리 지침/(시청자미디어재단) 재난 및 안전관리 지침.json"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임학칙공단",
+            "target_category": "학칙공단",
+            "source_article_no": "제34조의5",
+            "source_clause": "제34조의5제1항",
+            "link_text": "매뉴얼을 작성",
+            "line_text": "① 재난관리책임기관의 장은 재난을 효율적으로 관리하기 위하여 재난유형에 따라 다음 각 호의 위기관리 매뉴얼을 작성·운용하고, 이를 준수하도록 노력하여야 한다. 이 경우 재난대응활동계획과 위기관리 매뉴얼이 서로 연계되도록 하여야 한다.",
+            "target_law_name": "(한국자산관리공사) 안전·보건 및 재난관리 업무규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2200000154309",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국자산관리공사) 안전·보건 및 재난관리 업무규정",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:재난및안전관리기본법#JO0034_05",
+            "reference_id": "SchlPubRul:(한국자산관리공사)안전보건및재난관리업무규정#DOC",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한국자산관리공사) 안전·보건 및 재난관리 업무규정/(한국자산관리공사) 안전·보건 및 재난관리 업무규정.json"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임학칙공단",
+            "target_category": "학칙공단",
+            "source_article_no": "제34조의5",
+            "source_clause": "제34조의5제1항",
+            "link_text": "매뉴얼을 작성",
+            "line_text": "① 재난관리책임기관의 장은 재난을 효율적으로 관리하기 위하여 재난유형에 따라 다음 각 호의 위기관리 매뉴얼을 작성·운용하고, 이를 준수하도록 노력하여야 한다. 이 경우 재난대응활동계획과 위기관리 매뉴얼이 서로 연계되도록 하여야 한다.",
             "target_law_name": "(노사발전재단) 재난 및 안전관리 지침",
             "target_article_no": "",
             "target_article_title": "",
@@ -3306,129 +3415,18 @@
             "source_clause": "제34조의5제1항",
             "link_text": "매뉴얼을 작성",
             "line_text": "① 재난관리책임기관의 장은 재난을 효율적으로 관리하기 위하여 재난유형에 따라 다음 각 호의 위기관리 매뉴얼을 작성·운용하고, 이를 준수하도록 노력하여야 한다. 이 경우 재난대응활동계획과 위기관리 매뉴얼이 서로 연계되도록 하여야 한다.",
-            "target_law_name": "(한국철도공사) 비상대응 시행세칙",
+            "target_law_name": "(인천항만공사) 재난관리규정",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "2200000139249",
-            "target_url": "https://www.law.go.kr/학칙공단/(한국철도공사) 비상대응 시행세칙",
-            "resolve_method": "delegation+current",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관",
-            "superseded_target": {
-              "target_law_name": "(한국철도공사) 비상대응 시행세칙",
-              "target_mst": "2200000104641",
-              "target_url": "https://www.law.go.kr/학칙공단/(한국철도공사) 비상대응 시행세칙"
-            },
-            "source_provision_id": "law:재난및안전관리기본법#JO0034_05",
-            "reference_id": "SchlPubRul:(한국철도공사)비상대응시행세칙#DOC",
-            "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 비상대응 시행세칙/(한국철도공사) 비상대응 시행세칙.json"
-          },
-          {
-            "relation_type": "delegation",
-            "delegation_type": "위임학칙공단",
-            "target_category": "학칙공단",
-            "source_article_no": "제34조의5",
-            "source_clause": "제34조의5제1항",
-            "link_text": "매뉴얼을 작성",
-            "line_text": "① 재난관리책임기관의 장은 재난을 효율적으로 관리하기 위하여 재난유형에 따라 다음 각 호의 위기관리 매뉴얼을 작성·운용하고, 이를 준수하도록 노력하여야 한다. 이 경우 재난대응활동계획과 위기관리 매뉴얼이 서로 연계되도록 하여야 한다.",
-            "target_law_name": "(한국전기안전공사) 재난관리규정",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "2200000153929",
-            "target_url": "https://www.law.go.kr/학칙공단/(한국전기안전공사) 재난관리규정",
-            "resolve_method": "delegation+current",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관",
-            "superseded_target": {
-              "target_law_name": "(한국전기안전공사) 재난관리규정",
-              "target_mst": "2200000134489",
-              "target_url": "https://www.law.go.kr/학칙공단/(한국전기안전공사) 재난관리규정"
-            },
-            "source_provision_id": "law:재난및안전관리기본법#JO0034_05",
-            "reference_id": "SchlPubRul:(한국전기안전공사)재난관리규정#DOC",
-            "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전기안전공사) 재난관리규정/(한국전기안전공사) 재난관리규정.json"
-          },
-          {
-            "relation_type": "delegation",
-            "delegation_type": "위임학칙공단",
-            "target_category": "학칙공단",
-            "source_article_no": "제34조의5",
-            "source_clause": "제34조의5제1항",
-            "link_text": "매뉴얼을 작성",
-            "line_text": "① 재난관리책임기관의 장은 재난을 효율적으로 관리하기 위하여 재난유형에 따라 다음 각 호의 위기관리 매뉴얼을 작성·운용하고, 이를 준수하도록 노력하여야 한다. 이 경우 재난대응활동계획과 위기관리 매뉴얼이 서로 연계되도록 하여야 한다.",
-            "target_law_name": "(국립생태원) 위기·재난·안전관리 업무에 관한 규정",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "2200000128547",
-            "target_url": "https://www.law.go.kr/학칙공단/(국립생태원) 위기·재난·안전관리 업무에 관한 규정",
-            "resolve_method": "delegation",
-            "source_provision_id": "law:재난및안전관리기본법#JO0034_05",
-            "reference_id": "SchlPubRul:(국립생태원)위기재난안전관리업무에관한규정#DOC",
-            "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국립생태원) 위기·재난·안전관리 업무에 관한 규정/(국립생태원) 위기·재난·안전관리 업무에 관한 규정.json"
-          },
-          {
-            "relation_type": "delegation",
-            "delegation_type": "위임학칙공단",
-            "target_category": "학칙공단",
-            "source_article_no": "제34조의5",
-            "source_clause": "제34조의5제1항",
-            "link_text": "매뉴얼을 작성",
-            "line_text": "① 재난관리책임기관의 장은 재난을 효율적으로 관리하기 위하여 재난유형에 따라 다음 각 호의 위기관리 매뉴얼을 작성·운용하고, 이를 준수하도록 노력하여야 한다. 이 경우 재난대응활동계획과 위기관리 매뉴얼이 서로 연계되도록 하여야 한다.",
-            "target_law_name": "(한국장애인개발원) 재난 및 안전보건관리 규칙",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "2200000133989",
-            "target_url": "https://www.law.go.kr/학칙공단/(한국장애인개발원) 재난 및 안전보건관리 규칙",
+            "target_mst": "2200000128087",
+            "target_url": "https://www.law.go.kr/학칙공단/(인천항만공사) 재난관리규정",
             "resolve_method": "delegation",
             "target_doc_target": "pi",
             "target_doc_kind": "공단정관",
             "source_provision_id": "law:재난및안전관리기본법#JO0034_05",
-            "reference_id": "SchlPubRul:(한국장애인개발원)재난및안전보건관리규칙#DOC",
+            "reference_id": "SchlPubRul:(인천항만공사)재난관리규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장애인개발원) 재난 및 안전보건관리 규칙/(한국장애인개발원) 재난 및 안전보건관리 규칙.json"
-          },
-          {
-            "relation_type": "delegation",
-            "delegation_type": "위임학칙공단",
-            "target_category": "학칙공단",
-            "source_article_no": "제34조의5",
-            "source_clause": "제34조의5제1항",
-            "link_text": "매뉴얼을 작성",
-            "line_text": "① 재난관리책임기관의 장은 재난을 효율적으로 관리하기 위하여 재난유형에 따라 다음 각 호의 위기관리 매뉴얼을 작성·운용하고, 이를 준수하도록 노력하여야 한다. 이 경우 재난대응활동계획과 위기관리 매뉴얼이 서로 연계되도록 하여야 한다.",
-            "target_law_name": "(한국자산관리공사) 안전·보건 및 재난관리 업무규정",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "2200000154309",
-            "target_url": "https://www.law.go.kr/학칙공단/(한국자산관리공사) 안전·보건 및 재난관리 업무규정",
-            "resolve_method": "delegation",
-            "source_provision_id": "law:재난및안전관리기본법#JO0034_05",
-            "reference_id": "SchlPubRul:(한국자산관리공사)안전보건및재난관리업무규정#DOC",
-            "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국자산관리공사) 안전·보건 및 재난관리 업무규정/(한국자산관리공사) 안전·보건 및 재난관리 업무규정.json"
-          },
-          {
-            "relation_type": "delegation",
-            "delegation_type": "위임학칙공단",
-            "target_category": "학칙공단",
-            "source_article_no": "제34조의5",
-            "source_clause": "제34조의5제1항",
-            "link_text": "매뉴얼을 작성",
-            "line_text": "① 재난관리책임기관의 장은 재난을 효율적으로 관리하기 위하여 재난유형에 따라 다음 각 호의 위기관리 매뉴얼을 작성·운용하고, 이를 준수하도록 노력하여야 한다. 이 경우 재난대응활동계획과 위기관리 매뉴얼이 서로 연계되도록 하여야 한다.",
-            "target_law_name": "(시청자미디어재단) 재난 및 안전관리 지침",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "2200000131549",
-            "target_url": "https://www.law.go.kr/학칙공단/(시청자미디어재단) 재난 및 안전관리 지침",
-            "resolve_method": "delegation",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관",
-            "source_provision_id": "law:재난및안전관리기본법#JO0034_05",
-            "reference_id": "SchlPubRul:(시청자미디어재단)재난및안전관리지침#DOC",
-            "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(시청자미디어재단) 재난 및 안전관리 지침/(시청자미디어재단) 재난 및 안전관리 지침.json"
+            "target_git_path_guess": "(인천항만공사) 재난관리규정/(인천항만공사) 재난관리규정.json"
           },
           {
             "relation_type": "delegation",
@@ -4084,14 +4082,7 @@
         "changed": "N",
         "article_key": "0040001",
         "images": [],
-        "provision_id": "law:재난및안전관리기본법#JO0040",
-        "scheduled": [
-          {
-            "enforcement_date": "20270108",
-            "change": "개정",
-            "content": "제40조(대피명령)\n① 시장ㆍ군수ㆍ구청장과 지역통제단장(대통령령으로 정하는 권한을 행사하는 경우에만 해당한다. 이하 이 조에서 같다)은 재난이 발생하거나 발생할 우려가 있는 경우에 사람의 생명 또는 신체나 재산에 대한 위해를 방지하기 위하여 필요하면 해당 지역 주민이나 그 지역 안에 있는 사람에게 대피하도록 명하거나 선박ㆍ자동차 등을 그 소유자ㆍ관리자 또는 점유자에게 대피시킬 것을 명할 수 있다. 이 경우 미리 대피장소를 지정할 수 있고, 대통령령으로 정하는 방법에 따라 대피방법을 안내하여야 한다. <개정 2012.2.22, 2019.12.3, 2026.7.7>\n② 제1항에 따른 대피명령을 받은 경우에는 즉시 명령에 따라야 한다. <개정 2012.2.22>\n③ 시장ㆍ군수ㆍ구청장과 지역통제단장은 제31조의2제5항의 대피계획에 따라 자력으로 대피가 어려운 안전취약계층의 대피를 지원할 수 있다. <신설 2026.7.7>\n④ 시장ㆍ군수ㆍ구청장과 지역통제단장은 제1항에 따른 대피명령을 한 경우 제38조의2제3항 및 제4항에 따른 예보ㆍ경보ㆍ통지를 실시하려는 자에게 그 내용에 대피장소, 대피방법 등 대피명령에 관한 정보를 포함하도록 요청할 수 있다. 이 경우 요청을 받은 자는 정당한 사유가 없으면 요청에 따라야 한다. <신설 2026.7.7>\n⑤ 제1항부터 제4항까지에서 규정한 사항 외에 대피장소의 인력 배치 등 대피명령에 필요한 사항은 대통령령으로 정한다. <신설 2026.7.7>"
-          }
-        ]
+        "provision_id": "law:재난및안전관리기본법#JO0040"
       },
       {
         "article_no": "제41조",
@@ -5909,7 +5900,7 @@
             "source_article_no": "제66조의11",
             "source_clause": "제66조의11제1항",
             "link_text": "대통령령",
-            "line_text": "대통령령으로 정하는 바에",
+            "line_text": "대통령령으로 정하는 지역축제",
             "target_law_name": "재난 및 안전관리 기본법 시행령",
             "target_article_no": "제73조의9",
             "target_article_title": "지역축제 개최 시 안전관리조치",
@@ -5928,25 +5919,6 @@
             "source_article_no": "제66조의11",
             "source_clause": "제66조의11제1항",
             "link_text": "대통령령",
-            "line_text": "대통령령으로 정하는 지역축제",
-            "target_law_name": "재난 및 안전관리 기본법 시행령",
-            "target_article_no": "제73조의9",
-            "target_article_title": "지역축제 개최 시 안전관리조치",
-            "target_mst": "288259",
-            "target_url": "https://www.law.go.kr/법령/재난 및 안전관리 기본법 시행령/제73조의9",
-            "resolve_method": "delegation",
-            "source_provision_id": "law:재난및안전관리기본법#JO0066_11",
-            "reference_id": "law:재난및안전관리기본법시행령#JO0073_09",
-            "target_repo": "LAW",
-            "target_git_path_guess": "재난 및 안전관리 기본법/시행령/재난 및 안전관리 기본법 시행령.json"
-          },
-          {
-            "relation_type": "delegation",
-            "delegation_type": "시행령",
-            "target_category": "법령",
-            "source_article_no": "제66조의11",
-            "source_clause": "제66조의11제3항",
-            "link_text": "대통령령",
             "line_text": "대통령령으로 정하는 바에",
             "target_law_name": "재난 및 안전관리 기본법 시행령",
             "target_article_no": "제73조의9",
@@ -5967,6 +5939,25 @@
             "source_clause": "제66조의11제3항",
             "link_text": "대통령령",
             "line_text": "대통령령으로 정하는 지역축제",
+            "target_law_name": "재난 및 안전관리 기본법 시행령",
+            "target_article_no": "제73조의9",
+            "target_article_title": "지역축제 개최 시 안전관리조치",
+            "target_mst": "288259",
+            "target_url": "https://www.law.go.kr/법령/재난 및 안전관리 기본법 시행령/제73조의9",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:재난및안전관리기본법#JO0066_11",
+            "reference_id": "law:재난및안전관리기본법시행령#JO0073_09",
+            "target_repo": "LAW",
+            "target_git_path_guess": "재난 및 안전관리 기본법/시행령/재난 및 안전관리 기본법 시행령.json"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제66조의11",
+            "source_clause": "제66조의11제3항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는 바에",
             "target_law_name": "재난 및 안전관리 기본법 시행령",
             "target_article_no": "제73조의9",
             "target_article_title": "지역축제 개최 시 안전관리조치",
@@ -8465,19 +8456,6 @@
       "source_version_uid": "009640:282883:20260722",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20260722"
-    },
-    {
-      "promulgation_date": "20260707",
-      "promulgation_no": "21834",
-      "addendum_key": "2026070721834",
-      "content": "부칙 <제21834호,2026.7.7>\n이 법은 공포 후 6개월이 경과한 날부터 시행한다.",
-      "provision_id": "law:재난및안전관리기본법#ADDENDUM",
-      "is_future": true,
-      "source_mst": "287801",
-      "source_version_uid": "009640:287801:20270108",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20270108",
-      "enforcement_date": "20270108"
     }
   ],
   "appendices": [],
@@ -8488,7 +8466,7 @@
       "target_category": "자치법규",
       "source_article_no": "제11조",
       "link_text": "조례로",
-      "ordinance_count": 245,
+      "ordinance_count": 244,
       "ordinances": [
         {
           "target_law_name": "장흥군 안전관리위원회 구성 및 운영 조례",
@@ -8532,7 +8510,7 @@
         },
         {
           "target_law_name": "김포시 안전관리위원회ㆍ안전관리민관협력위원회ㆍ안전문화운동 추진협의회 운영 조례",
-          "target_mst": "2086233",
+          "target_mst": "2171007",
           "target_url": "https://www.law.go.kr/자치법규/김포시 안전관리위원회ㆍ안전관리민관협력위원회ㆍ안전문화운동 추진협의회 운영 조례"
         },
         {
@@ -8661,6 +8639,11 @@
           "target_url": "https://www.law.go.kr/자치법규/보성군 안전관리위원회 구성 및 운영에 관한 조례"
         },
         {
+          "target_law_name": "보령시 안전관리위원회 운영 조례",
+          "target_mst": "1985281",
+          "target_url": "https://www.law.go.kr/자치법규/보령시 안전관리위원회 운영 조례"
+        },
+        {
           "target_law_name": "전남광주통합특별시 동구 안전관리위원회 구성 및 운영에 관한 조례",
           "target_mst": "2148211",
           "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 동구 안전관리위원회 구성 및 운영에 관한 조례"
@@ -8669,11 +8652,6 @@
           "target_law_name": "전남광주통합특별시 북구 안전관리위원회 구성 및 운영에 관한 조례",
           "target_mst": "2147263",
           "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 북구 안전관리위원회 구성 및 운영에 관한 조례"
-        },
-        {
-          "target_law_name": "보령시 안전관리위원회 운영 조례",
-          "target_mst": "1985281",
-          "target_url": "https://www.law.go.kr/자치법규/보령시 안전관리위원회 운영 조례"
         },
         {
           "target_law_name": "밀양시 안전관리위원회 운영 조례",
@@ -8717,7 +8695,7 @@
         },
         {
           "target_law_name": "대전광역시 유성구 안전관리위원회 운영 조례",
-          "target_mst": "2056571",
+          "target_mst": "2169201",
           "target_url": "https://www.law.go.kr/자치법규/대전광역시 유성구 안전관리위원회 운영 조례"
         },
         {
@@ -8732,7 +8710,7 @@
         },
         {
           "target_law_name": "대전광역시 동구 안전관리위원회 조례",
-          "target_mst": "2164099",
+          "target_mst": "2171389",
           "target_url": "https://www.law.go.kr/자치법규/대전광역시 동구 안전관리위원회 조례"
         },
         {
@@ -8972,7 +8950,7 @@
         },
         {
           "target_law_name": "경상남도 재난 및 안전관리 기본 조례",
-          "target_mst": "2105697",
+          "target_mst": "2174867",
           "target_url": "https://www.law.go.kr/자치법규/경상남도 재난 및 안전관리 기본 조례"
         },
         {
@@ -9102,13 +9080,8 @@
         },
         {
           "target_law_name": "부산광역시 강서구 안전관리위원회 조례",
-          "target_mst": "2048721",
+          "target_mst": "2175753",
           "target_url": "https://www.law.go.kr/자치법규/부산광역시 강서구 안전관리위원회 조례"
-        },
-        {
-          "target_law_name": "부산광역시 금정구 안전도시 조례",
-          "target_mst": "1944833",
-          "target_url": "https://www.law.go.kr/자치법규/부산광역시 금정구 안전도시 조례"
         },
         {
           "target_law_name": "용인시 안전관리위원회 운영 조례",
@@ -9134,11 +9107,6 @@
           "target_law_name": "옥천군 안전관리위원회 운영 조례",
           "target_mst": "1818043",
           "target_url": "https://www.law.go.kr/자치법규/옥천군 안전관리위원회 운영 조례"
-        },
-        {
-          "target_law_name": "오산시 안전관리위원회 운영에 관한 조례",
-          "target_mst": "1413073",
-          "target_url": "https://www.law.go.kr/자치법규/오산시 안전관리위원회 운영에 관한 조례"
         },
         {
           "target_law_name": "예천군 안전관리위원회 운영 조례",
@@ -9251,13 +9219,18 @@
           "target_url": "https://www.law.go.kr/자치법규/안동시 안전관리위원회 운영 조례"
         },
         {
+          "target_law_name": "아산시 안전관리위원회 운영 조례",
+          "target_mst": "1479787",
+          "target_url": "https://www.law.go.kr/자치법규/아산시 안전관리위원회 운영 조례"
+        },
+        {
           "target_law_name": "울릉군 안전관리위원회 조례",
           "target_mst": "1426789",
           "target_url": "https://www.law.go.kr/자치법규/울릉군 안전관리위원회 조례"
         },
         {
           "target_law_name": "울산광역시 남구 안전관리위원회 운영 조례",
-          "target_mst": "2102039",
+          "target_mst": "2173773",
           "target_url": "https://www.law.go.kr/자치법규/울산광역시 남구 안전관리위원회 운영 조례"
         },
         {
@@ -9406,19 +9379,14 @@
           "target_url": "https://www.law.go.kr/자치법규/울산광역시 북구 안전관리위원회 운영 조례"
         },
         {
-          "target_law_name": "아산시 안전관리위원회 운영 조례",
-          "target_mst": "1479787",
-          "target_url": "https://www.law.go.kr/자치법규/아산시 안전관리위원회 운영 조례"
-        },
-        {
           "target_law_name": "신안군 안전관리위원회 구성 및 운영 조례",
           "target_mst": "1865041",
           "target_url": "https://www.law.go.kr/자치법규/신안군 안전관리위원회 구성 및 운영 조례"
         },
         {
-          "target_law_name": "서울특별시 관악구 재난 및 안전관리 조례",
-          "target_mst": "2081177",
-          "target_url": "https://www.law.go.kr/자치법규/서울특별시 관악구 재난 및 안전관리 조례"
+          "target_law_name": "시흥시 안전관리 및 안전도시 조례",
+          "target_mst": "1374235",
+          "target_url": "https://www.law.go.kr/자치법규/시흥시 안전관리 및 안전도시 조례"
         },
         {
           "target_law_name": "서울특별시 강서구 재난 및 안전관리 기본 조례",
@@ -9427,7 +9395,7 @@
         },
         {
           "target_law_name": "서울특별시 강북구 재난 및 안전관리 기본조례",
-          "target_mst": "1868805",
+          "target_mst": "2174901",
           "target_url": "https://www.law.go.kr/자치법규/서울특별시 강북구 재난 및 안전관리 기본조례"
         },
         {
@@ -9502,7 +9470,7 @@
         },
         {
           "target_law_name": "부산광역시 연제구 재난 및 안전관리 기본 조례",
-          "target_mst": "2157999",
+          "target_mst": "2172031",
           "target_url": "https://www.law.go.kr/자치법규/부산광역시 연제구 재난 및 안전관리 기본 조례"
         },
         {
@@ -9527,7 +9495,7 @@
         },
         {
           "target_law_name": "부산광역시 사상구 재난 및 안전관리 기본 조례",
-          "target_mst": "1965909",
+          "target_mst": "2172037",
           "target_url": "https://www.law.go.kr/자치법규/부산광역시 사상구 재난 및 안전관리 기본 조례"
         },
         {
@@ -9556,24 +9524,24 @@
           "target_url": "https://www.law.go.kr/자치법규/부산광역시 기장군 안전관리위원회 운영 조례"
         },
         {
+          "target_law_name": "부산광역시 금정구 안전도시 조례",
+          "target_mst": "1944833",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 금정구 안전도시 조례"
+        },
+        {
+          "target_law_name": "서울특별시 관악구 재난 및 안전관리 조례",
+          "target_mst": "2081177",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 관악구 재난 및 안전관리 조례"
+        },
+        {
           "target_law_name": "서울특별시 광진구 재난 및 안전관리 기본 조례",
           "target_mst": "1664235",
           "target_url": "https://www.law.go.kr/자치법규/서울특별시 광진구 재난 및 안전관리 기본 조례"
         },
         {
           "target_law_name": "서울특별시 구로구 재난 및 안전관리 기본 조례",
-          "target_mst": "1970719",
+          "target_mst": "2170029",
           "target_url": "https://www.law.go.kr/자치법규/서울특별시 구로구 재난 및 안전관리 기본 조례"
-        },
-        {
-          "target_law_name": "서울특별시 금천구 재난 및 안전관리 기본조례",
-          "target_mst": "1902239",
-          "target_url": "https://www.law.go.kr/자치법규/서울특별시 금천구 재난 및 안전관리 기본조례"
-        },
-        {
-          "target_law_name": "시흥시 안전관리 및 안전도시 조례",
-          "target_mst": "1374235",
-          "target_url": "https://www.law.go.kr/자치법규/시흥시 안전관리 및 안전도시 조례"
         },
         {
           "target_law_name": "순천시 안전관리위원회 등 구성 및 운영 조례",
@@ -9622,7 +9590,7 @@
         },
         {
           "target_law_name": "서울특별시 중구 재난 및 안전관리 기본조례",
-          "target_mst": "1889159",
+          "target_mst": "2173351",
           "target_url": "https://www.law.go.kr/자치법규/서울특별시 중구 재난 및 안전관리 기본조례"
         },
         {
@@ -9686,14 +9654,14 @@
           "target_url": "https://www.law.go.kr/자치법규/서울특별시 마포구 재난 및 안전관리 기본 조례"
         },
         {
+          "target_law_name": "서울특별시 동작구 재난 및 안전관리 기본조례",
+          "target_mst": "2177033",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 동작구 재난 및 안전관리 기본조례"
+        },
+        {
           "target_law_name": "전남광주통합특별시 광산구 안전관리위원회 구성 및 운영에 관한 조례",
           "target_mst": "2145095",
           "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 광산구 안전관리위원회 구성 및 운영에 관한 조례"
-        },
-        {
-          "target_law_name": "서울특별시 동작구 재난 및 안전관리 기본조례",
-          "target_mst": "2166615",
-          "target_url": "https://www.law.go.kr/자치법규/서울특별시 동작구 재난 및 안전관리 기본조례"
         },
         {
           "target_law_name": "서울특별시 동대문구 재난 및 안전관리 기본 조례",
@@ -9711,6 +9679,11 @@
           "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 남구 재난 및 안전관리 기구 구성 운영에 관한 조례"
         },
         {
+          "target_law_name": "서울특별시 금천구 재난 및 안전관리 기본조례",
+          "target_mst": "1902239",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 금천구 재난 및 안전관리 기본조례"
+        },
+        {
           "target_law_name": "서울특별시 노원구 재난 및 안전관리 기본 조례",
           "target_mst": "2071389",
           "target_url": "https://www.law.go.kr/자치법규/서울특별시 노원구 재난 및 안전관리 기본 조례"
@@ -9726,11 +9699,6 @@
       "link_text": "조례로",
       "ordinance_count": 24,
       "ordinances": [
-        {
-          "target_law_name": "부산광역시 안전관리위원회 조례",
-          "target_mst": "2008455",
-          "target_url": "https://www.law.go.kr/자치법규/부산광역시 안전관리위원회 조례"
-        },
         {
           "target_law_name": "서울특별시 서대문구 재난 및 안전관리 기본 조례",
           "target_mst": "2153571",
@@ -9772,14 +9740,29 @@
           "target_url": "https://www.law.go.kr/자치법규/전라남도 재난방송협의회 구성 및 운영 조례"
         },
         {
+          "target_law_name": "전북특별자치도 재난방송협의회 조례",
+          "target_mst": "1950965",
+          "target_url": "https://www.law.go.kr/자치법규/전북특별자치도 재난방송협의회 조례"
+        },
+        {
           "target_law_name": "충청남도 재난 및 안전관리 기본 조례",
           "target_mst": "2162267",
           "target_url": "https://www.law.go.kr/자치법규/충청남도 재난 및 안전관리 기본 조례"
         },
         {
-          "target_law_name": "전북특별자치도 재난방송협의회 조례",
-          "target_mst": "1950965",
-          "target_url": "https://www.law.go.kr/자치법규/전북특별자치도 재난방송협의회 조례"
+          "target_law_name": "제주특별자치도 재난 및 안전관리 조례",
+          "target_mst": "2158533",
+          "target_url": "https://www.law.go.kr/자치법규/제주특별자치도 재난 및 안전관리 조례"
+        },
+        {
+          "target_law_name": "충청북도 안전관리위원회 운영 조례",
+          "target_mst": "2014627",
+          "target_url": "https://www.law.go.kr/자치법규/충청북도 안전관리위원회 운영 조례"
+        },
+        {
+          "target_law_name": "부산광역시 안전관리위원회 조례",
+          "target_mst": "2008455",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 안전관리위원회 조례"
         },
         {
           "target_law_name": "대전광역시 재난방송협의회 조례",
@@ -9792,39 +9775,9 @@
           "target_url": "https://www.law.go.kr/자치법규/대구광역시 중구 재난 및 안전관리 조례"
         },
         {
-          "target_law_name": "대구광역시 재난 및 안전관리 조례",
-          "target_mst": "1963085",
-          "target_url": "https://www.law.go.kr/자치법규/대구광역시 재난 및 안전관리 조례"
-        },
-        {
-          "target_law_name": "대구광역시 수성구 재난 및 안전관리 조례",
-          "target_mst": "1418299",
-          "target_url": "https://www.law.go.kr/자치법규/대구광역시 수성구 재난 및 안전관리 조례"
-        },
-        {
-          "target_law_name": "대구광역시 동구 재난 및 안전관리 조례",
-          "target_mst": "1884073",
-          "target_url": "https://www.law.go.kr/자치법규/대구광역시 동구 재난 및 안전관리 조례"
-        },
-        {
-          "target_law_name": "대구광역시 달성군 재난 및 안전관리 조례",
-          "target_mst": "1743497",
-          "target_url": "https://www.law.go.kr/자치법규/대구광역시 달성군 재난 및 안전관리 조례"
-        },
-        {
-          "target_law_name": "광주광역시 재난방송협의회 구성 및 운영 조례",
-          "target_mst": "2032155",
-          "target_url": "https://www.law.go.kr/자치법규/광주광역시 재난방송협의회 구성 및 운영 조례"
-        },
-        {
-          "target_law_name": "경상북도안전관리위원회운영조례",
-          "target_mst": "1941757",
-          "target_url": "https://www.law.go.kr/자치법규/경상북도안전관리위원회운영조례"
-        },
-        {
-          "target_law_name": "경상남도 재난 및 안전관리 기본 조례",
-          "target_mst": "2105697",
-          "target_url": "https://www.law.go.kr/자치법규/경상남도 재난 및 안전관리 기본 조례"
+          "target_law_name": "강원특별자치도 재난 및 안전관리 기본 조례",
+          "target_mst": "2110553",
+          "target_url": "https://www.law.go.kr/자치법규/강원특별자치도 재난 및 안전관리 기본 조례"
         },
         {
           "target_law_name": "경기도 안전관리위원회 운영 조례",
@@ -9832,19 +9785,39 @@
           "target_url": "https://www.law.go.kr/자치법규/경기도 안전관리위원회 운영 조례"
         },
         {
-          "target_law_name": "강원특별자치도 재난 및 안전관리 기본 조례",
-          "target_mst": "2110553",
-          "target_url": "https://www.law.go.kr/자치법규/강원특별자치도 재난 및 안전관리 기본 조례"
+          "target_law_name": "경상남도 재난 및 안전관리 기본 조례",
+          "target_mst": "2174867",
+          "target_url": "https://www.law.go.kr/자치법규/경상남도 재난 및 안전관리 기본 조례"
         },
         {
-          "target_law_name": "충청북도 안전관리위원회 운영 조례",
-          "target_mst": "2014627",
-          "target_url": "https://www.law.go.kr/자치법규/충청북도 안전관리위원회 운영 조례"
+          "target_law_name": "경상북도안전관리위원회운영조례",
+          "target_mst": "1941757",
+          "target_url": "https://www.law.go.kr/자치법규/경상북도안전관리위원회운영조례"
         },
         {
-          "target_law_name": "제주특별자치도 재난 및 안전관리 조례",
-          "target_mst": "2158533",
-          "target_url": "https://www.law.go.kr/자치법규/제주특별자치도 재난 및 안전관리 조례"
+          "target_law_name": "광주광역시 재난방송협의회 구성 및 운영 조례",
+          "target_mst": "2032155",
+          "target_url": "https://www.law.go.kr/자치법규/광주광역시 재난방송협의회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "대구광역시 달성군 재난 및 안전관리 조례",
+          "target_mst": "1743497",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 달성군 재난 및 안전관리 조례"
+        },
+        {
+          "target_law_name": "대구광역시 동구 재난 및 안전관리 조례",
+          "target_mst": "1884073",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 동구 재난 및 안전관리 조례"
+        },
+        {
+          "target_law_name": "대구광역시 수성구 재난 및 안전관리 조례",
+          "target_mst": "1418299",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 수성구 재난 및 안전관리 조례"
+        },
+        {
+          "target_law_name": "대구광역시 재난 및 안전관리 조례",
+          "target_mst": "1963085",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 재난 및 안전관리 조례"
         }
       ],
       "resolve_method": "delegation"
@@ -9855,67 +9828,12 @@
       "target_category": "자치법규",
       "source_article_no": "제12조의2",
       "link_text": "조례로",
-      "ordinance_count": 214,
+      "ordinance_count": 213,
       "ordinances": [
         {
-          "target_law_name": "군포시 안전관리 민관협력위원회 구성 및 운영 조례",
-          "target_mst": "1537353",
-          "target_url": "https://www.law.go.kr/자치법규/군포시 안전관리 민관협력위원회 구성 및 운영 조례"
-        },
-        {
-          "target_law_name": "군산시 안전관리 민관협력위원회 구성 및 운영 조례",
-          "target_mst": "1340864",
-          "target_url": "https://www.law.go.kr/자치법규/군산시 안전관리 민관협력위원회 구성 및 운영 조례"
-        },
-        {
-          "target_law_name": "구미시 안전관리민관협력위원회 구성 및 운영 조례",
-          "target_mst": "2146303",
-          "target_url": "https://www.law.go.kr/자치법규/구미시 안전관리민관협력위원회 구성 및 운영 조례"
-        },
-        {
-          "target_law_name": "구리시 안전관리민관협력위원회 구성 및 운영 조례",
-          "target_mst": "1971851",
-          "target_url": "https://www.law.go.kr/자치법규/구리시 안전관리민관협력위원회 구성 및 운영 조례"
-        },
-        {
-          "target_law_name": "구례군 안전관리민관협력위원회 구성 및 운영 조례",
-          "target_mst": "1405108",
-          "target_url": "https://www.law.go.kr/자치법규/구례군 안전관리민관협력위원회 구성 및 운영 조례"
-        },
-        {
-          "target_law_name": "괴산군 안전관리민관협력위원회 구성 및 운영 조례",
-          "target_mst": "1783801",
-          "target_url": "https://www.law.go.kr/자치법규/괴산군 안전관리민관협력위원회 구성 및 운영 조례"
-        },
-        {
-          "target_law_name": "광주시 안전관리 민관협력위원회 구성 및 운영 조례",
-          "target_mst": "2000795",
-          "target_url": "https://www.law.go.kr/자치법규/광주시 안전관리 민관협력위원회 구성 및 운영 조례"
-        },
-        {
-          "target_law_name": "광주광역시 안전관리 민관협력위원회 구성 및 운영 조례",
-          "target_mst": "1744083",
-          "target_url": "https://www.law.go.kr/자치법규/광주광역시 안전관리 민관협력위원회 구성 및 운영 조례"
-        },
-        {
-          "target_law_name": "광양시 재난 및 안전관리 기본 조례",
-          "target_mst": "2059847",
-          "target_url": "https://www.law.go.kr/자치법규/광양시 재난 및 안전관리 기본 조례"
-        },
-        {
-          "target_law_name": "광명시 재난 및 안전관리 기본 조례",
-          "target_mst": "2162089",
-          "target_url": "https://www.law.go.kr/자치법규/광명시 재난 및 안전관리 기본 조례"
-        },
-        {
-          "target_law_name": "과천시 안전관리민관협력위원회 구성 및 운영 조례",
-          "target_mst": "1912177",
-          "target_url": "https://www.law.go.kr/자치법규/과천시 안전관리민관협력위원회 구성 및 운영 조례"
-        },
-        {
-          "target_law_name": "공주시 안전관리민관협력위원회 구성 및 운영에 관한 조례",
-          "target_mst": "1317272",
-          "target_url": "https://www.law.go.kr/자치법규/공주시 안전관리민관협력위원회 구성 및 운영에 관한 조례"
+          "target_law_name": "고흥군 안전관리민관협력위원회 구성 및 운영 조례",
+          "target_mst": "1297862",
+          "target_url": "https://www.law.go.kr/자치법규/고흥군 안전관리민관협력위원회 구성 및 운영 조례"
         },
         {
           "target_law_name": "곡성군 안전관리 민관협력위원회 구성 및 운영 조례",
@@ -9923,9 +9841,69 @@
           "target_url": "https://www.law.go.kr/자치법규/곡성군 안전관리 민관협력위원회 구성 및 운영 조례"
         },
         {
-          "target_law_name": "고흥군 안전관리민관협력위원회 구성 및 운영 조례",
-          "target_mst": "1297862",
-          "target_url": "https://www.law.go.kr/자치법규/고흥군 안전관리민관협력위원회 구성 및 운영 조례"
+          "target_law_name": "공주시 안전관리민관협력위원회 구성 및 운영에 관한 조례",
+          "target_mst": "1317272",
+          "target_url": "https://www.law.go.kr/자치법규/공주시 안전관리민관협력위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "과천시 안전관리민관협력위원회 구성 및 운영 조례",
+          "target_mst": "1912177",
+          "target_url": "https://www.law.go.kr/자치법규/과천시 안전관리민관협력위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "광명시 재난 및 안전관리 기본 조례",
+          "target_mst": "2162089",
+          "target_url": "https://www.law.go.kr/자치법규/광명시 재난 및 안전관리 기본 조례"
+        },
+        {
+          "target_law_name": "광양시 재난 및 안전관리 기본 조례",
+          "target_mst": "2059847",
+          "target_url": "https://www.law.go.kr/자치법규/광양시 재난 및 안전관리 기본 조례"
+        },
+        {
+          "target_law_name": "광주광역시 안전관리 민관협력위원회 구성 및 운영 조례",
+          "target_mst": "1744083",
+          "target_url": "https://www.law.go.kr/자치법규/광주광역시 안전관리 민관협력위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "광주시 안전관리 민관협력위원회 구성 및 운영 조례",
+          "target_mst": "2000795",
+          "target_url": "https://www.law.go.kr/자치법규/광주시 안전관리 민관협력위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "괴산군 안전관리민관협력위원회 구성 및 운영 조례",
+          "target_mst": "1783801",
+          "target_url": "https://www.law.go.kr/자치법규/괴산군 안전관리민관협력위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "구례군 안전관리민관협력위원회 구성 및 운영 조례",
+          "target_mst": "1405108",
+          "target_url": "https://www.law.go.kr/자치법규/구례군 안전관리민관협력위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "구리시 안전관리민관협력위원회 구성 및 운영 조례",
+          "target_mst": "1971851",
+          "target_url": "https://www.law.go.kr/자치법규/구리시 안전관리민관협력위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "구미시 안전관리민관협력위원회 구성 및 운영 조례",
+          "target_mst": "2146303",
+          "target_url": "https://www.law.go.kr/자치법규/구미시 안전관리민관협력위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "군산시 안전관리 민관협력위원회 구성 및 운영 조례",
+          "target_mst": "1340864",
+          "target_url": "https://www.law.go.kr/자치법규/군산시 안전관리 민관협력위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "군포시 안전관리 민관협력위원회 구성 및 운영 조례",
+          "target_mst": "1537353",
+          "target_url": "https://www.law.go.kr/자치법규/군포시 안전관리 민관협력위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "금산군 안전관리민관협력위원회 구성 및 운영 조례",
+          "target_mst": "1715807",
+          "target_url": "https://www.law.go.kr/자치법규/금산군 안전관리민관협력위원회 구성 및 운영 조례"
         },
         {
           "target_law_name": "고창군 안전관리민관협력위원회 구성ㆍ운영 조례",
@@ -9938,59 +9916,14 @@
           "target_url": "https://www.law.go.kr/자치법규/고성군 안전관리민관협력위원회 구성 및 운영 조례"
         },
         {
-          "target_law_name": "고령군 안전관리민관협력위원회 구성 및 운영 조례",
-          "target_mst": "1798691",
-          "target_url": "https://www.law.go.kr/자치법규/고령군 안전관리민관협력위원회 구성 및 운영 조례"
+          "target_law_name": "대전광역시 중구 안전관리민관협력위원회 구성 및 운영 조례",
+          "target_mst": "2051665",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 중구 안전관리민관협력위원회 구성 및 운영 조례"
         },
         {
-          "target_law_name": "계룡시 안전관리 민ㆍ관 협력위원회 구성 및 운영 조례",
-          "target_mst": "1880405",
-          "target_url": "https://www.law.go.kr/자치법규/계룡시 안전관리 민ㆍ관 협력위원회 구성 및 운영 조례"
-        },
-        {
-          "target_law_name": "경주시 안전관리민관협력위원회 구성 및 운영 조례",
-          "target_mst": "1331123",
-          "target_url": "https://www.law.go.kr/자치법규/경주시 안전관리민관협력위원회 구성 및 운영 조례"
-        },
-        {
-          "target_law_name": "경상북도 안전관리 민관협력위원회 구성 및 운영 조례",
-          "target_mst": "1893387",
-          "target_url": "https://www.law.go.kr/자치법규/경상북도 안전관리 민관협력위원회 구성 및 운영 조례"
-        },
-        {
-          "target_law_name": "경상남도 재난 및 안전관리 기본 조례",
-          "target_mst": "2105697",
-          "target_url": "https://www.law.go.kr/자치법규/경상남도 재난 및 안전관리 기본 조례"
-        },
-        {
-          "target_law_name": "경산시 안전관리민관협력위원회 구성 및 운영 조례",
-          "target_mst": "1431147",
-          "target_url": "https://www.law.go.kr/자치법규/경산시 안전관리민관협력위원회 구성 및 운영 조례"
-        },
-        {
-          "target_law_name": "경기도 안전관리 민관협력위원회 구성 및 운영 조례",
-          "target_mst": "1839253",
-          "target_url": "https://www.law.go.kr/자치법규/경기도 안전관리 민관협력위원회 구성 및 운영 조례"
-        },
-        {
-          "target_law_name": "거창군 안전관리민관협력위원회 구성 및 운영 조례",
-          "target_mst": "1877351",
-          "target_url": "https://www.law.go.kr/자치법규/거창군 안전관리민관협력위원회 구성 및 운영 조례"
-        },
-        {
-          "target_law_name": "거제시 안전관리 민관협력위원회 구성 및 운영 조례",
-          "target_mst": "1841257",
-          "target_url": "https://www.law.go.kr/자치법규/거제시 안전관리 민관협력위원회 구성 및 운영 조례"
-        },
-        {
-          "target_law_name": "강화군 안전관리민관협력위원회 구성 및 운영 조례",
-          "target_mst": "1356163",
-          "target_url": "https://www.law.go.kr/자치법규/강화군 안전관리민관협력위원회 구성 및 운영 조례"
-        },
-        {
-          "target_law_name": "강진군 안전관리 민관협력위원회 구성 및 운영 조례",
-          "target_mst": "2014553",
-          "target_url": "https://www.law.go.kr/자치법규/강진군 안전관리 민관협력위원회 구성 및 운영 조례"
+          "target_law_name": "가평군 안전관리민관협력위원회 구성 및 운영 조례",
+          "target_mst": "2124541",
+          "target_url": "https://www.law.go.kr/자치법규/가평군 안전관리민관협력위원회 구성 및 운영 조례"
         },
         {
           "target_law_name": "강릉시 안전관리민관협력위원회 구성 및 운영 조례",
@@ -9998,28 +9931,73 @@
           "target_url": "https://www.law.go.kr/자치법규/강릉시 안전관리민관협력위원회 구성 및 운영 조례"
         },
         {
-          "target_law_name": "대전광역시 유성구 안전관리민관협력위원회 구성 및 운영에 관한 조례",
-          "target_mst": "2118531",
-          "target_url": "https://www.law.go.kr/자치법규/대전광역시 유성구 안전관리민관협력위원회 구성 및 운영에 관한 조례"
+          "target_law_name": "강진군 안전관리 민관협력위원회 구성 및 운영 조례",
+          "target_mst": "2014553",
+          "target_url": "https://www.law.go.kr/자치법규/강진군 안전관리 민관협력위원회 구성 및 운영 조례"
         },
         {
-          "target_law_name": "금산군 안전관리민관협력위원회 구성 및 운영 조례",
-          "target_mst": "1715807",
-          "target_url": "https://www.law.go.kr/자치법규/금산군 안전관리민관협력위원회 구성 및 운영 조례"
+          "target_law_name": "강화군 안전관리민관협력위원회 구성 및 운영 조례",
+          "target_mst": "1356163",
+          "target_url": "https://www.law.go.kr/자치법규/강화군 안전관리민관협력위원회 구성 및 운영 조례"
         },
         {
-          "target_law_name": "대구광역시 남구 안전관리민관협력위원회 구성 및 운영 조례",
-          "target_mst": "1789133",
-          "target_url": "https://www.law.go.kr/자치법규/대구광역시 남구 안전관리민관협력위원회 구성 및 운영 조례"
+          "target_law_name": "거제시 안전관리 민관협력위원회 구성 및 운영 조례",
+          "target_mst": "1841257",
+          "target_url": "https://www.law.go.kr/자치법규/거제시 안전관리 민관협력위원회 구성 및 운영 조례"
         },
         {
-          "target_law_name": "김천시 안전관리민관협력위원회 구성 및 운영에 관한 조례",
-          "target_mst": "1985407",
-          "target_url": "https://www.law.go.kr/자치법규/김천시 안전관리민관협력위원회 구성 및 운영에 관한 조례"
+          "target_law_name": "거창군 안전관리민관협력위원회 구성 및 운영 조례",
+          "target_mst": "1877351",
+          "target_url": "https://www.law.go.kr/자치법규/거창군 안전관리민관협력위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "경기도 안전관리 민관협력위원회 구성 및 운영 조례",
+          "target_mst": "1839253",
+          "target_url": "https://www.law.go.kr/자치법규/경기도 안전관리 민관협력위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "경산시 안전관리민관협력위원회 구성 및 운영 조례",
+          "target_mst": "1431147",
+          "target_url": "https://www.law.go.kr/자치법규/경산시 안전관리민관협력위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "경상남도 재난 및 안전관리 기본 조례",
+          "target_mst": "2174867",
+          "target_url": "https://www.law.go.kr/자치법규/경상남도 재난 및 안전관리 기본 조례"
+        },
+        {
+          "target_law_name": "경상북도 안전관리 민관협력위원회 구성 및 운영 조례",
+          "target_mst": "1893387",
+          "target_url": "https://www.law.go.kr/자치법규/경상북도 안전관리 민관협력위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "경주시 안전관리민관협력위원회 구성 및 운영 조례",
+          "target_mst": "1331123",
+          "target_url": "https://www.law.go.kr/자치법규/경주시 안전관리민관협력위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "계룡시 안전관리 민ㆍ관 협력위원회 구성 및 운영 조례",
+          "target_mst": "1880405",
+          "target_url": "https://www.law.go.kr/자치법규/계룡시 안전관리 민ㆍ관 협력위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "고령군 안전관리민관협력위원회 구성 및 운영 조례",
+          "target_mst": "1798691",
+          "target_url": "https://www.law.go.kr/자치법규/고령군 안전관리민관협력위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "김제시 안전관리 민관협력위원회 구성 및 운영 조례",
+          "target_mst": "1318311",
+          "target_url": "https://www.law.go.kr/자치법규/김제시 안전관리 민관협력위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "대구광역시 군위군 안전관리민관협력위원회 구성 및 운영 조례",
+          "target_mst": "2117717",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 군위군 안전관리민관협력위원회 구성 및 운영 조례"
         },
         {
           "target_law_name": "김포시 안전관리위원회ㆍ안전관리민관협력위원회ㆍ안전문화운동 추진협의회 운영 조례",
-          "target_mst": "2086233",
+          "target_mst": "2171007",
           "target_url": "https://www.law.go.kr/자치법규/김포시 안전관리위원회ㆍ안전관리민관협력위원회ㆍ안전문화운동 추진협의회 운영 조례"
         },
         {
@@ -10068,14 +10046,9 @@
           "target_url": "https://www.law.go.kr/자치법규/당진시 안전관리위원회 및 안전관리민관협력위원회 구성ㆍ운영 조례"
         },
         {
-          "target_law_name": "대구광역시 군위군 안전관리민관협력위원회 구성 및 운영 조례",
-          "target_mst": "2117717",
-          "target_url": "https://www.law.go.kr/자치법규/대구광역시 군위군 안전관리민관협력위원회 구성 및 운영 조례"
-        },
-        {
-          "target_law_name": "가평군 안전관리민관협력위원회 구성 및 운영 조례",
-          "target_mst": "2124541",
-          "target_url": "https://www.law.go.kr/자치법규/가평군 안전관리민관협력위원회 구성 및 운영 조례"
+          "target_law_name": "대구광역시 남구 안전관리민관협력위원회 구성 및 운영 조례",
+          "target_mst": "1789133",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 남구 안전관리민관협력위원회 구성 및 운영 조례"
         },
         {
           "target_law_name": "대구광역시 달성군 재난 및 안전관리 조례",
@@ -10123,19 +10096,19 @@
           "target_url": "https://www.law.go.kr/자치법규/대전광역시 안전관리민관협력위원회 구성 및 운영 조례"
         },
         {
-          "target_law_name": "김제시 안전관리 민관협력위원회 구성 및 운영 조례",
-          "target_mst": "1318311",
-          "target_url": "https://www.law.go.kr/자치법규/김제시 안전관리 민관협력위원회 구성 및 운영 조례"
+          "target_law_name": "대전광역시 유성구 안전관리민관협력위원회 구성 및 운영에 관한 조례",
+          "target_mst": "2169259",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 유성구 안전관리민관협력위원회 구성 및 운영에 관한 조례"
         },
         {
-          "target_law_name": "대전광역시 중구 안전관리민관협력위원회 구성 및 운영 조례",
-          "target_mst": "2051665",
-          "target_url": "https://www.law.go.kr/자치법규/대전광역시 중구 안전관리민관협력위원회 구성 및 운영 조례"
+          "target_law_name": "김천시 안전관리민관협력위원회 구성 및 운영에 관한 조례",
+          "target_mst": "1985407",
+          "target_url": "https://www.law.go.kr/자치법규/김천시 안전관리민관협력위원회 구성 및 운영에 관한 조례"
         },
         {
-          "target_law_name": "의왕시 재난 및 안전관리 기본 조례",
-          "target_mst": "1976079",
-          "target_url": "https://www.law.go.kr/자치법규/의왕시 재난 및 안전관리 기본 조례"
+          "target_law_name": "동두천시 안전관리민관협력위원회 구성 및 운영 조례",
+          "target_mst": "2127611",
+          "target_url": "https://www.law.go.kr/자치법규/동두천시 안전관리민관협력위원회 구성 및 운영 조례"
         },
         {
           "target_law_name": "이천시 안전관리 민관협력위원회 구성 및 운영 조례",
@@ -10223,6 +10196,11 @@
           "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 북구 안전관리민관협력위원회 구성 및 운영에 관한 조례"
         },
         {
+          "target_law_name": "의왕시 재난 및 안전관리 기본 조례",
+          "target_mst": "1976079",
+          "target_url": "https://www.law.go.kr/자치법규/의왕시 재난 및 안전관리 기본 조례"
+        },
+        {
           "target_law_name": "의성군 안전관리민관협력위원회 구성 및 운영에 관한 조례",
           "target_mst": "2103467",
           "target_url": "https://www.law.go.kr/자치법규/의성군 안전관리민관협력위원회 구성 및 운영에 관한 조례"
@@ -10251,11 +10229,6 @@
           "target_law_name": "영주시 안전관리민관협력위원회 구성 및 운영 조례",
           "target_mst": "1344408",
           "target_url": "https://www.law.go.kr/자치법규/영주시 안전관리민관협력위원회 구성 및 운영 조례"
-        },
-        {
-          "target_law_name": "오산시 안전관리민관협력위원회 구성 및 운영 조례",
-          "target_mst": "1347620",
-          "target_url": "https://www.law.go.kr/자치법규/오산시 안전관리민관협력위원회 구성 및 운영 조례"
         },
         {
           "target_law_name": "옥천군 안전관리민관협력위원회 구성 및 운영 조례",
@@ -10333,9 +10306,9 @@
           "target_url": "https://www.law.go.kr/자치법규/전라남도 안전관리민관협력위원회 구성 및 운영 조례"
         },
         {
-          "target_law_name": "태안군 재난 및 안전관리 기본조례",
-          "target_mst": "2064219",
-          "target_url": "https://www.law.go.kr/자치법규/태안군 재난 및 안전관리 기본조례"
+          "target_law_name": "전북특별자치도 재난 및 안전관리 기본조례",
+          "target_mst": "2162041",
+          "target_url": "https://www.law.go.kr/자치법규/전북특별자치도 재난 및 안전관리 기본조례"
         },
         {
           "target_law_name": "파주시 안전관리 민관협력위원회 구성 및 운영 조례",
@@ -10423,6 +10396,11 @@
           "target_url": "https://www.law.go.kr/자치법규/횡성군 재난 및 안전관리 기본 조례"
         },
         {
+          "target_law_name": "태안군 재난 및 안전관리 기본조례",
+          "target_mst": "2064219",
+          "target_url": "https://www.law.go.kr/자치법규/태안군 재난 및 안전관리 기본조례"
+        },
+        {
           "target_law_name": "태백시 안전관리민관협력위원회 구성 및 운영 조례",
           "target_mst": "1738125",
           "target_url": "https://www.law.go.kr/자치법규/태백시 안전관리민관협력위원회 구성 및 운영 조례"
@@ -10431,11 +10409,6 @@
           "target_law_name": "칠곡군 안전관리 민관협력위원회 구성 및 운영 조례",
           "target_mst": "1348453",
           "target_url": "https://www.law.go.kr/자치법규/칠곡군 안전관리 민관협력위원회 구성 및 운영 조례"
-        },
-        {
-          "target_law_name": "전북특별자치도 재난 및 안전관리 기본조례",
-          "target_mst": "2162041",
-          "target_url": "https://www.law.go.kr/자치법규/전북특별자치도 재난 및 안전관리 기본조례"
         },
         {
           "target_law_name": "정선군 안전관리민관협력위원회 구성 및 운영 조례",
@@ -10538,13 +10511,8 @@
           "target_url": "https://www.law.go.kr/자치법규/영광군 안전관리 민관협력위원회 구성 및 운영에 관한 조례"
         },
         {
-          "target_law_name": "부산광역시 안전관리민관협력위원회 구성 및 운영에 관한 조례",
-          "target_mst": "1832793",
-          "target_url": "https://www.law.go.kr/자치법규/부산광역시 안전관리민관협력위원회 구성 및 운영에 관한 조례"
-        },
-        {
           "target_law_name": "부산광역시 연제구 재난 및 안전관리 기본 조례",
-          "target_mst": "2157999",
+          "target_mst": "2172031",
           "target_url": "https://www.law.go.kr/자치법규/부산광역시 연제구 재난 및 안전관리 기본 조례"
         },
         {
@@ -10628,6 +10596,11 @@
           "target_url": "https://www.law.go.kr/자치법규/서울특별시 강서구 재난 및 안전관리 기본 조례"
         },
         {
+          "target_law_name": "부산광역시 안전관리민관협력위원회 구성 및 운영에 관한 조례",
+          "target_mst": "1832793",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 안전관리민관협력위원회 구성 및 운영에 관한 조례"
+        },
+        {
           "target_law_name": "부산광역시 수영구 안전관리민관협력위원회 구성 및 운영 등에 관한 조례",
           "target_mst": "1824643",
           "target_url": "https://www.law.go.kr/자치법규/부산광역시 수영구 안전관리민관협력위원회 구성 및 운영 등에 관한 조례"
@@ -10636,11 +10609,6 @@
           "target_law_name": "부산광역시 서구 안전관리민관협력위원회 구성 및 운영 조례",
           "target_mst": "1409611",
           "target_url": "https://www.law.go.kr/자치법규/부산광역시 서구 안전관리민관협력위원회 구성 및 운영 조례"
-        },
-        {
-          "target_law_name": "동두천시 안전관리민관협력위원회 구성 및 운영 조례",
-          "target_mst": "2127611",
-          "target_url": "https://www.law.go.kr/자치법규/동두천시 안전관리민관협력위원회 구성 및 운영 조례"
         },
         {
           "target_law_name": "동해시 재난 및 안전관리 기본 조례",
@@ -10719,7 +10687,7 @@
         },
         {
           "target_law_name": "부산광역시 사상구 재난 및 안전관리 기본 조례",
-          "target_mst": "1965909",
+          "target_mst": "2172037",
           "target_url": "https://www.law.go.kr/자치법규/부산광역시 사상구 재난 및 안전관리 기본 조례"
         },
         {
@@ -10738,9 +10706,9 @@
           "target_url": "https://www.law.go.kr/자치법규/서울특별시 금천구 재난 및 안전관리 기본조례"
         },
         {
-          "target_law_name": "수원시 안전관리 민관협력위원회 구성ㆍ운영 조례",
-          "target_mst": "1303428",
-          "target_url": "https://www.law.go.kr/자치법규/수원시 안전관리 민관협력위원회 구성ㆍ운영 조례"
+          "target_law_name": "서울특별시 노원구 재난 및 안전관리 기본 조례",
+          "target_mst": "2071389",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 노원구 재난 및 안전관리 기본 조례"
         },
         {
           "target_law_name": "순창군 안전관리민관협력위원회 조례",
@@ -10828,6 +10796,11 @@
           "target_url": "https://www.law.go.kr/자치법규/연천군 안전관리민관협력위원회 구성 및 운영 조례"
         },
         {
+          "target_law_name": "수원시 안전관리 민관협력위원회 구성ㆍ운영 조례",
+          "target_mst": "1303428",
+          "target_url": "https://www.law.go.kr/자치법규/수원시 안전관리 민관협력위원회 구성ㆍ운영 조례"
+        },
+        {
           "target_law_name": "속초시 안전관리민관협력위원회 구성 및 운영에 관한 조례",
           "target_mst": "1703339",
           "target_url": "https://www.law.go.kr/자치법규/속초시 안전관리민관협력위원회 구성 및 운영에 관한 조례"
@@ -10836,11 +10809,6 @@
           "target_law_name": "세종특별자치시 재난안전관리 민관협력 위원회 구성 및 운영 조례",
           "target_mst": "1874511",
           "target_url": "https://www.law.go.kr/자치법규/세종특별자치시 재난안전관리 민관협력 위원회 구성 및 운영 조례"
-        },
-        {
-          "target_law_name": "서울특별시 노원구 재난 및 안전관리 기본 조례",
-          "target_mst": "2071389",
-          "target_url": "https://www.law.go.kr/자치법규/서울특별시 노원구 재난 및 안전관리 기본 조례"
         },
         {
           "target_law_name": "서울특별시 도봉구 재난 및 안전관리 기본 조례",
@@ -10904,7 +10872,7 @@
         },
         {
           "target_law_name": "서울특별시 중구 재난 및 안전관리 기본조례",
-          "target_mst": "1889159",
+          "target_mst": "2173351",
           "target_url": "https://www.law.go.kr/자치법규/서울특별시 중구 재난 및 안전관리 기본조례"
         },
         {
@@ -10939,16 +10907,6 @@
       "ordinance_count": 422,
       "ordinances": [
         {
-          "target_law_name": "홍천군 재난안전대책본부 운영 조례",
-          "target_mst": "1963609",
-          "target_url": "https://www.law.go.kr/자치법규/홍천군 재난안전대책본부 운영 조례"
-        },
-        {
-          "target_law_name": "홍천군 재난현장 통합지원본부 설치ㆍ운영 조례",
-          "target_mst": "1963611",
-          "target_url": "https://www.law.go.kr/자치법규/홍천군 재난현장 통합지원본부 설치ㆍ운영 조례"
-        },
-        {
           "target_law_name": "화성시 재난안전대책본부 구성 및 운영 조례",
           "target_mst": "2048247",
           "target_url": "https://www.law.go.kr/자치법규/화성시 재난안전대책본부 구성 및 운영 조례"
@@ -10977,6 +10935,21 @@
           "target_law_name": "횡성군 재난 및 안전관리 기본 조례",
           "target_mst": "2058435",
           "target_url": "https://www.law.go.kr/자치법규/횡성군 재난 및 안전관리 기본 조례"
+        },
+        {
+          "target_law_name": "울산광역시 남구 재난현장 통합지원본부 설치 및 운영 조례",
+          "target_mst": "2113795",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 남구 재난현장 통합지원본부 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "울산광역시 남구 재난안전대책본부 구성 및 운영 등에 관한 조례",
+          "target_mst": "2173787",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 남구 재난안전대책본부 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "울릉군 재난현장 통합지원본부 설치 및 운영에 관한 조례",
+          "target_mst": "1388991",
+          "target_url": "https://www.law.go.kr/자치법규/울릉군 재난현장 통합지원본부 설치 및 운영에 관한 조례"
         },
         {
           "target_law_name": "울릉군 재난안전대책본부 구성 및 운영 조례",
@@ -11034,14 +11007,9 @@
           "target_url": "https://www.law.go.kr/자치법규/옥천군 재난안전대책본부 구성 및 운영 등에 관한 조례"
         },
         {
-          "target_law_name": "오산시 재난현장 통합지원본부 설치 및 운영 조례",
-          "target_mst": "1931939",
-          "target_url": "https://www.law.go.kr/자치법규/오산시 재난현장 통합지원본부 설치 및 운영 조례"
-        },
-        {
-          "target_law_name": "오산시 재난안전대책본부 구성 및 운영조례",
-          "target_mst": "2105275",
-          "target_url": "https://www.law.go.kr/자치법규/오산시 재난안전대책본부 구성 및 운영조례"
+          "target_law_name": "오산시 재난 및 안전관리 기본 조례",
+          "target_mst": "2168775",
+          "target_url": "https://www.law.go.kr/자치법규/오산시 재난 및 안전관리 기본 조례"
         },
         {
           "target_law_name": "예천군 재난현장 통합지원본부 설치 및 운영 조례",
@@ -11089,28 +11057,33 @@
           "target_url": "https://www.law.go.kr/자치법규/영양군 재난현장 통합지원본부 설치 및 운영 조례"
         },
         {
-          "target_law_name": "영양군 재난안전대책본부 구성 및 운영 조례",
-          "target_mst": "1593201",
-          "target_url": "https://www.law.go.kr/자치법규/영양군 재난안전대책본부 구성 및 운영 조례"
+          "target_law_name": "울산광역시 동구 재난안전대책본부 구성 및 운영 등에 관한 조례",
+          "target_mst": "1927291",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 동구 재난안전대책본부 구성 및 운영 등에 관한 조례"
         },
         {
-          "target_law_name": "울릉군 재난현장 통합지원본부 설치 및 운영에 관한 조례",
-          "target_mst": "1388991",
-          "target_url": "https://www.law.go.kr/자치법규/울릉군 재난현장 통합지원본부 설치 및 운영에 관한 조례"
+          "target_law_name": "울산광역시 동구 재난현장 통합지원본부 설치ㆍ운영 조례",
+          "target_mst": "1423649",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 동구 재난현장 통합지원본부 설치ㆍ운영 조례"
         },
         {
-          "target_law_name": "울산광역시 남구 재난안전대책본부 구성 및 운영 등에 관한 조례",
-          "target_mst": "2113771",
-          "target_url": "https://www.law.go.kr/자치법규/울산광역시 남구 재난안전대책본부 구성 및 운영 등에 관한 조례"
+          "target_law_name": "인천광역시 검단구 재난안전대책본부 운영 조례",
+          "target_mst": "2142605",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 검단구 재난안전대책본부 운영 조례"
         },
         {
-          "target_law_name": "울산광역시 남구 재난현장 통합지원본부 설치 및 운영 조례",
-          "target_mst": "2113795",
-          "target_url": "https://www.law.go.kr/자치법규/울산광역시 남구 재난현장 통합지원본부 설치 및 운영 조례"
+          "target_law_name": "인제군 재난안전대책본부 및 재난현장통합지원본부 설치 운영 조례",
+          "target_mst": "2165049",
+          "target_url": "https://www.law.go.kr/자치법규/인제군 재난안전대책본부 및 재난현장통합지원본부 설치 운영 조례"
+        },
+        {
+          "target_law_name": "익산시 재난현장 통합지원본부 설치 및 운영 조례",
+          "target_mst": "2176553",
+          "target_url": "https://www.law.go.kr/자치법규/익산시 재난현장 통합지원본부 설치 및 운영 조례"
         },
         {
           "target_law_name": "익산시 재난안전대책본부 구성 및 운영 조례",
-          "target_mst": "2076559",
+          "target_mst": "2176555",
           "target_url": "https://www.law.go.kr/자치법규/익산시 재난안전대책본부 구성 및 운영 조례"
         },
         {
@@ -11120,7 +11093,7 @@
         },
         {
           "target_law_name": "이천시 재난안전대책본부의 구성 및 운영 조례",
-          "target_mst": "1972935",
+          "target_mst": "2176449",
           "target_url": "https://www.law.go.kr/자치법규/이천시 재난안전대책본부의 구성 및 운영 조례"
         },
         {
@@ -11210,18 +11183,13 @@
         },
         {
           "target_law_name": "울산광역시 북구 재난안전대책본부 구성 및 운영 등에 관한 조례",
-          "target_mst": "1834635",
+          "target_mst": "2170709",
           "target_url": "https://www.law.go.kr/자치법규/울산광역시 북구 재난안전대책본부 구성 및 운영 등에 관한 조례"
         },
         {
-          "target_law_name": "울산광역시 동구 재난현장 통합지원본부 설치ㆍ운영 조례",
-          "target_mst": "1423649",
-          "target_url": "https://www.law.go.kr/자치법규/울산광역시 동구 재난현장 통합지원본부 설치ㆍ운영 조례"
-        },
-        {
-          "target_law_name": "울산광역시 동구 재난안전대책본부 구성 및 운영 등에 관한 조례",
-          "target_mst": "1927291",
-          "target_url": "https://www.law.go.kr/자치법규/울산광역시 동구 재난안전대책본부 구성 및 운영 등에 관한 조례"
+          "target_law_name": "영양군 재난안전대책본부 구성 및 운영 조례",
+          "target_mst": "1593201",
+          "target_url": "https://www.law.go.kr/자치법규/영양군 재난안전대책본부 구성 및 운영 조례"
         },
         {
           "target_law_name": "영암군 재난현장 통합지원본부 설치 및 운영 조례",
@@ -11229,14 +11197,14 @@
           "target_url": "https://www.law.go.kr/자치법규/영암군 재난현장 통합지원본부 설치 및 운영 조례"
         },
         {
-          "target_law_name": "영암군 재난안전대책본부 구성 및 운영에 관한 조례",
-          "target_mst": "2158053",
-          "target_url": "https://www.law.go.kr/자치법규/영암군 재난안전대책본부 구성 및 운영에 관한 조례"
+          "target_law_name": "안동시 재난안전대책본부 구성 및 운영 조례",
+          "target_mst": "2121791",
+          "target_url": "https://www.law.go.kr/자치법규/안동시 재난안전대책본부 구성 및 운영 조례"
         },
         {
-          "target_law_name": "영동군 재난현장 통합지원본부 설치 및 운영 조례",
-          "target_mst": "1542441",
-          "target_url": "https://www.law.go.kr/자치법규/영동군 재난현장 통합지원본부 설치 및 운영 조례"
+          "target_law_name": "아산시 재난현장 통합지원본부 설치 및 운영 조례",
+          "target_mst": "2064867",
+          "target_url": "https://www.law.go.kr/자치법규/아산시 재난현장 통합지원본부 설치 및 운영 조례"
         },
         {
           "target_law_name": "아산시 재난안전대책본부 구성 및 운영 등에 관한 조례",
@@ -11340,33 +11308,33 @@
         },
         {
           "target_law_name": "서울특별시 중구 재난현장 통합지원본부 설치 및 운영 조례",
-          "target_mst": "1519337",
+          "target_mst": "2173353",
           "target_url": "https://www.law.go.kr/자치법규/서울특별시 중구 재난현장 통합지원본부 설치 및 운영 조례"
         },
         {
           "target_law_name": "서울특별시 중구 재난 및 안전관리 기본조례",
-          "target_mst": "1889159",
+          "target_mst": "2173351",
           "target_url": "https://www.law.go.kr/자치법규/서울특별시 중구 재난 및 안전관리 기본조례"
-        },
-        {
-          "target_law_name": "서울특별시 종로구 재난현장 통합지원본부 설치ㆍ운영 조례",
-          "target_mst": "1929729",
-          "target_url": "https://www.law.go.kr/자치법규/서울특별시 종로구 재난현장 통합지원본부 설치ㆍ운영 조례"
-        },
-        {
-          "target_law_name": "아산시 재난현장 통합지원본부 설치 및 운영 조례",
-          "target_mst": "2064867",
-          "target_url": "https://www.law.go.kr/자치법규/아산시 재난현장 통합지원본부 설치 및 운영 조례"
-        },
-        {
-          "target_law_name": "안동시 재난안전대책본부 구성 및 운영 조례",
-          "target_mst": "2121791",
-          "target_url": "https://www.law.go.kr/자치법규/안동시 재난안전대책본부 구성 및 운영 조례"
         },
         {
           "target_law_name": "안동시 재난현장 통합지원본부 설치ㆍ운영 조례",
           "target_mst": "1936563",
           "target_url": "https://www.law.go.kr/자치법규/안동시 재난현장 통합지원본부 설치ㆍ운영 조례"
+        },
+        {
+          "target_law_name": "안산시 재난안전 대책본부 구성 및 운영 조례",
+          "target_mst": "1804821",
+          "target_url": "https://www.law.go.kr/자치법규/안산시 재난안전 대책본부 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "영암군 재난안전대책본부 구성 및 운영에 관한 조례",
+          "target_mst": "2158053",
+          "target_url": "https://www.law.go.kr/자치법규/영암군 재난안전대책본부 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "영동군 재난현장 통합지원본부 설치 및 운영 조례",
+          "target_mst": "1542441",
+          "target_url": "https://www.law.go.kr/자치법규/영동군 재난현장 통합지원본부 설치 및 운영 조례"
         },
         {
           "target_law_name": "영동군 재난안전대책본부 구성 및 운영 등에 관한 조례",
@@ -11479,24 +11447,24 @@
           "target_url": "https://www.law.go.kr/자치법규/안산시 재난현장 통합지원본부 설치 및 운영 조례"
         },
         {
-          "target_law_name": "안산시 재난안전 대책본부 구성 및 운영 조례",
-          "target_mst": "1804821",
-          "target_url": "https://www.law.go.kr/자치법규/안산시 재난안전 대책본부 구성 및 운영 조례"
+          "target_law_name": "인천광역시 검단구 재난현장 통합지원본부 설치 및 운영 조례",
+          "target_mst": "2142631",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 검단구 재난현장 통합지원본부 설치 및 운영 조례"
         },
         {
-          "target_law_name": "익산시 재난현장 통합지원본부 설치 및 운영 조례",
-          "target_mst": "1924819",
-          "target_url": "https://www.law.go.kr/자치법규/익산시 재난현장 통합지원본부 설치 및 운영 조례"
+          "target_law_name": "인천광역시 계양구 재난안전대책본부 구성 및 운영 등에 관한 조례",
+          "target_mst": "1926035",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 계양구 재난안전대책본부 구성 및 운영 등에 관한 조례"
         },
         {
-          "target_law_name": "인제군 재난안전대책본부 및 재난현장통합지원본부 설치 운영 조례",
-          "target_mst": "2165049",
-          "target_url": "https://www.law.go.kr/자치법규/인제군 재난안전대책본부 및 재난현장통합지원본부 설치 운영 조례"
+          "target_law_name": "파주시 재난안전대책본부 구성 및 운영 등에 관한 조례",
+          "target_mst": "1998295",
+          "target_url": "https://www.law.go.kr/자치법규/파주시 재난안전대책본부 구성 및 운영 등에 관한 조례"
         },
         {
-          "target_law_name": "인천광역시 검단구 재난안전대책본부 운영 조례",
-          "target_mst": "2142605",
-          "target_url": "https://www.law.go.kr/자치법규/인천광역시 검단구 재난안전대책본부 운영 조례"
+          "target_law_name": "통영시 재난현장 통합지원본부 설치 및 운영 조례",
+          "target_mst": "1928915",
+          "target_url": "https://www.law.go.kr/자치법규/통영시 재난현장 통합지원본부 설치 및 운영 조례"
         },
         {
           "target_law_name": "통영시 재난안전대책본부 구성 및 운영 등에 관한 조례",
@@ -11540,7 +11508,7 @@
         },
         {
           "target_law_name": "춘천시 재난안전대책본부 및 재난현장 통합지원본부 설치ㆍ운영조례",
-          "target_mst": "2067659",
+          "target_mst": "2176541",
           "target_url": "https://www.law.go.kr/자치법규/춘천시 재난안전대책본부 및 재난현장 통합지원본부 설치ㆍ운영조례"
         },
         {
@@ -11609,28 +11577,28 @@
           "target_url": "https://www.law.go.kr/자치법규/창녕군 재난현장 통합지원본부 설치 및 운영 조례"
         },
         {
-          "target_law_name": "창녕군 재난안전대책본부 구성 및 운영 등에 관한 조례",
-          "target_mst": "2160577",
-          "target_url": "https://www.law.go.kr/자치법규/창녕군 재난안전대책본부 구성 및 운영 등에 관한 조례"
-        },
-        {
-          "target_law_name": "통영시 재난현장 통합지원본부 설치 및 운영 조례",
-          "target_mst": "1928915",
-          "target_url": "https://www.law.go.kr/자치법규/통영시 재난현장 통합지원본부 설치 및 운영 조례"
-        },
-        {
-          "target_law_name": "파주시 재난안전대책본부 구성 및 운영 등에 관한 조례",
-          "target_mst": "1998295",
-          "target_url": "https://www.law.go.kr/자치법규/파주시 재난안전대책본부 구성 및 운영 등에 관한 조례"
-        },
-        {
           "target_law_name": "파주시 재난현장 통합지원본부 설치 및 운영 조례",
           "target_mst": "1982721",
           "target_url": "https://www.law.go.kr/자치법규/파주시 재난현장 통합지원본부 설치 및 운영 조례"
         },
         {
+          "target_law_name": "평창군 재난현장 통합지원본부 설치 및 운영 조례",
+          "target_mst": "1821901",
+          "target_url": "https://www.law.go.kr/자치법규/평창군 재난현장 통합지원본부 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "홍천군 재난안전대책본부 운영 조례",
+          "target_mst": "1963609",
+          "target_url": "https://www.law.go.kr/자치법규/홍천군 재난안전대책본부 운영 조례"
+        },
+        {
+          "target_law_name": "홍성군 재난현장 통합지원본부 설치ㆍ운영 조례",
+          "target_mst": "1397770",
+          "target_url": "https://www.law.go.kr/자치법규/홍성군 재난현장 통합지원본부 설치ㆍ운영 조례"
+        },
+        {
           "target_law_name": "홍성군 재난안전대책본부 구성 및 운영 조례",
-          "target_mst": "1946081",
+          "target_mst": "2172671",
           "target_url": "https://www.law.go.kr/자치법규/홍성군 재난안전대책본부 구성 및 운영 조례"
         },
         {
@@ -11725,13 +11693,13 @@
         },
         {
           "target_law_name": "평택시 재난현장 통합지원본부 설치ㆍ운영 조례",
-          "target_mst": "2122805",
+          "target_mst": "2177191",
           "target_url": "https://www.law.go.kr/자치법규/평택시 재난현장 통합지원본부 설치ㆍ운영 조례"
         },
         {
-          "target_law_name": "평택시 재난안전대책본부 구성 및 운영 등에 관한 조례",
-          "target_mst": "2122813",
-          "target_url": "https://www.law.go.kr/자치법규/평택시 재난안전대책본부 구성 및 운영 등에 관한 조례"
+          "target_law_name": "평택시 재난안전대책본부 구성 및 운영 조례",
+          "target_mst": "2177203",
+          "target_url": "https://www.law.go.kr/자치법규/평택시 재난안전대책본부 구성 및 운영 조례"
         },
         {
           "target_law_name": "평창군재난안전대책본부 운영조례",
@@ -11739,9 +11707,9 @@
           "target_url": "https://www.law.go.kr/자치법규/평창군재난안전대책본부 운영조례"
         },
         {
-          "target_law_name": "평창군 재난현장 통합지원본부 설치 및 운영 조례",
-          "target_mst": "1821901",
-          "target_url": "https://www.law.go.kr/자치법규/평창군 재난현장 통합지원본부 설치 및 운영 조례"
+          "target_law_name": "창녕군 재난안전대책본부 구성 및 운영 등에 관한 조례",
+          "target_mst": "2160577",
+          "target_url": "https://www.law.go.kr/자치법규/창녕군 재난안전대책본부 구성 및 운영 등에 관한 조례"
         },
         {
           "target_law_name": "진천군 재난현장 통합지원본부 설치 및 운영 조례",
@@ -11749,14 +11717,14 @@
           "target_url": "https://www.law.go.kr/자치법규/진천군 재난현장 통합지원본부 설치 및 운영 조례"
         },
         {
-          "target_law_name": "진천군 재난안전대책본부 구성 및 운영 등에 관한 조례",
-          "target_mst": "2090095",
-          "target_url": "https://www.law.go.kr/자치법규/진천군 재난안전대책본부 구성 및 운영 등에 관한 조례"
+          "target_law_name": "전남광주통합특별시 남구 재난안전대책본부 구성 및 운영 등에 관한 조례",
+          "target_mst": "2167397",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 남구 재난안전대책본부 구성 및 운영 등에 관한 조례"
         },
         {
-          "target_law_name": "진주시 재난현장 통합지원본부 설치ㆍ운영 조례",
-          "target_mst": "1922039",
-          "target_url": "https://www.law.go.kr/자치법규/진주시 재난현장 통합지원본부 설치ㆍ운영 조례"
+          "target_law_name": "전남광주통합특별시 광산구 재난안전대책본부의 운영 등에 관한 조례",
+          "target_mst": "2145043",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 광산구 재난안전대책본부의 운영 등에 관한 조례"
         },
         {
           "target_law_name": "전남광주통합특별시 광산구 재난안전대책본부 운영에 따른 현장 통합지원본부 설치 및 운영 조례",
@@ -11839,6 +11807,11 @@
           "target_url": "https://www.law.go.kr/자치법규/인천광역시 서해구 재난현장 통합지원본부 설치 및 운영 조례"
         },
         {
+          "target_law_name": "인천광역시 서해구 재난안전대책본부 운영 조례",
+          "target_mst": "2135719",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 서해구 재난안전대책본부 운영 조례"
+        },
+        {
           "target_law_name": "인천광역시 미추홀구 재난현장 통합지원본부 설치ㆍ운영 조례",
           "target_mst": "2039353",
           "target_url": "https://www.law.go.kr/자치법규/인천광역시 미추홀구 재난현장 통합지원본부 설치ㆍ운영 조례"
@@ -11864,29 +11837,24 @@
           "target_url": "https://www.law.go.kr/자치법규/인천광역시 계양구 재난현장 통합지원본부 설치 및 운영 조례"
         },
         {
-          "target_law_name": "인천광역시 계양구 재난안전대책본부 구성 및 운영 등에 관한 조례",
-          "target_mst": "1926035",
-          "target_url": "https://www.law.go.kr/자치법규/인천광역시 계양구 재난안전대책본부 구성 및 운영 등에 관한 조례"
-        },
-        {
-          "target_law_name": "인천광역시 검단구 재난현장 통합지원본부 설치 및 운영 조례",
-          "target_mst": "2142631",
-          "target_url": "https://www.law.go.kr/자치법규/인천광역시 검단구 재난현장 통합지원본부 설치 및 운영 조례"
-        },
-        {
-          "target_law_name": "전남광주통합특별시 광산구 재난안전대책본부의 운영 등에 관한 조례",
-          "target_mst": "2145043",
-          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 광산구 재난안전대책본부의 운영 등에 관한 조례"
-        },
-        {
-          "target_law_name": "전남광주통합특별시 남구 재난안전대책본부 구성 및 운영 등에 관한 조례",
-          "target_mst": "2167397",
-          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 남구 재난안전대책본부 구성 및 운영 등에 관한 조례"
-        },
-        {
           "target_law_name": "전남광주통합특별시 남구 재난현장 통합지원본부 설치ㆍ운영 조례",
           "target_mst": "2140873",
           "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 남구 재난현장 통합지원본부 설치ㆍ운영 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 동구 재난안전대책본부 구성 및 운영 등에 관한 조례",
+          "target_mst": "2148217",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 동구 재난안전대책본부 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "진천군 재난안전대책본부 구성 및 운영 등에 관한 조례",
+          "target_mst": "2090095",
+          "target_url": "https://www.law.go.kr/자치법규/진천군 재난안전대책본부 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "진주시 재난현장 통합지원본부 설치ㆍ운영 조례",
+          "target_mst": "1922039",
+          "target_url": "https://www.law.go.kr/자치법규/진주시 재난현장 통합지원본부 설치ㆍ운영 조례"
         },
         {
           "target_law_name": "진주시 재난안전대책본부 구성 및 운영 등에 관한 조례",
@@ -11915,12 +11883,12 @@
         },
         {
           "target_law_name": "증평군 재난현장 통합지원본부 설치 및 운영 조례",
-          "target_mst": "1406205",
+          "target_mst": "2177499",
           "target_url": "https://www.law.go.kr/자치법규/증평군 재난현장 통합지원본부 설치 및 운영 조례"
         },
         {
           "target_law_name": "증평군 재난안전대책본부 구성 및 운영 등에 관한 조례",
-          "target_mst": "2152473",
+          "target_mst": "2177457",
           "target_url": "https://www.law.go.kr/자치법규/증평군 재난안전대책본부 구성 및 운영 등에 관한 조례"
         },
         {
@@ -11975,12 +11943,12 @@
         },
         {
           "target_law_name": "전남광주통합특별시 서구 재난현장 통합지원본부 설치ㆍ운영 조례",
-          "target_mst": "2132773",
+          "target_mst": "2172993",
           "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 서구 재난현장 통합지원본부 설치ㆍ운영 조례"
         },
         {
           "target_law_name": "전남광주통합특별시 서구 재난안전대책본부 구성 및 운영 등에 관한 조례",
-          "target_mst": "2157603",
+          "target_mst": "2173027",
           "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 서구 재난안전대책본부 구성 및 운영 등에 관한 조례"
         },
         {
@@ -11999,9 +11967,9 @@
           "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 동구 재난현장 통합지원본부 설치 및 운영 조례"
         },
         {
-          "target_law_name": "전남광주통합특별시 동구 재난안전대책본부 구성 및 운영 등에 관한 조례",
-          "target_mst": "2148217",
-          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 동구 재난안전대책본부 구성 및 운영 등에 관한 조례"
+          "target_law_name": "서울특별시 종로구 재난현장 통합지원본부 설치ㆍ운영 조례",
+          "target_mst": "1929729",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 종로구 재난현장 통합지원본부 설치ㆍ운영 조례"
         },
         {
           "target_law_name": "서울특별시 종로구 재난 및 안전관리 기본 조례",
@@ -12014,9 +11982,9 @@
           "target_url": "https://www.law.go.kr/자치법규/서울특별시 재난 및 안전관리 기본 조례"
         },
         {
-          "target_law_name": "서울특별시 은평구 재난현장 통합지원본부 설치 및 운영 조례",
-          "target_mst": "1412179",
-          "target_url": "https://www.law.go.kr/자치법규/서울특별시 은평구 재난현장 통합지원본부 설치 및 운영 조례"
+          "target_law_name": "담양군 재난안전대책본부 구성 및 운영 등에 관한 조례",
+          "target_mst": "2159557",
+          "target_url": "https://www.law.go.kr/자치법규/담양군 재난안전대책본부 구성 및 운영 등에 관한 조례"
         },
         {
           "target_law_name": "단양군 재난현장 통합지원본부 설치 운영 조례",
@@ -12095,7 +12063,7 @@
         },
         {
           "target_law_name": "김포시 재난안전대책본부 및 재난현장 통합지원본부 설치ㆍ운영 조례",
-          "target_mst": "2102465",
+          "target_mst": "2171049",
           "target_url": "https://www.law.go.kr/자치법규/김포시 재난안전대책본부 및 재난현장 통합지원본부 설치ㆍ운영 조례"
         },
         {
@@ -12134,11 +12102,6 @@
           "target_url": "https://www.law.go.kr/자치법규/군포시 재난현장 통합지원본부 설치 및 운영 조례"
         },
         {
-          "target_law_name": "담양군 재난안전대책본부 구성 및 운영 등에 관한 조례",
-          "target_mst": "2159557",
-          "target_url": "https://www.law.go.kr/자치법규/담양군 재난안전대책본부 구성 및 운영 등에 관한 조례"
-        },
-        {
           "target_law_name": "담양군 재난현장 통합지원본부 설치 및 운영 조례",
           "target_mst": "1854873",
           "target_url": "https://www.law.go.kr/자치법규/담양군 재난현장 통합지원본부 설치 및 운영 조례"
@@ -12147,6 +12110,11 @@
           "target_law_name": "당진시 재난안전대책본부 구성 및 운영 등에 관한 조례",
           "target_mst": "1991959",
           "target_url": "https://www.law.go.kr/자치법규/당진시 재난안전대책본부 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "대전광역시 동구 재난현장 통합지원본부 설치ㆍ 운영 조례",
+          "target_mst": "1942047",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 동구 재난현장 통합지원본부 설치ㆍ 운영 조례"
         },
         {
           "target_law_name": "대전광역시 동구 재난안전대책본부 운영조례",
@@ -12274,9 +12242,9 @@
           "target_url": "https://www.law.go.kr/자치법규/군산시 재난현장 통합지원본부 설치 및 운영 조례"
         },
         {
-          "target_law_name": "군산시 재난안전대책본부 구성 및 운영 조례",
-          "target_mst": "2030885",
-          "target_url": "https://www.law.go.kr/자치법규/군산시 재난안전대책본부 구성 및 운영 조례"
+          "target_law_name": "고성군 재난현장 통합지원본부 구성 및 운영 등에 관한 조례",
+          "target_mst": "1926727",
+          "target_url": "https://www.law.go.kr/자치법규/고성군 재난현장 통합지원본부 구성 및 운영 등에 관한 조례"
         },
         {
           "target_law_name": "고성군 재난안전대책본부의 구성 및 운영등에 관한 조례",
@@ -12325,7 +12293,7 @@
         },
         {
           "target_law_name": "경상남도 재난 및 안전관리 기본 조례",
-          "target_mst": "2105697",
+          "target_mst": "2174867",
           "target_url": "https://www.law.go.kr/자치법규/경상남도 재난 및 안전관리 기본 조례"
         },
         {
@@ -12370,7 +12338,7 @@
         },
         {
           "target_law_name": "강진군 재난안전대책본부 구성 및 운영 등에 관한 조례",
-          "target_mst": "2014529",
+          "target_mst": "2169055",
           "target_url": "https://www.law.go.kr/자치법규/강진군 재난안전대책본부 구성 및 운영 등에 관한 조례"
         },
         {
@@ -12394,11 +12362,6 @@
           "target_url": "https://www.law.go.kr/자치법규/가평군 재난안전대책본부 운영 조례"
         },
         {
-          "target_law_name": "고성군 재난현장 통합지원본부 구성 및 운영 등에 관한 조례",
-          "target_mst": "1926727",
-          "target_url": "https://www.law.go.kr/자치법규/고성군 재난현장 통합지원본부 구성 및 운영 등에 관한 조례"
-        },
-        {
           "target_law_name": "고성군 재난현장 통합지원본부 설치ㆍ운영 조례",
           "target_mst": "1930373",
           "target_url": "https://www.law.go.kr/자치법규/고성군 재난현장 통합지원본부 설치ㆍ운영 조례"
@@ -12409,13 +12372,18 @@
           "target_url": "https://www.law.go.kr/자치법규/고양시 재난 및 안전관리 기본 조례"
         },
         {
+          "target_law_name": "군산시 재난안전대책본부 구성 및 운영 조례",
+          "target_mst": "2030885",
+          "target_url": "https://www.law.go.kr/자치법규/군산시 재난안전대책본부 구성 및 운영 조례"
+        },
+        {
           "target_law_name": "구미시 재난현장 통합지원본부 설치ㆍ운영 조례",
           "target_mst": "2090723",
           "target_url": "https://www.law.go.kr/자치법규/구미시 재난현장 통합지원본부 설치ㆍ운영 조례"
         },
         {
           "target_law_name": "구미시 재난안전대책본부 구성 및 운영 등에 관한 조례",
-          "target_mst": "2090705",
+          "target_mst": "2176597",
           "target_url": "https://www.law.go.kr/자치법규/구미시 재난안전대책본부 구성 및 운영 등에 관한 조례"
         },
         {
@@ -12524,19 +12492,19 @@
           "target_url": "https://www.law.go.kr/자치법규/고창군 재난안전대책본부 구성 및 운영 등에 관한 조례"
         },
         {
-          "target_law_name": "대전광역시 동구 재난현장 통합지원본부 설치ㆍ 운영 조례",
-          "target_mst": "1942047",
-          "target_url": "https://www.law.go.kr/자치법규/대전광역시 동구 재난현장 통합지원본부 설치ㆍ 운영 조례"
-        },
-        {
           "target_law_name": "대전광역시 서구 재난 및 안전관리 기본 조례",
           "target_mst": "2119519",
           "target_url": "https://www.law.go.kr/자치법규/대전광역시 서구 재난 및 안전관리 기본 조례"
         },
         {
           "target_law_name": "대전광역시 유성구 재난안전대책본부 구성 및 운영 등에 관한 조례",
-          "target_mst": "2077349",
+          "target_mst": "2169193",
           "target_url": "https://www.law.go.kr/자치법규/대전광역시 유성구 재난안전대책본부 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 관악구 재난 및 안전관리 조례",
+          "target_mst": "2081177",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 관악구 재난 및 안전관리 조례"
         },
         {
           "target_law_name": "서울특별시 강서구 재난 및 안전관리 기본 조례",
@@ -12545,12 +12513,12 @@
         },
         {
           "target_law_name": "서울특별시 강북구 재난현장 통합지원본부 설치ㆍ운영 조례",
-          "target_mst": "1929785",
+          "target_mst": "2174885",
           "target_url": "https://www.law.go.kr/자치법규/서울특별시 강북구 재난현장 통합지원본부 설치ㆍ운영 조례"
         },
         {
           "target_law_name": "서울특별시 강북구 재난 및 안전관리 기본조례",
-          "target_mst": "1868805",
+          "target_mst": "2174901",
           "target_url": "https://www.law.go.kr/자치법규/서울특별시 강북구 재난 및 안전관리 기본조례"
         },
         {
@@ -12654,19 +12622,19 @@
           "target_url": "https://www.law.go.kr/자치법규/부산광역시동래구 재난현장 통합지원본부 설치 및 운영 조례"
         },
         {
-          "target_law_name": "부산광역시동래구 재난안전대책본부 설치 및 운영 조례",
-          "target_mst": "1951215",
-          "target_url": "https://www.law.go.kr/자치법규/부산광역시동래구 재난안전대책본부 설치 및 운영 조례"
-        },
-        {
-          "target_law_name": "서울특별시 관악구 재난 및 안전관리 조례",
-          "target_mst": "2081177",
-          "target_url": "https://www.law.go.kr/자치법규/서울특별시 관악구 재난 및 안전관리 조례"
-        },
-        {
           "target_law_name": "서울특별시 관악구 재난현장 통합지원본부 설치ㆍ운영 조례",
           "target_mst": "1948209",
           "target_url": "https://www.law.go.kr/자치법규/서울특별시 관악구 재난현장 통합지원본부 설치ㆍ운영 조례"
+        },
+        {
+          "target_law_name": "서울특별시 광진구 재난 및 안전관리 기본 조례",
+          "target_mst": "1664235",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 광진구 재난 및 안전관리 기본 조례"
+        },
+        {
+          "target_law_name": "서울특별시 은평구 재난현장 통합지원본부 설치 및 운영 조례",
+          "target_mst": "1412179",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 은평구 재난현장 통합지원본부 설치 및 운영 조례"
         },
         {
           "target_law_name": "서울특별시 은평구 재난 및 안전관리 기본조례",
@@ -12750,12 +12718,12 @@
         },
         {
           "target_law_name": "서울특별시 동작구 재난현장 통합지원본부 설치 및 운영 조례",
-          "target_mst": "1395971",
+          "target_mst": "2177035",
           "target_url": "https://www.law.go.kr/자치법규/서울특별시 동작구 재난현장 통합지원본부 설치 및 운영 조례"
         },
         {
           "target_law_name": "서울특별시 동작구 재난 및 안전관리 기본조례",
-          "target_mst": "2166615",
+          "target_mst": "2177033",
           "target_url": "https://www.law.go.kr/자치법규/서울특별시 동작구 재난 및 안전관리 기본조례"
         },
         {
@@ -12780,13 +12748,13 @@
         },
         {
           "target_law_name": "서울특별시 구로구 재난 및 안전관리 기본 조례",
-          "target_mst": "1970719",
+          "target_mst": "2170029",
           "target_url": "https://www.law.go.kr/자치법규/서울특별시 구로구 재난 및 안전관리 기본 조례"
         },
         {
-          "target_law_name": "서울특별시 광진구 재난 및 안전관리 기본 조례",
-          "target_mst": "1664235",
-          "target_url": "https://www.law.go.kr/자치법규/서울특별시 광진구 재난 및 안전관리 기본 조례"
+          "target_law_name": "부산광역시동래구 재난안전대책본부 설치 및 운영 조례",
+          "target_mst": "1951215",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시동래구 재난안전대책본부 설치 및 운영 조례"
         },
         {
           "target_law_name": "부산광역시기장군재난안전대책본부의운영등에관한조례",
@@ -12895,12 +12863,12 @@
         },
         {
           "target_law_name": "대전광역시 중구 재난현장 통합지원본부 설치ㆍ운영 조례",
-          "target_mst": "2121025",
+          "target_mst": "2173747",
           "target_url": "https://www.law.go.kr/자치법규/대전광역시 중구 재난현장 통합지원본부 설치ㆍ운영 조례"
         },
         {
           "target_law_name": "대전광역시 중구 재난안전대책본부 구성 및 운영 등에 관한 조례",
-          "target_mst": "2121023",
+          "target_mst": "2173713",
           "target_url": "https://www.law.go.kr/자치법규/대전광역시 중구 재난안전대책본부 구성 및 운영 등에 관한 조례"
         },
         {
@@ -12935,12 +12903,12 @@
         },
         {
           "target_law_name": "부산광역시 중구 재난현장 통합지원본부 설치 및 운영 조례",
-          "target_mst": "1379903",
+          "target_mst": "2171287",
           "target_url": "https://www.law.go.kr/자치법규/부산광역시 중구 재난현장 통합지원본부 설치 및 운영 조례"
         },
         {
           "target_law_name": "부산광역시 중구 재난안전대책본부 구성 및 운영 등에 관한 조례",
-          "target_mst": "1940171",
+          "target_mst": "2171285",
           "target_url": "https://www.law.go.kr/자치법규/부산광역시 중구 재난안전대책본부 구성 및 운영 등에 관한 조례"
         },
         {
@@ -12960,7 +12928,7 @@
         },
         {
           "target_law_name": "부산광역시 연제구 재난 및 안전관리 기본 조례",
-          "target_mst": "2157999",
+          "target_mst": "2172031",
           "target_url": "https://www.law.go.kr/자치법규/부산광역시 연제구 재난 및 안전관리 기본 조례"
         },
         {
@@ -12990,7 +12958,7 @@
         },
         {
           "target_law_name": "부산광역시 사상구 재난 및 안전관리 기본 조례",
-          "target_mst": "1965909",
+          "target_mst": "2172037",
           "target_url": "https://www.law.go.kr/자치법규/부산광역시 사상구 재난 및 안전관리 기본 조례"
         },
         {
@@ -13000,7 +12968,7 @@
         },
         {
           "target_law_name": "부산광역시 북구 재난안전대책본부의 구성 및 운영 등에 관한 조례",
-          "target_mst": "2163391",
+          "target_mst": "2171891",
           "target_url": "https://www.law.go.kr/자치법규/부산광역시 북구 재난안전대책본부의 구성 및 운영 등에 관한 조례"
         },
         {
@@ -13044,9 +13012,9 @@
           "target_url": "https://www.law.go.kr/자치법규/부산광역시 금정구 재난안전대책본부의 운영 등에 관한 조례"
         },
         {
-          "target_law_name": "홍성군 재난현장 통합지원본부 설치ㆍ운영 조례",
-          "target_mst": "1397770",
-          "target_url": "https://www.law.go.kr/자치법규/홍성군 재난현장 통합지원본부 설치ㆍ운영 조례"
+          "target_law_name": "홍천군 재난현장 통합지원본부 설치ㆍ운영 조례",
+          "target_mst": "1963611",
+          "target_url": "https://www.law.go.kr/자치법규/홍천군 재난현장 통합지원본부 설치ㆍ운영 조례"
         }
       ],
       "resolve_method": "delegation"
@@ -13786,7 +13754,7 @@
         },
         {
           "target_law_name": "대구광역시 수성구 재난현장 통합자원봉사지원단 구성 및 운영 등에 관한 조례",
-          "target_mst": "1746455",
+          "target_mst": "2175425",
           "target_url": "https://www.law.go.kr/자치법규/대구광역시 수성구 재난현장 통합자원봉사지원단 구성 및 운영 등에 관한 조례"
         },
         {
@@ -14271,7 +14239,7 @@
         },
         {
           "target_law_name": "부산광역시 사상구 재난현장 통합자원봉사지원단의 구성 및 운영 등에 관한 조례",
-          "target_mst": "1531345",
+          "target_mst": "2171977",
           "target_url": "https://www.law.go.kr/자치법규/부산광역시 사상구 재난현장 통합자원봉사지원단의 구성 및 운영 등에 관한 조례"
         },
         {
@@ -14293,52 +14261,12 @@
       "target_category": "자치법규",
       "source_article_no": "제31조의2",
       "link_text": "조례로",
-      "ordinance_count": 206,
+      "ordinance_count": 207,
       "ordinances": [
         {
-          "target_law_name": "옹진군 안전취약계층 이용건물의 화재예방 안전시설 지원 조례",
-          "target_mst": "1911705",
-          "target_url": "https://www.law.go.kr/자치법규/옹진군 안전취약계층 이용건물의 화재예방 안전시설 지원 조례"
-        },
-        {
-          "target_law_name": "옹진군 재난취약계층 지원에 관한 조례",
-          "target_mst": "1365625",
-          "target_url": "https://www.law.go.kr/자치법규/옹진군 재난취약계층 지원에 관한 조례"
-        },
-        {
-          "target_law_name": "완도군 안전취약계층 이용건물의 전기화재 예방 안전시설 지원 조례",
-          "target_mst": "1973395",
-          "target_url": "https://www.law.go.kr/자치법규/완도군 안전취약계층 이용건물의 전기화재 예방 안전시설 지원 조례"
-        },
-        {
-          "target_law_name": "완주군 안전취약계층 안전 환경 지원 조례",
-          "target_mst": "1933283",
-          "target_url": "https://www.law.go.kr/자치법규/완주군 안전취약계층 안전 환경 지원 조례"
-        },
-        {
-          "target_law_name": "울릉군 안전취약계층 지원 조례",
-          "target_mst": "1566069",
-          "target_url": "https://www.law.go.kr/자치법규/울릉군 안전취약계층 지원 조례"
-        },
-        {
-          "target_law_name": "울산광역시 남구 재난취약계층 지원 조례",
-          "target_mst": "1412369",
-          "target_url": "https://www.law.go.kr/자치법규/울산광역시 남구 재난취약계층 지원 조례"
-        },
-        {
-          "target_law_name": "울산광역시 안전취약계층 이용건물의 안전시설 개선 지원 조례",
-          "target_mst": "1841717",
-          "target_url": "https://www.law.go.kr/자치법규/울산광역시 안전취약계층 이용건물의 안전시설 개선 지원 조례"
-        },
-        {
-          "target_law_name": "울산광역시 안전취약계층 지원 조례",
-          "target_mst": "1990085",
-          "target_url": "https://www.law.go.kr/자치법규/울산광역시 안전취약계층 지원 조례"
-        },
-        {
-          "target_law_name": "울산광역시 울주군 재난취약계층 지원 조례",
-          "target_mst": "2138225",
-          "target_url": "https://www.law.go.kr/자치법규/울산광역시 울주군 재난취약계층 지원 조례"
+          "target_law_name": "원주시 안전취약계층에 대한 안전환경 지원 조례",
+          "target_mst": "2086277",
+          "target_url": "https://www.law.go.kr/자치법규/원주시 안전취약계층에 대한 안전환경 지원 조례"
         },
         {
           "target_law_name": "울진군 재난취약계층 지원 조례",
@@ -14346,9 +14274,49 @@
           "target_url": "https://www.law.go.kr/자치법규/울진군 재난취약계층 지원 조례"
         },
         {
-          "target_law_name": "원주시 안전취약계층에 대한 안전환경 지원 조례",
-          "target_mst": "2086277",
-          "target_url": "https://www.law.go.kr/자치법규/원주시 안전취약계층에 대한 안전환경 지원 조례"
+          "target_law_name": "울산광역시 울주군 재난취약계층 지원 조례",
+          "target_mst": "2138225",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 울주군 재난취약계층 지원 조례"
+        },
+        {
+          "target_law_name": "울산광역시 안전취약계층 지원 조례",
+          "target_mst": "2174497",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 안전취약계층 지원 조례"
+        },
+        {
+          "target_law_name": "울산광역시 안전취약계층 이용건물의 안전시설 개선 지원 조례",
+          "target_mst": "1841717",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 안전취약계층 이용건물의 안전시설 개선 지원 조례"
+        },
+        {
+          "target_law_name": "울산광역시 남구 재난취약계층 지원 조례",
+          "target_mst": "1412369",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 남구 재난취약계층 지원 조례"
+        },
+        {
+          "target_law_name": "울릉군 안전취약계층 지원 조례",
+          "target_mst": "1566069",
+          "target_url": "https://www.law.go.kr/자치법규/울릉군 안전취약계층 지원 조례"
+        },
+        {
+          "target_law_name": "완주군 안전취약계층 안전 환경 지원 조례",
+          "target_mst": "1933283",
+          "target_url": "https://www.law.go.kr/자치법규/완주군 안전취약계층 안전 환경 지원 조례"
+        },
+        {
+          "target_law_name": "완도군 안전취약계층 이용건물의 전기화재 예방 안전시설 지원 조례",
+          "target_mst": "1973395",
+          "target_url": "https://www.law.go.kr/자치법규/완도군 안전취약계층 이용건물의 전기화재 예방 안전시설 지원 조례"
+        },
+        {
+          "target_law_name": "옹진군 재난취약계층 지원에 관한 조례",
+          "target_mst": "1365625",
+          "target_url": "https://www.law.go.kr/자치법규/옹진군 재난취약계층 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "옹진군 안전취약계층 이용건물의 화재예방 안전시설 지원 조례",
+          "target_mst": "1911705",
+          "target_url": "https://www.law.go.kr/자치법규/옹진군 안전취약계층 이용건물의 화재예방 안전시설 지원 조례"
         },
         {
           "target_law_name": "음성군 안전취약계층에 대한 안전 생활환경 조성 지원 조례",
@@ -14417,7 +14385,7 @@
         },
         {
           "target_law_name": "오산시 재난취약계층 지원 조례",
-          "target_mst": "1794613",
+          "target_mst": "2168787",
           "target_url": "https://www.law.go.kr/자치법규/오산시 재난취약계층 지원 조례"
         },
         {
@@ -14806,6 +14774,11 @@
           "target_url": "https://www.law.go.kr/자치법규/진주시 안전취약계층 이용건물의 화재예방 안전시설 지원 조례"
         },
         {
+          "target_law_name": "서울특별시 안전취약계층 이용 건물의 화재 예방 안전시설 지원에 관한 조례",
+          "target_mst": "2171791",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 안전취약계층 이용 건물의 화재 예방 안전시설 지원에 관한 조례"
+        },
+        {
           "target_law_name": "서울특별시 송파구 안전취약계층에 대한 안전 환경 지원 조례",
           "target_mst": "2105139",
           "target_url": "https://www.law.go.kr/자치법규/서울특별시 송파구 안전취약계층에 대한 안전 환경 지원 조례"
@@ -14992,7 +14965,7 @@
         },
         {
           "target_law_name": "경상남도 재난 및 안전관리 기본 조례",
-          "target_mst": "2105697",
+          "target_mst": "2174867",
           "target_url": "https://www.law.go.kr/자치법규/경상남도 재난 및 안전관리 기본 조례"
         },
         {
@@ -15177,7 +15150,7 @@
         },
         {
           "target_law_name": "서울특별시 동작구 재난 및 안전관리 기본조례",
-          "target_mst": "2166615",
+          "target_mst": "2177033",
           "target_url": "https://www.law.go.kr/자치법규/서울특별시 동작구 재난 및 안전관리 기본조례"
         },
         {
@@ -15337,59 +15310,9 @@
       "ordinance_count": 248,
       "ordinances": [
         {
-          "target_law_name": "울산광역시 사회재난 구호 및 피해지원 조례",
-          "target_mst": "1893141",
-          "target_url": "https://www.law.go.kr/자치법규/울산광역시 사회재난 구호 및 피해지원 조례"
-        },
-        {
-          "target_law_name": "울산광역시 북구 사회재난 구호 및 복구 지원에 관한 조례",
-          "target_mst": "1440591",
-          "target_url": "https://www.law.go.kr/자치법규/울산광역시 북구 사회재난 구호 및 복구 지원에 관한 조례"
-        },
-        {
-          "target_law_name": "울산광역시 동구 사회재난 구호 및 복구 지원에 관한 조례",
-          "target_mst": "1423651",
-          "target_url": "https://www.law.go.kr/자치법규/울산광역시 동구 사회재난 구호 및 복구 지원에 관한 조례"
-        },
-        {
-          "target_law_name": "울산광역시 남구 사회재난 구호 및 복구 지원에 관한 조례",
-          "target_mst": "1718529",
-          "target_url": "https://www.law.go.kr/자치법규/울산광역시 남구 사회재난 구호 및 복구 지원에 관한 조례"
-        },
-        {
-          "target_law_name": "울릉군 사회재난 구호 및 복구 지원에 관한 조례",
-          "target_mst": "1326865",
-          "target_url": "https://www.law.go.kr/자치법규/울릉군 사회재난 구호 및 복구 지원에 관한 조례"
-        },
-        {
-          "target_law_name": "용인시 사회재난 구호 및 복구 지원에 관한 조례",
-          "target_mst": "1637359",
-          "target_url": "https://www.law.go.kr/자치법규/용인시 사회재난 구호 및 복구 지원에 관한 조례"
-        },
-        {
-          "target_law_name": "완주군 사회재난 구호 및 복구 지원에 관한 조례",
-          "target_mst": "1887699",
-          "target_url": "https://www.law.go.kr/자치법규/완주군 사회재난 구호 및 복구 지원에 관한 조례"
-        },
-        {
-          "target_law_name": "완도군 사회재난 구호 및 복구 지원에 관한 조례",
-          "target_mst": "2159785",
-          "target_url": "https://www.law.go.kr/자치법규/완도군 사회재난 구호 및 복구 지원에 관한 조례"
-        },
-        {
-          "target_law_name": "옹진군 사회재난 구호 및 복구 지원에 관한 조례",
-          "target_mst": "1932327",
-          "target_url": "https://www.law.go.kr/자치법규/옹진군 사회재난 구호 및 복구 지원에 관한 조례"
-        },
-        {
-          "target_law_name": "옥천군 사회재난 구호 및 복구 지원에 관한 조례",
-          "target_mst": "1378801",
-          "target_url": "https://www.law.go.kr/자치법규/옥천군 사회재난 구호 및 복구 지원에 관한 조례"
-        },
-        {
-          "target_law_name": "오산시 사회재난 구호 및 복구 지원에 관한 조례",
-          "target_mst": "1533595",
-          "target_url": "https://www.law.go.kr/자치법규/오산시 사회재난 구호 및 복구 지원에 관한 조례"
+          "target_law_name": "예산군 재난 및 안전관리 기본 조례",
+          "target_mst": "2000289",
+          "target_url": "https://www.law.go.kr/자치법규/예산군 재난 및 안전관리 기본 조례"
         },
         {
           "target_law_name": "예천군 사회재난 구호 및 복구 지원에 관한 조례",
@@ -15397,9 +15320,59 @@
           "target_url": "https://www.law.go.kr/자치법규/예천군 사회재난 구호 및 복구 지원에 관한 조례"
         },
         {
-          "target_law_name": "예산군 재난 및 안전관리 기본 조례",
-          "target_mst": "2000289",
-          "target_url": "https://www.law.go.kr/자치법규/예산군 재난 및 안전관리 기본 조례"
+          "target_law_name": "오산시 사회재난 구호 및 복구 지원에 관한 조례",
+          "target_mst": "1533595",
+          "target_url": "https://www.law.go.kr/자치법규/오산시 사회재난 구호 및 복구 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "옥천군 사회재난 구호 및 복구 지원에 관한 조례",
+          "target_mst": "1378801",
+          "target_url": "https://www.law.go.kr/자치법규/옥천군 사회재난 구호 및 복구 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "옹진군 사회재난 구호 및 복구 지원에 관한 조례",
+          "target_mst": "1932327",
+          "target_url": "https://www.law.go.kr/자치법규/옹진군 사회재난 구호 및 복구 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "완도군 사회재난 구호 및 복구 지원에 관한 조례",
+          "target_mst": "2159785",
+          "target_url": "https://www.law.go.kr/자치법규/완도군 사회재난 구호 및 복구 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "완주군 사회재난 구호 및 복구 지원에 관한 조례",
+          "target_mst": "1887699",
+          "target_url": "https://www.law.go.kr/자치법규/완주군 사회재난 구호 및 복구 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "용인시 사회재난 구호 및 복구 지원에 관한 조례",
+          "target_mst": "1637359",
+          "target_url": "https://www.law.go.kr/자치법규/용인시 사회재난 구호 및 복구 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "울릉군 사회재난 구호 및 복구 지원에 관한 조례",
+          "target_mst": "1326865",
+          "target_url": "https://www.law.go.kr/자치법규/울릉군 사회재난 구호 및 복구 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "울산광역시 남구 사회재난 구호 및 복구 지원에 관한 조례",
+          "target_mst": "1718529",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 남구 사회재난 구호 및 복구 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "울산광역시 동구 사회재난 구호 및 복구 지원에 관한 조례",
+          "target_mst": "1423651",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 동구 사회재난 구호 및 복구 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "울산광역시 북구 사회재난 구호 및 복구 지원에 관한 조례",
+          "target_mst": "1440591",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 북구 사회재난 구호 및 복구 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "울산광역시 사회재난 구호 및 피해지원 조례",
+          "target_mst": "1893141",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 사회재난 구호 및 피해지원 조례"
         },
         {
           "target_law_name": "울산광역시 울주군 사회재난 구호 및 복구 지원에 관한 조례",
@@ -16143,7 +16116,7 @@
         },
         {
           "target_law_name": "강진군 사회재난 구호 및 복구 지원에 관한 조례",
-          "target_mst": "1860827",
+          "target_mst": "2169045",
           "target_url": "https://www.law.go.kr/자치법규/강진군 사회재난 구호 및 복구 지원에 관한 조례"
         },
         {
@@ -16388,7 +16361,7 @@
         },
         {
           "target_law_name": "서울특별시 중구 재난 및 안전관리 기본조례",
-          "target_mst": "1889159",
+          "target_mst": "2173351",
           "target_url": "https://www.law.go.kr/자치법규/서울특별시 중구 재난 및 안전관리 기본조례"
         },
         {
@@ -16473,7 +16446,7 @@
         },
         {
           "target_law_name": "부산광역시 연제구 재난 및 안전관리 기본 조례",
-          "target_mst": "2157999",
+          "target_mst": "2172031",
           "target_url": "https://www.law.go.kr/자치법규/부산광역시 연제구 재난 및 안전관리 기본 조례"
         },
         {
@@ -16585,7 +16558,7 @@
       "target_category": "자치법규",
       "source_article_no": "제75조",
       "link_text": "조례로",
-      "ordinance_count": 243,
+      "ordinance_count": 242,
       "ordinances": [
         {
           "target_law_name": "부산광역시 영도구 안전관리자문단 구성 및 운영에 관한 조례",
@@ -16594,7 +16567,7 @@
         },
         {
           "target_law_name": "부산광역시 연제구 재난 및 안전관리 기본 조례",
-          "target_mst": "2157999",
+          "target_mst": "2172031",
           "target_url": "https://www.law.go.kr/자치법규/부산광역시 연제구 재난 및 안전관리 기본 조례"
         },
         {
@@ -16619,7 +16592,7 @@
         },
         {
           "target_law_name": "부산광역시 사상구 재난 및 안전관리 기본 조례",
-          "target_mst": "1965909",
+          "target_mst": "2172037",
           "target_url": "https://www.law.go.kr/자치법규/부산광역시 사상구 재난 및 안전관리 기본 조례"
         },
         {
@@ -16774,7 +16747,7 @@
         },
         {
           "target_law_name": "서울특별시 동작구 재난 및 안전관리 기본조례",
-          "target_mst": "2166615",
+          "target_mst": "2177033",
           "target_url": "https://www.law.go.kr/자치법규/서울특별시 동작구 재난 및 안전관리 기본조례"
         },
         {
@@ -16799,7 +16772,7 @@
         },
         {
           "target_law_name": "서울특별시 구로구 재난 및 안전관리 기본 조례",
-          "target_mst": "1970719",
+          "target_mst": "2170029",
           "target_url": "https://www.law.go.kr/자치법규/서울특별시 구로구 재난 및 안전관리 기본 조례"
         },
         {
@@ -16819,7 +16792,7 @@
         },
         {
           "target_law_name": "서울특별시 강북구 재난 및 안전관리 기본조례",
-          "target_mst": "1868805",
+          "target_mst": "2174901",
           "target_url": "https://www.law.go.kr/자치법규/서울특별시 강북구 재난 및 안전관리 기본조례"
         },
         {
@@ -16879,7 +16852,7 @@
         },
         {
           "target_law_name": "대전광역시 서구 안전관리자문단 구성 및 운영 조례",
-          "target_mst": "1760881",
+          "target_mst": "2170871",
           "target_url": "https://www.law.go.kr/자치법규/대전광역시 서구 안전관리자문단 구성 및 운영 조례"
         },
         {
@@ -16974,7 +16947,7 @@
         },
         {
           "target_law_name": "경상남도 재난 및 안전관리 기본 조례",
-          "target_mst": "2105697",
+          "target_mst": "2174867",
           "target_url": "https://www.law.go.kr/자치법규/경상남도 재난 및 안전관리 기본 조례"
         },
         {
@@ -17183,6 +17156,11 @@
           "target_url": "https://www.law.go.kr/자치법규/서울특별시 용산구 재난 및 안전관리 기본 조례"
         },
         {
+          "target_law_name": "천안시 재난 및 안전관리 조례",
+          "target_mst": "2118271",
+          "target_url": "https://www.law.go.kr/자치법규/천안시 재난 및 안전관리 조례"
+        },
+        {
           "target_law_name": "창원시 안전관리자문단 구성 및 운영에 관한 조례",
           "target_mst": "1995949",
           "target_url": "https://www.law.go.kr/자치법규/창원시 안전관리자문단 구성 및 운영에 관한 조례"
@@ -17321,16 +17299,6 @@
           "target_law_name": "인천광역시 서해구 안전관리자문단 구성 및 운영에 관한 조례",
           "target_mst": "2135735",
           "target_url": "https://www.law.go.kr/자치법규/인천광역시 서해구 안전관리자문단 구성 및 운영에 관한 조례"
-        },
-        {
-          "target_law_name": "인천광역시 미추홀구 재난 및 안전관리 기구의 구성 운영 조례",
-          "target_mst": "1983841",
-          "target_url": "https://www.law.go.kr/자치법규/인천광역시 미추홀구 재난 및 안전관리 기구의 구성 운영 조례"
-        },
-        {
-          "target_law_name": "천안시 재난 및 안전관리 조례",
-          "target_mst": "2118271",
-          "target_url": "https://www.law.go.kr/자치법규/천안시 재난 및 안전관리 조례"
         },
         {
           "target_law_name": "철원군 재난 및 안전관리 기본 조례",
@@ -17488,6 +17456,11 @@
           "target_url": "https://www.law.go.kr/자치법규/청송군 안전관리자문단 구성 및 운영에 관한 조례"
         },
         {
+          "target_law_name": "인천광역시 미추홀구 재난 및 안전관리 기구의 구성 운영 조례",
+          "target_mst": "1983841",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 미추홀구 재난 및 안전관리 기구의 구성 운영 조례"
+        },
+        {
           "target_law_name": "인천광역시 동구 재난 및 안전 관리 조례",
           "target_mst": "996107",
           "target_url": "https://www.law.go.kr/자치법규/인천광역시 동구 재난 및 안전 관리 조례"
@@ -17624,7 +17597,7 @@
         },
         {
           "target_law_name": "서울특별시 중구 재난 및 안전관리 기본조례",
-          "target_mst": "1889159",
+          "target_mst": "2173351",
           "target_url": "https://www.law.go.kr/자치법규/서울특별시 중구 재난 및 안전관리 기본조례"
         },
         {
@@ -17651,11 +17624,6 @@
           "target_law_name": "영암군 안전관리자문단 구성 및 운영에 관한 조례",
           "target_mst": "1800855",
           "target_url": "https://www.law.go.kr/자치법규/영암군 안전관리자문단 구성 및 운영에 관한 조례"
-        },
-        {
-          "target_law_name": "영양군 안전관리자문단 구성 및 운영에 관한 조례",
-          "target_mst": "1011066",
-          "target_url": "https://www.law.go.kr/자치법규/영양군 안전관리자문단 구성 및 운영에 관한 조례"
         },
         {
           "target_law_name": "인천광역시 검단구 안전관리자문단 구성 및 운영에 관한 조례",
@@ -17738,6 +17706,11 @@
           "target_url": "https://www.law.go.kr/자치법규/울산광역시 동구  안전관리자문단 구성 및 운영에 관한 조례"
         },
         {
+          "target_law_name": "영양군 안전관리자문단 구성 및 운영에 관한 조례",
+          "target_mst": "1011066",
+          "target_url": "https://www.law.go.kr/자치법규/영양군 안전관리자문단 구성 및 운영에 관한 조례"
+        },
+        {
           "target_law_name": "영월군 안전관리자문단 구성 및 운영에 관한 조례",
           "target_mst": "1599379",
           "target_url": "https://www.law.go.kr/자치법규/영월군 안전관리자문단 구성 및 운영에 관한 조례"
@@ -17761,11 +17734,6 @@
           "target_law_name": "예천군안전관리자문단구성및운영에관한조례",
           "target_mst": "869647",
           "target_url": "https://www.law.go.kr/자치법규/예천군안전관리자문단구성및운영에관한조례"
-        },
-        {
-          "target_law_name": "오산시 안전관리자문단 구성 및 운영에 관한 조례",
-          "target_mst": "805668",
-          "target_url": "https://www.law.go.kr/자치법규/오산시 안전관리자문단 구성 및 운영에 관한 조례"
         },
         {
           "target_law_name": "옥천군 안전관리자문단 구성 및 운영에 관한 조례",
@@ -17823,7 +17791,7 @@
     "phantom_self_refs": 0,
     "phantom_self_ref_samples": [],
     "ordinance_groups": 8,
-    "ordinance_docs_total": 1847,
+    "ordinance_docs_total": 1845,
     "addenda_count": 53,
     "appendices_count": 0,
     "pop_miss": 0,
@@ -17836,10 +17804,8 @@
   "provision_id": "law:재난및안전관리기본법#DOC",
   "addendum_provision_id": "law:재난및안전관리기본법#ADDENDUM",
   "amendment_provision_id": "law:재난및안전관리기본법#AMENDMENT",
-  "future_enforcement_dates": [
-    "20270108"
-  ],
-  "has_future": true,
-  "version_count": 2,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json"
 }
