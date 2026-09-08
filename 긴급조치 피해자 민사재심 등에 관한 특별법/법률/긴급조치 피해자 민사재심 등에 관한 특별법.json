@@ -1,0 +1,190 @@
+{
+  "law_id": "015199",
+  "mst": "289301",
+  "version_uid": "015199:289301:20260908",
+  "law_name": "긴급조치 피해자 민사재심 등에 관한 특별법",
+  "law_abbr": "",
+  "name_aliases": [],
+  "law_type": "법률",
+  "promulgation_no": "21885",
+  "promulgation_date": "20260908",
+  "enforcement_date": "20260908",
+  "revision_date": "20260908",
+  "revision_type": "제정",
+  "is_current": true,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "긴급조치 피해자 민사재심 등에 관한 특별법",
+    "공포번호": "21885",
+    "전화번호": "02-2110-3164",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "015199",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "법무부",
+      "소관부처코드": "1270000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "법률",
+      "법종구분코드": "A0002"
+    },
+    "시행일자": "20260908",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "02-2110-3164",
+        "부서키": "428103",
+        "부서명": "법무심의관",
+        "소관부처명": "법무부",
+        "소관부처코드": "1270000"
+      }
+    },
+    "법령명_한자": "긴급조치 피해자 민사재심 등에 관한 특별법",
+    "법령명약칭": "",
+    "공포일자": "20260908",
+    "편장절관": "07050000"
+  },
+  "amendment_text": "국회에서 의결된 긴급조치 피해자 민사재심 등에 관한 특별법을 이에 공포한다.\n대통령        이재명 (인)\n2026년 9월 8일\n국무총리        한성숙\n국무위원 행정안전부 장관(법무부 소관)        윤호중\n⊙법률 제21885호\n긴급조치 피해자 민사재심 등에 관한 특별법\n[본문과 동일하여 생략]\n부칙\n이 법은 공포한 날부터 시행한다.",
+  "revision_reason": "[제정]\n◇ 제정이유\n대법원 전원합의체 판결(대법원 2022. 8. 30. 선고 2018다212610 전원합의체 판결)에 따라 1975년 5월 13일 발령된 대통령 긴급조치 제9조는 위헌ㆍ무효임이 명백해졌으나, 종전에 1975년 5월 13일 발령된 대통령 긴급조치 제9조의 위헌을 이유로 국가배상청구소송을 제기했던 피해자들의 경우 당시 판례가 이를 부정하여 소멸시효 등을 이유로 패소판결이 확정되어 구제를 받지 못하게 되는 문제가 발생함. 이에 긴급조치 피해자에 대한 민사재심에 관한 특례를 규정하고, 피해자들의 국가배상청구권을 보장함으로써 긴급조치 피해자의 명예를 회복하고 잘못된 과거사를 청산하려는 것임.\n◇ 주요내용\n가. 위헌ㆍ무효인 긴급조치를 발령ㆍ적용ㆍ집행한 국가의 행위가 위법함을 확인하고, 국가배상청구소송에서 각하 또는 기각의 확정판결을 선고받은 피해자들에 대한 민사재심의 특례를 마련하는 것을 이 법의 목적으로 함(제1조).\n나. 긴급조치 피해자 등은 「형사소송법」에 따른 형사재심절차에서의 무죄판결 또는 검사의 혐의없음 처분 등과 관계없이 「국가배상법」에 따른 국가배상을 청구할 수 있도록 함(제4조).\n다. 민사특별재심청구 및 국가배상청구는 이 법 시행일부터 3년 이내에 제기하도록 함(제5조).\n<법제처 제공>",
+  "body": {
+    "format": "articles",
+    "article_count": 6,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제1조(목적) 이 법은 위헌ㆍ무효인 긴급조치를 발령ㆍ적용ㆍ집행한 국가의 행위가 위법함을 확인하고, 이로 인하여 손해를 받았으나 이에 대한 국가배상청구소송에서 기각의 확정판결을 받은 피해자들에 대한 민사재심의 특례를 마련하며, 형사재심절차를 통한 무죄판결을 받지 못한 피해자들의 국가배상청구권을 보장함으로써 긴급조치 피해자들의 기본권을 회복함과 동시에 잘못된 과거사를 청산하고 진정한 법치국가를 구현하는 것을 목적으로 한다.",
+        "enforcement_date": "20260908",
+        "relations": [],
+        "revision_type": "제정",
+        "changed": "Y",
+        "article_key": "0001001",
+        "moved": "000000",
+        "images": [],
+        "provision_id": "law:긴급조치피해자민사재심등에관한특별법#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제2조(정의) 이 법에서 사용하는 용어의 뜻은 다음과 같다.\n1. \"유신헌법\"이란 1972년 12월 27일 헌법 제8호로 전부개정되고 1980년 10월 27일 헌법 제9호로 전부개정되기 전의 「대한민국헌법」을 말한다.\n2. \"긴급조치\"란 유신헌법 제53조에 근거하여 1974년 1월 8일 발령한 「대통령긴급조치제1호」, 1974년 4월 3일 발령한 「대통령긴급조치제4호」, 1975년 4월 8일 발령한 「대통령긴급조치제7호」 또는 1975년 5월 13일 발령한 「국가안전과공공질서의수호를위한대통령긴급조치」를 말한다.\n3. \"긴급조치 피해자\"란 다음 각 목의 어느 하나에 해당하는 사람을 말한다.\n가. 긴급조치 위반으로 인하여 법원에서 유죄의 확정판결을 받은 사람\n나. 긴급조치 위반으로 인하여 법원에서 선고유예 또는 면소판결을 받은 사람\n다. 긴급조치 위반으로 인하여 체포, 구속, 압수 또는 수색 등 형사상 불이익을 받은 사람\n4. \"가족\"이란 긴급조치 피해자의 배우자, 직계존속, 직계비속 및 형제자매를 말한다.",
+        "enforcement_date": "20260908",
+        "relations": [],
+        "revision_type": "제정",
+        "changed": "Y",
+        "article_key": "0002001",
+        "moved": "000000",
+        "images": [],
+        "provision_id": "law:긴급조치피해자민사재심등에관한특별법#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "민사특별재심",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제3조(민사특별재심) 대법원이 2022년 8월 30일 선고한 2018다212610 전원합의체 판결 이전에 국가배상청구소송에서 기각의 확정판결을 선고받은 긴급조치 피해자와 그 가족은 「민사소송법」 제451조에도 불구하고 재심의 소를 제기할 수 있다.",
+        "enforcement_date": "20260908",
+        "relations": [],
+        "revision_type": "제정",
+        "changed": "Y",
+        "article_key": "0003001",
+        "moved": "000000",
+        "images": [],
+        "provision_id": "law:긴급조치피해자민사재심등에관한특별법#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "국가배상의 청구",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제4조(국가배상의 청구) 긴급조치 피해자와 그 가족은 「형사소송법」에 따른 형사재심절차에서의 무죄판결 또는 검사의 혐의없음 처분 등의 유무와 관계없이 「국가배상법」에 따른 국가배상을 청구할 수 있다.",
+        "enforcement_date": "20260908",
+        "relations": [],
+        "revision_type": "제정",
+        "changed": "Y",
+        "article_key": "0004001",
+        "moved": "000000",
+        "images": [],
+        "provision_id": "law:긴급조치피해자민사재심등에관한특별법#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "재심 등 소 제기의 기간",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제5조(재심 등 소 제기의 기간) 제3조에 따른 재심의 소 및 제4조에 따른 국가배상청구는 이 법 시행일부터 3년 이내에 제기하여야 한다.",
+        "enforcement_date": "20260908",
+        "relations": [],
+        "revision_type": "제정",
+        "changed": "Y",
+        "article_key": "0005001",
+        "moved": "000000",
+        "images": [],
+        "provision_id": "law:긴급조치피해자민사재심등에관한특별법#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "준용",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제6조(준용) 재심에 관하여 이 법에서 규정한 것을 제외하고는 「민사소송법」 제453조부터 제455조까지 및 제458조를 준용한다.",
+        "enforcement_date": "20260908",
+        "relations": [],
+        "revision_type": "제정",
+        "changed": "Y",
+        "article_key": "0006001",
+        "moved": "000000",
+        "images": [],
+        "provision_id": "law:긴급조치피해자민사재심등에관한특별법#JO0006"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20260908",
+      "promulgation_no": "21885",
+      "addendum_key": "2026090821885",
+      "content": "부칙 <제21885호,2026.9.8>\n이 법은 공포한 날부터 시행한다.",
+      "provision_id": "law:긴급조치피해자민사재심등에관한특별법#ADDENDUM",
+      "is_future": false,
+      "source_mst": "289301",
+      "source_version_uid": "015199:289301:20260908",
+      "source_revision_type": "제정",
+      "version_enforcement_date": "20260908"
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 6,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "phantom_self_refs": 0,
+    "phantom_self_ref_samples": [],
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0,
+    "pop_miss": 0,
+    "pop_miss_by_reason": {},
+    "pop_skipped_addendum": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/긴급조치 피해자 민사재심 등에 관한 특별법"
+  },
+  "provision_id": "law:긴급조치피해자민사재심등에관한특별법#DOC",
+  "addendum_provision_id": "law:긴급조치피해자민사재심등에관한특별법#ADDENDUM",
+  "amendment_provision_id": "law:긴급조치피해자민사재심등에관한특별법#AMENDMENT",
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "긴급조치 피해자 민사재심 등에 관한 특별법/법률/긴급조치 피해자 민사재심 등에 관한 특별법.json"
+}
