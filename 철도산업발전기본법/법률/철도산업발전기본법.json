@@ -630,7 +630,14 @@
         "article_key": "0014001",
         "moved": "000000",
         "images": [],
-        "provision_id": "law:철도산업발전기본법#JO0014"
+        "provision_id": "law:철도산업발전기본법#JO0014",
+        "scheduled": [
+          {
+            "enforcement_date": "20260917",
+            "change": "개정",
+            "content": "제14조(철도안전)\n①국가는 국민의 생명ㆍ신체 및 재산을 보호하기 위하여 철도안전에 필요한 법적ㆍ제도적 장치를 마련하고 이에 필요한 재원을 확보하도록 노력하여야 한다.\n②철도시설관리자는 그 시설을 설치 또는 관리할 때에 법령에서 정하는 바에 따라 해당 시설의 안전한 상태를 유지하고, 해당 시설과 이를 이용하려는 철도차량간의 종합적인 성능검증 및 안전상태 점검, 기후변화 등 환경변화에 따른 위험요인에 대한 예방조치 등 안전확보에 필요한 조치를 하여야 한다. <개정 2020.6.9, 2026.6.16>\n③철도운영자 또는 철도차량 및 장비 등의 제조업자는 법령에서 정하는 바에 따라 철도의 안전한 운행 또는 그 제조하는 철도차량 및 장비 등의 구조ㆍ설비 및 장치의 안전성을 확보하고 이의 향상을 위하여 노력하여야 한다. <개정 2020.6.9>\n④ 국가는 철도이용자의 안전을 위하여 철도운영자가 국토교통부령으로 정하는 노후화된 철도차량을 교체하는 경우 필요한 소요자금의 일부를 보조할 수 있다. <신설 2025.12.2>\n⑤국가는 객관적이고 공정한 철도사고조사를 추진하기 위한 전담기구와 전문인력을 확보하여야 한다. <개정 2025.12.2>"
+          }
+        ]
       },
       {
         "article_no": "제15조",
@@ -1786,6 +1793,19 @@
       "source_version_uid": "009536:280127:20260603",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20260603"
+    },
+    {
+      "promulgation_date": "20260616",
+      "promulgation_no": "21818",
+      "addendum_key": "2026061621818",
+      "content": "부칙 <제21818호,2026.6.16>\n이 법은 공포 후 3개월이 경과한 날부터 시행한다.",
+      "provision_id": "law:철도산업발전기본법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "286949",
+      "source_version_uid": "009536:286949:20260917",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260917",
+      "enforcement_date": "20260917"
     }
   ],
   "appendices": [],
@@ -1818,8 +1838,10 @@
   "provision_id": "law:철도산업발전기본법#DOC",
   "addendum_provision_id": "law:철도산업발전기본법#ADDENDUM",
   "amendment_provision_id": "law:철도산업발전기본법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20260917"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "철도산업발전기본법/법률/철도산업발전기본법.json"
 }
