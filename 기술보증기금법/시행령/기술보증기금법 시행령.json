@@ -1188,6 +1188,19 @@
       "source_version_uid": "004100:268355:20250131",
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20250131"
+    },
+    {
+      "promulgation_date": "20260818",
+      "promulgation_no": "36587",
+      "addendum_key": "2026081836587",
+      "content": "부칙(수소경제 육성 및 수소 안전관리에 관한 법률 시행령) <제36587호,2026.8.18>\n제1조(시행일) 이 영은 2026년 9월 18일부터 시행한다.\n제2조(다른 법령의 개정) ①부터 ⑧까지 생략\n⑨ 기술보증기금법 시행령 일부를 다음과 같이 개정한다.\n별표 1 제14호 중 \"「신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법」 제10조제2호에 따른 신ㆍ재생에너지의 연구ㆍ개발사업 성과\"를 \"「재생에너지 개발ㆍ이용ㆍ보급 촉진법」 제10조제2호에 따른 재생에너지의 연구ㆍ개발사업 성과\"로 하고, 같은 표에 제14호의2를 다음과 같이 신설한다.\n14의2. 「수소경제 육성 및 수소 안전관리에 관한 법률」 제7조의2제2호에 따른 수소에너지의 연구ㆍ개발사업 성과를 기업화하는 사업\n⑩부터 <44>까지 생략\n제3조 생략",
+      "provision_id": "law:기술보증기금법시행령#ADDENDUM",
+      "is_future": true,
+      "source_mst": "288861",
+      "source_version_uid": "004100:288861:20260918",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20260918",
+      "enforcement_date": "20260918"
     }
   ],
   "appendices": [
@@ -1301,8 +1314,10 @@
   "provision_id": "law:기술보증기금법시행령#DOC",
   "addendum_provision_id": "law:기술보증기금법시행령#ADDENDUM",
   "amendment_provision_id": "law:기술보증기금법시행령#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20260918"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "기술보증기금법/시행령/기술보증기금법 시행령.json"
 }
