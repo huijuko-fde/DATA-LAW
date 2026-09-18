@@ -309,7 +309,14 @@
         "changed": "N",
         "article_key": "0010001",
         "images": [],
-        "provision_id": "law:개성공업지구지원에관한법률#JO0010"
+        "provision_id": "law:개성공업지구지원에관한법률#JO0010",
+        "scheduled": [
+          {
+            "enforcement_date": "20260918",
+            "change": "개정",
+            "content": "제10조(에너지이용 합리화를 위한 지원)\n① 정부는 개성공업지구 현지기업에 대하여 「에너지이용 합리화법」 제14조, 「집단에너지사업법」 제8조 및 「재생에너지 개발ㆍ이용ㆍ보급 촉진법」 제28조 및 「수소경제 육성 및 수소 안전관리에 관한 법률」 제25조의15에 따른 지원을 할 수 있다. <개정 2014.1.21, 2026.3.17>\n② 제1항의 지원에 관하여 필요한 사항은 대통령령으로 정한다."
+          }
+        ]
       },
       {
         "article_no": "제11조",
@@ -1435,6 +1442,19 @@
       "version_enforcement_date": "20260602"
     },
     {
+      "promulgation_date": "20260317",
+      "promulgation_no": "21467",
+      "addendum_key": "2026031721467",
+      "content": "부칙(수소경제 육성 및 수소 안전관리에 관한 법률) <제21467호,2026.3.17>\n제1조(시행일) 이 법은 공포 후 6개월이 경과한 날부터 시행한다. 다만, 부칙 제8조에 따라 개정되는 법률 중 이 법 시행 전에 공포되었으나 시행일이 도래하지 아니한 법률을 개정한 부분은 각각 해당 법률의 시행일부터 시행한다.\n제2조 부터 제7조까지 생략\n제8조(다른 법률의 개정) ① 생략\n② 개성공업지구 지원에 관한 법률 일부를 다음과 같이 개정한다.\n제10조제1항 중 \"「신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법」 제28조\"를 \"「재생에너지 개발ㆍ이용ㆍ보급 촉진법」 제28조 및 「수소경제 육성 및 수소 안전관리에 관한 법률」 제25조의15\"로 한다.\n③부터 <36>까지 생략\n제9조 생략",
+      "provision_id": "law:개성공업지구지원에관한법률#ADDENDUM",
+      "is_future": true,
+      "source_mst": "284339",
+      "source_version_uid": "010451:284339:20260918",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20260918",
+      "enforcement_date": "20260918"
+    },
+    {
       "promulgation_date": "20260602",
       "promulgation_no": "21738",
       "addendum_key": "2026060221738",
@@ -1477,8 +1497,10 @@
   "provision_id": "law:개성공업지구지원에관한법률#DOC",
   "addendum_provision_id": "law:개성공업지구지원에관한법률#ADDENDUM",
   "amendment_provision_id": "law:개성공업지구지원에관한법률#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20260918"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "개성공업지구 지원에 관한 법률/법률/개성공업지구 지원에 관한 법률.json"
 }
