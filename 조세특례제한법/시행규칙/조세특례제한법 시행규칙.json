@@ -4289,6 +4289,19 @@
       "source_version_uid": "008218:284611:20260701",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20260701"
+    },
+    {
+      "promulgation_date": "20260831",
+      "promulgation_no": "00056",
+      "addendum_key": "2026083100056",
+      "content": "부칙(수소경제 육성 및 수소 안전관리에 관한 법률 시행규칙) <제56호,2026.8.31>\n제1조(시행일) 이 규칙은 2026년 9월 18일부터 시행한다.\n제2조(다른 법령의 개정) ①부터 ⑨까지 생략\n⑩ 조세특례제한법 시행규칙 일부를 다음과 같이 개정한다.\n별표 7 제2호가목의 적용범위란 중 \"「신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법」 제2조에 따른 신에너지 및 재생에너지\"를 \"「재생에너지 개발ㆍ이용ㆍ보급 촉진법」 제2조제2호에 따른 재생에너지와 「수소경제 육성 및 수소 안전관리에 관한 법률」 제2조제6호 및 제11호에 따른 연료전지등에 활용되는 에너지 및 수소에너지\"로 한다.\n별지 제2호의2서식 부표의 작성방법란 제3호 중 \"「신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법」 제13조에 따라 신ㆍ재생에너지 설비로 인증받은 제품의 신재생에너지설비 인증서\"를 \"「재생에너지 개발ㆍ이용ㆍ보급 촉진법」 제13조에 따라 재생에너지 설비로 인증받은 제품의 재생에너지설비 인증서 또는 「수소경제 육성 및 수소 안전관리에 관한 법률」 제25조의10에 따라 수소에너지 설비로 인증받은 제품의 수소에너지설비 인증서\"로 한다.\n⑪부터 ⑬까지 생략\n제3조 생략",
+      "provision_id": "law:조세특례제한법시행규칙#ADDENDUM",
+      "is_future": true,
+      "source_mst": "289267",
+      "source_version_uid": "008218:289267:20260918",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20260918",
+      "enforcement_date": "20260918"
     }
   ],
   "appendices": [
@@ -22126,8 +22139,10 @@
   "provision_id": "law:조세특례제한법시행규칙#DOC",
   "addendum_provision_id": "law:조세특례제한법시행규칙#ADDENDUM",
   "amendment_provision_id": "law:조세특례제한법시행규칙#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20260918"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "조세특례제한법/시행규칙/조세특례제한법 시행규칙.json"
 }
