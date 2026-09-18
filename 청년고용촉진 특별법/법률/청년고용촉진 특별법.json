@@ -101,7 +101,14 @@
         "changed": "N",
         "article_key": "0002001",
         "images": [],
-        "provision_id": "law:청년고용촉진특별법#JO0002"
+        "provision_id": "law:청년고용촉진특별법#JO0002",
+        "scheduled": [
+          {
+            "enforcement_date": "20260918",
+            "change": "개정",
+            "content": "제2조(정의) 이 법에서 사용하는 용어의 뜻은 다음과 같다. <개정 2026.3.17>\n1. \"청년\"이란 취업을 원하는 사람으로서 15세 이상 34세 이하인 사람을 말한다. 다만, 다른 법령과 조례에서 청년에 대한 연령을 다르게 적용하는 경우에는 그에 따를 수 있다.\n2. \"중소기업체\"란 「중소기업기본법」 제2조에 따른 중소기업을 말한다."
+          }
+        ]
       },
       {
         "article_no": "제3조",
@@ -697,6 +704,19 @@
       "source_version_uid": "009636:258019:20231231",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20231231"
+    },
+    {
+      "promulgation_date": "20260317",
+      "promulgation_no": "21477",
+      "addendum_key": "2026031721477",
+      "content": "부칙 <제21477호,2026.3.17>\n이 법은 공포 후 6개월이 경과한 날부터 시행한다.",
+      "provision_id": "law:청년고용촉진특별법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "284459",
+      "source_version_uid": "009636:284459:20260918",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260918",
+      "enforcement_date": "20260918"
     }
   ],
   "appendices": [],
@@ -729,8 +749,10 @@
   "provision_id": "law:청년고용촉진특별법#DOC",
   "addendum_provision_id": "law:청년고용촉진특별법#ADDENDUM",
   "amendment_provision_id": "law:청년고용촉진특별법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20260918"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "청년고용촉진 특별법/법률/청년고용촉진 특별법.json"
 }
