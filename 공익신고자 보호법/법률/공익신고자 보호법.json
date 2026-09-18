@@ -1652,6 +1652,19 @@
       "source_version_uid": "011358:268861:20260201",
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20260201"
+    },
+    {
+      "promulgation_date": "20260317",
+      "promulgation_no": "21467",
+      "addendum_key": "2026031721467",
+      "content": "부칙(수소경제 육성 및 수소 안전관리에 관한 법률) <제21467호,2026.3.17>\n제1조(시행일) 이 법은 공포 후 6개월이 경과한 날부터 시행한다. 다만, 부칙 제8조에 따라 개정되는 법률 중 이 법 시행 전에 공포되었으나 시행일이 도래하지 아니한 법률을 개정한 부분은 각각 해당 법률의 시행일부터 시행한다.\n제2조 부터 제7조까지 생략\n제8조(다른 법률의 개정) ①부터 ④까지 생략\n⑤ 공익신고자 보호법 일부를 다음과 같이 개정한다.\n별표에 제252호의2를 다음과 같이 신설한다.\n252의2. 「수소경제 육성 및 수소 안전관리에 관한 법률」\n별표 제267호를 삭제한다.\n별표에 제361호의2를 다음과 같이 신설한다.\n361의2. 「재생에너지 개발ㆍ이용ㆍ보급 촉진법」\n⑥부터 <36>까지 생략\n제9조 생략",
+      "provision_id": "law:공익신고자보호법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "284345",
+      "source_version_uid": "011358:284345:20260918",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20260918",
+      "enforcement_date": "20260918"
     }
   ],
   "appendices": [
@@ -1800,8 +1813,10 @@
   "provision_id": "law:공익신고자보호법#DOC",
   "addendum_provision_id": "law:공익신고자보호법#ADDENDUM",
   "amendment_provision_id": "law:공익신고자보호법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20260918"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "공익신고자 보호법/법률/공익신고자 보호법.json"
 }
