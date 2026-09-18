@@ -487,6 +487,19 @@
       "version_enforcement_date": "20260910"
     },
     {
+      "promulgation_date": "20260818",
+      "promulgation_no": "36587",
+      "addendum_key": "2026081836587",
+      "content": "부칙(수소경제 육성 및 수소 안전관리에 관한 법률 시행령) <제36587호,2026.8.18>\n제1조(시행일) 이 영은 2026년 9월 18일부터 시행한다.\n제2조(다른 법령의 개정) ①부터 <37>까지 생략\n<38> 지속가능발전 기본법 시행령 일부를 다음과 같이 개정한다.\n별표 제110호를 다음과 같이 한다.\n110. 「재생에너지 개발ㆍ이용ㆍ보급 촉진법」 제5조제1항에 따른 재생에너지의 기술개발 및 이용ㆍ보급을 촉진하기 위한 기본계획\n별표에 제110호의2를 다음과 같이 신설한다.\n110의2. 「수소경제 육성 및 수소 안전관리에 관한 법률」 제5조제1항에 따른 수소경제 이행 기본계획\n<39>부터 <44>까지 생략\n제3조 생략",
+      "provision_id": "law:지속가능발전기본법시행령#ADDENDUM",
+      "is_future": true,
+      "source_mst": "288919",
+      "source_version_uid": "014306:288919:20260918",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20260918",
+      "enforcement_date": "20260918"
+    },
+    {
       "promulgation_date": "20260909",
       "promulgation_no": "36667",
       "addendum_key": "2026090936667",
@@ -1716,8 +1729,10 @@
   "provision_id": "law:지속가능발전기본법시행령#DOC",
   "addendum_provision_id": "law:지속가능발전기본법시행령#ADDENDUM",
   "amendment_provision_id": "law:지속가능발전기본법시행령#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20260918"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "지속가능발전 기본법/시행령/지속가능발전 기본법 시행령.json"
 }
