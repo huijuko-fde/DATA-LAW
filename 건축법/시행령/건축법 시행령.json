@@ -332,9 +332,9 @@
             "type": "image",
             "url": "http://www.law.go.kr/flDownload.do?flSeq=22909013",
             "seq": "",
-            "filename": "제3조의3_1.gif",
+            "filename": "제3조의3_1.bmp",
             "file_dir": "본문이미지",
-            "local_path": "본문이미지/제3조의3_1.gif",
+            "local_path": "본문이미지/제3조의3_1.bmp",
             "file_store_url": ""
           }
         ],
@@ -2216,9 +2216,9 @@
             "type": "image",
             "url": "http://www.law.go.kr/flDownload.do?flSeq=22909337",
             "seq": "",
-            "filename": "제31조_1.gif",
+            "filename": "제31조_1.bmp",
             "file_dir": "본문이미지",
-            "local_path": "본문이미지/제31조_1.gif",
+            "local_path": "본문이미지/제31조_1.bmp",
             "file_store_url": ""
           }
         ],
@@ -27476,6 +27476,6 @@
     "20260918"
   ],
   "has_future": true,
-  "version_count": 2,
+  "version_count": 3,
   "git_path": "건축법/시행령/건축법 시행령.json"
 }
