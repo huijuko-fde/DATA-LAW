@@ -260,7 +260,14 @@
         "changed": "N",
         "article_key": "0008031",
         "images": [],
-        "provision_id": "law:빈집및소규모주택정비에관한특례법시행령#JO0008_03"
+        "provision_id": "law:빈집및소규모주택정비에관한특례법시행령#JO0008_03",
+        "scheduled": [
+          {
+            "enforcement_date": "20260918",
+            "change": "개정",
+            "content": "제8조의3(빈집등에 관한 자료 또는 정보의 이용 및 요청) 법 제8조제1항제4호에서 \"등기사항증명서 등 대통령령으로 정하는 자료 또는 정보\"란 다음 각 호의 자료 또는 정보를 말한다. <개정 2026.8.18>\n1. 등기사항증명서\n2. 「전기사업법」 제19조제1항에 따른 전력량계의 철거에 관한 자료 또는 정보\n3. 「재생에너지 개발ㆍ이용ㆍ보급 촉진법」 제2조제2호가목에 따른 태양에너지를 이용하는 발전설비의 설치에 관한 자료 또는 정보\n4. 「도시가스사업법」에 따른 도시가스 요금 부과(고지) 내역\n5. 「수도법」에 따른 수도 사용량 및 단수(斷水) 정보\n6. 폐공가(廢空家) 현황자료"
+          }
+        ]
       },
       {
         "article_no": "제9조",
@@ -1795,6 +1802,19 @@
       "source_version_uid": "013079:287301:20260701",
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20260701"
+    },
+    {
+      "promulgation_date": "20260818",
+      "promulgation_no": "36586",
+      "addendum_key": "2026081836586",
+      "content": "부칙(재생에너지 개발ㆍ이용ㆍ보급 촉진법 시행령) <제36586호,2026.8.18>\n제1조(시행일) 이 영은 2026년 9월 18일부터 시행한다.\n제2조부터 제7조까지 생략\n제8조(다른 법령의 개정) ①부터 ⑪까지 생략\n⑫ 빈집 및 소규모주택 정비에 관한 특례법 시행령 일부를 다음과 같이 개정한다.\n제8조의3제3호 중 \"「신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법」\"을 \"「재생에너지 개발ㆍ이용ㆍ보급 촉진법」\"으로 한다.\n⑬부터 <24>까지 생략\n제9조 생략",
+      "provision_id": "law:빈집및소규모주택정비에관한특례법시행령#ADDENDUM",
+      "is_future": true,
+      "source_mst": "288817",
+      "source_version_uid": "013079:288817:20260918",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20260918",
+      "enforcement_date": "20260918"
     }
   ],
   "appendices": [
@@ -5389,8 +5409,10 @@
   "provision_id": "law:빈집및소규모주택정비에관한특례법시행령#DOC",
   "addendum_provision_id": "law:빈집및소규모주택정비에관한특례법시행령#ADDENDUM",
   "amendment_provision_id": "law:빈집및소규모주택정비에관한특례법시행령#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20260918"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "빈집 및 소규모주택 정비에 관한 특례법/시행령/빈집 및 소규모주택 정비에 관한 특례법 시행령.json"
 }
