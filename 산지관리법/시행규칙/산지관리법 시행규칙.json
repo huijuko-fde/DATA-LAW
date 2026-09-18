@@ -1828,6 +1828,19 @@
       "source_version_uid": "009560:287565:20260701",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20260701"
+    },
+    {
+      "promulgation_date": "20260827",
+      "promulgation_no": "00054",
+      "addendum_key": "2026082700054",
+      "content": "부칙(재생에너지 개발ㆍ이용ㆍ보급 촉진법 시행규칙) <제54호,2026.8.27>\n제1조(시행일) 이 규칙은 2026년 9월 18일부터 시행한다.\n제2조 및 제3조 생략\n제4조(다른 법령의 개정) ① 및 ② 생략\n③ 산지관리법 시행규칙 일부를 다음과 같이 개정한다.\n별지 제7호의2서식 뒤쪽 신청인 제출서류란 제1호차목2) 및 같은 호 타목 중 \"「신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법」\"을 각각 \"「재생에너지 개발ㆍ이용ㆍ보급 촉진법」\"으로 한다.\n별지 제7호의5서식 뒤쪽 첨부서류란 제1호차목2) 및 같은 호 타목 중 \"「신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법」\"을 각각 \"「재생에너지 개발ㆍ이용ㆍ보급 촉진법」\"으로 한다.\n④부터 ⑦까지 생략\n제5조 생략",
+      "provision_id": "law:산지관리법시행규칙#ADDENDUM",
+      "is_future": true,
+      "source_mst": "289043",
+      "source_version_uid": "009560:289043:20260918",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20260918",
+      "enforcement_date": "20260918"
     }
   ],
   "appendices": [
@@ -5261,8 +5274,10 @@
   "provision_id": "law:산지관리법시행규칙#DOC",
   "addendum_provision_id": "law:산지관리법시행규칙#ADDENDUM",
   "amendment_provision_id": "law:산지관리법시행규칙#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20260918"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "산지관리법/시행규칙/산지관리법 시행규칙.json"
 }
