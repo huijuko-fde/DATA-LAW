@@ -82,7 +82,14 @@
         "article_key": "0002001",
         "moved": "000000",
         "images": [],
-        "provision_id": "law:물순환촉진및지원에관한법률시행규칙#JO0002"
+        "provision_id": "law:물순환촉진및지원에관한법률시행규칙#JO0002",
+        "scheduled": [
+          {
+            "enforcement_date": "20260918",
+            "change": "개정",
+            "content": "제2조(물순환 시설에 해당하는 재생에너지 설비) 「물순환 촉진 및 지원에 관한 법률 시행령」(이하 \"영\"이라 한다) 제2조제3호에서 \"기후에너지환경부령으로 정하는 시설\"이란 「재생에너지 개발ㆍ이용ㆍ보급 촉진법 시행규칙」 제2조제4호에 따른 태양에너지 설비, 같은 조 제6호에 따른 수력설비 및 같은 조 제11호에 따른 수열에너지 설비를 말한다. <개정 2025.10.1, 2026.8.27>"
+          }
+        ]
       },
       {
         "article_no": "제3조",
@@ -340,6 +347,19 @@
       "source_version_uid": "014762:278911:20251001",
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20251001"
+    },
+    {
+      "promulgation_date": "20260827",
+      "promulgation_no": "00054",
+      "addendum_key": "2026082700054",
+      "content": "부칙(재생에너지 개발ㆍ이용ㆍ보급 촉진법 시행규칙) <제54호,2026.8.27>\n제1조(시행일) 이 규칙은 2026년 9월 18일부터 시행한다.\n제2조 및 제3조 생략\n제4조(다른 법령의 개정) ① 생략\n② 물순환 촉진 및 지원에 관한 법률 시행규칙 일부를 다음과 같이 개정한다.\n제2조의 제목 중 \"신에너지 및 재생에너지\"를 \"재생에너지\"로 하고, 같은 조 제목 외의 부분 중 \"「신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법 시행규칙」\"을 \"「재생에너지 개발ㆍ이용ㆍ보급 촉진법 시행규칙」\"으로 한다.\n③부터 ⑦까지 생략\n제5조 생략",
+      "provision_id": "law:물순환촉진및지원에관한법률시행규칙#ADDENDUM",
+      "is_future": true,
+      "source_mst": "289041",
+      "source_version_uid": "014762:289041:20260918",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20260918",
+      "enforcement_date": "20260918"
     }
   ],
   "appendices": [
@@ -792,8 +812,10 @@
   "provision_id": "law:물순환촉진및지원에관한법률시행규칙#DOC",
   "addendum_provision_id": "law:물순환촉진및지원에관한법률시행규칙#ADDENDUM",
   "amendment_provision_id": "law:물순환촉진및지원에관한법률시행규칙#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20260918"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "물순환 촉진 및 지원에 관한 법률/시행규칙/물순환 촉진 및 지원에 관한 법률 시행규칙.json"
 }
