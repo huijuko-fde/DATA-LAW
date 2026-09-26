@@ -350,7 +350,14 @@
         "article_key": "0006031",
         "moved": "000000",
         "images": [],
-        "provision_id": "law:독도등도서지역의생태계보전에관한특별법#JO0006_03"
+        "provision_id": "law:독도등도서지역의생태계보전에관한특별법#JO0006_03",
+        "scheduled": [
+          {
+            "enforcement_date": "20260926",
+            "change": "개정",
+            "content": "제6조의3(특정도서 명예감시원)\n① 기후에너지환경부장관 또는 특별자치도지사ㆍ시장ㆍ군수ㆍ구청장(자치구의 구청장을 말한다)은 특정도서의 효율적인 보전을 위하여 특정도서의 보전과 관련된 법인ㆍ단체의 구성원, 주변지역의 주민 등을 특정도서 명예감시원으로 위촉할 수 있다. <개정 2025.3.25, 2025.10.1>\n② 특정도서 명예감시원의 자격, 위촉방법, 활동범위 등에 관한 사항은 기후에너지환경부령으로 정한다. <개정 2025.10.1>"
+          }
+        ]
       },
       {
         "article_no": "제7조",
@@ -875,6 +882,19 @@
       "version_enforcement_date": "20251001"
     },
     {
+      "promulgation_date": "20250325",
+      "promulgation_no": "20857",
+      "addendum_key": "2025032520857",
+      "content": "부칙(중앙행정권한 및 사무 등의 지방 일괄이양을 위한 환경교육의 활성화 및 지원에 관한 법률 등 5개 법률 일부개정에 관한 법률) <제20857호,2025.3.25>\n제1조(시행일) 이 법은 공포 후 1년 6개월이 경과한 날부터 시행한다.\n제2조(행정처분 등에 관한 일반적 경과조치) 이 법 시행 당시 종전의 규정에 따라 행정기관이 한 처분이나 그 밖의 행위는 이 법의 규정에 따라 행정기관이 한 처분이나 그 밖의 행위로 보고, 종전의 규정에 따라 행정기관에 대하여 한 신청ㆍ신고나 그 밖의 행위는 이 법의 규정에 따라 행정기관에 대하여 한 신청ㆍ신고나 그 밖의 행위로 본다.",
+      "provision_id": "law:독도등도서지역의생태계보전에관한특별법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "276723",
+      "source_version_uid": "000168:276723:20260926",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20260926",
+      "enforcement_date": "20260926"
+    },
+    {
       "promulgation_date": "20251001",
       "promulgation_no": "21065",
       "addendum_key": "2025100121065",
@@ -918,8 +938,10 @@
   "provision_id": "law:독도등도서지역의생태계보전에관한특별법#DOC",
   "addendum_provision_id": "law:독도등도서지역의생태계보전에관한특별법#ADDENDUM",
   "amendment_provision_id": "law:독도등도서지역의생태계보전에관한특별법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20260926"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "독도 등 도서지역의 생태계 보전에 관한 특별법/법률/독도 등 도서지역의 생태계 보전에 관한 특별법.json"
 }
