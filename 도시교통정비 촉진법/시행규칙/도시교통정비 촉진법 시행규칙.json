@@ -534,7 +534,14 @@
         "article_key": "0003001",
         "moved": "000000",
         "images": [],
-        "provision_id": "law:도시교통정비촉진법시행규칙#JO0003"
+        "provision_id": "law:도시교통정비촉진법시행규칙#JO0003",
+        "scheduled": [
+          {
+            "enforcement_date": "20261001",
+            "change": "개정",
+            "content": "제3조(혼잡통행료의 부과기준 등)\n① 시장은 법 제35조에 따라 혼잡통행료를 부과하려면 다음 각 호의 사항을 고려하여야 한다.\n1. 사회적 편익을 고려한 적정 수준의 혼잡통행료 부과\n2. 혼잡통행료 부과지역의 거주주민에 대한 혼잡통행료 감면 방안\n3. 그 밖에 혼잡통행료 부과에 따른 사회ㆍ경제적 영향\n② 시장은 법 제35조에 따라 혼잡통행료를 부과ㆍ징수할 때에는 전자식 징수 시스템을 설치하여야 한다.\n③ 법 제60조제4항에서 \"국토교통부령으로 정하는 납부기간\"이란 혼잡통행료를 부과한 날부터 30일까지의 기간을 말한다. <신설 2016.1.27, 2019.7.29, 2026.9.15>"
+          }
+        ]
       },
       {
         "article_no": "제3조의2",
@@ -2711,8 +2718,10 @@
   "provision_id": "law:도시교통정비촉진법시행규칙#DOC",
   "addendum_provision_id": "law:도시교통정비촉진법시행규칙#ADDENDUM",
   "amendment_provision_id": "law:도시교통정비촉진법시행규칙#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261001"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "도시교통정비 촉진법/시행규칙/도시교통정비 촉진법 시행규칙.json"
 }
