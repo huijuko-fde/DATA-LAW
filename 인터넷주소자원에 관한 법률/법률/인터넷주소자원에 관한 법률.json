@@ -569,7 +569,14 @@
         "changed": "N",
         "article_key": "0015001",
         "images": [],
-        "provision_id": "law:인터넷주소자원에관한법률#JO0015"
+        "provision_id": "law:인터넷주소자원에관한법률#JO0015",
+        "scheduled": [
+          {
+            "enforcement_date": "20261001",
+            "change": "개정",
+            "content": "제15조(개인정보의 보호)\n① 인터넷주소관리기관등은 인터넷주소 사용자의 개인정보를 보호하여야 한다.\n② 제1항에 따른 개인정보보호에 관하여는 「정보통신망 이용촉진 및 정보보호 등에 관한 법률」 제22조, 제23조, 제23조의2, 제24조, 제24조의2, 제25조, 제26조의2, 제27조, 제27조의2, 제28조, 제28조의2, 제29조부터 제32조까지, 제36조제1항, 제63조, 제64조, 제71조제1항제1호부터 제8호까지, 제73조제1호, 제76조제2항제1호부터 제5호까지(같은 항 제1호의2는 제외한다), 같은 조 제3항(같은 항 제2호는 제외한다), 같은 조 제4항제22호부터 제24호까지의 개인정보에 관한 규정을 준용한다. 이 경우 \"정보통신서비스 제공자\"는 \"인터넷주소관리기관등\"으로, \"이용자\"는 \"인터넷주소의 사용자\"로 본다. <개정 2016.3.22, 2026.3.31>"
+          }
+        ]
       },
       {
         "article_no": "제16조",
@@ -1074,6 +1081,19 @@
       "source_version_uid": "009627:239271:20220712",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20220712"
+    },
+    {
+      "promulgation_date": "20260331",
+      "promulgation_no": "21500",
+      "addendum_key": "2026033121500",
+      "content": "부칙(정보통신망 이용촉진 및 정보보호 등에 관한 법률) <제21500호,2026.3.31>\n제1조(시행일) 이 법은 공포 후 6개월이 경과한 날부터 시행한다. <단서 생략>\n제2조 부터 제9조까지 생략\n제10조(다른 법률의 개정) 인터넷주소자원에 관한 법률 일부를 다음과 같이 개정한다.\n제15조제2항 전단 중 \"제76조제1항\"을 \"제76조제2항\"으로, \"같은 조 제2항\"을 \"같은 조 제3항\"으로, \"같은 조 제3항\"을 \"같은 조 제4항\"으로 한다.",
+      "provision_id": "law:인터넷주소자원에관한법률#ADDENDUM",
+      "is_future": true,
+      "source_mst": "285201",
+      "source_version_uid": "009627:285201:20261001",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261001",
+      "enforcement_date": "20261001"
     }
   ],
   "appendices": [],
@@ -1106,8 +1126,10 @@
   "provision_id": "law:인터넷주소자원에관한법률#DOC",
   "addendum_provision_id": "law:인터넷주소자원에관한법률#ADDENDUM",
   "amendment_provision_id": "law:인터넷주소자원에관한법률#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261001"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "인터넷주소자원에 관한 법률/법률/인터넷주소자원에 관한 법률.json"
 }
