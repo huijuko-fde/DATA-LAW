@@ -2791,7 +2791,14 @@
         "changed": "N",
         "article_key": "0103001",
         "images": [],
-        "provision_id": "law:국세징수법#JO0103"
+        "provision_id": "law:국세징수법#JO0103",
+        "scheduled": [
+          {
+            "enforcement_date": "20261001",
+            "change": "개정",
+            "content": "제103조(공매등의 대행)\n① 관할 세무서장은 다음 각 호의 업무(이하 이 조에서 \"공매등\"이라 한다)에 전문지식이 필요하거나 그 밖에 직접 공매등을 하기에 적당하지 아니하다고 인정되는 경우 대통령령으로 정하는 바에 따라 한국자산관리공사에 공매등을 대행하게 할 수 있다. 이 경우 공매등은 관할 세무서장이 한 것으로 본다. <개정 2025.12.23>\n1. 공매\n2. 수의계약\n3. 매각재산의 권리이전\n4. 금전의 배분\n5. 가상자산의 매각\n② 관할 세무서장은 제1항에 따라 한국자산관리공사가 공매등을 대행하는 경우 대통령령으로 정하는 바에 따라 수수료를 지급할 수 있다.\n③ 한국자산관리공사가 제1항제1호, 제2호, 제4호 및 제5호의 업무를 대행하는 경우 한국자산관리공사의 직원은 「형법」이나 그 밖의 법률에 따른 벌칙을 적용할 때 세무공무원으로 본다. <개정 2025.12.23>\n④ 제1항에 따라 한국자산관리공사가 대행하는 공매등에 필요한 사항은 대통령령으로 정한다."
+          }
+        ]
       },
       {
         "article_no": "제104조",
@@ -3833,8 +3840,10 @@
   "provision_id": "law:국세징수법#DOC",
   "addendum_provision_id": "law:국세징수법#ADDENDUM",
   "amendment_provision_id": "law:국세징수법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261001"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "국세징수법/법률/국세징수법.json"
 }
