@@ -989,7 +989,14 @@
         "changed": "N",
         "article_key": "0020001",
         "images": [],
-        "provision_id": "law:국가과학기술경쟁력강화를위한이공계지원특별법#JO0020"
+        "provision_id": "law:국가과학기술경쟁력강화를위한이공계지원특별법#JO0020",
+        "scheduled": [
+          {
+            "enforcement_date": "20261001",
+            "change": "개정",
+            "content": "제20조(핵심 이공계인력에 대한 지원 등)\n① 정부는 과학 분야의 노벨상을 수상한 사람 등 국가과학기술 발전에 탁월한 업적이 있는 사람(이하 \"핵심 이공계인력\"이라 한다)의 연구활동을 장려하기 위하여 대통령령으로 정하는 바에 따라 핵심 이공계인력에게 매년 연구장려금 또는 생활안정을 지원하기 위한 생활보조금을 지급할 수 있다.\n② 정부는 출입국 심사를 할 때 대통령령으로 정하는 바에 따라 핵심 이공계인력을 우대할 수 있다. <신설 2026.3.31>\n③ 핵심 이공계인력의 선정과 연구장려금 또는 생활보조금의 지급에 필요한 사항은 대통령령으로 정한다. <개정 2026.3.31>"
+          }
+        ]
       },
       {
         "article_no": "제21조",
@@ -1565,6 +1572,19 @@
       "source_version_uid": "009677:268729:20260201",
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20260201"
+    },
+    {
+      "promulgation_date": "20260331",
+      "promulgation_no": "21495",
+      "addendum_key": "2026033121495",
+      "content": "부칙 <제21495호,2026.3.31>\n이 법은 공포 후 6개월이 경과한 날부터 시행한다.",
+      "provision_id": "law:국가과학기술경쟁력강화를위한이공계지원특별법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "285195",
+      "source_version_uid": "009677:285195:20261001",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261001",
+      "enforcement_date": "20261001"
     }
   ],
   "appendices": [],
@@ -1597,8 +1617,10 @@
   "provision_id": "law:국가과학기술경쟁력강화를위한이공계지원특별법#DOC",
   "addendum_provision_id": "law:국가과학기술경쟁력강화를위한이공계지원특별법#ADDENDUM",
   "amendment_provision_id": "law:국가과학기술경쟁력강화를위한이공계지원특별법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261001"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "국가과학기술 경쟁력 강화를 위한 이공계지원 특별법/법률/국가과학기술 경쟁력 강화를 위한 이공계지원 특별법.json"
 }
