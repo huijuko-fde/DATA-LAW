@@ -484,6 +484,11 @@
             "enforcement_date": "20261001",
             "change": "삭제",
             "content": ""
+          },
+          {
+            "enforcement_date": "20261001",
+            "change": "신설",
+            "content": "제14조 삭제 <2026.3.31>"
           }
         ]
       },
@@ -3915,9 +3920,9 @@
             "type": "image",
             "url": "http://www.law.go.kr/flDownload.do?flSeq=34737376",
             "seq": "",
-            "filename": "제152조_1.gif",
+            "filename": "제152조_1.bmp",
             "file_dir": "본문이미지",
-            "local_path": "본문이미지/제152조_1.gif",
+            "local_path": "본문이미지/제152조_1.bmp",
             "file_store_url": ""
           }
         ],
@@ -5255,6 +5260,6 @@
     "20261001"
   ],
   "has_future": true,
-  "version_count": 2,
+  "version_count": 3,
   "git_path": "건설기계 안전기준에 관한 규칙/법률/건설기계 안전기준에 관한 규칙.json"
 }
