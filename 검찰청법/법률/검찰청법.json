@@ -2971,5 +2971,7 @@
     "revision_type": "타법폐지"
   },
   "version_count": 2,
-  "git_path": "검찰청법/법률/검찰청법.json"
+  "git_path": "검찰청법/법률/검찰청법.json",
+  "repealed": true,
+  "repealed_at": "20261002"
 }
