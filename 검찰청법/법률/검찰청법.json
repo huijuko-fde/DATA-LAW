@@ -2917,6 +2917,19 @@
       "source_version_uid": "001286:242095:20220910",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20220910"
+    },
+    {
+      "promulgation_date": "20260324",
+      "promulgation_no": "21490",
+      "addendum_key": "2026032421490",
+      "content": "부칙(공소청법) <제21490호,2026.3.24>\n제1조(시행일) 이 법은 2026년 10월 2일부터 시행한다. <단서 생략>\n제2조(다른 법률의 폐지) 검찰청법은 폐지한다.\n제3조 부터 제8조까지 생략",
+      "provision_id": "law:검찰청법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "285047",
+      "source_version_uid": "001286:285047:20261002",
+      "source_revision_type": "타법폐지",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [],
@@ -2949,8 +2962,14 @@
   "provision_id": "law:검찰청법#DOC",
   "addendum_provision_id": "law:검찰청법#ADDENDUM",
   "amendment_provision_id": "law:검찰청법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "repeal_scheduled": {
+    "enforcement_date": "20261002",
+    "revision_type": "타법폐지"
+  },
+  "version_count": 2,
   "git_path": "검찰청법/법률/검찰청법.json"
 }
