@@ -1,30 +1,28 @@
 {
   "law_id": "001282",
-  "mst": "121947",
-  "version_uid": "001282:121947:20120117",
+  "mst": "290605",
+  "version_uid": "001282:290605:20261002",
   "law_name": "검사의 보수에 관한 법률",
   "law_abbr": "검사보수법",
   "name_aliases": [
-    "검사보수법",
-    "REMUNERATION OF PUBLIC PROSECUTORS ACT"
+    "검사보수법"
   ],
   "law_type": "법률",
-  "promulgation_no": "11152",
-  "promulgation_date": "20120117",
-  "enforcement_date": "20120117",
-  "revision_date": "20120117",
-  "revision_type": "일부개정",
+  "promulgation_no": "21490",
+  "promulgation_date": "20260324",
+  "enforcement_date": "20261002",
+  "revision_date": "20260324",
+  "revision_type": "타법개정",
   "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "검사의 보수에 관한 법률",
     "의결구분": "국회",
     "제안구분": "정부",
-    "공포번호": "11152",
+    "공포번호": "21490",
     "전화번호": "02-2110-4210",
-    "법령명_영어": "REMUNERATION OF PUBLIC PROSECUTORS ACT",
     "언어": "한글",
-    "제개정구분": "일부개정",
+    "제개정구분": "타법개정",
     "법령ID": "001282",
     "공동부령정보": "",
     "소관부처": {
@@ -36,12 +34,11 @@
       "content": "법률",
       "법종구분코드": "A0002"
     },
-    "시행일자": "20120117",
-    "별표편집여부": "편집",
+    "시행일자": "20261002",
     "연락부서": {
       "부서단위": {
         "부서연락처": "02-2110-4210",
-        "부서키": "209936",
+        "부서키": "431037",
         "부서명": "검찰과",
         "소관부처명": "법무부",
         "소관부처코드": "1270000"
@@ -49,11 +46,11 @@
     },
     "법령명_한자": "검사의 보수에 관한 법률",
     "법령명약칭": "검사보수법",
-    "공포일자": "20120117",
+    "공포일자": "20260324",
     "편장절관": "07020100"
   },
-  "amendment_text": "국회에서 의결된 검사의 보수에 관한 법률 일부개정법률을 이에 공포한다.\n대통령        이명박 (인)\n2012년 1월 17일\n국무총리        김황식\n국무위원 법무부 장관        권재진\n⊙법률 제11152호\n검사의 보수에 관한 법률 일부개정법률\n검사의 보수에 관한 법률 일부를 다음과 같이 개정한다.\n제3조제3항을 삭제한다.\n부칙\n이 법은 공포한 날부터 시행한다.",
-  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n검사가 해직 또는 퇴직하는 경우에는 해당 월의 근무일수에 관계없이 봉급 및 수당 전액을 급여로 지급하도록 하고 있는데 반해, 「공무원보수규정」을 적용받는 공무원은 2년 이상 근무하고 퇴직하는 경우에만 봉급을 전액 지급하도록 하고, 수당은 재직일수에 해당되는 금액만을 지급하도록 하고 있는바, 검사가 해직 또는 퇴직하는 경우 봉급 및 수당 전액을 지급하도록 한 규정을 삭제하여 「공무원보수규정」을 적용받도록 함으로써 다른 공무원과의 형평성을 도모하려는 것임.\n<법제처 제공>",
+  "amendment_text": "⊙법률 제21490호(2026.3.24)\n공소청법\n[본문 생략]\n부칙\n제1조(시행일) 이 법은 2026년 10월 2일부터 시행한다. <단서 생략>\n제2조부터 제8조까지 생략\n제9조(다른 법률의 개정) ① 생략\n② 검사의 보수에 관한 법률 일부를 다음과 같이 개정한다.\n제1조 중 \"「검찰청법」 제36조제1항\"을 \"「공소청법」 제44조제1항\"으로 한다.\n③부터 <51>까지 생략\n제10조 및 제11조 생략",
+  "revision_reason": "[제정]\n◇ 제정이유\n수사기관ㆍ공소기관 간 상호 견제가 가능한 체계를 구축하기 위하여 검찰청을 폐지하고, 법무부장관 소속으로 공소청과 행정안전부장관 소속으로 중대범죄수사청을 각각 신설하는 내용으로 「정부조직법」이 개정(법률 제21065호, 2025. 10. 1. 공포, 2026. 10. 2. 시행)됨에 따라, 공소청의 조직, 검사의 직무, 인사 및 그 밖에 공소청의 운영에 필요한 사항을 정하려는 것임.\n◇ 주요내용\n가. 공소청 등의 조직(제2조 및 제3조)\n신설되는 조직구조는 공소청, 광역공소청 및 지방공소청으로 하되, 공소청은 대법원에, 광역공소청은 고등법원에, 지방공소청은 지방법원과 가정법원에 대응하여 각각 설치하고, 지방법원 지원 설치지역에는 지방공소청 지청을 둘 수 있도록 하며, 각 공소청과 지청의 관할구역은 각급 법원과 지방법원 지원의 관할구역에 따르도록 함.\n나. 검사의 직무(제4조)\n검사의 직무와 권한을 공소 제기 여부 결정 및 그 유지에 필요한 사항, 영장 청구에 관하여 필요한 사항, 범죄수사에 관한 사법경찰관리와의 협의ㆍ지원, 법원에 대한 법령의 정당한 적용 청구, 재판 집행 지휘ㆍ감독, 국가를 당사자 또는 참가인으로 하는 소송과 행정소송의 수행 또는 그 수행에 관한 지휘ㆍ감독, 검사의 직무를 수행하기 위하여 「형사소송법」 등 법률에 규정된 사항 등으로 정함.\n다. 검사사무에 관한 지휘ㆍ감독(제7조)\n검사 직무의 독립성 제고 차원에서 검사는 검사사무에 관하여 법률에 따라 지휘ㆍ감독을 받도록 함.\n라. 사건심의위원회의 설치(제21조)\n사회적 관심이 집중되거나 공정성이 우려되는 사건에 관한 구속영장 청구 및 재청구 여부, 공소ㆍ상소 제기 여부 등을 심의하기 위하여 각 광역공소청에 사건심의위원회를 두도록 함.\n마. 검사 직무의 위임ㆍ승계 및 이전(제37조)\n검찰총장 및 지청장을 제외한 광역공소청장 및 지방공소청장은 소속 검사로 하여금 그 권한에 속하는 직무의 일부를 위임하여 처리하게 할 수 있고, 소속 검사의 직무를 승계하여 자신이 처리하거나 다른 검사에게 이전하여 처리하게 할 수 있도록 함.\n바. 근무성적 평정기준 마련(제43조제2항)\n검사 근무성적 평정을 실질화하기 위하여 근무성적 평정기준에 항고ㆍ재항고의 인용률과 인용사유, 재정신청의 인용률과 인용사유 및 무죄판결률과 무죄사유 등이 합리적으로 반영될 수 있도록 함.\n사. 검사의 징계 파면 도입(제45조제1항)\n검사의 징계 종류에 ‘파면’을 추가하여 중대한 비위가 있는 경우 징계에 의한 파면이 가능하게 함으로써 검사의 공적 책임성을 제고함.\n아. 검사적격심사위원회의 구성(제47조제2항)\n검사의 적격심사를 위하여 설치되는 검사적격심사위원회의 위원 수를 6명으로 하고, 그 중 변호사 자격이 없는 위원이 한 명 포함되도록 함.\n자. 정치운동의 금지 및 정치 관여죄 도입(제51조제1호 및 제59조)\n검사의 정치적 중립성을 강화하기 위하여 검사는 재직 중 정당이나 정치단체에 가입하거나 국회 또는 지방의회 의원이 되는 행위 등 정치활동에 관여하는 행위를 할 수 없도록 하고, 이를 위반하여 정치활동에 관여하는 행위를 한 사람은 5년 이하의 징역과 5년 이하의 자격정지에 처하도록 함.\n차. 종전 수사개시사건에 관한 경과조치(부칙 제6조제2항ㆍ제3항)\n이 법 시행 당시 검사가 수사를 개시하여 수사 중인 사건은 소관 수사기관에 이송하되, 공소시효가 임박하거나 사건의 성질상 불가피한 사건의 경우에는 공소청, 광역공소청, 지방공소청 및 지청이 90일 이내에 해당 수사를 마무리하도록 함.\n카. 종전 검찰청 검사 및 직원에 관한 경과조치(부칙 제7조제1항)\n이 법 시행 당시 종전의 검찰청 검사 및 검찰청 소속 직원을 공소청, 광역공소청, 지방공소청 및 지청 소속 검사ㆍ직원으로 간주하되, 본인의 의사를 존중하여 대통령령으로 정하는 바에 따라 유사한 직무 내용의 상당 직급으로 중대범죄수사청 등 다른 국가기관의 공무원으로 임용할 수 있도록 함으로써 조직개편에 따른 검찰청 공무원의 재배치에 대한 법적 근거를 추가로 마련함.\n<법제처 제공>",
   "body": {
     "format": "articles",
     "article_count": 4,
@@ -63,12 +60,12 @@
         "article_title": "목적",
         "chapter": "",
         "chapter_path": "",
-        "content": "제1조(목적) 이 법은 「검찰청법」 제36조제1항에 따라 검사의 봉급과 그 밖의 보수에 관한 사항을 규정함을 목적으로 한다.",
-        "enforcement_date": "20120117",
+        "content": "제1조(목적) 이 법은 「공소청법」 제44조제1항에 따라 검사의 봉급과 그 밖의 보수에 관한 사항을 규정함을 목적으로 한다. <개정 2026.3.24>",
+        "enforcement_date": "20261002",
         "relations": [],
         "note": "[전문개정 2009.11.2]",
-        "revision_type": "일부개정",
-        "changed": "N",
+        "revision_type": "타법개정",
+        "changed": "Y",
         "article_key": "0001001",
         "moved": "000000",
         "images": [],
@@ -80,7 +77,7 @@
         "chapter": "",
         "chapter_path": "",
         "content": "제2조(보수의 기준) 검사는 별표 1의 검사의 봉급표에 따른 봉급과 그 밖의 보수를 받는다. 다만, 공무원 보수가 조정되어 검사의 봉급과 그 밖의 보수를 조정하려는 경우에는 이 법이 개정될 때까지 별표 2의 검사의 봉급기준표에 따라 대통령령으로 정할 수 있다.",
-        "enforcement_date": "20120117",
+        "enforcement_date": "20261002",
         "relations": [
           {
             "relation_type": "delegation",
@@ -93,7 +90,7 @@
             "target_law_name": "검사의 보수에 관한 법률 시행령",
             "target_article_no": "제7조",
             "target_article_title": "검사의 봉급",
-            "target_mst": "285407",
+            "target_mst": "290297",
             "target_url": "https://www.law.go.kr/법령/검사의 보수에 관한 법률 시행령/제7조",
             "resolve_method": "delegation",
             "source_provision_id": "law:검사의보수에관한법률#JO0002",
@@ -103,10 +100,9 @@
           }
         ],
         "note": "[전문개정 2009.11.2]",
-        "revision_type": "일부개정",
+        "revision_type": "타법개정",
         "changed": "N",
         "article_key": "0002001",
-        "moved": "000000",
         "images": [],
         "provision_id": "law:검사의보수에관한법률#JO0002"
       },
@@ -116,13 +112,12 @@
         "chapter": "",
         "chapter_path": "",
         "content": "제3조(지급방법)\n① 봉급과 그 밖의 보수는 매월 20일에 지급한다. 다만, 그 날이 공휴일인 경우에는 그 전날에 지급한다.\n② 봉급과 그 밖의 보수는 임명, 전직, 전보, 승급, 감봉, 그 밖의 어떠한 경우에도 그 발령일부터 계산한다.\n③ 삭제 <2012.1.17>",
-        "enforcement_date": "20120117",
+        "enforcement_date": "20261002",
         "relations": [],
         "note": "[전문개정 2009.11.2]",
-        "revision_type": "일부개정",
-        "changed": "Y",
+        "revision_type": "타법개정",
+        "changed": "N",
         "article_key": "0003001",
-        "moved": "000000",
         "images": [],
         "provision_id": "law:검사의보수에관한법률#JO0003"
       },
@@ -132,7 +127,7 @@
         "chapter": "",
         "chapter_path": "",
         "content": "제4조(시행령) 검사의 승급 기준과 그 밖에 이 법 시행에 필요한 사항은 대통령령으로 정한다.",
-        "enforcement_date": "20120117",
+        "enforcement_date": "20261002",
         "relations": [
           {
             "relation_type": "delegation",
@@ -155,10 +150,9 @@
           }
         ],
         "note": "[전문개정 2009.11.2]",
-        "revision_type": "일부개정",
+        "revision_type": "타법개정",
         "changed": "N",
         "article_key": "0004001",
-        "moved": "000000",
         "images": [],
         "provision_id": "law:검사의보수에관한법률#JO0004"
       }
@@ -172,10 +166,10 @@
       "content": "부칙 <제1045호,1962.4.3>\n본법은 1962년 3월 1일부터 적용한다.",
       "provision_id": "law:검사의보수에관한법률#ADDENDUM",
       "is_future": false,
-      "source_mst": "121947",
-      "source_version_uid": "001282:121947:20120117",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20120117"
+      "source_mst": "290605",
+      "source_version_uid": "001282:290605:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "19660207",
@@ -184,10 +178,10 @@
       "content": "부칙 <제1740호,1966.2.7>\n이 법은 1966년 1월 1일부터 적용한다.",
       "provision_id": "law:검사의보수에관한법률#ADDENDUM",
       "is_future": false,
-      "source_mst": "121947",
-      "source_version_uid": "001282:121947:20120117",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20120117"
+      "source_mst": "290605",
+      "source_version_uid": "001282:290605:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "19670330",
@@ -196,10 +190,10 @@
       "content": "부칙 <제1925호,1967.3.30>\n①(시행일) 이 법은 1967년 4월 1일부터 시행한다.\n②(가봉배제) 지방검찰청검사장ㆍ대검찰청검사ㆍ고등검찰청차장검사에 대하여는 근속가봉을 지급하지 아니한다.",
       "provision_id": "law:검사의보수에관한법률#ADDENDUM",
       "is_future": false,
-      "source_mst": "121947",
-      "source_version_uid": "001282:121947:20120117",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20120117"
+      "source_mst": "290605",
+      "source_version_uid": "001282:290605:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "19680424",
@@ -208,10 +202,10 @@
       "content": "부칙 <제2001호,1968.4.24>\n이 법은 1968년 4월 1일부터 적용한다.",
       "provision_id": "law:검사의보수에관한법률#ADDENDUM",
       "is_future": false,
-      "source_mst": "121947",
-      "source_version_uid": "001282:121947:20120117",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20120117"
+      "source_mst": "290605",
+      "source_version_uid": "001282:290605:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "19690522",
@@ -220,10 +214,10 @@
       "content": "부칙 <제2113호,1969.5.22>\n이 법은 1969년 7월 1일부터 시행한다.",
       "provision_id": "law:검사의보수에관한법률#ADDENDUM",
       "is_future": false,
-      "source_mst": "121947",
-      "source_version_uid": "001282:121947:20120117",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20120117"
+      "source_mst": "290605",
+      "source_version_uid": "001282:290605:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "19700723",
@@ -232,10 +226,10 @@
       "content": "부칙 <제2206호,1970.7.23>\n이 법은 1970년 7월 1일부터 적용한다.",
       "provision_id": "law:검사의보수에관한법률#ADDENDUM",
       "is_future": false,
-      "source_mst": "121947",
-      "source_version_uid": "001282:121947:20120117",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20120117"
+      "source_mst": "290605",
+      "source_version_uid": "001282:290605:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "19711007",
@@ -244,10 +238,10 @@
       "content": "부칙 <제2310호,1971.10.7>\n이 법은 1971년 4월 1일부터 적용한다.",
       "provision_id": "law:검사의보수에관한법률#ADDENDUM",
       "is_future": false,
-      "source_mst": "121947",
-      "source_version_uid": "001282:121947:20120117",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20120117"
+      "source_mst": "290605",
+      "source_version_uid": "001282:290605:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "19720814",
@@ -256,10 +250,10 @@
       "content": "부칙 <제2334호,1972.8.14>\n이 법은 1972년 4월 1일부터 적용한다.",
       "provision_id": "law:검사의보수에관한법률#ADDENDUM",
       "is_future": false,
-      "source_mst": "121947",
-      "source_version_uid": "001282:121947:20120117",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20120117"
+      "source_mst": "290605",
+      "source_version_uid": "001282:290605:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "19741212",
@@ -268,10 +262,10 @@
       "content": "부칙 <제2676호,1974.12.12>\n이 법중 [별표 가]는 1974년 2월 1일부터 1974년 9월 30일까지, [별표 나]는 1974년 10월 1일부터 적용한다.",
       "provision_id": "law:검사의보수에관한법률#ADDENDUM",
       "is_future": false,
-      "source_mst": "121947",
-      "source_version_uid": "001282:121947:20120117",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20120117"
+      "source_mst": "290605",
+      "source_version_uid": "001282:290605:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "19751231",
@@ -280,10 +274,10 @@
       "content": "부칙 <제2820호,1975.12.31>\n이 법은 1976년 1월 1일부터 시행한다.",
       "provision_id": "law:검사의보수에관한법률#ADDENDUM",
       "is_future": false,
-      "source_mst": "121947",
-      "source_version_uid": "001282:121947:20120117",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20120117"
+      "source_mst": "290605",
+      "source_version_uid": "001282:290605:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "19770723",
@@ -292,10 +286,10 @@
       "content": "부칙 <제3005호,1977.7.23>\n이 법은 1977년 1월 1일부터 적용한다.",
       "provision_id": "law:검사의보수에관한법률#ADDENDUM",
       "is_future": false,
-      "source_mst": "121947",
-      "source_version_uid": "001282:121947:20120117",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20120117"
+      "source_mst": "290605",
+      "source_version_uid": "001282:290605:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "19771231",
@@ -304,10 +298,10 @@
       "content": "부칙 <제3050호,1977.12.31>\n이 법은 공포한 날로부터 시행한다.",
       "provision_id": "law:검사의보수에관한법률#ADDENDUM",
       "is_future": false,
-      "source_mst": "121947",
-      "source_version_uid": "001282:121947:20120117",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20120117"
+      "source_mst": "290605",
+      "source_version_uid": "001282:290605:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "19861231",
@@ -316,10 +310,10 @@
       "content": "부칙(검찰청법) <제3882호,1986.12.31>\n①(시행일)  이 법은 공포한 날로부터 시행한다.\n②생략\n③(다른 법률의 개정) 검사정원법 제1조중 \"제27조\"를 \"제36조제1항\"으로, 검사의보수에관한법률 제1조중 \"제27조제1항\"을 \"제36조제1항\"으로, 검사징계법 제2조제1호중 \"제25조\"를 \"제43조\"로 한다.",
       "provision_id": "law:검사의보수에관한법률#ADDENDUM",
       "is_future": false,
-      "source_mst": "121947",
-      "source_version_uid": "001282:121947:20120117",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20120117"
+      "source_mst": "290605",
+      "source_version_uid": "001282:290605:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20040120",
@@ -328,10 +322,10 @@
       "content": "부칙 <제7079호,2004.1.20>\n①(시행일) 이 법은 공포한 날부터 시행하되, 2004년 1월 1일부터 적용한다.\n②(경과조치) 이 법 시행 당시 별표 1 및 별표 2의 개정규정에 의하여 지급되는 검사의 봉급액이 종전의 봉급액보다 적을 때에는 종전의 봉급액 이상이 될 때까지 종전의 봉급에 해당하는 금액을 지급한다.",
       "provision_id": "law:검사의보수에관한법률#ADDENDUM",
       "is_future": false,
-      "source_mst": "121947",
-      "source_version_uid": "001282:121947:20120117",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20120117"
+      "source_mst": "290605",
+      "source_version_uid": "001282:290605:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20091102",
@@ -340,10 +334,10 @@
       "content": "부칙 <제9813호,2009.11.2>\n이 법은 공포한 날부터 시행한다.",
       "provision_id": "law:검사의보수에관한법률#ADDENDUM",
       "is_future": false,
-      "source_mst": "121947",
-      "source_version_uid": "001282:121947:20120117",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20120117"
+      "source_mst": "290605",
+      "source_version_uid": "001282:290605:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20120117",
@@ -352,10 +346,22 @@
       "content": "부칙 <제11152호,2012.1.17>\n이 법은 공포한 날부터 시행한다.",
       "provision_id": "law:검사의보수에관한법률#ADDENDUM",
       "is_future": false,
-      "source_mst": "121947",
-      "source_version_uid": "001282:121947:20120117",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20120117"
+      "source_mst": "290605",
+      "source_version_uid": "001282:290605:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
+    },
+    {
+      "promulgation_date": "20260324",
+      "promulgation_no": "21490",
+      "addendum_key": "2026032421490",
+      "content": "부칙(공소청법) <제21490호,2026.3.24>\n제1조(시행일) 이 법은 2026년 10월 2일부터 시행한다. <단서 생략>\n제2조부터 제8조까지 생략\n제9조(다른 법률의 개정) ① 생략\n② 검사의 보수에 관한 법률 일부를 다음과 같이 개정한다.\n제1조 중 \"「검찰청법」 제36조제1항\"을 \"「공소청법」 제44조제1항\"으로 한다.\n③부터 <51>까지 생략\n제10조 및 제11조 생략",
+      "provision_id": "law:검사의보수에관한법률#ADDENDUM",
+      "is_future": false,
+      "source_mst": "290605",
+      "source_version_uid": "001282:290605:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     }
   ],
   "appendices": [
@@ -364,28 +370,28 @@
       "branch": "00",
       "kind": "별표",
       "title": "검사의 봉급표",
-      "enforcement_date": "20120117",
+      "enforcement_date": "20261002",
       "content": "[별표 1] <개정 2004.1.20>\n검사의 봉급표\n(단위 : 원)\n┏━━━━━━━━━┯━━┯━━━━━┓\n┃직명              │호봉│보수      ┃\n┠─────────┼──┼─────┨\n┃검찰총장          │    │3,950,000 ┃\n┠─────────┼──┼─────┨\n┃검찰총장외의 검사 │17  │3,784,000 ┃\n┃                  │16  │3,700,000 ┃\n┃                  │15  │3,550,000 ┃\n┃                  │14  │3,400,000 ┃\n┃                  │13  │2,971,800 ┃\n┃                  │12  │2,840,300 ┃\n┃                  │11  │2,761,500 ┃\n┃                  │10  │2,669,500 ┃\n┃                  │9   │2,511,800 ┃\n┃                  │8   │2,330,500 ┃\n┃                  │7   │2,174,100 ┃\n┃                  │6   │2,027,500 ┃\n┃                  │5   │1,886,200 ┃\n┃                  │4   │1,744,200 ┃\n┃                  │3   │1,606,900 ┃\n┃                  │2   │1,470,400 ┃\n┃                  │1   │1,290,300 ┃\n┗━━━━━━━━━┷━━┷━━━━━┛",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=121947&bylNo=0001&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=31719731",
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=290605&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169662953",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=31719707",
-          "name": "law0012822012011711152KC_000100E_20120117.hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169662951",
+          "name": "law0012822026032421490KC_000100E_20261002.hwp",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=31719731",
-          "name": "law0012822012011711152KC_000100E_20120117.pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169662953",
+          "name": "law0012822026032421490KC_000100E_20261002.pdf",
           "file_store_url": ""
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=31719708",
-          "name": "000100110201_P1_20120117.gif",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169662955",
+          "name": "000100110201_P1_20261002.gif",
           "file_store_url": ""
         }
       ],
@@ -401,28 +407,28 @@
       "branch": "00",
       "kind": "별표",
       "title": "검사의 봉급기준표",
-      "enforcement_date": "20120117",
+      "enforcement_date": "20261002",
       "content": "[별표 2] <개정 2009.11.2>\n검사의 봉급기준표\n┏━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━┓\n┃같은 금액의 봉급을 지급할 기준이 될 법관│검사                    ┃\n┠──────────┬─────────┼─────────┬──┨\n┃직명                │호봉              │직명              │호봉┃\n┠──────────┼─────────┼─────────┼──┨\n┃대법관              │                  │검찰총장          │    ┃\n┠──────────┼─────────┼─────────┼──┨\n┃일반법관 및 예비판사│17                │검찰총장외의 검사 │17  ┃\n┃                    │16                │                  │16  ┃\n┃                    │15                │                  │15  ┃\n┃                    │14                │                  │14  ┃\n┃                    │13                │                  │13  ┃\n┃                    │12                │                  │12  ┃\n┃                    │11                │                  │11  ┃\n┃                    │10                │                  │10  ┃\n┃                    │9                 │                  │9   ┃\n┃                    │8                 │                  │8   ┃\n┃                    │7                 │                  │7   ┃\n┃                    │6                 │                  │6   ┃\n┃                    │5                 │                  │5   ┃\n┃                    │4                 │                  │4   ┃\n┃                    │3                 │                  │3   ┃\n┃                    │2                 │                  │2   ┃\n┃                    │1                 │                  │1   ┃\n┗━━━━━━━━━━┷━━━━━━━━━┷━━━━━━━━━┷━━┛",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=121947&bylNo=0002&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=31719732",
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=290605&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169662959",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=31719710",
-          "name": "law0012822012011711152KC_000200E_20120117.hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169662957",
+          "name": "law0012822026032421490KC_000200E_20261002.hwp",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=31719732",
-          "name": "law0012822012011711152KC_000200E_20120117.pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169662959",
+          "name": "law0012822026032421490KC_000200E_20261002.pdf",
           "file_store_url": ""
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=31719711",
-          "name": "000200110201_P1_20120117.gif",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169662961",
+          "name": "000200110201_P1_20261002.gif",
           "file_store_url": ""
         }
       ],
@@ -451,7 +457,7 @@
     "phantom_self_ref_samples": [],
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 16,
+    "addenda_count": 17,
     "appendices_count": 2,
     "pop_miss": 0,
     "pop_miss_by_reason": {},
