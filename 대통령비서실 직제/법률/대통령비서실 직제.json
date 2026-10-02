@@ -1,25 +1,24 @@
 {
   "law_id": "011784",
-  "mst": "289279",
-  "version_uid": "011784:289279:20260902",
+  "mst": "290385",
+  "version_uid": "011784:290385:20261002",
   "law_name": "대통령비서실 직제",
   "law_abbr": "",
   "name_aliases": [],
   "law_type": "대통령령",
-  "promulgation_no": "36666",
-  "promulgation_date": "20260902",
-  "enforcement_date": "20260902",
-  "revision_date": "20260902",
-  "revision_type": "일부개정",
+  "promulgation_no": "36728",
+  "promulgation_date": "20260929",
+  "enforcement_date": "20261002",
+  "revision_date": "20260929",
+  "revision_type": "타법개정",
   "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "대통령비서실 직제",
-    "별표시행일자문자열": "20260902:별표0",
-    "공포번호": "36666",
+    "공포번호": "36728",
     "전화번호": "044-205-2317",
     "언어": "한글",
-    "제개정구분": "일부개정",
+    "제개정구분": "타법개정",
     "법령ID": "011784",
     "공동부령정보": "",
     "소관부처": {
@@ -31,12 +30,11 @@
       "content": "대통령령",
       "법종구분코드": "A0007"
     },
-    "시행일자": "20260902",
-    "별표편집여부": "편집",
+    "시행일자": "20261002",
     "연락부서": {
       "부서단위": {
         "부서연락처": "044-205-2317",
-        "부서키": "427537",
+        "부서키": "430169",
         "부서명": "조직기획과",
         "소관부처명": "행정안전부",
         "소관부처코드": "1741000"
@@ -44,11 +42,11 @@
     },
     "법령명_한자": "대통령비서실 직제",
     "법령명약칭": "",
-    "공포일자": "20260902",
+    "공포일자": "20260929",
     "편장절관": "04010200"
   },
-  "amendment_text": "국무회의의 심의를 거친 대통령비서실 직제 일부개정령을 이에 공포한다.\n대통령        이재명 (인)\n2026년 9월 2일\n국무총리        한성숙\n국무위원 행정안전부 장관        윤호중\n⊙대통령령 제36666호\n대통령비서실 직제 일부개정령\n대통령비서실 직제 일부를 다음과 같이 개정한다.\n별표 중 총계 \"443\"을 \"444\"로 하고, 정무직 계 \"12\"를 \"13\"으로 하며, 보좌관 또는 수석비서관(차관급) \"9\"를 \"10\"으로 한다.\n부칙\n이 영은 공포한 날부터 시행한다.",
-  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n대규모 지방투자 추진 등과 관련한 대통령의 국정수행을 효율적으로 보좌하기 위하여 대통령비서실에 차관급 보좌관 1명을 증원하려는 것임.\n<법제처 제공>",
+  "amendment_text": "⊙대통령령 제36728호(2026.9.29)\n「공소청법」 및 「중대범죄수사청 조직 및 운영에 관한 법률」의 제정과 「형사소송법」 개정에 따른 관계 법령의 정비를 위한 126개 법령의 일부개정에 관한 대통령령\n제1조부터 제49조까지 생략\n제50조(「대통령비서실 직제」의 개정) 대통령비서실 직제 일부를 다음과 같이 개정한다.\n제7조제4항 중 \"검찰청\"을 \"공소청ㆍ중대범죄수사청\"으로 한다.\n제51조부터 제126조까지 생략\n부칙\n제1조(시행일) 이 영은 2026년 10월 2일부터 시행한다. <단서 생략>\n제2조부터 제4조까지 생략",
+  "revision_reason": "[일괄개정]\n◇ 개정이유 및 주요내용\n수사ㆍ기소 기관 간 상호 견제가 가능한 체계를 구축하기 위하여 검찰청을 폐지하고, 법무부장관 소속으로 공소청과 행정안전부장관 소속으로 중대범죄수사청을 각각 신설하는 내용으로 「공소청법」과 「중대범죄수사청 설치 및 운영에 관한 법률」이 제정(법률 제21490호, 2026. 3. 24. 공포, 10. 2. 시행 및 법률 제21491호, 2026. 3. 24. 공포, 10. 2. 시행)되는 한편,\n수사와 기소가 제도적으로 분리되는 새로운 형사사법 체계의 행정조직 기반을 마련하는 등의 내용으로 「형사소송법」이 개정(법률 제21857호, 2026. 8. 4. 공포, 10. 2. 시행)됨에 따라,\n종전 검찰청과 관련된 명칭을 정비하고, 검찰직렬 및 마약수사직렬을 형사법무직렬로 통합ㆍ변경하며, 수사업무 등을 수행하는 중대범죄수사청수사관에 대해 특수업무수당을 신설하는 등 중대범죄수사청수사관과 관련된 인사 관계 법령을 정비하고, 법률에서 변경된 사항에 따라 관련 대통령령을 정비하려는 것임.\n<법제처 제공>",
   "body": {
     "format": "articles",
     "article_count": 11,
@@ -59,9 +57,9 @@
         "chapter": "",
         "chapter_path": "",
         "content": "제1조(목적) 이 영은 대통령비서실의 조직과 직무범위, 그 밖에 필요한 사항을 규정함을 목적으로 한다.",
-        "enforcement_date": "20260902",
+        "enforcement_date": "20261002",
         "relations": [],
-        "revision_type": "일부개정",
+        "revision_type": "타법개정",
         "changed": "N",
         "article_key": "0001001",
         "images": [],
@@ -73,9 +71,9 @@
         "chapter": "",
         "chapter_path": "",
         "content": "제2조(직무) 대통령비서실은 대통령의 직무를 보좌한다.",
-        "enforcement_date": "20260902",
+        "enforcement_date": "20261002",
         "relations": [],
-        "revision_type": "일부개정",
+        "revision_type": "타법개정",
         "changed": "N",
         "article_key": "0002001",
         "images": [],
@@ -87,9 +85,9 @@
         "chapter": "",
         "chapter_path": "",
         "content": "제3조(대통령비서실장) 대통령비서실장은 대통령의 명을 받아 대통령비서실의 사무를 처리하고, 소속 공무원을 지휘ㆍ감독한다.",
-        "enforcement_date": "20260902",
+        "enforcement_date": "20261002",
         "relations": [],
-        "revision_type": "일부개정",
+        "revision_type": "타법개정",
         "changed": "N",
         "article_key": "0003001",
         "images": [],
@@ -101,10 +99,10 @@
         "chapter": "",
         "chapter_path": "",
         "content": "제3조의2(정책실)\n① 대통령의 국가정책(통일외교안보에 관한 사항은 제외한다)에 관한 사항을 보좌하게 하기 위하여 대통령비서실에 정책실을 둔다.\n② 정책실에 실장 1명을 두되, 실장은 정무직으로 한다.",
-        "enforcement_date": "20260902",
+        "enforcement_date": "20261002",
         "relations": [],
         "note": "[본조신설 2017.5.11]",
-        "revision_type": "일부개정",
+        "revision_type": "타법개정",
         "changed": "N",
         "article_key": "0003021",
         "images": [],
@@ -116,10 +114,10 @@
         "chapter": "",
         "chapter_path": "",
         "content": "제4조(보좌관 및 수석비서관)\n① 대통령비서실에 보좌관 및 수석비서관을 둔다.\n② 보좌관 및 수석비서관은 정무직으로 한다.\n③ 대통령의 외교안보 관련 국정수행을 보좌하기 위하여 상근(常勤) 외교안보특별보좌관을 둘 수 있다. 상근 외교안보특별보좌관은 정무직으로 한다. <신설 2024.9.10>",
-        "enforcement_date": "20260902",
+        "enforcement_date": "20261002",
         "relations": [],
         "note": "[전문개정 2017.5.11]",
-        "revision_type": "일부개정",
+        "revision_type": "타법개정",
         "changed": "N",
         "article_key": "0004001",
         "images": [],
@@ -131,10 +129,10 @@
         "chapter": "",
         "chapter_path": "",
         "content": "제5조(기획관ㆍ비서관ㆍ상황실장ㆍ선임행정관 및 행정관)\n① 대통령비서실장 밑에 기획관ㆍ비서관ㆍ상황실장ㆍ선임행정관 및 행정관을 둔다.\n② 기획관ㆍ비서관ㆍ상황실장 및 선임행정관은 고위공무원단에 속하는 일반직공무원 또는 별정직공무원으로, 행정관은 3급부터 5급까지의 일반직공무원 또는 3급 상당부터 5급 상당까지의 별정직공무원으로 보한다. 다만, 비서관에 보할 수 있는 고위공무원단에 속하는 일반직공무원 또는 별정직공무원은 특별한 사유가 있는 경우 고위공무원단에 속하는 외무공무원으로 대체할 수 있다. <개정 2017.12.29>",
-        "enforcement_date": "20260902",
+        "enforcement_date": "20261002",
         "relations": [],
         "note": "[전문개정 2017.5.11]",
-        "revision_type": "일부개정",
+        "revision_type": "타법개정",
         "changed": "N",
         "article_key": "0005001",
         "images": [],
@@ -146,9 +144,9 @@
         "chapter": "",
         "chapter_path": "",
         "content": "제6조(인사위원회)\n① 대통령이 임명하는 직위 등에 대한 인사의 공정성을 확보하기 위하여 대통령비서실에 인사위원회를 둔다.\n② 인사위원회의 위원장은 대통령비서실장이 된다.\n③ 인사위원회의 사무처리를 지원하기 위하여 필요한 비서관 또는 선임행정관을 둘 수 있다.\n④ 제1항부터 제3항까지에서 규정한 사항 외에 인사위원회의 구성ㆍ운영 등에 필요한 사항은 대통령비서실장이 정한다.",
-        "enforcement_date": "20260902",
+        "enforcement_date": "20261002",
         "relations": [],
-        "revision_type": "일부개정",
+        "revision_type": "타법개정",
         "changed": "N",
         "article_key": "0006001",
         "images": [],
@@ -159,13 +157,14 @@
         "article_title": "감찰반",
         "chapter": "",
         "chapter_path": "",
-        "content": "제7조(감찰반)\n① 대통령의 명을 받아 다음 각 호의 사람에 대한 감찰업무를 수행하기 위하여 대통령비서실에 감찰반을 둔다. <개정 2018.12.24>\n1. 대통령이 임명하는 행정부 소속 고위공직자\n2. 대통령이 임명하는 공공기관ㆍ단체 등의 장 및 임원\n3. 대통령의 친족 및 대통령과 특수한 관계에 있는 사람\n② 감찰반의 감찰업무는 법령에 위반되거나 강제처분에 의하지 않는 방법으로 비리 첩보를 수집하거나 사실관계를 확인하는 것으로 한정하며, 수사가 필요하다고 판단되면 해당 수사기관에 수사를 의뢰하거나 이관한다. <개정 2018.12.24, 2021.1.5>\n③ 감찰반은 반장과 반원으로 구성한다. <개정 2018.12.24>\n④ 반장은 대통령비서실 소속의 선임행정관 또는 행정관으로 보하고, 반원은 감사원ㆍ검찰청ㆍ경찰청 소속 공무원, 그 밖에 감찰업무에 전문성을 가진 공무원으로 한다. <개정 2018.8.1, 2018.12.24>\n⑤ 반장과 반원은 「공무원 행동강령」 등 관련 법령을 준수하고, 업무상 알게 된 비밀을 엄수해야 하며, 직권을 남용하는 행위, 부당한 이익을 얻는 행위 및 그 밖에 공무원으로서의 품위를 손상하는 부적절한 행위를 해서는 안 된다. <신설 2018.12.24>\n⑥ 대통령비서실장은 감찰반에 파견된 공무원이 제5항을 위반했을 때에는 해당 공무원의 원소속기관의 장에게 위반사실을 통보하고, 징계 사유 해당 여부의 조사 등 징계와 관련하여 필요한 절차를 진행하도록 요구해야 한다. <신설 2018.12.24>\n⑦ 그 밖에 감찰반의 구성, 감찰업무의 원칙 및 절차, 업무수행 기준 등은 대통령비서실장이 정한다. <신설 2018.12.24>",
-        "enforcement_date": "20260902",
+        "content": "제7조(감찰반)\n① 대통령의 명을 받아 다음 각 호의 사람에 대한 감찰업무를 수행하기 위하여 대통령비서실에 감찰반을 둔다. <개정 2018.12.24>\n1. 대통령이 임명하는 행정부 소속 고위공직자\n2. 대통령이 임명하는 공공기관ㆍ단체 등의 장 및 임원\n3. 대통령의 친족 및 대통령과 특수한 관계에 있는 사람\n② 감찰반의 감찰업무는 법령에 위반되거나 강제처분에 의하지 않는 방법으로 비리 첩보를 수집하거나 사실관계를 확인하는 것으로 한정하며, 수사가 필요하다고 판단되면 해당 수사기관에 수사를 의뢰하거나 이관한다. <개정 2018.12.24, 2021.1.5>\n③ 감찰반은 반장과 반원으로 구성한다. <개정 2018.12.24>\n④ 반장은 대통령비서실 소속의 선임행정관 또는 행정관으로 보하고, 반원은 감사원ㆍ공소청ㆍ중대범죄수사청ㆍ경찰청 소속 공무원, 그 밖에 감찰업무에 전문성을 가진 공무원으로 한다. <개정 2018.8.1, 2018.12.24, 2026.9.29>\n⑤ 반장과 반원은 「공무원 행동강령」 등 관련 법령을 준수하고, 업무상 알게 된 비밀을 엄수해야 하며, 직권을 남용하는 행위, 부당한 이익을 얻는 행위 및 그 밖에 공무원으로서의 품위를 손상하는 부적절한 행위를 해서는 안 된다. <신설 2018.12.24>\n⑥ 대통령비서실장은 감찰반에 파견된 공무원이 제5항을 위반했을 때에는 해당 공무원의 원소속기관의 장에게 위반사실을 통보하고, 징계 사유 해당 여부의 조사 등 징계와 관련하여 필요한 절차를 진행하도록 요구해야 한다. <신설 2018.12.24>\n⑦ 그 밖에 감찰반의 구성, 감찰업무의 원칙 및 절차, 업무수행 기준 등은 대통령비서실장이 정한다. <신설 2018.12.24>",
+        "enforcement_date": "20261002",
         "relations": [],
         "note": "[제목개정 2018.12.24]",
-        "revision_type": "일부개정",
-        "changed": "N",
+        "revision_type": "타법개정",
+        "changed": "Y",
         "article_key": "0007001",
+        "moved": "000000",
         "images": [],
         "provision_id": "law:대통령비서실직제#JO0007"
       },
@@ -175,9 +174,9 @@
         "chapter": "",
         "chapter_path": "",
         "content": "제8조(특별보좌관 및 자문위원)\n① 대통령의 국정수행을 보좌하거나 자문에 응하게 하기 위하여 특별보좌관과 자문위원을 둘 수 있다. <개정 2018.12.24>\n② 특별보좌관과 자문위원은 해당 분야에 관한 학식과 경험이 풍부한 사람 중에서 대통령이 위촉한다.\n③ 특별보좌관과 자문위원은 무보수 명예직으로 하되, 예산의 범위에서 수당과 실비를 지급할 수 있다.\n④ 삭제 <2024.9.10>",
-        "enforcement_date": "20260902",
+        "enforcement_date": "20261002",
         "relations": [],
-        "revision_type": "일부개정",
+        "revision_type": "타법개정",
         "changed": "N",
         "article_key": "0008001",
         "images": [],
@@ -189,9 +188,9 @@
         "chapter": "",
         "chapter_path": "",
         "content": "제9조(하부조직) 대통령비서실에 두는 하부조직과 그 분장사무는 대통령비서실장이 정한다.",
-        "enforcement_date": "20260902",
+        "enforcement_date": "20261002",
         "relations": [],
-        "revision_type": "일부개정",
+        "revision_type": "타법개정",
         "changed": "N",
         "article_key": "0009001",
         "images": [],
@@ -203,9 +202,9 @@
         "chapter": "",
         "chapter_path": "",
         "content": "제10조(대통령비서실에 두는 공무원의 정원)\n① 대통령비서실에 두는 공무원의 정원은 별표와 같다.\n② 대통령비서실에 두는 공무원의 직급별 정원은 훈령ㆍ예규 및 그 밖의 방법으로 정한다. <신설 2023.4.11>\n③ 대통령비서실에 두는 공무원의 정원 중 일반직공무원 정원의 20퍼센트의 범위에서 필요한 인원은 임기제공무원으로 임용할 수 있다. <개정 2013.12.11, 2023.4.11>\n④ 대통령비서실에 두는 공무원의 정원 중 고위공무원단에 속하는 공무원 정원의 30퍼센트의 범위에서 필요한 인원은 3급 또는 4급 일반직공무원이나 이에 상당하는 별정직공무원으로 대체할 수 있다. <신설 2017.12.29, 2023.4.11>",
-        "enforcement_date": "20260902",
+        "enforcement_date": "20261002",
         "relations": [],
-        "revision_type": "일부개정",
+        "revision_type": "타법개정",
         "changed": "N",
         "article_key": "0010001",
         "images": [],
@@ -221,10 +220,10 @@
       "content": "부칙 <제24426호,2013.3.23>\n제1조(시행일) 이 영은 공포한 날부터 시행한다.\n제2조(다른 법령의 폐지) 대통령실과 그 소속기관 직제를 폐지한다.\n제3조(기관 폐지에 따른 소속 공무원에 대한 경과조치) 부칙 제2조에 따라 폐지되는 대통령실 소속 공무원(부칙 제4조에 따라 대통령경호실 및 국가안보실로 이체되는 공무원은 제외한다)은 대통령비서실 소속 공무원으로 본다.\n제4조(기능 이관에 따른 소속 공무원의 이체) ① 대통령 등의 경호업무 이관에 따라 이 영 시행 당시 대통령실 소속기관인 경호처 공무원 523명(계약직 2명, 특정직 394명, 기능직 127명)은 대통령경호실 소속 공무원으로 보아 이를 대통령경호실로 이체한다.\n② 국가안보 관련 직무수행 보좌에 관한 기능의 이관에 따라 이 영 시행 당시 대통령실 소속 공무원 12명(고위공무원 4명, 3급 또는 4급 3명, 4급 또는 5급 3명, 6급 이하 2명)은 국가안보실 소속 공무원으로 보아 이를 국가안보실로 이체한다.\n제5조(정원에 대한 경과조치) 별표에도 불구하고 이 영 시행 당시 종전의 대통령실 소속 공무원(정무직은 제외한다)의 현원에 해당하는 정원은 이 영 시행일부터 1년까지는 대통령비서실에 따로 있는 것으로 본다. 다만, 초과현원이 별정직 공무원인 경우에는 이 영 시행일부터 3개월까지, 계약직공무원인 경우에는 계약기간이 만료될 때까지 그 정원이 따로 있는 것으로 본다.",
       "provision_id": "law:대통령비서실직제#ADDENDUM",
       "is_future": false,
-      "source_mst": "289279",
-      "source_version_uid": "011784:289279:20260902",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260902"
+      "source_mst": "290385",
+      "source_version_uid": "011784:290385:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20130722",
@@ -233,10 +232,10 @@
       "content": "부칙 <제24667호,2013.7.22>\n이 영은 공포한 날부터 시행한다.",
       "provision_id": "law:대통령비서실직제#ADDENDUM",
       "is_future": false,
-      "source_mst": "289279",
-      "source_version_uid": "011784:289279:20260902",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260902"
+      "source_mst": "290385",
+      "source_version_uid": "011784:290385:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20131211",
@@ -245,10 +244,10 @@
       "content": "부칙 <제24929호,2013.12.11>\n제1조(시행일) 이 영은 2013년 12월 12일부터 시행한다.\n제2조(기능직 폐지에 따른 정원 조정에 관한 경과조치) 이 영 시행으로 기능직공무원 정원을 감축하여 증원되는 일반직공무원 정원 중 「행정기관의 조직과 정원에 관한 통칙」 제26조제2항 및 제3항에 따라 통합하여 운영하던 정원이 있는 경우에, 그 통합하여 운영하던 직급에 근속승진 임용된 공무원에 대해서는 해당 직급에 재직하는 동안에는 별표의 개정규정에도 불구하고 그 정원이 대통령비서실에 있는 것으로 보고, 그에 해당하는 종전 직급의 정원은 감축된 것으로 본다.",
       "provision_id": "law:대통령비서실직제#ADDENDUM",
       "is_future": false,
-      "source_mst": "289279",
-      "source_version_uid": "011784:289279:20260902",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260902"
+      "source_mst": "290385",
+      "source_version_uid": "011784:290385:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20140217",
@@ -257,10 +256,10 @@
       "content": "부칙 <제25181호,2014.2.17>\n이 영은 공포한 날부터 시행한다.",
       "provision_id": "law:대통령비서실직제#ADDENDUM",
       "is_future": false,
-      "source_mst": "289279",
-      "source_version_uid": "011784:289279:20260902",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260902"
+      "source_mst": "290385",
+      "source_version_uid": "011784:290385:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20140721",
@@ -269,10 +268,10 @@
       "content": "부칙 <제25489호,2014.7.21>\n이 영은 공포한 날부터 시행한다.",
       "provision_id": "law:대통령비서실직제#ADDENDUM",
       "is_future": false,
-      "source_mst": "289279",
-      "source_version_uid": "011784:289279:20260902",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260902"
+      "source_mst": "290385",
+      "source_version_uid": "011784:290385:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20150106",
@@ -281,10 +280,10 @@
       "content": "부칙 <제26010호,2015.1.6>\n이 영은 공포한 날부터 시행한다.",
       "provision_id": "law:대통령비서실직제#ADDENDUM",
       "is_future": false,
-      "source_mst": "289279",
-      "source_version_uid": "011784:289279:20260902",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260902"
+      "source_mst": "290385",
+      "source_version_uid": "011784:290385:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20151230",
@@ -293,10 +292,10 @@
       "content": "부칙 <제26797호,2015.12.30>\n이 영은 공포한 날부터 시행한다.",
       "provision_id": "law:대통령비서실직제#ADDENDUM",
       "is_future": false,
-      "source_mst": "289279",
-      "source_version_uid": "011784:289279:20260902",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260902"
+      "source_mst": "290385",
+      "source_version_uid": "011784:290385:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20170511",
@@ -305,10 +304,10 @@
       "content": "부칙 <제28046호,2017.5.11>\n제1조(시행일) 이 영은 공포한 날부터 시행한다.\n제2조(정원에 관한 경과조치) 별표에도 불구하고 이 영 시행 당시 종전의 대통령비서실 소속 공무원(정무직은 제외한다)의 현원에 해당하는 정원은 2018년 5월 31일까지는 대통령비서실에 따로 있는 것으로 본다. 다만, 그 현원이 별정직공무원인 경우에는 2017년 6월 30일까지, 임기제공무원인 경우에는 임기가 만료될 때까지 그 정원이 따로 있는 것으로 본다. <개정 2017.5.30>\n제3조(다른 법령과의 관계) 이 영 시행 당시 다른 법령에서 수석비서관 또는 정무직인 비서관을 인용한 경우에는 그 수석비서관 또는 정무직인 비서관의 업무를 담당하는 정책실장ㆍ보좌관 또는 수석비서관을 각각 인용한 것으로 본다.",
       "provision_id": "law:대통령비서실직제#ADDENDUM",
       "is_future": false,
-      "source_mst": "289279",
-      "source_version_uid": "011784:289279:20260902",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260902"
+      "source_mst": "290385",
+      "source_version_uid": "011784:290385:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20170530",
@@ -317,10 +316,10 @@
       "content": "부칙 <제28083호,2017.5.30>\n이 영은 공포한 날부터 시행한다.",
       "provision_id": "law:대통령비서실직제#ADDENDUM",
       "is_future": false,
-      "source_mst": "289279",
-      "source_version_uid": "011784:289279:20260902",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260902"
+      "source_mst": "290385",
+      "source_version_uid": "011784:290385:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20171229",
@@ -329,10 +328,10 @@
       "content": "부칙 <제28539호,2017.12.29>\n이 영은 공포한 날부터 시행한다.",
       "provision_id": "law:대통령비서실직제#ADDENDUM",
       "is_future": false,
-      "source_mst": "289279",
-      "source_version_uid": "011784:289279:20260902",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260902"
+      "source_mst": "290385",
+      "source_version_uid": "011784:290385:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20180801",
@@ -341,10 +340,10 @@
       "content": "부칙 <제29076호,2018.8.1>\n이 영은 공포한 날부터 시행한다.",
       "provision_id": "law:대통령비서실직제#ADDENDUM",
       "is_future": false,
-      "source_mst": "289279",
-      "source_version_uid": "011784:289279:20260902",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260902"
+      "source_mst": "290385",
+      "source_version_uid": "011784:290385:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20181224",
@@ -353,10 +352,10 @@
       "content": "부칙 <제29432호,2018.12.24>\n이 영은 공포한 날부터 시행한다.",
       "provision_id": "law:대통령비서실직제#ADDENDUM",
       "is_future": false,
-      "source_mst": "289279",
-      "source_version_uid": "011784:289279:20260902",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260902"
+      "source_mst": "290385",
+      "source_version_uid": "011784:290385:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20210105",
@@ -365,10 +364,10 @@
       "content": "부칙(어려운 법령용어 정비를 위한 473개 법령의 일부개정에 관한 대통령령) <제31380호,2021.1.5>\n이 영은 공포한 날부터 시행한다. <단서 생략>",
       "provision_id": "law:대통령비서실직제#ADDENDUM",
       "is_future": false,
-      "source_mst": "289279",
-      "source_version_uid": "011784:289279:20260902",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260902"
+      "source_mst": "290385",
+      "source_version_uid": "011784:290385:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20230411",
@@ -377,10 +376,10 @@
       "content": "부칙(조직관리 자율성 강화를 위한 9개 법령의 일부개정에 관한 대통령령) <제33393호,2023.4.11>\n이 영은 공포한 날부터 시행한다.",
       "provision_id": "law:대통령비서실직제#ADDENDUM",
       "is_future": false,
-      "source_mst": "289279",
-      "source_version_uid": "011784:289279:20260902",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260902"
+      "source_mst": "290385",
+      "source_version_uid": "011784:290385:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20240814",
@@ -389,10 +388,10 @@
       "content": "부칙 <제34841호,2024.8.14>\n이 영은 공포한 날부터 시행한다.",
       "provision_id": "law:대통령비서실직제#ADDENDUM",
       "is_future": false,
-      "source_mst": "289279",
-      "source_version_uid": "011784:289279:20260902",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260902"
+      "source_mst": "290385",
+      "source_version_uid": "011784:290385:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20240910",
@@ -401,10 +400,10 @@
       "content": "부칙 <제34889호,2024.9.10>\n이 영은 공포한 날부터 시행한다.",
       "provision_id": "law:대통령비서실직제#ADDENDUM",
       "is_future": false,
-      "source_mst": "289279",
-      "source_version_uid": "011784:289279:20260902",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260902"
+      "source_mst": "290385",
+      "source_version_uid": "011784:290385:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20260902",
@@ -413,10 +412,22 @@
       "content": "부칙 <제36666호,2026.9.2>\n이 영은 공포한 날부터 시행한다.",
       "provision_id": "law:대통령비서실직제#ADDENDUM",
       "is_future": false,
-      "source_mst": "289279",
-      "source_version_uid": "011784:289279:20260902",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260902"
+      "source_mst": "290385",
+      "source_version_uid": "011784:290385:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
+    },
+    {
+      "promulgation_date": "20260929",
+      "promulgation_no": "36728",
+      "addendum_key": "2026092936728",
+      "content": "부칙(「공소청법」 및 「중대범죄수사청 조직 및 운영에 관한 법률」의 제정과 「형사소송법」 개정에 따른 관계 법령의 정비를 위한 126개 법령의 일부개정에 관한 대통령령) <제36728호,2026.9.29>\n제1조(시행일) 이 영은 2026년 10월 2일부터 시행한다. <단서 생략>\n제2조부터 제4조까지 생략",
+      "provision_id": "law:대통령비서실직제#ADDENDUM",
+      "is_future": false,
+      "source_mst": "290385",
+      "source_version_uid": "011784:290385:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     }
   ],
   "appendices": [
@@ -425,28 +436,28 @@
       "branch": "00",
       "kind": "별표",
       "title": "대통령비서실 공무원 정원표(제10조제1항 관련)",
-      "enforcement_date": "20260902",
+      "enforcement_date": "20261002",
       "content": "■ 대통령비서실 직제 [별표] <개정 2026. 9. 2.>\n\n대통령비서실 공무원 정원표(제10조제1항 관련)\n\n총계                                                    444\n\n정무직 계                                             13\n\n대통령비서실장(장관급)                              1\n\n정책실장(장관급)                                    1\n\n보좌관(장관급)                                      1\n\n보좌관 또는 수석비서관(차관급)                      10\n\n일반직 또는 별정직 계                                 431\n\n고위공무원단에 속하는 일반직 또는 별정직            79\n\n3급 또는 4급 상당 이하에 속하는 일반직 또는 별정직  352",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168865675",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169563909",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168865673",
-          "name": "law0117842026090236666KC_000000E_20260902.hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169563907",
+          "name": "law0117842026092936728KC_000000E_20261002.hwp",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168865675",
-          "name": "law0117842026090236666KC_000000E_20260902.pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169563909",
+          "name": "law0117842026092936728KC_000000E_20261002.pdf",
           "file_store_url": ""
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168865677",
-          "name": "000000110201_P1_20260902.gif",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169563911",
+          "name": "000000110201_P1_20261002.gif",
           "file_store_url": ""
         }
       ],
@@ -471,7 +482,7 @@
     "phantom_self_ref_samples": [],
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 17,
+    "addenda_count": 18,
     "appendices_count": 1,
     "pop_miss": 0,
     "pop_miss_by_reason": {},
