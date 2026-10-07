@@ -387,7 +387,7 @@
   "promulgation_date": "20260929",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "04234409a45ba5a2"
  },
  "law:eflaw:000035": {
@@ -479,7 +479,7 @@
   "promulgation_date": "20230725",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "ab6752a7eed77e68"
  },
  "law:eflaw:000049": {
@@ -824,7 +824,7 @@
   "promulgation_date": "20251001",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 3,
   "version_signature": "84cb3884ad3c03ae"
  },
  "law:eflaw:000096": {
@@ -916,7 +916,7 @@
   "promulgation_date": "20251202",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 4,
   "version_signature": "6004a78a06a94b22"
  },
  "law:eflaw:000110": {
@@ -1169,7 +1169,7 @@
   "promulgation_date": "20260317",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "8d843ece00a28c22"
  },
  "law:eflaw:000132": {
@@ -1629,7 +1629,7 @@
   "promulgation_date": "20250325",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "da57fde2e6ee181e"
  },
  "law:eflaw:000170": {
@@ -1882,7 +1882,7 @@
   "promulgation_date": "20260929",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 3,
   "version_signature": "9955ae3c51c9fa6e"
  },
  "law:eflaw:000188": {
@@ -1928,7 +1928,7 @@
   "promulgation_date": "20260929",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "e317c027e2e474e3"
  },
  "law:eflaw:000191": {
@@ -2480,7 +2480,7 @@
   "promulgation_date": "20260317",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "f94120a517cfd62f"
  },
  "law:eflaw:000262": {
@@ -2756,7 +2756,7 @@
   "promulgation_date": "20260317",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 3,
   "version_signature": "91fce2888b9a9643"
  },
  "law:eflaw:000303": {
@@ -3101,7 +3101,7 @@
   "promulgation_date": "20251230",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 3,
   "version_signature": "ed5ca3306382fe9e"
  },
  "law:eflaw:000370": {
@@ -3492,7 +3492,7 @@
   "promulgation_date": "20260324",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 3,
   "version_signature": "dd0bc729143ab2a3"
  },
  "law:eflaw:000445": {
@@ -3676,7 +3676,7 @@
   "promulgation_date": "20260317",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 3,
   "version_signature": "7ab833fb958556f0"
  },
  "law:eflaw:000497": {
@@ -3745,7 +3745,7 @@
   "promulgation_date": "20251001",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 3,
   "version_signature": "aa0dc504e594a9f1"
  },
  "law:eflaw:000507": {
@@ -4090,7 +4090,7 @@
   "promulgation_date": "20260512",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "3ad4092c52b458c4"
  },
  "law:eflaw:000592": {
@@ -7839,7 +7839,7 @@
   "promulgation_date": "20210924",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "b77007b2aa155142"
  },
  "law:eflaw:001123": {
@@ -7862,7 +7862,7 @@
   "promulgation_date": "20260324",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "7eef3a3521f6938d"
  },
  "law:eflaw:001124": {
@@ -8161,7 +8161,7 @@
   "promulgation_date": "20260317",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "5e76ac724c49cbc8"
  },
  "law:eflaw:001144": {
@@ -8322,7 +8322,7 @@
   "promulgation_date": "20210924",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "0ca1aa3197fc88bd"
  },
  "law:eflaw:001170": {
@@ -9956,7 +9956,7 @@
   "promulgation_date": "20260804",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "24f300c97103f4e9"
  },
  "law:eflaw:001357": {
@@ -10117,7 +10117,7 @@
   "promulgation_date": "20260804",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "b098cb8d2b298ecf"
  },
  "law:eflaw:001372": {
@@ -11200,7 +11200,7 @@
   "promulgation_date": "20251230",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 3,
   "version_signature": "02e966973d9c74bb"
  },
  "law:eflaw:001478": {
@@ -11292,7 +11292,7 @@
   "promulgation_date": "20250916",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "be0a2afbc33f4b54"
  },
  "law:eflaw:001486": {
@@ -11315,7 +11315,7 @@
   "promulgation_date": "20250422",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 3,
   "version_signature": "a1ffb94b9f0e0623"
  },
  "law:eflaw:001487": {
@@ -11430,7 +11430,7 @@
   "promulgation_date": "20260331",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "4b28728071d5a148"
  },
  "law:eflaw:001507": {
@@ -11545,7 +11545,7 @@
   "promulgation_date": "20260324",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "8edb5281f804a08c"
  },
  "law:eflaw:001523": {
@@ -12120,7 +12120,7 @@
   "promulgation_date": "20260317",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 10,
   "version_signature": "c1bd1e9f97e0aae4"
  },
  "law:eflaw:001585": {
@@ -12166,7 +12166,7 @@
   "promulgation_date": "20260929",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 6,
   "version_signature": "f444bef0797aefa1"
  },
  "law:eflaw:001587": {
@@ -12189,7 +12189,7 @@
   "promulgation_date": "20260317",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "11239b355173451e"
  },
  "law:eflaw:001589": {
@@ -12235,7 +12235,7 @@
   "promulgation_date": "20260804",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "2e95c677da905efe"
  },
  "law:eflaw:001591": {
@@ -12258,7 +12258,7 @@
   "promulgation_date": "20260929",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 3,
   "version_signature": "adc1a5f9f96a6071"
  },
  "law:eflaw:001592": {
@@ -12557,7 +12557,7 @@
   "promulgation_date": "20260804",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "726b8cf7abe47ca0"
  },
  "law:eflaw:001618": {
@@ -12626,7 +12626,7 @@
   "promulgation_date": "20260804",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 3,
   "version_signature": "7a13e29734807846"
  },
  "law:eflaw:001623": {
@@ -12649,7 +12649,7 @@
   "promulgation_date": "20260929",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 4,
   "version_signature": "12d7da5ce51591d8"
  },
  "law:eflaw:001624": {
@@ -12695,7 +12695,7 @@
   "promulgation_date": "20260804",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "2024dde2ff9c517a"
  },
  "law:eflaw:001627": {
@@ -12718,7 +12718,7 @@
   "promulgation_date": "20260804",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "42382508fb01ada0"
  },
  "law:eflaw:001628": {
@@ -12764,7 +12764,7 @@
   "promulgation_date": "20260804",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 3,
   "version_signature": "8d4d4d0c2b3bbd57"
  },
  "law:eflaw:001631": {
@@ -12994,7 +12994,7 @@
   "promulgation_date": "20260804",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 3,
   "version_signature": "ed8b6ee491a3d021"
  },
  "law:eflaw:001654": {
@@ -13132,7 +13132,7 @@
   "promulgation_date": "20260929",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "5713286b558c1230"
  },
  "law:eflaw:001669": {
@@ -13178,7 +13178,7 @@
   "promulgation_date": "20260929",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "1084432915ae7cf1"
  },
  "law:eflaw:001671": {
@@ -13201,7 +13201,7 @@
   "promulgation_date": "20260929",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 4,
   "version_signature": "463d10d9df999dce"
  },
  "law:eflaw:001674": {
@@ -13362,7 +13362,7 @@
   "promulgation_date": "20260929",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "5ddb7b18ff4c6433"
  },
  "law:eflaw:001701": {
@@ -13477,7 +13477,7 @@
   "promulgation_date": "20260804",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "f273d1a96d6f887f"
  },
  "law:eflaw:001709": {
@@ -13523,7 +13523,7 @@
   "promulgation_date": "20260929",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 3,
   "version_signature": "f06abc567c634069"
  },
  "law:eflaw:001711": {
@@ -13661,7 +13661,7 @@
   "promulgation_date": "20260804",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 3,
   "version_signature": "47d12031f7f20e1c"
  },
  "law:eflaw:001720": {
@@ -13776,7 +13776,7 @@
   "promulgation_date": "20260929",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "de92ef3e700f9158"
  },
  "law:eflaw:001728": {
@@ -13891,7 +13891,7 @@
   "promulgation_date": "20260331",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "8e9490a2ff6d206f"
  },
  "law:eflaw:001734": {
@@ -14144,7 +14144,7 @@
   "promulgation_date": "20260804",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 4,
   "version_signature": "43a7e19b802f44a1"
  },
  "law:eflaw:001748": {
@@ -14167,7 +14167,7 @@
   "promulgation_date": "20260529",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 5,
   "version_signature": "7c45273ca752c16c"
  },
  "law:eflaw:001749": {
@@ -14282,7 +14282,7 @@
   "promulgation_date": "20260219",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "e2178da2804824a1"
  },
  "law:eflaw:001761": {
@@ -14305,7 +14305,7 @@
   "promulgation_date": "20260317",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 4,
   "version_signature": "030bf7b63a7bc513"
  },
  "law:eflaw:001763": {
@@ -14397,7 +14397,7 @@
   "promulgation_date": "20260317",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 4,
   "version_signature": "a3fc2c4816966836"
  },
  "law:eflaw:001773": {
@@ -14420,7 +14420,7 @@
   "promulgation_date": "20260317",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 6,
   "version_signature": "15083560b0221384"
  },
  "law:eflaw:001774": {
@@ -14443,7 +14443,7 @@
   "promulgation_date": "20251001",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "904e905ad61d4778"
  },
  "law:eflaw:001777": {
@@ -14466,7 +14466,7 @@
   "promulgation_date": "20260929",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "ed8f1c5e8050acb6"
  },
  "law:eflaw:001780": {
@@ -14535,7 +14535,7 @@
   "promulgation_date": "20260310",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 7,
   "version_signature": "194ab8754598c496"
  },
  "law:eflaw:001784": {
@@ -14627,7 +14627,7 @@
   "promulgation_date": "20260324",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 5,
   "version_signature": "a372e6cc984180a3"
  },
  "law:eflaw:001790": {
@@ -14926,7 +14926,7 @@
   "promulgation_date": "20260317",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "27344270357ff6b6"
  },
  "law:eflaw:001823": {
@@ -15018,7 +15018,7 @@
   "promulgation_date": "20260317",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "3b113c71319e273b"
  },
  "law:eflaw:001837": {
@@ -15225,7 +15225,7 @@
   "promulgation_date": "20260317",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 4,
   "version_signature": "29a005156f475603"
  },
  "law:eflaw:001855": {
@@ -15524,7 +15524,7 @@
   "promulgation_date": "20260804",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 7,
   "version_signature": "150782e3a5a28383"
  },
  "law:eflaw:001962": {
@@ -15869,7 +15869,7 @@
   "promulgation_date": "20251230",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "0ffa7c0b8be87ca3"
  },
  "law:eflaw:001980": {
@@ -15915,7 +15915,7 @@
   "promulgation_date": "20260317",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "fa80023a384812b3"
  },
  "law:eflaw:001983": {
@@ -16099,7 +16099,7 @@
   "promulgation_date": "20251001",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "3b19eef9572dbd47"
  },
  "law:eflaw:001996": {
@@ -16168,7 +16168,7 @@
   "promulgation_date": "20260324",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "4bdaeee2ab2fb812"
  },
  "law:eflaw:001999": {
@@ -16582,7 +16582,7 @@
   "promulgation_date": "20260804",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 4,
   "version_signature": "1935803028afafcf"
  },
  "law:eflaw:002026": {
@@ -16950,7 +16950,7 @@
   "promulgation_date": "20260929",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "e0e820e1ff8260c8"
  },
  "law:eflaw:002046": {
@@ -17341,7 +17341,7 @@
   "promulgation_date": "20260623",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "da856c678ca16743"
  },
  "law:eflaw:002116": {
@@ -17392,26 +17392,26 @@
  },
  "law:eflaw:002118": {
   "attempts": 0,
-  "collected_signature": "549333f162c73c4c",
-  "content_hash": "4a6c6c59fe4d977ad2a597857d8005dc8720a4da1b4fda9cf47250457df89792",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288849&type=HTML&mobileYn=&efYd=20260918",
+  "collected_signature": "a805eb75d22820fe",
+  "content_hash": "20828bb91c48d006d726e49c9b61c12ef8968ddb30f790eec131ff6c18161785",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290833&type=HTML&mobileYn=&efYd=20261006",
   "doc_domain": "law",
   "doc_id": "002118",
   "doc_target": "eflaw",
   "doc_type": "대통령령",
-  "enforcement_date": "20260918",
+  "enforcement_date": "20261006",
   "is_active": true,
-  "last_checked_at": "2026-10-02T02:24:50.482867+00:00",
-  "last_collected_at": "2026-10-02T02:25:06.622860+00:00",
+  "last_checked_at": "2026-10-07T08:49:47.611458+00:00",
+  "last_collected_at": "2026-10-07T08:50:12.273172+00:00",
   "ministry": "국토교통부",
-  "mst": "288849",
+  "mst": "290833",
   "name": "건축법 시행령",
   "payload_law_id": "002118",
-  "promulgation_date": "20260818",
+  "promulgation_date": "20261006",
   "relation_mode": "no_crawl",
   "status": "done",
   "version_count": 1,
-  "version_signature": "549333f162c73c4c"
+  "version_signature": "a805eb75d22820fe"
  },
  "law:eflaw:002119": {
   "attempts": 0,
@@ -17577,7 +17577,7 @@
  },
  "law:eflaw:002144": {
   "attempts": 0,
-  "collected_signature": null,
+  "collected_signature": "6c5e9b764da4fcd5",
   "content_hash": "6c8939c6715182a26930edccdef7c286f4dc63f385c81a413e3bef5560bfe577",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290303&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
@@ -17586,8 +17586,8 @@
   "doc_type": "대통령령",
   "enforcement_date": "20261002",
   "is_active": true,
-  "last_checked_at": "2026-10-02T02:24:50.606674+00:00",
-  "last_collected_at": "2026-10-02T02:24:54.516813+00:00",
+  "last_checked_at": "2026-10-07T08:49:47.649047+00:00",
+  "last_collected_at": "2026-10-07T08:49:51.088040+00:00",
   "last_git_error": "git add 경범죄 처벌법/시행령 실패(rc=128): fatal: Unable to create '/Users/huiju.ko/workspace/law_ai/temporal_law/data/git/DATA-LAW/.git/index.lock': File exists.\n\nAnother git process seems to be running in this repository, e.g.\nan editor opened by 'git commit'. Please make sure all processes\nare terminated then try again. If it still fails,",
   "last_git_error_at": "2026-10-02T02:24:55.865352+00:00",
   "ministry": "경찰청,해양경찰청",
@@ -17596,7 +17596,7 @@
   "payload_law_id": "002144",
   "promulgation_date": "20260929",
   "relation_mode": "no_crawl",
-  "status": "collected",
+  "status": "done",
   "version_count": 1,
   "version_signature": "6c5e9b764da4fcd5"
  },
@@ -18172,7 +18172,7 @@
   "promulgation_date": "20260929",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 4,
   "version_signature": "016e0ed75fcd982d"
  },
  "law:eflaw:002255": {
@@ -18517,7 +18517,7 @@
   "promulgation_date": "20260929",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "f772617fada49810"
  },
  "law:eflaw:002303": {
@@ -18609,7 +18609,7 @@
   "promulgation_date": "20260929",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 4,
   "version_signature": "a5351f346a247a16"
  },
  "law:eflaw:002321": {
@@ -20495,7 +20495,7 @@
   "promulgation_date": "20260915",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 3,
   "version_signature": "95440322ba4231c7"
  },
  "law:eflaw:002814": {
@@ -21422,26 +21422,26 @@
  },
  "law:eflaw:002980": {
   "attempts": 0,
-  "collected_signature": "4b7e11484d1f56d9",
-  "content_hash": "b6d7a49909cb062f90e39e3d491ede057892a7238232ed5b88d32f5ad9a95a6e",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=256505&type=HTML&mobileYn=&efYd=20231212",
+  "collected_signature": "ca5bd73866ea6ffb",
+  "content_hash": "d75badd78490b4fdbe312932573673819eaba82db200c618fc67b5bc0145c9ce",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290835&type=HTML&mobileYn=&efYd=20261006",
   "doc_domain": "law",
   "doc_id": "002980",
   "doc_target": "eflaw",
   "doc_type": "대통령령",
-  "enforcement_date": "20231212",
+  "enforcement_date": "20261006",
   "is_active": true,
-  "last_checked_at": "2026-09-15T02:15:17.788797+00:00",
-  "last_collected_at": "2026-09-15T02:15:22.429588+00:00",
+  "last_checked_at": "2026-10-07T08:49:47.688221+00:00",
+  "last_collected_at": "2026-10-07T08:49:52.635997+00:00",
   "ministry": "국방부",
-  "mst": "256505",
+  "mst": "290835",
   "name": "군복 및 군용장구의 단속에 관한 법률 시행령",
   "payload_law_id": "002980",
-  "promulgation_date": "20231212",
+  "promulgation_date": "20261006",
   "relation_mode": "no_crawl",
   "status": "done",
   "version_count": 1,
-  "version_signature": "4b7e11484d1f56d9"
+  "version_signature": "ca5bd73866ea6ffb"
  },
  "law:eflaw:002981": {
   "attempts": 0,
@@ -24982,7 +24982,7 @@
   "promulgation_date": "20260930",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 4,
   "version_signature": "bcbe8fb3a0144372"
  },
  "law:eflaw:003610": {
@@ -25419,7 +25419,7 @@
   "promulgation_date": "20260929",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "917e82e614c306fe"
  },
  "law:eflaw:003655": {
@@ -26937,7 +26937,7 @@
   "promulgation_date": "20260930",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 12,
   "version_signature": "9a15620848e7d886"
  },
  "law:eflaw:003959": {
@@ -29311,8 +29311,8 @@
  },
  "law:eflaw:004390": {
   "attempts": 0,
-  "collected_signature": "44efe31d9a6daa08",
-  "content_hash": "d7d68bef4504d3a4ecdd1d0ec8769151bfc0e1b46e3abf039eed76a1021bbced",
+  "collected_signature": null,
+  "content_hash": "6623eecfce01aaf225330d19dc882ca9b0945fd55860b09543a64be397fa7ad2",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=280507&type=HTML&mobileYn=&efYd=20251223",
   "doc_domain": "law",
   "doc_id": "004390",
@@ -29320,17 +29320,19 @@
   "doc_type": "대통령령",
   "enforcement_date": "20251223",
   "is_active": true,
-  "last_checked_at": "2026-09-15T04:25:54.087299+00:00",
-  "last_collected_at": "2026-09-15T04:26:10.864902+00:00",
+  "last_checked_at": "2026-10-07T08:49:47.737516+00:00",
+  "last_collected_at": "2026-10-07T08:50:00.282761+00:00",
+  "last_git_error": "git add 화학물질관리법/시행령 실패(rc=128): fatal: Unable to create '/Users/huiju.ko/workspace/law_ai/temporal_law/data/git/DATA-LAW/.git/index.lock': File exists.\n\nAnother git process seems to be running in this repository, e.g.\nan editor opened by 'git commit'. Please make sure all processes\nare terminated then try again. If it still fails,",
+  "last_git_error_at": "2026-10-07T08:50:05.124350+00:00",
   "ministry": "기후에너지환경부",
   "mst": "280507",
   "name": "화학물질관리법 시행령",
   "payload_law_id": "004390",
   "promulgation_date": "20251223",
   "relation_mode": "no_crawl",
-  "status": "done",
+  "status": "collected",
   "version_count": 1,
-  "version_signature": "44efe31d9a6daa08"
+  "version_signature": "493be0837cfbf02d"
  },
  "law:eflaw:004400": {
   "attempts": 0,
@@ -31659,8 +31661,8 @@
  },
  "law:eflaw:004920": {
   "attempts": 0,
-  "collected_signature": "5558172f24c412d6",
-  "content_hash": "47b6336f80207c1f256fb084c119fff42649004aff8a06a0d790b91fd6a59ebe",
+  "collected_signature": "814a9053b29bc861",
+  "content_hash": "4286178bf79195f866af38f93a82647e7b2390757728ef7d4f663eb23b1dd9d3",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288915&type=HTML&mobileYn=&efYd=20260918",
   "doc_domain": "law",
   "doc_id": "004920",
@@ -31668,8 +31670,8 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260918",
   "is_active": true,
-  "last_checked_at": "2026-10-02T02:30:23.561587+00:00",
-  "last_collected_at": "2026-10-02T02:31:27.798828+00:00",
+  "last_checked_at": "2026-10-07T08:49:47.774031+00:00",
+  "last_collected_at": "2026-10-07T08:50:12.088033+00:00",
   "ministry": "재정경제부,행정안전부",
   "mst": "288915",
   "name": "조세특례제한법 시행령",
@@ -31678,7 +31680,7 @@
   "relation_mode": "no_crawl",
   "status": "done",
   "version_count": 1,
-  "version_signature": "5558172f24c412d6"
+  "version_signature": "814a9053b29bc861"
  },
  "law:eflaw:004925": {
   "attempts": 0,
@@ -32965,7 +32967,7 @@
   "promulgation_date": "20260616",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "80fe06012dae87dd"
  },
  "law:eflaw:005212": {
@@ -36210,7 +36212,7 @@
   "promulgation_date": "20251223",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "6138442379ec6cd1"
  },
  "law:eflaw:005687": {
@@ -38694,7 +38696,7 @@
   "promulgation_date": "20261002",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 3,
   "version_signature": "14afc21aee616417"
  },
  "law:eflaw:005989": {
@@ -40654,26 +40656,26 @@
  },
  "law:eflaw:006189": {
   "attempts": 0,
-  "collected_signature": "76d76c1d214ca4e1",
-  "content_hash": "5a7226a1f96c5227360e7e1a51dec8afd31780e022721238bcb560c335c963f9",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=279461&type=HTML&mobileYn=&efYd=20251031",
+  "collected_signature": "878ea3b5d3e77510",
+  "content_hash": "2d10d89424f7b8800399608c4505f7d642444778cd47ed11d5fa9032ac1fa213",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291033&type=HTML&mobileYn=&efYd=20261006",
   "doc_domain": "law",
   "doc_id": "006189",
   "doc_target": "eflaw",
   "doc_type": "국토교통부령",
-  "enforcement_date": "20251031",
+  "enforcement_date": "20261006",
   "is_active": true,
-  "last_checked_at": "2026-09-15T01:49:33.234247+00:00",
-  "last_collected_at": "2026-09-15T01:49:38.771450+00:00",
+  "last_checked_at": "2026-10-07T08:49:47.848000+00:00",
+  "last_collected_at": "2026-10-07T08:49:56.837299+00:00",
   "ministry": "국토교통부",
-  "mst": "279461",
+  "mst": "291033",
   "name": "건축물의 피난ㆍ방화구조 등의 기준에 관한 규칙",
   "payload_law_id": "006189",
-  "promulgation_date": "20251031",
+  "promulgation_date": "20261006",
   "relation_mode": "no_crawl",
   "status": "done",
   "version_count": 1,
-  "version_signature": "76d76c1d214ca4e1"
+  "version_signature": "878ea3b5d3e77510"
  },
  "law:eflaw:006190": {
   "attempts": 0,
@@ -40787,7 +40789,7 @@
   "promulgation_date": "20260831",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "59c0c79c4cc62a8c"
  },
  "law:eflaw:006201": {
@@ -40879,7 +40881,7 @@
   "promulgation_date": "20261001",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "e460f61a78aa1204"
  },
  "law:eflaw:006205": {
@@ -40908,7 +40910,7 @@
  "law:eflaw:006206": {
   "attempts": 0,
   "collected_signature": "14460d8377764ef0",
-  "content_hash": "25146a1a04dca78cdc92f68cbbccff93921673d7aca60f203fb95dfbede30366",
+  "content_hash": "0598b13e19caf7c55fc69d4d522865a4c908f2170800b5fa2afdd3825dc74929",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291027&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "006206",
@@ -40916,11 +40918,11 @@
   "doc_type": "법무부령",
   "enforcement_date": "20261002",
   "is_active": true,
-  "last_checked_at": "2026-10-02T02:34:28.468020+00:00",
-  "last_collected_at": "2026-10-02T02:34:35.044600+00:00",
+  "last_checked_at": "2026-10-07T08:49:47.880560+00:00",
+  "last_collected_at": "2026-10-07T08:49:53.939512+00:00",
   "ministry": "법무부",
   "mst": "291027",
-  "name": "자유형등에 관한 검찰집행사무규칙",
+  "name": "자유형등에 관한 공소청집행사무규칙",
   "payload_law_id": "006206",
   "promulgation_date": "20261001",
   "relation_mode": "no_crawl",
@@ -41183,7 +41185,7 @@
  },
  "law:eflaw:006255": {
   "attempts": 0,
-  "collected_signature": null,
+  "collected_signature": "95be6b57b5b72649",
   "content_hash": "db3740690c35771e6d988d0c74a5a463714c173688a58a68266fd8adc2421066",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290853&type=HTML&mobileYn=&efYd=20261001",
   "doc_domain": "law",
@@ -41192,8 +41194,8 @@
   "doc_type": "행정안전부령",
   "enforcement_date": "20261001",
   "is_active": true,
-  "last_checked_at": "2026-10-02T02:35:54.696402+00:00",
-  "last_collected_at": "2026-10-02T02:35:58.531203+00:00",
+  "last_checked_at": "2026-10-07T08:49:47.916525+00:00",
+  "last_collected_at": "2026-10-07T08:49:54.762084+00:00",
   "last_git_error": "git add 경찰청과 그 소속기관 직제/시행규칙 실패(rc=128): fatal: Unable to create '/Users/huiju.ko/workspace/law_ai/temporal_law/data/git/DATA-LAW/.git/index.lock': File exists.\n\nAnother git process seems to be running in this repository, e.g.\nan editor opened by 'git commit'. Please make sure all processes\nare terminated then try again. If it still fails,",
   "last_git_error_at": "2026-10-02T02:36:01.897405+00:00",
   "ministry": "경찰청",
@@ -41202,7 +41204,7 @@
   "payload_law_id": "006255",
   "promulgation_date": "20261001",
   "relation_mode": "no_crawl",
-  "status": "collected",
+  "status": "done",
   "version_count": 1,
   "version_signature": "95be6b57b5b72649"
  },
@@ -41622,7 +41624,7 @@
  },
  "law:eflaw:006329": {
   "attempts": 0,
-  "collected_signature": null,
+  "collected_signature": "beb3c3388258d491",
   "content_hash": "fedb4f02aafa2e637ca6cf723f4087b1723511245fc77bd50306aaf6b53eb95d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290993&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
@@ -41631,8 +41633,8 @@
   "doc_type": "법무부령",
   "enforcement_date": "20261002",
   "is_active": true,
-  "last_checked_at": "2026-10-02T02:35:54.819653+00:00",
-  "last_collected_at": "2026-10-02T02:35:58.188934+00:00",
+  "last_checked_at": "2026-10-07T08:49:47.953729+00:00",
+  "last_collected_at": "2026-10-07T08:49:55.056574+00:00",
   "last_git_error": "git commit 실패(rc=128): fatal: Unable to create '/Users/huiju.ko/workspace/law_ai/temporal_law/data/git/DATA-LAW/.git/index.lock': File exists.\n\nAnother git process seems to be running in this repository, e.g.\nan editor opened by 'git commit'. Please make sure all processes\nare terminated then try again. If it still fails,",
   "last_git_error_at": "2026-10-02T02:36:01.876976+00:00",
   "ministry": "법무부",
@@ -41641,7 +41643,7 @@
   "payload_law_id": "006329",
   "promulgation_date": "20261001",
   "relation_mode": "no_crawl",
-  "status": "collected",
+  "status": "done",
   "version_count": 1,
   "version_signature": "beb3c3388258d491"
  },
@@ -41785,7 +41787,7 @@
  },
  "law:eflaw:006355": {
   "attempts": 0,
-  "collected_signature": null,
+  "collected_signature": "07040767671edada",
   "content_hash": "1675391055a3b83e50731856d2ccce8a88446d2b51c79296cd2f2619c7b6c2c3",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290801&type=HTML&mobileYn=&efYd=20261001",
   "doc_domain": "law",
@@ -41794,8 +41796,8 @@
   "doc_type": "총리령",
   "enforcement_date": "20261001",
   "is_active": true,
-  "last_checked_at": "2026-10-02T02:35:54.840595+00:00",
-  "last_collected_at": "2026-10-02T02:35:58.598385+00:00",
+  "last_checked_at": "2026-10-07T08:49:47.975845+00:00",
+  "last_collected_at": "2026-10-07T08:49:53.516099+00:00",
   "last_git_error": "git add 공정거래위원회와 그 소속기관 직제/시행규칙 실패(rc=128): fatal: Unable to create '/Users/huiju.ko/workspace/law_ai/temporal_law/data/git/DATA-LAW/.git/index.lock': File exists.\n\nAnother git process seems to be running in this repository, e.g.\nan editor opened by 'git commit'. Please make sure all processes\nare terminated then try again. If it still fails,",
   "last_git_error_at": "2026-10-02T02:36:02.046872+00:00",
   "ministry": "공정거래위원회",
@@ -41804,7 +41806,7 @@
   "payload_law_id": "006355",
   "promulgation_date": "20260930",
   "relation_mode": "no_crawl",
-  "status": "collected",
+  "status": "done",
   "version_count": 1,
   "version_signature": "07040767671edada"
  },
@@ -41856,7 +41858,7 @@
  },
  "law:eflaw:006361": {
   "attempts": 0,
-  "collected_signature": null,
+  "collected_signature": "98ee5af49c85bb83",
   "content_hash": "9d5585638318275fa54c57875a005a3b692521ae45c344b1ce77a98acfefb006",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290565&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
@@ -41865,8 +41867,8 @@
   "doc_type": "법무부령",
   "enforcement_date": "20261002",
   "is_active": true,
-  "last_checked_at": "2026-10-02T02:35:54.861783+00:00",
-  "last_collected_at": "2026-10-02T02:35:59.262935+00:00",
+  "last_checked_at": "2026-10-07T08:49:47.995862+00:00",
+  "last_collected_at": "2026-10-07T08:49:55.383264+00:00",
   "last_git_error": "git add 공증서식의 사용 등에 관한 규칙/법률 실패(rc=128): fatal: Unable to create '/Users/huiju.ko/workspace/law_ai/temporal_law/data/git/DATA-LAW/.git/index.lock': File exists.\n\nAnother git process seems to be running in this repository, e.g.\nan editor opened by 'git commit'. Please make sure all processes\nare terminated then try again. If it still fails,",
   "last_git_error_at": "2026-10-02T02:36:06.165269+00:00",
   "ministry": "법무부",
@@ -41875,13 +41877,13 @@
   "payload_law_id": "006361",
   "promulgation_date": "20261001",
   "relation_mode": "no_crawl",
-  "status": "collected",
+  "status": "done",
   "version_count": 1,
   "version_signature": "98ee5af49c85bb83"
  },
  "law:eflaw:006363": {
   "attempts": 0,
-  "collected_signature": null,
+  "collected_signature": "5349e3e9d1929441",
   "content_hash": "25923cd66ccc336b6814432f8f8dbe7c23cafeb245b3a550ded8e3a5a1fe65a2",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290867&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
@@ -41890,8 +41892,8 @@
   "doc_type": "법무부령",
   "enforcement_date": "20261002",
   "is_active": true,
-  "last_checked_at": "2026-10-02T02:35:54.883988+00:00",
-  "last_collected_at": "2026-10-02T02:36:00.983742+00:00",
+  "last_checked_at": "2026-10-07T08:49:48.016733+00:00",
+  "last_collected_at": "2026-10-07T08:49:55.852116+00:00",
   "last_git_error": "git add 공증 서류의 보존에 관한 규칙/법률 실패(rc=128): fatal: Unable to create '/Users/huiju.ko/workspace/law_ai/temporal_law/data/git/DATA-LAW/.git/index.lock': File exists.\n\nAnother git process seems to be running in this repository, e.g.\nan editor opened by 'git commit'. Please make sure all processes\nare terminated then try again. If it still fails,",
   "last_git_error_at": "2026-10-02T02:36:03.607097+00:00",
   "ministry": "법무부",
@@ -41900,7 +41902,7 @@
   "payload_law_id": "006363",
   "promulgation_date": "20261001",
   "relation_mode": "no_crawl",
-  "status": "collected",
+  "status": "done",
   "version_count": 1,
   "version_signature": "5349e3e9d1929441"
  },
@@ -42964,8 +42966,8 @@
  },
  "law:eflaw:006603": {
   "attempts": 0,
-  "collected_signature": "8518993c6d221c4e",
-  "content_hash": "e640ef8df92df108ae3719c193baa725de907523833486e703c70e4fc3ea7ffb",
+  "collected_signature": "ee09e7d9c8b62c1d",
+  "content_hash": "f2340a3f527aba548ca56c1b75f4ea49f08737b248d284d4f694a0d1067f8481",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=282611&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "006603",
@@ -42973,8 +42975,8 @@
   "doc_type": "재정경제부령",
   "enforcement_date": "20260102",
   "is_active": true,
-  "last_checked_at": "2026-09-15T02:06:53.538480+00:00",
-  "last_collected_at": "2026-09-15T02:06:57.433144+00:00",
+  "last_checked_at": "2026-10-07T08:49:48.036925+00:00",
+  "last_collected_at": "2026-10-07T08:49:58.577132+00:00",
   "ministry": "재정경제부",
   "mst": "282611",
   "name": "국가채권 관리법 시행규칙",
@@ -42983,7 +42985,7 @@
   "relation_mode": "no_crawl",
   "status": "done",
   "version_count": 1,
-  "version_signature": "8518993c6d221c4e"
+  "version_signature": "ee09e7d9c8b62c1d"
  },
  "law:eflaw:006605": {
   "attempts": 0,
@@ -43470,7 +43472,7 @@
  },
  "law:eflaw:006737": {
   "attempts": 0,
-  "collected_signature": null,
+  "collected_signature": "61766ba6920f2369",
   "content_hash": "8a9943d2e51ea0e135624aa0f3f8c70559466f1cc68fdc58763f8c95091b36f3",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290957&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
@@ -43479,8 +43481,8 @@
   "doc_type": "국방부령",
   "enforcement_date": "20261002",
   "is_active": true,
-  "last_checked_at": "2026-10-02T02:35:54.967482+00:00",
-  "last_collected_at": "2026-10-02T02:36:00.477992+00:00",
+  "last_checked_at": "2026-10-07T08:49:48.057251+00:00",
+  "last_collected_at": "2026-10-07T08:49:54.925901+00:00",
   "last_git_error": "git add 국방부와 그 소속기관 직제/시행규칙 실패(rc=128): fatal: Unable to create '/Users/huiju.ko/workspace/law_ai/temporal_law/data/git/DATA-LAW/.git/index.lock': File exists.\n\nAnother git process seems to be running in this repository, e.g.\nan editor opened by 'git commit'. Please make sure all processes\nare terminated then try again. If it still fails,",
   "last_git_error_at": "2026-10-02T02:36:03.625800+00:00",
   "ministry": "국방부",
@@ -43489,7 +43491,7 @@
   "payload_law_id": "006737",
   "promulgation_date": "20261002",
   "relation_mode": "no_crawl",
-  "status": "collected",
+  "status": "done",
   "version_count": 1,
   "version_signature": "61766ba6920f2369"
  },
@@ -43656,7 +43658,7 @@
  },
  "law:eflaw:006766": {
   "attempts": 0,
-  "collected_signature": null,
+  "collected_signature": "ae2c3f5e02e42dab",
   "content_hash": "c3b964a1af89f5bedee7238cc031d25f649a06b7624e71fb2e4b6a2a734da624",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291055&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
@@ -43665,8 +43667,8 @@
   "doc_type": "법무부령",
   "enforcement_date": "20261002",
   "is_active": true,
-  "last_checked_at": "2026-10-02T02:35:55.006603+00:00",
-  "last_collected_at": "2026-10-02T02:36:00.087510+00:00",
+  "last_checked_at": "2026-10-07T08:49:48.078789+00:00",
+  "last_collected_at": "2026-10-07T08:49:54.048791+00:00",
   "last_git_error": "git add 국적법/시행규칙 실패(rc=128): fatal: Unable to create '/Users/huiju.ko/workspace/law_ai/temporal_law/data/git/DATA-LAW/.git/index.lock': File exists.\n\nAnother git process seems to be running in this repository, e.g.\nan editor opened by 'git commit'. Please make sure all processes\nare terminated then try again. If it still fails,",
   "last_git_error_at": "2026-10-02T02:36:03.589519+00:00",
   "ministry": "법무부",
@@ -43675,7 +43677,7 @@
   "payload_law_id": "006766",
   "promulgation_date": "20261002",
   "relation_mode": "no_crawl",
-  "status": "collected",
+  "status": "done",
   "version_count": 1,
   "version_signature": "ae2c3f5e02e42dab"
  },
@@ -43819,8 +43821,8 @@
  },
  "law:eflaw:006796": {
   "attempts": 0,
-  "collected_signature": null,
-  "content_hash": "190c4c670072421b417499bead7b66d0beaf338dd7df35423a6f6db9e901866b",
+  "collected_signature": "46a571624391c59c",
+  "content_hash": "8d8da55c6844652993cf917ea7ff7a04c90196d1ee98c22c7f90371c9cd3e714",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290921&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "006796",
@@ -43828,8 +43830,8 @@
   "doc_type": "국방부령",
   "enforcement_date": "20261002",
   "is_active": true,
-  "last_checked_at": "2026-10-02T02:35:55.027527+00:00",
-  "last_collected_at": "2026-10-02T02:36:01.587218+00:00",
+  "last_checked_at": "2026-10-07T08:49:48.100774+00:00",
+  "last_collected_at": "2026-10-07T08:49:56.681980+00:00",
   "last_git_error": "git add 군검찰 사건사무규칙/법률 실패(rc=128): fatal: Unable to create '/Users/huiju.ko/workspace/law_ai/temporal_law/data/git/DATA-LAW/.git/index.lock': File exists.\n\nAnother git process seems to be running in this repository, e.g.\nan editor opened by 'git commit'. Please make sure all processes\nare terminated then try again. If it still fails,",
   "last_git_error_at": "2026-10-02T02:36:19.448799+00:00",
   "ministry": "국방부",
@@ -43838,7 +43840,7 @@
   "payload_law_id": "006796",
   "promulgation_date": "20261002",
   "relation_mode": "no_crawl",
-  "status": "collected",
+  "status": "done",
   "version_count": 1,
   "version_signature": "46a571624391c59c"
  },
@@ -44051,8 +44053,8 @@
  },
  "law:eflaw:006833": {
   "attempts": 0,
-  "collected_signature": null,
-  "content_hash": "9226a450a8d82fb6583db20c30bec0ec6f5653d9171baa00cacc083aaa616efa",
+  "collected_signature": "c947ab4d44295a35",
+  "content_hash": "2c053dd80d3ad9694ceb81b6d4516d8832eac688a26ee4aac5e2d22979bfa38f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290917&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "006833",
@@ -44060,8 +44062,8 @@
   "doc_type": "국방부령",
   "enforcement_date": "20261002",
   "is_active": true,
-  "last_checked_at": "2026-10-02T02:35:55.047072+00:00",
-  "last_collected_at": "2026-10-02T02:36:00.311955+00:00",
+  "last_checked_at": "2026-10-07T08:49:48.124142+00:00",
+  "last_collected_at": "2026-10-07T08:49:55.425788+00:00",
   "last_git_error": "git add 군인연금법/시행규칙 실패(rc=128): fatal: Unable to create '/Users/huiju.ko/workspace/law_ai/temporal_law/data/git/DATA-LAW/.git/index.lock': File exists.\n\nAnother git process seems to be running in this repository, e.g.\nan editor opened by 'git commit'. Please make sure all processes\nare terminated then try again. If it still fails,",
   "last_git_error_at": "2026-10-02T02:36:04.485665+00:00",
   "ministry": "국방부",
@@ -44070,7 +44072,7 @@
   "payload_law_id": "006833",
   "promulgation_date": "20261002",
   "relation_mode": "no_crawl",
-  "status": "collected",
+  "status": "done",
   "version_count": 1,
   "version_signature": "c947ab4d44295a35"
  },
@@ -44582,7 +44584,7 @@
  },
  "law:eflaw:006909": {
   "attempts": 0,
-  "collected_signature": null,
+  "collected_signature": "ee1d93917e723933",
   "content_hash": "48d56e170f6d3f3728390d53af886eb8de5701e4f4a5aa2695943f5d1e792a35",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288939&type=HTML&mobileYn=&efYd=20260918",
   "doc_domain": "law",
@@ -44591,8 +44593,8 @@
   "doc_type": "고용노동부령",
   "enforcement_date": "20260918",
   "is_active": true,
-  "last_checked_at": "2026-10-02T02:35:55.067602+00:00",
-  "last_collected_at": "2026-10-02T02:36:00.274518+00:00",
+  "last_checked_at": "2026-10-07T08:49:48.146105+00:00",
+  "last_collected_at": "2026-10-07T08:50:01.422381+00:00",
   "last_git_error": "git add 남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/시행규칙 실패(rc=128): fatal: Unable to create '/Users/huiju.ko/workspace/law_ai/temporal_law/data/git/DATA-LAW/.git/index.lock': File exists.\n\nAnother git process seems to be running in this repository, e.g.\nan editor opened by 'git commit'. Please make sure all processes\nare terminated then try again. If it still fails,",
   "last_git_error_at": "2026-10-02T02:36:03.644120+00:00",
   "ministry": "고용노동부,성평등가족부",
@@ -44601,7 +44603,7 @@
   "payload_law_id": "006909",
   "promulgation_date": "20260819",
   "relation_mode": "no_crawl",
-  "status": "collected",
+  "status": "done",
   "version_count": 1,
   "version_signature": "ee1d93917e723933"
  },
@@ -46562,8 +46564,8 @@
  },
  "law:eflaw:007211": {
   "attempts": 0,
-  "collected_signature": null,
-  "content_hash": "f240fd9164fda0527e4b876b5bb56a0fc1a4ba8595fc6170f9676da45efef229",
+  "collected_signature": "4257cce608dd88c7",
+  "content_hash": "9f00ec7f8c6656f10de5937fc7896e6bae396085e31fcd867f4f9c9f4ec3ba95",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290847&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "007211",
@@ -46571,8 +46573,8 @@
   "doc_type": "법무부령",
   "enforcement_date": "20261002",
   "is_active": true,
-  "last_checked_at": "2026-10-02T02:36:30.252358+00:00",
-  "last_collected_at": "2026-10-02T02:36:35.621498+00:00",
+  "last_checked_at": "2026-10-07T08:49:48.167878+00:00",
+  "last_collected_at": "2026-10-07T08:49:54.025743+00:00",
   "last_git_error": "git add 배타적경제수역에서의외국인어업제한위반선박등에대한사법절차에관한규칙/법률 실패(rc=128): fatal: Unable to create '/Users/huiju.ko/workspace/law_ai/temporal_law/data/git/DATA-LAW/.git/index.lock': File exists.\n\nAnother git process seems to be running in this repository, e.g.\nan editor opened by 'git commit'. Please make sure all processes\nare terminated then try again. If it still fails,",
   "last_git_error_at": "2026-10-02T02:36:39.365940+00:00",
   "ministry": "법무부",
@@ -46581,7 +46583,7 @@
   "payload_law_id": "007211",
   "promulgation_date": "20261001",
   "relation_mode": "no_crawl",
-  "status": "collected",
+  "status": "done",
   "version_count": 1,
   "version_signature": "4257cce608dd88c7"
  },
@@ -46771,7 +46773,7 @@
  },
  "law:eflaw:007233": {
   "attempts": 0,
-  "collected_signature": null,
+  "collected_signature": "cf89da3a967b3312",
   "content_hash": "eed74461732218226e80a3d7610946d83ad55f286027223e919a25b7ae6e994c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290897&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
@@ -46780,8 +46782,8 @@
   "doc_type": "총리령",
   "enforcement_date": "20261002",
   "is_active": true,
-  "last_checked_at": "2026-10-02T02:36:30.301841+00:00",
-  "last_collected_at": "2026-10-02T02:36:37.671430+00:00",
+  "last_checked_at": "2026-10-07T08:49:47.568362+00:00",
+  "last_collected_at": "2026-10-07T08:49:54.345318+00:00",
   "last_git_error": "git add 법제처 직제/시행규칙 실패(rc=128): fatal: Unable to create '/Users/huiju.ko/workspace/law_ai/temporal_law/data/git/DATA-LAW/.git/index.lock': File exists.\n\nAnother git process seems to be running in this repository, e.g.\nan editor opened by 'git commit'. Please make sure all processes\nare terminated then try again. If it still fails,",
   "last_git_error_at": "2026-10-02T02:36:42.233839+00:00",
   "ministry": "법제처",
@@ -46790,7 +46792,7 @@
   "payload_law_id": "007233",
   "promulgation_date": "20261002",
   "relation_mode": "no_crawl",
-  "status": "collected",
+  "status": "done",
   "version_count": 1,
   "version_signature": "cf89da3a967b3312"
  },
@@ -52158,7 +52160,7 @@
   "promulgation_date": "20261002",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "7695db5f1104c4fd"
  },
  "law:eflaw:008233": {
@@ -55586,7 +55588,7 @@
   "promulgation_date": "20251230",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "8afdf51d62699052"
  },
  "law:eflaw:009146": {
@@ -56161,7 +56163,7 @@
   "promulgation_date": "20260331",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "2a0680746008df51"
  },
  "law:eflaw:009202": {
@@ -56899,7 +56901,7 @@
   "promulgation_date": "20260929",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "7a97cc7cd3ad7fc4"
  },
  "law:eflaw:009258": {
@@ -58486,7 +58488,7 @@
   "promulgation_date": "20260804",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "5e4a02a0ee8c911a"
  },
  "law:eflaw:009368": {
@@ -58992,7 +58994,7 @@
   "promulgation_date": "20260922",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 3,
   "version_signature": "d2eefb96909770d0"
  },
  "law:eflaw:009413": {
@@ -59820,7 +59822,7 @@
   "promulgation_date": "20260317",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "8b2bbf844eeecf10"
  },
  "law:eflaw:009513": {
@@ -61660,7 +61662,7 @@
   "promulgation_date": "20260317",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 3,
   "version_signature": "bf7387bafb7405bd"
  },
  "law:eflaw:009642": {
@@ -62051,7 +62053,7 @@
   "promulgation_date": "20260331",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "e00db0709beda39a"
  },
  "law:eflaw:009678": {
@@ -62327,7 +62329,7 @@
   "promulgation_date": "20260929",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "b62ac7a0a8590801"
  },
  "law:eflaw:009695": {
@@ -63270,7 +63272,7 @@
   "promulgation_date": "20260804",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 3,
   "version_signature": "3e89a859b426221a"
  },
  "law:eflaw:009762": {
@@ -63408,7 +63410,7 @@
   "promulgation_date": "20260929",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 5,
   "version_signature": "c1b7d0e4ccf08e7d"
  },
  "law:eflaw:009770": {
@@ -65018,7 +65020,7 @@
   "promulgation_date": "20260324",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "41eb564c62d56d87"
  },
  "law:eflaw:009931": {
@@ -65892,7 +65894,7 @@
   "promulgation_date": "20260317",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "383f17f59ceb62c4"
  },
  "law:eflaw:010000": {
@@ -66007,7 +66009,7 @@
   "promulgation_date": "20260331",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 3,
   "version_signature": "22796372fbb0f58a"
  },
  "law:eflaw:010007": {
@@ -67617,7 +67619,7 @@
   "promulgation_date": "20260804",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "cc7bd64780b6e28a"
  },
  "law:eflaw:010109": {
@@ -68147,7 +68149,7 @@
   "promulgation_date": "20260317",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 17,
   "version_signature": "aad47169c69279fd"
  },
  "law:eflaw:010163": {
@@ -68216,7 +68218,7 @@
   "promulgation_date": "20260929",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 3,
   "version_signature": "3e38e94515ee9025"
  },
  "law:eflaw:010166": {
@@ -68956,7 +68958,7 @@
   "promulgation_date": "20260929",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "806c843524e637df"
  },
  "law:eflaw:010200": {
@@ -70612,8 +70614,8 @@
   "promulgation_date": "20231212",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "9d8291329438d919"
+  "version_count": 2,
+  "version_signature": "9756b5ec36b9ab3a"
  },
  "law:eflaw:010311": {
   "attempts": 0,
@@ -72614,7 +72616,7 @@
   "promulgation_date": "20260317",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "717eb28dcad9390a"
  },
  "law:eflaw:010452": {
@@ -73512,7 +73514,7 @@
   "promulgation_date": "20260804",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 4,
   "version_signature": "2a6f42d31b5ca5f7"
  },
  "law:eflaw:010514": {
@@ -74754,7 +74756,7 @@
   "promulgation_date": "20260324",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "fe525f3c6ca79118"
  },
  "law:eflaw:010593": {
@@ -75030,7 +75032,7 @@
   "promulgation_date": "20260331",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "7cc5d4c72083906f"
  },
  "law:eflaw:010608": {
@@ -75405,24 +75407,24 @@
   "attempts": 0,
   "collected_signature": "843a482340205f31",
   "content_hash": "53d90c61ad4ce02d4a1dd1a8ea60a669e049e0d7603d32d368bd2e78045402e1",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287955&type=HTML&mobileYn=&efYd=20260828",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291059&type=HTML&mobileYn=&efYd=20261006",
   "doc_domain": "law",
   "doc_id": "010636",
   "doc_target": "eflaw",
   "doc_type": "해양수산부령",
-  "enforcement_date": "20260828",
+  "enforcement_date": "20261006",
   "is_active": true,
   "last_checked_at": "2026-09-15T04:19:16.900306+00:00",
   "last_collected_at": "2026-09-15T04:19:35.307055+00:00",
   "ministry": "해양수산부",
-  "mst": "287955",
+  "mst": "291059",
   "name": "해양환경관리법 시행규칙",
   "payload_law_id": "010636",
-  "promulgation_date": "20260701",
+  "promulgation_date": "20261006",
   "relation_mode": "no_crawl",
   "status": "done",
   "version_count": 1,
-  "version_signature": "843a482340205f31"
+  "version_signature": "9c208a686c949371"
  },
  "law:eflaw:010637": {
   "attempts": 0,
@@ -76641,7 +76643,7 @@
   "promulgation_date": "20260324",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "2eb1fbed6faf71fa"
  },
  "law:eflaw:010726": {
@@ -76756,7 +76758,7 @@
   "promulgation_date": "20260317",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "6ed59a1b35f2849a"
  },
  "law:eflaw:010733": {
@@ -78527,7 +78529,7 @@
   "promulgation_date": "20260721",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "334942cedac67500"
  },
  "law:eflaw:010864": {
@@ -78596,7 +78598,7 @@
   "promulgation_date": "20260923",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "a61ad30defcefaab"
  },
  "law:eflaw:010869": {
@@ -79930,7 +79932,7 @@
   "promulgation_date": "20260317",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 3,
   "version_signature": "eb2bc88c084b09a5"
  },
  "law:eflaw:010974": {
@@ -80068,7 +80070,7 @@
   "promulgation_date": "20260305",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 4,
   "version_signature": "0c80eec522cbaa0e"
  },
  "law:eflaw:010999": {
@@ -80091,7 +80093,7 @@
   "promulgation_date": "20260804",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "f9a8a4fd6bde2ae3"
  },
  "law:eflaw:011006": {
@@ -81862,7 +81864,7 @@
   "promulgation_date": "20260929",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "9111c6b163d76175"
  },
  "law:eflaw:011140": {
@@ -82759,7 +82761,7 @@
   "promulgation_date": "20260317",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "6e3bf9a1ba88cc31"
  },
  "law:eflaw:011187": {
@@ -84898,7 +84900,7 @@
   "promulgation_date": "20241220",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "945204930d5adcb3"
  },
  "law:eflaw:011351": {
@@ -85013,7 +85015,7 @@
   "promulgation_date": "20260331",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 6,
   "version_signature": "6397c51dcde7dbb2"
  },
  "law:eflaw:011359": {
@@ -85243,7 +85245,7 @@
   "promulgation_date": "20251230",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "033d8c93c408e4eb"
  },
  "law:eflaw:011371": {
@@ -85335,7 +85337,7 @@
   "promulgation_date": "20240920",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 3,
   "version_signature": "283d32ac31a49c82"
  },
  "law:eflaw:011377": {
@@ -88233,7 +88235,7 @@
   "promulgation_date": "20260317",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "d3b34fc8f9f3152a"
  },
  "law:eflaw:011558": {
@@ -90625,7 +90627,7 @@
   "promulgation_date": "20260428",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "0775af5d120f3321"
  },
  "law:eflaw:011713": {
@@ -90786,7 +90788,7 @@
   "promulgation_date": "20260317",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 3,
   "version_signature": "aa5c57e946ebd18b"
  },
  "law:eflaw:011727": {
@@ -94330,7 +94332,7 @@
   "promulgation_date": "20260929",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 4,
   "version_signature": "b342aa75fca7d454"
  },
  "law:eflaw:012048": {
@@ -94376,7 +94378,7 @@
   "promulgation_date": "20250422",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 3,
   "version_signature": "353981b001b30e6f"
  },
  "law:eflaw:012051": {
@@ -94445,7 +94447,7 @@
   "promulgation_date": "20251230",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "aa1853f093c1010d"
  },
  "law:eflaw:012054": {
@@ -94797,24 +94799,24 @@
   "attempts": 0,
   "collected_signature": "43f5a65f9c56d27a",
   "content_hash": "6f779c9d6536c1b665e8f1a23aac203cdeaa72e39caaa982f22df1a7dcd84c9c",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=270063&type=HTML&mobileYn=&efYd=20260326",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290831&type=HTML&mobileYn=&efYd=20261006",
   "doc_domain": "law",
   "doc_id": "012078",
   "doc_target": "eflaw",
   "doc_type": "대통령령",
-  "enforcement_date": "20260326",
+  "enforcement_date": "20261006",
   "is_active": true,
   "last_checked_at": "2026-09-15T01:49:33.763898+00:00",
   "last_collected_at": "2026-09-15T01:49:52.534576+00:00",
   "ministry": "국토교통부",
-  "mst": "270063",
+  "mst": "290831",
   "name": "건축서비스산업 진흥법 시행령",
   "payload_law_id": "012078",
-  "promulgation_date": "20250325",
+  "promulgation_date": "20261006",
   "relation_mode": "no_crawl",
   "status": "done",
   "version_count": 2,
-  "version_signature": "43f5a65f9c56d27a"
+  "version_signature": "651a082f0d0677f1"
  },
  "law:eflaw:012079": {
   "attempts": 0,
@@ -96078,7 +96080,7 @@
   "promulgation_date": "20260929",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "cc729d7a472f5fdc"
  },
  "law:eflaw:012169": {
@@ -96124,7 +96126,7 @@
   "promulgation_date": "20260929",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "5282c15e87ed2ef2"
  },
  "law:eflaw:012177": {
@@ -97205,7 +97207,7 @@
   "promulgation_date": "20231031",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "193cc56921f10186"
  },
  "law:eflaw:012268": {
@@ -97987,7 +97989,7 @@
   "promulgation_date": "20240123",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "d1efc1a07a22bb9b"
  },
  "law:eflaw:012313": {
@@ -99852,7 +99854,7 @@
   "promulgation_date": "20260915",
   "relation_mode": "no_crawl",
   "status": "collected",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "21ba621baf94a1fe"
  },
  "law:eflaw:012463": {
@@ -100427,7 +100429,7 @@
   "promulgation_date": "20260930",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "0f2258569d841399"
  },
  "law:eflaw:012502": {
@@ -100795,7 +100797,7 @@
   "promulgation_date": "20260616",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 5,
   "version_signature": "5b53115eb46d017b"
  },
  "law:eflaw:012525": {
@@ -102777,7 +102779,7 @@
   "promulgation_date": "20250131",
   "relation_mode": "no_crawl",
   "status": "collected",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "ba583064f01eec11"
  },
  "law:eflaw:012715": {
@@ -104092,7 +104094,7 @@
   "promulgation_date": "20251001",
   "relation_mode": "no_crawl",
   "status": "collected",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "27ba860a0f48f8be"
  },
  "law:eflaw:012901": {
@@ -104462,7 +104464,7 @@
   "promulgation_date": "20251001",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "efd6766122e05837"
  },
  "law:eflaw:012971": {
@@ -105499,7 +105501,7 @@
   "promulgation_date": "20260929",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "4da3a9148f793abb"
  },
  "law:eflaw:013100": {
@@ -106676,7 +106678,7 @@
   "promulgation_date": "20260804",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "46d29f0133cb8ea6"
  },
  "law:eflaw:013220": {
@@ -107464,7 +107466,7 @@
   "promulgation_date": "20260317",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "30658abf49f43256"
  },
  "law:eflaw:013481": {
@@ -108204,7 +108206,7 @@
   "promulgation_date": "20260331",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 3,
   "version_signature": "99c6bca001217229"
  },
  "law:eflaw:013575": {
@@ -108227,7 +108229,7 @@
   "promulgation_date": "20251230",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "fa97ad96a8e2dad3"
  },
  "law:eflaw:013588": {
@@ -109013,7 +109015,7 @@
   "promulgation_date": "20260929",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "7937c58e984de077"
  },
  "law:eflaw:013651": {
@@ -109105,7 +109107,7 @@
   "promulgation_date": "20260929",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "76b6c6c8d6dec1f5"
  },
  "law:eflaw:013668": {
@@ -109174,7 +109176,7 @@
   "promulgation_date": "20260317",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 3,
   "version_signature": "47386012465ad533"
  },
  "law:eflaw:013671": {
@@ -109197,7 +109199,7 @@
   "promulgation_date": "20251202",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "5b1211ac34d92997"
  },
  "law:eflaw:013672": {
@@ -109289,7 +109291,7 @@
   "promulgation_date": "20251230",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "01f715729ee2a22c"
  },
  "law:eflaw:013682": {
@@ -109312,7 +109314,7 @@
   "promulgation_date": "20230816",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 3,
   "version_signature": "9feca138637db773"
  },
  "law:eflaw:013683": {
@@ -109335,7 +109337,7 @@
   "promulgation_date": "20231031",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "cdb17635291e45bb"
  },
  "law:eflaw:013685": {
@@ -110140,7 +110142,7 @@
   "promulgation_date": "20260918",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "64ef116a953a7a3c"
  },
  "law:eflaw:013753": {
@@ -110508,7 +110510,7 @@
   "promulgation_date": "20260804",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "a03d3c4baa8c9d32"
  },
  "law:eflaw:013779": {
@@ -111865,7 +111867,7 @@
   "promulgation_date": "20260929",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 3,
   "version_signature": "53e26f2cbe7a4224"
  },
  "law:eflaw:013872": {
@@ -114120,7 +114122,7 @@
   "promulgation_date": "20260831",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 4,
   "version_signature": "6ad1641d010fe605"
  },
  "law:eflaw:014060": {
@@ -114373,7 +114375,7 @@
   "promulgation_date": "20260929",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 3,
   "version_signature": "26d75be96db60297"
  },
  "law:eflaw:014071": {
@@ -114396,7 +114398,7 @@
   "promulgation_date": "20260929",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "4b8a16afe1548919"
  },
  "law:eflaw:014073": {
@@ -115684,7 +115686,7 @@
   "promulgation_date": "20260317",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 5,
   "version_signature": "1df6f96124be3e5f"
  },
  "law:eflaw:014155": {
@@ -117225,7 +117227,7 @@
   "promulgation_date": "20260922",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 3,
   "version_signature": "d08a85fdea42f59d"
  },
  "law:eflaw:014256": {
@@ -119042,7 +119044,7 @@
   "promulgation_date": "20260317",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 4,
   "version_signature": "018fdeb5ec84e9f6"
  },
  "law:eflaw:014392": {
@@ -119640,7 +119642,7 @@
   "promulgation_date": "20260324",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "4352ed89efe37014"
  },
  "law:eflaw:014451": {
@@ -119778,7 +119780,7 @@
   "promulgation_date": "20260317",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "ec5aec8792688654"
  },
  "law:eflaw:014458": {
@@ -120491,7 +120493,7 @@
   "promulgation_date": "20251111",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 4,
   "version_signature": "cf6aca5f94fa74c4"
  },
  "law:eflaw:014516": {
@@ -121779,7 +121781,7 @@
   "promulgation_date": "20240130",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "cbbdb747466c8a42"
  },
  "law:eflaw:014610": {
@@ -121848,7 +121850,7 @@
   "promulgation_date": "20260317",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "68504780145fe2c2"
  },
  "law:eflaw:014614": {
@@ -122890,24 +122892,24 @@
   "attempts": 0,
   "collected_signature": "3e8daf39136a50cd",
   "content_hash": "e520d608a3817b9ebab5a4639ecc92814abe1181cb9c9e1ecbf6898f8de1678f",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287051&type=HTML&mobileYn=&efYd=20260624",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290555&type=HTML&mobileYn=&efYd=20261006",
   "doc_domain": "law",
   "doc_id": "014674",
   "doc_target": "eflaw",
   "doc_type": "대통령령",
-  "enforcement_date": "20260624",
+  "enforcement_date": "20261006",
   "is_active": true,
   "last_checked_at": "2026-09-15T01:51:26.289503+00:00",
   "last_collected_at": "2026-09-15T01:51:35.761419+00:00",
   "ministry": "재정경제부",
-  "mst": "287051",
+  "mst": "290555",
   "name": "경제안보를 위한 공급망 안정화 지원 기본법 시행령",
   "payload_law_id": "014674",
-  "promulgation_date": "20260623",
+  "promulgation_date": "20261006",
   "relation_mode": "no_crawl",
   "status": "done",
   "version_count": 1,
-  "version_signature": "3e8daf39136a50cd"
+  "version_signature": "6311d146381f975f"
  },
  "law:eflaw:014675": {
   "attempts": 0,
@@ -123688,7 +123690,7 @@
   "promulgation_date": "20251001",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "b1e58b223dc3b689"
  },
  "law:eflaw:014723": {
@@ -125530,7 +125532,7 @@
   "promulgation_date": "20260317",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "3a42086447cfeb3a"
  },
  "law:eflaw:014861": {
@@ -126566,7 +126568,7 @@
   "promulgation_date": "20260331",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "4f63741d794f3122"
  },
  "law:eflaw:014932": {
@@ -128268,7 +128270,7 @@
   "promulgation_date": "20260908",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 6,
   "version_signature": "f6a505bb08ee5640"
  },
  "law:eflaw:015066": {
@@ -128521,7 +128523,7 @@
   "promulgation_date": "20260929",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "e9105df4fb1af46b"
  },
  "law:eflaw:015091": {
@@ -128705,7 +128707,7 @@
   "promulgation_date": "20260407",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "445538684d70b502"
  },
  "law:eflaw:015102": {
@@ -130731,7 +130733,7 @@
   "promulgation_date": "20260929",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "99cb91b59d8bcc0a"
  },
  "law:eflaw:015225": {
@@ -130779,5 +130781,21 @@
   "status": "done",
   "version_count": 1,
   "version_signature": "5cea733c1f3bbe80"
+ },
+ "law:eflaw:015231": {
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291031&type=HTML&mobileYn=&efYd=20261002",
+  "doc_domain": "law",
+  "doc_id": "015231",
+  "doc_target": "eflaw",
+  "doc_type": "행정안전부령",
+  "enforcement_date": "20261002",
+  "is_active": true,
+  "ministry": "행정안전부",
+  "mst": "291031",
+  "name": "중대범죄수사청 사건사무규칙",
+  "promulgation_date": "20261002",
+  "status": "pending",
+  "version_count": 1,
+  "version_signature": "aadf7bba092735d8"
  }
 }
