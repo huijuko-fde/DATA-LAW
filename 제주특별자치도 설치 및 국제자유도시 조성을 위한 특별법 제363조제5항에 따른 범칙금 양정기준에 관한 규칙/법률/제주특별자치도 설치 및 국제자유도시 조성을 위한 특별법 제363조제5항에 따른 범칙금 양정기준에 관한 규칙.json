@@ -142,10 +142,11 @@
       ],
       "images": [],
       "provision_id": "law:제주특별자치도설치및국제자유도시조성을위한특별법제363조제5항에따른범칙금양정기준에관한규칙#BYL0000",
-      "filename": "별표0_범칙금의양정기준[제2조관련].pdf",
+      "filename": "별표0_범칙금의양정기준[제2조관련].hwp",
       "file_dir": "별표",
-      "local_path": "별표/별표0_범칙금의양정기준[제2조관련].pdf",
-      "file_store_url": ""
+      "local_path": "별표/별표0_범칙금의양정기준[제2조관련].hwp",
+      "file_store_url": "",
+      "download_status": "available"
     }
   ],
   "ordinance_delegations": [],
@@ -176,5 +177,11 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법 제363조제5항에 따른 범칙금 양정기준에 관한 규칙/법률/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법 제363조제5항에 따른 범칙금 양정기준에 관한 규칙.json"
+  "git_path": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법 제363조제5항에 따른 범칙금 양정기준에 관한 규칙/법률/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법 제363조제5항에 따른 범칙금 양정기준에 관한 규칙.json",
+  "collection_summary": {
+    "body_saved": true,
+    "completion_status": "complete",
+    "unavailable_sources": [],
+    "completed_at": "2026-10-08T08:29:37.916832+00:00"
+  }
 }
