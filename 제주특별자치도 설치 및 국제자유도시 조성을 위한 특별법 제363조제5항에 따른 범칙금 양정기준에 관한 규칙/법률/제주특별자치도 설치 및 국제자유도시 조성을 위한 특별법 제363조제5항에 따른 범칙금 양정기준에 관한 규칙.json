@@ -131,13 +131,18 @@
           "type": "hwp",
           "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=6508958",
           "name": "범칙금의양정기준[제2조관련]",
-          "file_store_url": ""
+          "file_store_url": "",
+          "preferred": true
         },
         {
           "type": "pdf",
           "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=6508959",
           "name": "범칙금의양정기준[제2조관련]",
-          "file_store_url": ""
+          "file_store_url": "",
+          "download_status": "source_unavailable",
+          "download_error": "provider_empty_download_after_3_attempts",
+          "source_checked_at": "2026-10-08T08:29:37.916832+00:00",
+          "preferred": false
         }
       ],
       "images": [],
@@ -180,8 +185,14 @@
   "git_path": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법 제363조제5항에 따른 범칙금 양정기준에 관한 규칙/법률/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법 제363조제5항에 따른 범칙금 양정기준에 관한 규칙.json",
   "collection_summary": {
     "body_saved": true,
-    "completion_status": "complete",
-    "unavailable_sources": [],
+    "completion_status": "complete_with_source_gaps",
+    "unavailable_sources": [
+      {
+        "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=6508959",
+        "reason": "provider_empty_download_after_3_attempts",
+        "checked_at": "2026-10-08T08:29:37.916832+00:00"
+      }
+    ],
     "completed_at": "2026-10-08T08:29:37.916832+00:00"
   }
 }
