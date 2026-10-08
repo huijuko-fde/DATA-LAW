@@ -148,13 +148,18 @@
           "type": "hwp",
           "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=6508820",
           "name": "남북회담대표·대북특별사절및수행원이착용하는표지[제2조제4항관련]",
-          "file_store_url": ""
+          "file_store_url": "",
+          "preferred": true
         },
         {
           "type": "pdf",
           "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=6508821",
           "name": "남북회담대표·대북특별사절및수행원이착용하는표지[제2조제4항관련]",
-          "file_store_url": ""
+          "file_store_url": "",
+          "download_status": "source_unavailable",
+          "download_error": "provider_empty_download_after_3_attempts",
+          "source_checked_at": "2026-10-08T08:29:37.916832+00:00",
+          "preferred": false
         }
       ],
       "images": [],
@@ -180,13 +185,18 @@
           "type": "hwp",
           "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=6508822",
           "name": "임명장",
-          "file_store_url": ""
+          "file_store_url": "",
+          "preferred": true
         },
         {
           "type": "pdf",
           "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=6508823",
           "name": "임명장",
-          "file_store_url": ""
+          "file_store_url": "",
+          "download_status": "source_unavailable",
+          "download_error": "provider_empty_download_after_3_attempts",
+          "source_checked_at": "2026-10-08T08:29:37.916832+00:00",
+          "preferred": false
         }
       ],
       "images": [],
@@ -212,13 +222,18 @@
           "type": "hwp",
           "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=6508824",
           "name": "임명장",
-          "file_store_url": ""
+          "file_store_url": "",
+          "preferred": true
         },
         {
           "type": "pdf",
           "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=6508825",
           "name": "임명장",
-          "file_store_url": ""
+          "file_store_url": "",
+          "download_status": "source_unavailable",
+          "download_error": "provider_empty_download_after_3_attempts",
+          "source_checked_at": "2026-10-08T08:29:37.916832+00:00",
+          "preferred": false
         }
       ],
       "images": [],
@@ -244,13 +259,18 @@
           "type": "hwp",
           "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=6508826",
           "name": "임명장",
-          "file_store_url": ""
+          "file_store_url": "",
+          "preferred": true
         },
         {
           "type": "pdf",
           "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=6508827",
           "name": "임명장",
-          "file_store_url": ""
+          "file_store_url": "",
+          "download_status": "source_unavailable",
+          "download_error": "provider_empty_download_after_3_attempts",
+          "source_checked_at": "2026-10-08T08:29:37.916832+00:00",
+          "preferred": false
         }
       ],
       "images": [],
@@ -276,13 +296,18 @@
           "type": "hwp",
           "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=6508828",
           "name": "임명장",
-          "file_store_url": ""
+          "file_store_url": "",
+          "preferred": true
         },
         {
           "type": "pdf",
           "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=6508829",
           "name": "임명장",
-          "file_store_url": ""
+          "file_store_url": "",
+          "download_status": "source_unavailable",
+          "download_error": "provider_empty_download_after_3_attempts",
+          "source_checked_at": "2026-10-08T08:29:37.916832+00:00",
+          "preferred": false
         }
       ],
       "images": [],
@@ -325,8 +350,34 @@
   "git_path": "남북관계 발전에 관한 법률/시행규칙/남북관계 발전에 관한 법률 시행규칙.json",
   "collection_summary": {
     "body_saved": true,
-    "completion_status": "complete",
-    "unavailable_sources": [],
+    "completion_status": "complete_with_source_gaps",
+    "unavailable_sources": [
+      {
+        "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=6508821",
+        "reason": "provider_empty_download_after_3_attempts",
+        "checked_at": "2026-10-08T08:29:37.916832+00:00"
+      },
+      {
+        "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=6508823",
+        "reason": "provider_empty_download_after_3_attempts",
+        "checked_at": "2026-10-08T08:29:37.916832+00:00"
+      },
+      {
+        "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=6508825",
+        "reason": "provider_empty_download_after_3_attempts",
+        "checked_at": "2026-10-08T08:29:37.916832+00:00"
+      },
+      {
+        "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=6508827",
+        "reason": "provider_empty_download_after_3_attempts",
+        "checked_at": "2026-10-08T08:29:37.916832+00:00"
+      },
+      {
+        "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=6508829",
+        "reason": "provider_empty_download_after_3_attempts",
+        "checked_at": "2026-10-08T08:29:37.916832+00:00"
+      }
+    ],
     "completed_at": "2026-10-08T08:29:37.916832+00:00"
   }
 }
