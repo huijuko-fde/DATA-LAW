@@ -549,7 +549,14 @@
         "changed": "N",
         "article_key": "0003031",
         "images": [],
-        "provision_id": "law:화장품법#JO0003_03"
+        "provision_id": "law:화장품법#JO0003_03",
+        "scheduled": [
+          {
+            "enforcement_date": "20261008",
+            "change": "개정",
+            "content": "제3조의3(결격사유) 다음 각 호의 어느 하나에 해당하는 자는 화장품제조업 또는 화장품책임판매업의 등록이나 맞춤형화장품판매업의 신고를 할 수 없다. 다만, 제1호 및 제3호는 화장품제조업만 해당한다. <개정 2024.10.22, 2026.4.7>\n1. 「정신건강증진 및 정신질환자 복지서비스 지원에 관한 법률」 제3조제1호에 따른 정신질환자. 다만, 전문의가 화장품제조업자(제3조제1항에 따라 화장품제조업을 등록한 자를 말한다. 이하 같다)로서 적합하다고 인정하는 사람은 제외한다.\n2. 피성년후견인\n3. 「마약류 관리에 관한 법률」 제2조제1호에 따른 마약류의 중독자\n4. 이 법 또는 「보건범죄 단속에 관한 특별조치법」을 위반하여 금고 이상의 실형을 선고받고 그 집행이 끝나거나(집행이 끝난 것으로 보는 경우를 포함한다) 집행이 면제되지 아니한 사람\n4의2. 이 법 또는 「보건범죄 단속에 관한 특별조치법」을 위반하여 금고 이상의 형의 집행유예를 선고받고 그 유예기간 중에 있는 사람\n5. 제24조에 따라 등록이 취소되거나 영업소가 폐쇄(이 조 제1호부터 제3호까지의 어느 하나에 해당하여 등록이 취소되거나 영업소가 폐쇄된 경우는 제외한다)된 날부터 1년이 지나지 아니한 자"
+          }
+        ]
       },
       {
         "article_no": "제3조의4",
@@ -2889,6 +2896,19 @@
       "source_version_uid": "002015:270323:20260402",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20260402"
+    },
+    {
+      "promulgation_date": "20260407",
+      "promulgation_no": "21525",
+      "addendum_key": "2026040721525",
+      "content": "부칙(파산선고 등에 따른 결격조항 정비를 위한 보건복지위원회 소관 12개 법률 일부개정을 위한 법률) <제21525호,2026.4.7>\n제1조(시행일) 이 법은 공포 후 6개월이 경과한 날부터 시행한다.\n제2조(결격조항 정비에 관한 경과조치) 이 법 시행 당시 종전의 규정에 따라 행한 조치 등은 이 법의 개정규정에도 불구하고 유효한 것으로 본다.",
+      "provision_id": "law:화장품법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "285353",
+      "source_version_uid": "002015:285353:20261008",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261008",
+      "enforcement_date": "20261008"
     }
   ],
   "appendices": [],
@@ -2922,8 +2942,10 @@
   "provision_id": "law:화장품법#DOC",
   "addendum_provision_id": "law:화장품법#ADDENDUM",
   "amendment_provision_id": "law:화장품법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261008"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "화장품법/법률/화장품법.json"
 }
