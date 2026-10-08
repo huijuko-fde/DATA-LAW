@@ -483,6 +483,19 @@
       "source_version_uid": "010308:256669:20231212",
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20231212"
+    },
+    {
+      "promulgation_date": "20261007",
+      "promulgation_no": "36747",
+      "addendum_key": "2026100736747",
+      "content": "부칙 <제36747호,2026.10.7>\n이 영은 2026년 10월 8일부터 시행한다.",
+      "provision_id": "law:음악산업진흥에관한법률시행령#ADDENDUM",
+      "is_future": true,
+      "source_mst": "291097",
+      "source_version_uid": "010308:291097:20261008",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261008",
+      "enforcement_date": "20261008"
     }
   ],
   "appendices": [
@@ -592,8 +605,10 @@
   "provision_id": "law:음악산업진흥에관한법률시행령#DOC",
   "addendum_provision_id": "law:음악산업진흥에관한법률시행령#ADDENDUM",
   "amendment_provision_id": "law:음악산업진흥에관한법률시행령#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261008"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "음악산업진흥에 관한 법률/시행령/음악산업진흥에 관한 법률 시행령.json"
 }
