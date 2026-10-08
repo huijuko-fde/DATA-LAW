@@ -67971,7 +67971,7 @@
   "attempts": 0,
   "collected_signature": "8e4f75f15affc8d8",
   "completed_at": "2026-10-08T08:29:37.916832+00:00",
-  "completion_status": "complete",
+  "completion_status": "complete_with_source_gaps",
   "content_hash": "13bca5192d5511b29688827bba91d3d96c35f037a756a0d521b3b663e7a480d4",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=73139&type=HTML&mobileYn=&efYd=20060126",
   "doc_domain": "law",
@@ -67991,7 +67991,13 @@
   "promulgation_date": "20060126",
   "relation_mode": "no_crawl",
   "status": "done",
-  "unavailable_sources": [],
+  "unavailable_sources": [
+   {
+    "checked_at": "2026-10-08T08:29:37.916832+00:00",
+    "reason": "provider_empty_download_after_3_attempts",
+    "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=6508505"
+   }
+  ],
   "version_count": 1,
   "version_signature": "8e4f75f15affc8d8"
  },
@@ -70786,7 +70792,7 @@
   "attempts": 0,
   "collected_signature": "550f200997d50a04",
   "completed_at": "2026-10-08T08:29:37.916832+00:00",
-  "completion_status": "complete",
+  "completion_status": "complete_with_source_gaps",
   "content_hash": "e8910414853535bd262e8ffd35dac005e1fb383e6072edc609fdd8c38664a0d9",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=76085&type=HTML&mobileYn=&efYd=20061117",
   "doc_domain": "law",
@@ -70806,7 +70812,33 @@
   "promulgation_date": "20061117",
   "relation_mode": "no_crawl",
   "status": "done",
-  "unavailable_sources": [],
+  "unavailable_sources": [
+   {
+    "checked_at": "2026-10-08T08:29:37.916832+00:00",
+    "reason": "provider_empty_download_after_3_attempts",
+    "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=6508821"
+   },
+   {
+    "checked_at": "2026-10-08T08:29:37.916832+00:00",
+    "reason": "provider_empty_download_after_3_attempts",
+    "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=6508823"
+   },
+   {
+    "checked_at": "2026-10-08T08:29:37.916832+00:00",
+    "reason": "provider_empty_download_after_3_attempts",
+    "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=6508825"
+   },
+   {
+    "checked_at": "2026-10-08T08:29:37.916832+00:00",
+    "reason": "provider_empty_download_after_3_attempts",
+    "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=6508827"
+   },
+   {
+    "checked_at": "2026-10-08T08:29:37.916832+00:00",
+    "reason": "provider_empty_download_after_3_attempts",
+    "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=6508829"
+   }
+  ],
   "version_count": 1,
   "version_signature": "550f200997d50a04"
  },
@@ -72677,7 +72709,7 @@
   "attempts": 0,
   "collected_signature": "0916cd866af60c6d",
   "completed_at": "2026-10-08T08:29:37.916832+00:00",
-  "completion_status": "complete",
+  "completion_status": "complete_with_source_gaps",
   "content_hash": "e9dd687f8a016503659f16a8d4905f2ab2ea2ba2a0ee095f0bb3035c04ccbe61",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=79204&type=HTML&mobileYn=&efYd=20070525",
   "doc_domain": "law",
@@ -72697,7 +72729,13 @@
   "promulgation_date": "20070525",
   "relation_mode": "no_crawl",
   "status": "done",
-  "unavailable_sources": [],
+  "unavailable_sources": [
+   {
+    "checked_at": "2026-10-08T08:29:37.916832+00:00",
+    "reason": "provider_empty_download_after_3_attempts",
+    "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=6508959"
+   }
+  ],
   "version_count": 1,
   "version_signature": "0916cd866af60c6d"
  },
