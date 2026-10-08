@@ -159,10 +159,11 @@
       ],
       "images": [],
       "provision_id": "law:남북관계발전에관한법률시행규칙#BYL0000",
-      "filename": "별표0_남북회담대표·대북특별사절및수행원이착용하는표지[제2조제4항관련].pdf",
+      "filename": "별표0_남북회담대표·대북특별사절및수행원이착용하는표지[제2조제4항관련].hwp",
       "file_dir": "별표",
-      "local_path": "별표/별표0_남북회담대표·대북특별사절및수행원이착용하는표지[제2조제4항관련].pdf",
-      "file_store_url": ""
+      "local_path": "별표/별표0_남북회담대표·대북특별사절및수행원이착용하는표지[제2조제4항관련].hwp",
+      "file_store_url": "",
+      "download_status": "available"
     },
     {
       "no": "0001",
@@ -190,10 +191,11 @@
       ],
       "images": [],
       "provision_id": "law:남북관계발전에관한법률시행규칙#FORM0001",
-      "filename": "서식1_임명장.pdf",
+      "filename": "서식1_임명장.hwp",
       "file_dir": "서식",
-      "local_path": "서식/서식1_임명장.pdf",
-      "file_store_url": ""
+      "local_path": "서식/서식1_임명장.hwp",
+      "file_store_url": "",
+      "download_status": "available"
     },
     {
       "no": "0002",
@@ -221,10 +223,11 @@
       ],
       "images": [],
       "provision_id": "law:남북관계발전에관한법률시행규칙#FORM0002",
-      "filename": "서식2_임명장.pdf",
+      "filename": "서식2_임명장.hwp",
       "file_dir": "서식",
-      "local_path": "서식/서식2_임명장.pdf",
-      "file_store_url": ""
+      "local_path": "서식/서식2_임명장.hwp",
+      "file_store_url": "",
+      "download_status": "available"
     },
     {
       "no": "0003",
@@ -252,10 +255,11 @@
       ],
       "images": [],
       "provision_id": "law:남북관계발전에관한법률시행규칙#FORM0003",
-      "filename": "서식3_임명장.pdf",
+      "filename": "서식3_임명장.hwp",
       "file_dir": "서식",
-      "local_path": "서식/서식3_임명장.pdf",
-      "file_store_url": ""
+      "local_path": "서식/서식3_임명장.hwp",
+      "file_store_url": "",
+      "download_status": "available"
     },
     {
       "no": "0004",
@@ -283,10 +287,11 @@
       ],
       "images": [],
       "provision_id": "law:남북관계발전에관한법률시행규칙#FORM0004",
-      "filename": "서식4_임명장.pdf",
+      "filename": "서식4_임명장.hwp",
       "file_dir": "서식",
-      "local_path": "서식/서식4_임명장.pdf",
-      "file_store_url": ""
+      "local_path": "서식/서식4_임명장.hwp",
+      "file_store_url": "",
+      "download_status": "available"
     }
   ],
   "ordinance_delegations": [],
@@ -317,5 +322,11 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "남북관계 발전에 관한 법률/시행규칙/남북관계 발전에 관한 법률 시행규칙.json"
+  "git_path": "남북관계 발전에 관한 법률/시행규칙/남북관계 발전에 관한 법률 시행규칙.json",
+  "collection_summary": {
+    "body_saved": true,
+    "completion_status": "complete",
+    "unavailable_sources": [],
+    "completed_at": "2026-10-08T08:29:37.916832+00:00"
+  }
 }
