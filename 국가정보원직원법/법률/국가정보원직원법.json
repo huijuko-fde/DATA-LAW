@@ -914,7 +914,14 @@
         "changed": "N",
         "article_key": "0022001",
         "images": [],
-        "provision_id": "law:국가정보원직원법#JO0022"
+        "provision_id": "law:국가정보원직원법#JO0022",
+        "scheduled": [
+          {
+            "enforcement_date": "20261008",
+            "change": "개정",
+            "content": "제22조(정년)\n① 직원의 정년은 다음과 같다. <개정 2014.1.7, 2026.4.7>\n1. 연령 정년: 60세\n2. 특정직직원의 계급 정년\n가. 2급 직원: 5년\n나. 3급 직원: 8년\n다. 4급 직원: 14년\n라. 5급 직원: 21년\n② 징계로 인하여 강등(6급으로 강등된 경우를 포함한다)된 직원의 계급 정년은 제1항제2호에도 불구하고 다음 각 호에 따른다. <개정 2014.1.7>\n1. 강등된 계급의 계급 정년은 강등되기 전 계급 중 가장 높은 계급의 계급 정년으로 한다. 다만, 1급 직원이 강등처분을 받은 경우에는 면직할 수 있다.\n2. 계급 정년을 산정할 때에는 강등되기 전 계급의 근무연수와 강등된 이후의 근무연수를 합산한다.\n③ 직원은 정년이 되는 날이 1월부터 6월 사이에 있는 경우에는 6월 30일에 당연히 퇴직되고, 7월부터 12월 사이에 있는 경우에는 12월 31일에 당연히 퇴직된다. <개정 2014.1.7>"
+          }
+        ]
       },
       {
         "article_no": "제22조의2",
@@ -1517,6 +1524,19 @@
       "source_version_uid": "001351:236273:20220420",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20220420"
+    },
+    {
+      "promulgation_date": "20260407",
+      "promulgation_no": "21541",
+      "addendum_key": "2026040721541",
+      "content": "부칙 <제21541호,2026.4.7>\n제1조(시행일) 이 법은 공포 후 6개월이 경과한 날부터 시행한다.\n제2조(계급 정년에 도달한 재직 중인 자에 대한 적용례) 제22조제1항제2호의 개정규정은 이 법 시행 당시 계급 정년에 도달한 자로서 재직 중인 자에 대하여도 적용한다.",
+      "provision_id": "law:국가정보원직원법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "285365",
+      "source_version_uid": "001351:285365:20261008",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261008",
+      "enforcement_date": "20261008"
     }
   ],
   "appendices": [],
@@ -1549,8 +1569,10 @@
   "provision_id": "law:국가정보원직원법#DOC",
   "addendum_provision_id": "law:국가정보원직원법#ADDENDUM",
   "amendment_provision_id": "law:국가정보원직원법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261008"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "국가정보원직원법/법률/국가정보원직원법.json"
 }
