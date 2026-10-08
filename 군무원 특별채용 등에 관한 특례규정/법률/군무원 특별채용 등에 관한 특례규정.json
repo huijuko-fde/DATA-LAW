@@ -206,13 +206,18 @@
           "type": "hwp",
           "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=6508504",
           "name": "1.일반군무원",
-          "file_store_url": ""
+          "file_store_url": "",
+          "preferred": true
         },
         {
           "type": "pdf",
           "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=6508505",
           "name": "1.일반군무원",
-          "file_store_url": ""
+          "file_store_url": "",
+          "download_status": "source_unavailable",
+          "download_error": "provider_empty_download_after_3_attempts",
+          "source_checked_at": "2026-10-08T08:29:37.916832+00:00",
+          "preferred": false
         }
       ],
       "images": [],
@@ -255,8 +260,14 @@
   "git_path": "군무원 특별채용 등에 관한 특례규정/법률/군무원 특별채용 등에 관한 특례규정.json",
   "collection_summary": {
     "body_saved": true,
-    "completion_status": "complete",
-    "unavailable_sources": [],
+    "completion_status": "complete_with_source_gaps",
+    "unavailable_sources": [
+      {
+        "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=6508505",
+        "reason": "provider_empty_download_after_3_attempts",
+        "checked_at": "2026-10-08T08:29:37.916832+00:00"
+      }
+    ],
     "completed_at": "2026-10-08T08:29:37.916832+00:00"
   }
 }
