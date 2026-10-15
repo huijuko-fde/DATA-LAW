@@ -2204,7 +2204,7 @@
   "promulgation_date": "20260407",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "14e86dc1369fcb43"
  },
  "law:eflaw:000223": {
@@ -3745,7 +3745,7 @@
   "promulgation_date": "20260407",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "4e1a45654248a897"
  },
  "law:eflaw:000507": {
@@ -5355,7 +5355,7 @@
   "promulgation_date": "20260407",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "698822b48fae1095"
  },
  "law:eflaw:000816": {
@@ -6919,7 +6919,7 @@
   "promulgation_date": "20240326",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 3,
   "version_signature": "44fc64a2704a2ec4"
  },
  "law:eflaw:000958": {
@@ -7471,7 +7471,7 @@
   "promulgation_date": "20230214",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "c8ed0be7f5bb1d58"
  },
  "law:eflaw:001020": {
@@ -10878,7 +10878,7 @@
   "promulgation_date": "20240130",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "7be1b3b71eae23fe"
  },
  "law:eflaw:001459": {
@@ -11453,7 +11453,7 @@
   "promulgation_date": "20260407",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "f760a24e72ebe44c"
  },
  "law:eflaw:001509": {
@@ -12810,7 +12810,7 @@
   "promulgation_date": "20261013",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 5,
   "version_signature": "d58592f0c70006fe"
  },
  "law:eflaw:001642": {
@@ -13045,26 +13045,26 @@
  },
  "law:eflaw:001656": {
   "attempts": 0,
-  "collected_signature": "f9959b27650922b6",
-  "content_hash": "c34328275f92d329f1b631584117c3031a605e2ded98d997c9461703ff90b1b6",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284005&type=HTML&mobileYn=&efYd=20260701",
+  "collected_signature": "8c3755fed758c61d",
+  "content_hash": "bdd3f5c1f8bcbaab11846b77164f20549977965068cc5971ee464d5bdbc3e073",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285291&type=HTML&mobileYn=&efYd=20261015",
   "doc_domain": "law",
   "doc_id": "001656",
   "doc_target": "eflaw",
   "doc_type": "법률",
-  "enforcement_date": "20260701",
+  "enforcement_date": "20261015",
   "is_active": true,
-  "last_checked_at": "2026-10-13T00:50:47.805017+00:00",
-  "last_collected_at": "2026-10-13T00:51:36.022887+00:00",
+  "last_checked_at": "2026-10-15T05:41:59.177130+00:00",
+  "last_collected_at": "2026-10-15T05:42:30.609356+00:00",
   "ministry": "행정안전부",
-  "mst": "284005",
+  "mst": "285291",
   "name": "지방자치법",
   "payload_law_id": "001656",
-  "promulgation_date": "20260305",
+  "promulgation_date": "20260414",
   "relation_mode": "no_crawl",
   "status": "done",
   "version_count": 1,
-  "version_signature": "f9959b27650922b6"
+  "version_signature": "8c3755fed758c61d"
  },
  "law:eflaw:001660": {
   "attempts": 0,
@@ -14535,7 +14535,7 @@
   "promulgation_date": "20260407",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 6,
   "version_signature": "6f2fe6b89f2ce951"
  },
  "law:eflaw:001784": {
@@ -14696,7 +14696,7 @@
   "promulgation_date": "20260407",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "602ef98c15a5bc77"
  },
  "law:eflaw:001794": {
@@ -14742,7 +14742,7 @@
   "promulgation_date": "20260407",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 6,
   "version_signature": "1f31473a45fcf714"
  },
  "law:eflaw:001807": {
@@ -15524,7 +15524,7 @@
   "promulgation_date": "20260407",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 6,
   "version_signature": "0974e8e3e7563dd6"
  },
  "law:eflaw:001962": {
@@ -15570,7 +15570,7 @@
   "promulgation_date": "20251001",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "d5623b9330985742"
  },
  "law:eflaw:001964": {
@@ -15731,7 +15731,7 @@
   "promulgation_date": "20260407",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 4,
   "version_signature": "8e89e005acaf29e1"
  },
  "law:eflaw:001972": {
@@ -16444,7 +16444,7 @@
   "promulgation_date": "20260407",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 7,
   "version_signature": "048a37601dbb0ba9"
  },
  "law:eflaw:002016": {
@@ -16835,7 +16835,7 @@
   "promulgation_date": "20251001",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 3,
   "version_signature": "f682d530ade866b6"
  },
  "law:eflaw:002039": {
@@ -18609,7 +18609,7 @@
   "promulgation_date": "20261013",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 5,
   "version_signature": "a537ed0b6e004f2c"
  },
  "law:eflaw:002321": {
@@ -26454,7 +26454,7 @@
   "promulgation_date": "20251001",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "0ab5bd55dbd3fb82"
  },
  "law:eflaw:003825": {
@@ -27995,7 +27995,7 @@
   "promulgation_date": "20260929",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "f1c4587b5d78c184"
  },
  "law:eflaw:004109": {
@@ -28064,7 +28064,7 @@
   "promulgation_date": "20251001",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "f96121084a44d609"
  },
  "law:eflaw:004124": {
@@ -29768,7 +29768,7 @@
   "promulgation_date": "20251125",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "34f133acfdbba9cc"
  },
  "law:eflaw:004499": {
@@ -30000,7 +30000,7 @@
   "promulgation_date": "20260506",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "636aa6188ed3f8f1"
  },
  "law:eflaw:004552": {
@@ -31518,7 +31518,7 @@
   "promulgation_date": "20260825",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "249aa110a2c0e043"
  },
  "law:eflaw:004844": {
@@ -33749,7 +33749,7 @@
   "promulgation_date": "20251001",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "47444fb09eb2f941"
  },
  "law:eflaw:005348": {
@@ -43915,26 +43915,26 @@
  },
  "law:eflaw:006809": {
   "attempts": 0,
-  "collected_signature": "fe3d59d735003545",
-  "content_hash": "f23bfe9169a09022785085bf00ce08cbd3ab7dd2b88d667a62c0ebe4d414ad03",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=256889&type=HTML&mobileYn=&efYd=20231212",
+  "collected_signature": "6ab16c022dfd883a",
+  "content_hash": "def183022d768ccf546df85ecd791b36fbe61264081846d28847feea8774f665",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291397&type=HTML&mobileYn=&efYd=20261015",
   "doc_domain": "law",
   "doc_id": "006809",
   "doc_target": "eflaw",
   "doc_type": "국방부령",
-  "enforcement_date": "20231212",
+  "enforcement_date": "20261015",
   "is_active": true,
-  "last_checked_at": "2026-09-15T02:14:59.197320+00:00",
-  "last_collected_at": "2026-09-15T02:15:03.550820+00:00",
+  "last_checked_at": "2026-10-15T05:41:59.175965+00:00",
+  "last_collected_at": "2026-10-15T05:42:08.097322+00:00",
   "ministry": "국방부",
-  "mst": "256889",
+  "mst": "291397",
   "name": "군복 및 군용장구의 단속에 관한 법률 시행규칙",
   "payload_law_id": "006809",
-  "promulgation_date": "20231212",
+  "promulgation_date": "20261015",
   "relation_mode": "no_crawl",
   "status": "done",
   "version_count": 1,
-  "version_signature": "fe3d59d735003545"
+  "version_signature": "6ab16c022dfd883a"
  },
  "law:eflaw:006811": {
   "attempts": 0,
@@ -49168,7 +49168,7 @@
   "promulgation_date": "20261012",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "45aa8c58f48371b6"
  },
  "law:eflaw:007628": {
@@ -54397,26 +54397,26 @@
  },
  "law:eflaw:008656": {
   "attempts": 0,
-  "collected_signature": "480002c4fdcb783b",
-  "content_hash": "9e6654e9cc895cac1eb16aaecb58648d6cecf06a19c3b8e6f2b69e31ed2397d8",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288187&type=HTML&mobileYn=&efYd=20260713",
+  "collected_signature": "e6b3126aad3ac385",
+  "content_hash": "715cbe6dfe745fe3454cd0df28518811ee13e7898572a2d3c479238e033697d2",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291199&type=HTML&mobileYn=&efYd=20261014",
   "doc_domain": "law",
   "doc_id": "008656",
   "doc_target": "eflaw",
   "doc_type": "해양수산부령",
-  "enforcement_date": "20260713",
+  "enforcement_date": "20261014",
   "is_active": true,
-  "last_checked_at": "2026-09-15T04:16:31.177868+00:00",
-  "last_collected_at": "2026-09-15T04:16:42.078675+00:00",
+  "last_checked_at": "2026-10-15T05:41:58.987705+00:00",
+  "last_collected_at": "2026-10-15T05:42:14.899870+00:00",
   "ministry": "해양수산부",
-  "mst": "288187",
+  "mst": "291199",
   "name": "항만운송사업법 시행규칙",
   "payload_law_id": "008656",
-  "promulgation_date": "20260713",
+  "promulgation_date": "20261014",
   "relation_mode": "no_crawl",
   "status": "done",
   "version_count": 1,
-  "version_signature": "480002c4fdcb783b"
+  "version_signature": "e6b3126aad3ac385"
  },
  "law:eflaw:008663": {
   "attempts": 0,
@@ -57090,26 +57090,26 @@
  },
  "law:eflaw:009267": {
   "attempts": 0,
-  "collected_signature": "446e4ffcd03569cc",
-  "content_hash": "2214f4de83b777b6165731092a89f4c10e3cf61a4b4e105535e573cd3dbb4173",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289139&type=HTML&mobileYn=&efYd=20260825",
+  "collected_signature": "3cb1208686d4e586",
+  "content_hash": "60564a54c9ff0f5527adfcfa2e1629ab338bd0d4ebffbbb7e136c762b427d3bc",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291197&type=HTML&mobileYn=&efYd=20261014",
   "doc_domain": "law",
   "doc_id": "009267",
   "doc_target": "eflaw",
   "doc_type": "고용노동부령",
-  "enforcement_date": "20260825",
+  "enforcement_date": "20261014",
   "is_active": true,
-  "last_checked_at": "2026-09-15T02:17:16.223774+00:00",
-  "last_collected_at": "2026-09-15T02:17:20.812195+00:00",
+  "last_checked_at": "2026-10-15T05:41:59.220620+00:00",
+  "last_collected_at": "2026-10-15T05:42:12.611321+00:00",
   "ministry": "고용노동부",
-  "mst": "289139",
+  "mst": "291197",
   "name": "근로복지기본법 시행규칙",
   "payload_law_id": "009267",
-  "promulgation_date": "20260825",
+  "promulgation_date": "20261014",
   "relation_mode": "no_crawl",
   "status": "done",
   "version_count": 1,
-  "version_signature": "446e4ffcd03569cc"
+  "version_signature": "3cb1208686d4e586"
  },
  "law:eflaw:009268": {
   "attempts": 0,
@@ -57798,7 +57798,7 @@
   "promulgation_date": "20250626",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "b99dd8befe4e8985"
  },
  "law:eflaw:009328": {
@@ -58235,7 +58235,7 @@
   "promulgation_date": "20260407",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "f8c25f701e1eee32"
  },
  "law:eflaw:009354": {
@@ -59684,7 +59684,7 @@
   "promulgation_date": "20260602",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "90ee0c105cc81963"
  },
  "law:eflaw:009506": {
@@ -59868,7 +59868,7 @@
   "promulgation_date": "20260407",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 5,
   "version_signature": "2a8dfd569e856694"
  },
  "law:eflaw:009516": {
@@ -60903,7 +60903,7 @@
   "promulgation_date": "20260407",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "d981866a785a1b3a"
  },
  "law:eflaw:009591": {
@@ -61639,7 +61639,7 @@
   "promulgation_date": "20260121",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 3,
   "version_signature": "deb4fda1a015d6ed"
  },
  "law:eflaw:009641": {
@@ -64652,7 +64652,7 @@
   "promulgation_date": "20261013",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "fb61ddfeda67e207"
  },
  "law:eflaw:009909": {
@@ -65917,7 +65917,7 @@
   "promulgation_date": "20261013",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "37760151fa084fd5"
  },
  "law:eflaw:010001": {
@@ -66124,7 +66124,7 @@
   "promulgation_date": "20240227",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "ca29eaf9eb541a76"
  },
  "law:eflaw:010014": {
@@ -66147,7 +66147,7 @@
   "promulgation_date": "20260127",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "d0d81c1e5ef913d5"
  },
  "law:eflaw:010015": {
@@ -66331,7 +66331,7 @@
   "promulgation_date": "20250415",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "9029a8acaa619d1d"
  },
  "law:eflaw:010026": {
@@ -68159,7 +68159,7 @@
   "promulgation_date": "20261013",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 17,
   "version_signature": "87ff9e5e438f40a7"
  },
  "law:eflaw:010163": {
@@ -70652,26 +70652,26 @@
  },
  "law:eflaw:010312": {
   "attempts": 0,
-  "collected_signature": "a3528da3f52ebe5f",
-  "content_hash": "c4cae12c85a3cf4a3c061b6dc869f3c58c5ccb86bf504a984aeac4365a5c4358",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=270011&type=HTML&mobileYn=&efYd=20250314",
+  "collected_signature": "f7c9ea77741918ae",
+  "content_hash": "649f2f3fcca75d2b3d9f8705a537d2a0049cdc0dbbb75c0b283995904810370d",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291399&type=HTML&mobileYn=&efYd=20261015",
   "doc_domain": "law",
   "doc_id": "010312",
   "doc_target": "eflaw",
   "doc_type": "문화체육관광부령",
-  "enforcement_date": "20250314",
+  "enforcement_date": "20261015",
   "is_active": true,
-  "last_checked_at": "2026-09-15T03:23:13.266990+00:00",
-  "last_collected_at": "2026-09-15T03:23:27.883221+00:00",
+  "last_checked_at": "2026-10-15T05:41:59.120283+00:00",
+  "last_collected_at": "2026-10-15T05:42:10.609278+00:00",
   "ministry": "문화체육관광부",
-  "mst": "270011",
+  "mst": "291399",
   "name": "음악산업진흥에 관한 법률 시행규칙",
   "payload_law_id": "010312",
-  "promulgation_date": "20250314",
+  "promulgation_date": "20261015",
   "relation_mode": "no_crawl",
   "status": "done",
   "version_count": 1,
-  "version_signature": "a3528da3f52ebe5f"
+  "version_signature": "f7c9ea77741918ae"
  },
  "law:eflaw:010313": {
   "attempts": 0,
@@ -71483,7 +71483,7 @@
   "promulgation_date": "20260227",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 3,
   "version_signature": "7514b9cf15937529"
  },
  "law:eflaw:010387": {
@@ -73127,7 +73127,7 @@
   "promulgation_date": "20210112",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "604a0ab78acab0c3"
  },
  "law:eflaw:010486": {
@@ -74466,26 +74466,26 @@
  },
  "law:eflaw:010568": {
   "attempts": 0,
-  "collected_signature": "ad45b1d70c709d0a",
-  "content_hash": "81fb27c8dedc6d22c0ab92404d1e47945a6ee30b2ab11ae2f877b8afc752cc8b",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285569&type=HTML&mobileYn=&efYd=20260420",
+  "collected_signature": "cec302d4659407e3",
+  "content_hash": "22042819f651d167359f6f0166d041f246c516019868db8ebc5ee3468a85eb24",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291201&type=HTML&mobileYn=&efYd=20261014",
   "doc_domain": "law",
   "doc_id": "010568",
   "doc_target": "eflaw",
   "doc_type": "재정경제부령",
-  "enforcement_date": "20260420",
+  "enforcement_date": "20261014",
   "is_active": true,
-  "last_checked_at": "2026-09-15T01:56:26.190175+00:00",
-  "last_collected_at": "2026-09-15T01:56:43.877769+00:00",
+  "last_checked_at": "2026-10-15T05:41:59.199079+00:00",
+  "last_collected_at": "2026-10-15T05:42:22.317016+00:00",
   "ministry": "재정경제부",
-  "mst": "285569",
+  "mst": "291201",
   "name": "공기업ㆍ준정부기관 계약사무규칙",
   "payload_law_id": "010568",
-  "promulgation_date": "20260420",
+  "promulgation_date": "20261014",
   "relation_mode": "no_crawl",
   "status": "done",
   "version_count": 1,
-  "version_signature": "ad45b1d70c709d0a"
+  "version_signature": "cec302d4659407e3"
  },
  "law:eflaw:010569": {
   "attempts": 0,
@@ -87066,7 +87066,7 @@
   "promulgation_date": "20260804",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "acc25be26deffbb0"
  },
  "law:eflaw:011492": {
@@ -96475,7 +96475,7 @@
   "promulgation_date": "20260407",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "eff128e71fcc49e8"
  },
  "law:eflaw:012198": {
@@ -97004,7 +97004,7 @@
   "promulgation_date": "20260407",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 3,
   "version_signature": "d394d90846fc4da2"
  },
  "law:eflaw:012248": {
@@ -97280,7 +97280,7 @@
   "promulgation_date": "20250121",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "01b2c9b4a974866e"
  },
  "law:eflaw:012269": {
@@ -103059,7 +103059,7 @@
   "promulgation_date": "20260407",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "c4b9c7a6fb0c2ce3"
  },
  "law:eflaw:012790": {
@@ -108210,7 +108210,7 @@
   "promulgation_date": "20260407",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 3,
   "version_signature": "4fbcdf4e6ded0848"
  },
  "law:eflaw:013573": {
@@ -109180,7 +109180,7 @@
   "promulgation_date": "20260707",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 4,
   "version_signature": "fee5268d52139fc1"
  },
  "law:eflaw:013669": {
@@ -112797,26 +112797,26 @@
  },
  "law:eflaw:013945": {
   "attempts": 0,
-  "collected_signature": "abbcb07e57877dfc",
-  "content_hash": "e7a6950aecc33d0f009993f2249ffe44ec3e327d8d7a5fd744710a50dafaae4a",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=260439&type=HTML&mobileYn=&efYd=20240213",
+  "collected_signature": "89d2a7796244b308",
+  "content_hash": "559cf433713fac73b7bda6aebc124bfc81c2e55cc4d8d21a8d3e09a0a999d919",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291203&type=HTML&mobileYn=&efYd=20261014",
   "doc_domain": "law",
   "doc_id": "013945",
   "doc_target": "eflaw",
   "doc_type": "고용노동부령",
-  "enforcement_date": "20240213",
+  "enforcement_date": "20261014",
   "is_active": true,
-  "last_checked_at": "2026-09-15T02:03:58.146202+00:00",
-  "last_collected_at": "2026-09-15T02:04:05.481597+00:00",
+  "last_checked_at": "2026-10-15T05:41:59.242391+00:00",
+  "last_collected_at": "2026-10-15T05:42:10.802041+00:00",
   "ministry": "고용노동부",
-  "mst": "260439",
+  "mst": "291203",
   "name": "구직자 취업촉진 및 생활안정지원에 관한 법률 시행규칙",
   "payload_law_id": "013945",
-  "promulgation_date": "20240213",
+  "promulgation_date": "20261014",
   "relation_mode": "no_crawl",
   "status": "done",
   "version_count": 1,
-  "version_signature": "abbcb07e57877dfc"
+  "version_signature": "89d2a7796244b308"
  },
  "law:eflaw:013967": {
   "attempts": 0,
@@ -114586,7 +114586,7 @@
   "promulgation_date": "20260324",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "8e18acee53f58979"
  },
  "law:eflaw:014083": {
@@ -115736,7 +115736,7 @@
   "promulgation_date": "20260407",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 4,
   "version_signature": "9940d0fc10dcdfe0"
  },
  "law:eflaw:014155": {
@@ -117277,7 +117277,7 @@
   "promulgation_date": "20260922",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "1d4eadbb15d394b4"
  },
  "law:eflaw:014256": {
@@ -119738,7 +119738,7 @@
   "promulgation_date": "20250919",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "a9104eeba2c4af7d"
  },
  "law:eflaw:014454": {
@@ -119766,26 +119766,26 @@
  },
  "law:eflaw:014455": {
   "attempts": 0,
-  "collected_signature": "648ee92f3647133d",
-  "content_hash": "dd0a81a3fc0bbd2bb17a5b3d827ba96f6c4f63fa4152355773c8c871f3c06ce2",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286737&type=HTML&mobileYn=&efYd=20260910",
+  "collected_signature": "803781a075986c64",
+  "content_hash": "49bd4d7c716e3711dcea677b66299c5dae27ef54b61fe870de63d13ae967f467",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285293&type=HTML&mobileYn=&efYd=20261015",
   "doc_domain": "law",
   "doc_id": "014455",
   "doc_target": "eflaw",
   "doc_type": "법률",
-  "enforcement_date": "20260910",
+  "enforcement_date": "20261015",
   "is_active": true,
-  "last_checked_at": "2026-09-15T03:54:33.504167+00:00",
-  "last_collected_at": "2026-09-15T03:55:07.064583+00:00",
+  "last_checked_at": "2026-10-15T05:41:58.920193+00:00",
+  "last_collected_at": "2026-10-15T05:42:23.830007+00:00",
   "ministry": "국토교통부,기획예산처,산업통상부,행정안전부",
-  "mst": "286737",
+  "mst": "285293",
   "name": "지방자치분권 및 균형성장에 관한 특별법",
   "payload_law_id": "014455",
-  "promulgation_date": "20260609",
+  "promulgation_date": "20260414",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 7,
-  "version_signature": "648ee92f3647133d"
+  "version_count": 1,
+  "version_signature": "803781a075986c64"
  },
  "law:eflaw:014456": {
   "attempts": 0,
@@ -119945,7 +119945,7 @@
   "promulgation_date": "20261013",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "1a4848cbbc456520"
  },
  "law:eflaw:014465": {
@@ -121716,7 +121716,7 @@
   "promulgation_date": "20260407",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "b20f0bbb8ca26204"
  },
  "law:eflaw:014602": {
@@ -125076,7 +125076,7 @@
   "promulgation_date": "20260512",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 5,
   "version_signature": "537978db1443f2aa"
  },
  "law:eflaw:014830": {
@@ -128320,7 +128320,7 @@
   "promulgation_date": "20261013",
   "relation_mode": "no_crawl",
   "status": "done",
-  "version_count": 1,
+  "version_count": 6,
   "version_signature": "5184adf480873dab"
  },
  "law:eflaw:015066": {
@@ -128566,7 +128566,7 @@
   "is_active": true,
   "last_checked_at": "2026-10-02T02:56:40.219399+00:00",
   "last_collected_at": "2026-10-02T02:56:45.850173+00:00",
-  "ministry": "행정안전부",
+  "ministry": "중대범죄수사청",
   "mst": "290127",
   "name": "중대범죄수사청 조직 및 운영에 관한 법률",
   "payload_law_id": "015090",
@@ -130202,7 +130202,7 @@
   "is_active": true,
   "last_checked_at": "2026-10-02T02:56:40.337245+00:00",
   "last_collected_at": "2026-10-02T02:56:44.213490+00:00",
-  "ministry": "행정안전부",
+  "ministry": "중대범죄수사청",
   "mst": "290487",
   "name": "중대범죄수사청 조직 및 운영에 관한 법률 시행령",
   "payload_law_id": "015190",
@@ -130248,7 +130248,7 @@
   "is_active": true,
   "last_checked_at": "2026-09-15T03:49:00.741597+00:00",
   "last_collected_at": "2026-09-15T03:49:03.091958+00:00",
-  "ministry": "행정안전부",
+  "ministry": "중대범죄수사청,행정안전부",
   "mst": "288727",
   "name": "중대범죄수사청과 그 소속기관 직제",
   "payload_law_id": "015192",
@@ -130271,7 +130271,7 @@
   "is_active": true,
   "last_checked_at": "2026-09-15T03:49:00.949892+00:00",
   "last_collected_at": "2026-09-15T03:49:03.463519+00:00",
-  "ministry": "행정안전부",
+  "ministry": "중대범죄수사청",
   "mst": "288961",
   "name": "중대범죄수사청수사관 임용령",
   "payload_law_id": "015193",
@@ -130685,7 +130685,7 @@
   "is_active": true,
   "last_checked_at": "2026-10-02T02:56:40.456669+00:00",
   "last_collected_at": "2026-10-02T02:56:45.066118+00:00",
-  "ministry": "행정안전부",
+  "ministry": "중대범죄수사청",
   "mst": "289991",
   "name": "중대범죄수사청과 그 소속기관 직제 시행규칙",
   "payload_law_id": "015218",
@@ -130823,7 +130823,7 @@
   "is_active": true,
   "last_checked_at": "2026-10-02T02:56:40.029322+00:00",
   "last_collected_at": "2026-10-02T02:56:42.985283+00:00",
-  "ministry": "행정안전부",
+  "ministry": "중대범죄수사청",
   "mst": "291017",
   "name": "중대범죄수사청수사관 임용령 시행규칙",
   "payload_law_id": "015230",
@@ -130846,7 +130846,7 @@
   "is_active": true,
   "last_checked_at": "2026-10-07T08:51:21.636309+00:00",
   "last_collected_at": "2026-10-07T08:51:25.345382+00:00",
-  "ministry": "행정안전부",
+  "ministry": "중대범죄수사청",
   "mst": "291031",
   "name": "중대범죄수사청 사건사무규칙",
   "payload_law_id": "015231",
