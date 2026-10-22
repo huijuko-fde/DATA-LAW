@@ -577,7 +577,14 @@
         "changed": "N",
         "article_key": "0013021",
         "images": [],
-        "provision_id": "law:여성과학기술인육성및지원에관한법률#JO0013_02"
+        "provision_id": "law:여성과학기술인육성및지원에관한법률#JO0013_02",
+        "scheduled": [
+          {
+            "enforcement_date": "20261022",
+            "change": "개정",
+            "content": "제13조의2(경력단절 예방 지원)\n① 국가 및 지방자치단체는 여성과학기술인이 임신ㆍ출산ㆍ육아와 가족구성원의 돌봄 등을 이유로 연구활동을 중단하지 아니하도록 다음 각 호의 지원사업을 할 수 있다. <개정 2026.4.21>\n1. 출산전후휴가 또는 육아휴직제 확대 및 대체인력 채용ㆍ운영 지원사업\n2. 시차출퇴근제, 재택근무제, 시간제 근무 등 탄력적 근무제도 지원사업\n3. 자녀의 출산ㆍ양육 및 가족구성원 돌봄 지원사업\n4. 여성과학기술인의 일ㆍ생활 균형을 위한 조직ㆍ사회 문화 개선사업\n5. 그 밖에 여성과학기술인의 경력단절 예방을 위하여 과학기술정보통신부장관이 필요하다고 인정하는 사업\n② 제1항에 따른 지원사업의 대상ㆍ절차 및 방법 등에 필요한 사항은 대통령령으로 정한다. <개정 2026.4.21>"
+          }
+        ]
       },
       {
         "article_no": "제13조의3",
@@ -927,6 +934,19 @@
       "source_version_uid": "009395:271239:20251128",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20251128"
+    },
+    {
+      "promulgation_date": "20260421",
+      "promulgation_no": "21552",
+      "addendum_key": "2026042121552",
+      "content": "부칙 <제21552호,2026.4.21>\n이 법은 공포 후 6개월이 경과한 날부터 시행한다.",
+      "provision_id": "law:여성과학기술인육성및지원에관한법률#ADDENDUM",
+      "is_future": true,
+      "source_mst": "285529",
+      "source_version_uid": "009395:285529:20261022",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261022",
+      "enforcement_date": "20261022"
     }
   ],
   "appendices": [],
@@ -959,8 +979,10 @@
   "provision_id": "law:여성과학기술인육성및지원에관한법률#DOC",
   "addendum_provision_id": "law:여성과학기술인육성및지원에관한법률#ADDENDUM",
   "amendment_provision_id": "law:여성과학기술인육성및지원에관한법률#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261022"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "여성과학기술인 육성 및 지원에 관한 법률/법률/여성과학기술인 육성 및 지원에 관한 법률.json"
 }
