@@ -1552,8 +1552,10 @@
   "provision_id": "law:도심항공교통활용촉진및지원에관한법률#DOC",
   "addendum_provision_id": "law:도심항공교통활용촉진및지원에관한법률#ADDENDUM",
   "amendment_provision_id": "law:도심항공교통활용촉진및지원에관한법률#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261025"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "도심항공교통 활용 촉진 및 지원에 관한 법률/법률/도심항공교통 활용 촉진 및 지원에 관한 법률.json"
 }
