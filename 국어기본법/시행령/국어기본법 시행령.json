@@ -54,7 +54,7 @@
   "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n국어보급을 위한 국가의 예산 및 인력 확대 노력의무를 규정함으로써 한국어ㆍ한국문화의 확산을 도모하는 내용으로 「국어기본법」이 개정(법률 제20491호, 2024. 10. 22. 공포, 2025. 4. 23. 시행)됨에 따라 관련 조문 및 한국어교원 자격증 서식을 정비하려는 것임.\n<법제처 제공>",
   "body": {
     "format": "articles",
-    "article_count": 28,
+    "article_count": 29,
     "articles": [
       {
         "article_no": "제1조",
@@ -1945,6 +1945,30 @@
         "provision_id": "law:국어기본법시행령#JO0019"
       },
       {
+        "article_no": "제19조의2",
+        "article_title": "국어문화원연합회의 설립 및 운영 등",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제19조의2(국어문화원연합회의 설립 및 운영 등)\n① 법 제24조제2항에 따른 국어문화원연합회(이하 \"연합회\"라 한다)는 정관으로 정하는 바에 따라 임원과 필요한 직원을 둔다.\n② 연합회는 설립목적을 달성하기 위해 정관으로 정하는 바에 따라 다음 각 호의 사업을 할 수 있다.\n1. 국어문화원 상호 간의 균형발전과 협력증진 지원\n2. 국어문화원 종사자의 자질향상을 위한 교육\n3. 국어문화원 진흥을 위한 조사ㆍ연구 및 홍보\n4. 국어문화원 운영 활성화를 위한 자문 및 지원\n5. 국어문화원 관련 국내외 교류\n6. 국어의 발전과 보전을 위해 국가, 지방자치단체 및 공공기관 등으로부터 위탁받은 사업\n7. 그 밖에 연합회의 설립목적 달성을 위해 필요한 사업",
+        "enforcement_date": "20261029",
+        "relations": [],
+        "note": "[본조신설 2026.10.13]",
+        "revision_type": "일부개정",
+        "changed": "Y",
+        "article_key": "0019021",
+        "moved": "000000",
+        "images": [],
+        "provision_id": "law:국어기본법시행령#JO0019_02",
+        "future_only": true,
+        "scheduled": [
+          {
+            "enforcement_date": "20261029",
+            "change": "신설",
+            "content": "제19조의2(국어문화원연합회의 설립 및 운영 등)\n① 법 제24조제2항에 따른 국어문화원연합회(이하 \"연합회\"라 한다)는 정관으로 정하는 바에 따라 임원과 필요한 직원을 둔다.\n② 연합회는 설립목적을 달성하기 위해 정관으로 정하는 바에 따라 다음 각 호의 사업을 할 수 있다.\n1. 국어문화원 상호 간의 균형발전과 협력증진 지원\n2. 국어문화원 종사자의 자질향상을 위한 교육\n3. 국어문화원 진흥을 위한 조사ㆍ연구 및 홍보\n4. 국어문화원 운영 활성화를 위한 자문 및 지원\n5. 국어문화원 관련 국내외 교류\n6. 국어의 발전과 보전을 위해 국가, 지방자치단체 및 공공기관 등으로부터 위탁받은 사업\n7. 그 밖에 연합회의 설립목적 달성을 위해 필요한 사업"
+          }
+        ]
+      },
+      {
         "article_no": "제20조",
         "article_title": "고유식별정보의 처리",
         "chapter": "",
@@ -2180,6 +2204,19 @@
       "source_version_uid": "010025:270625:20250423",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20250423"
+    },
+    {
+      "promulgation_date": "20261013",
+      "promulgation_no": "36750",
+      "addendum_key": "2026101336750",
+      "content": "부칙 <제36750호,2026.10.13>\n이 영은 2026년 10월 29일부터 시행한다.",
+      "provision_id": "law:국어기본법시행령#ADDENDUM",
+      "is_future": true,
+      "source_mst": "291087",
+      "source_version_uid": "010025:291087:20261029",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261029",
+      "enforcement_date": "20261029"
     }
   ],
   "appendices": [
@@ -2442,8 +2479,10 @@
   "provision_id": "law:국어기본법시행령#DOC",
   "addendum_provision_id": "law:국어기본법시행령#ADDENDUM",
   "amendment_provision_id": "law:국어기본법시행령#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261029"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "국어기본법/시행령/국어기본법 시행령.json"
 }
