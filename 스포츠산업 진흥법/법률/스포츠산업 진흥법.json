@@ -762,7 +762,14 @@
         "changed": "N",
         "article_key": "0018031",
         "images": [],
-        "provision_id": "law:스포츠산업진흥법#JO0018_03"
+        "provision_id": "law:스포츠산업진흥법#JO0018_03",
+        "scheduled": [
+          {
+            "enforcement_date": "20261029",
+            "change": "개정",
+            "content": "제18조의3(장애인ㆍ노인 등의 스포츠관람권 보장을 위한 특별지원)\n① 문화체육관광부장관은 스포츠산업의 진흥에 필요한 시책을 마련할 때에는 장애인ㆍ노인 등(이하 \"장애인등\"이라 한다)의 스포츠관람권(장애인등이 장애인등이 아닌 사람과 동등하게 스포츠를 관람할 수 있는 권리를 말한다)을 보장하기 위한 사업이 원활하게 수행될 수 있도록 행정적ㆍ재정적으로 특별한 지원을 하기 위하여 노력하여야 한다. <개정 2026.4.28>\n② 스포츠산업 사업자는 장애인등이 제1항에 따른 스포츠관람권을 보장받을 수 있도록 노력하여야 한다. <신설 2026.4.28>\n③ 제1항에 따른 지원의 내용 및 제2항에 따른 스포츠산업 사업자의 책무에 필요한 사항은 문화체육관광부령으로 정한다. <신설 2026.4.28>"
+          }
+        ]
       },
       {
         "article_no": "제19조",
@@ -1012,6 +1019,19 @@
       "source_version_uid": "010415:255783:20240501",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20240501"
+    },
+    {
+      "promulgation_date": "20260428",
+      "promulgation_no": "21591",
+      "addendum_key": "2026042821591",
+      "content": "부칙 <제21591호,2026.4.28>\n이 법은 공포 후 6개월이 경과한 날부터 시행한다.",
+      "provision_id": "law:스포츠산업진흥법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "285685",
+      "source_version_uid": "010415:285685:20261029",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261029",
+      "enforcement_date": "20261029"
     }
   ],
   "appendices": [],
@@ -1306,8 +1326,10 @@
   "provision_id": "law:스포츠산업진흥법#DOC",
   "addendum_provision_id": "law:스포츠산업진흥법#ADDENDUM",
   "amendment_provision_id": "law:스포츠산업진흥법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261029"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "스포츠산업 진흥법/법률/스포츠산업 진흥법.json"
 }
