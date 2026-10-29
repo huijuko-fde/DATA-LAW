@@ -327,7 +327,14 @@
         "changed": "N",
         "article_key": "0016001",
         "images": [],
-        "provision_id": "law:관광기본법#JO0016"
+        "provision_id": "law:관광기본법#JO0016",
+        "scheduled": [
+          {
+            "enforcement_date": "20261029",
+            "change": "개정",
+            "content": "제16조(국가관광전략회의)\n① 관광진흥의 방향 및 주요 시책에 대한 수립ㆍ조정, 관광진흥계획의 수립 및 추진실적의 평가ㆍ반영 등에 관한 사항을 심의ㆍ조정하기 위하여 대통령 소속으로 국가관광전략회의(이하 \"전략회의\"라 한다)를 둔다. <개정 2026.4.28>\n② 전략회의의 의장은 대통령이 된다. <신설 2026.4.28>\n③ 전략회의의 의장은 전략회의에 상정할 안건을 선정하여 회의를 소집하고, 이를 주재한다. <신설 2026.4.28>\n④ 그 밖에 전략회의의 구성 및 운영 등에 필요한 사항은 대통령령으로 정한다. <개정 2026.4.28>"
+          }
+        ]
       }
     ]
   },
@@ -427,6 +434,19 @@
       "source_version_uid": "000086:270599:20251009",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20251009"
+    },
+    {
+      "promulgation_date": "20260428",
+      "promulgation_no": "21583",
+      "addendum_key": "2026042821583",
+      "content": "부칙 <제21583호,2026.4.28>\n이 법은 공포 후 6개월이 경과한 날부터 시행한다.",
+      "provision_id": "law:관광기본법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "285651",
+      "source_version_uid": "000086:285651:20261029",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261029",
+      "enforcement_date": "20261029"
     }
   ],
   "appendices": [],
@@ -459,8 +479,10 @@
   "provision_id": "law:관광기본법#DOC",
   "addendum_provision_id": "law:관광기본법#ADDENDUM",
   "amendment_provision_id": "law:관광기본법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261029"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "관광기본법/법률/관광기본법.json"
 }
