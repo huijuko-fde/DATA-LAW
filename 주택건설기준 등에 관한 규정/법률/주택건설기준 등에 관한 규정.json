@@ -5431,8 +5431,10 @@
   "provision_id": "law:주택건설기준등에관한규정#DOC",
   "addendum_provision_id": "law:주택건설기준등에관한규정#ADDENDUM",
   "amendment_provision_id": "law:주택건설기준등에관한규정#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261107"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "주택건설기준 등에 관한 규정/법률/주택건설기준 등에 관한 규정.json"
 }
