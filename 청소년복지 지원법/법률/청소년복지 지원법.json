@@ -1497,7 +1497,14 @@
         "changed": "N",
         "article_key": "0030001",
         "images": [],
-        "provision_id": "law:청소년복지지원법#JO0030"
+        "provision_id": "law:청소년복지지원법#JO0030",
+        "scheduled": [
+          {
+            "enforcement_date": "20261113",
+            "change": "개정",
+            "content": "제30조(이주배경청소년지원센터)\n① 국가 또는 지방자치단체는 이주배경청소년에 대한 지원을 위하여 대통령령으로 정하는 바에 따라 이주배경청소년지원센터를 설치ㆍ운영할 수 있다.\n② 국가 또는 지방자치단체는 제1항에 따른 이주배경청소년지원센터의 운영을 대통령령으로 정하는 바에 따라 법인 또는 단체에 위탁할 수 있다."
+          }
+        ]
       },
       {
         "article_no": "제31조",
@@ -2230,6 +2237,19 @@
       "source_version_uid": "009681:281965:20260701",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20260701"
+    },
+    {
+      "promulgation_date": "20260512",
+      "promulgation_no": "21629",
+      "addendum_key": "2026051221629",
+      "content": "부칙 <제21629호,2026.5.12>\n제1조(시행일) 이 법은 공포 후 6개월이 경과한 날부터 시행한다.\n제2조(이주배경청소년지원센터에 관한 경과조치) 이 법 시행 당시 종전의 규정에 따른 이주배경청소년지원센터는 이 법에 따른 이주배경청소년지원센터로 본다.",
+      "provision_id": "law:청소년복지지원법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "285871",
+      "source_version_uid": "009681:285871:20261113",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261113",
+      "enforcement_date": "20261113"
     }
   ],
   "appendices": [],
@@ -3116,8 +3136,10 @@
   "provision_id": "law:청소년복지지원법#DOC",
   "addendum_provision_id": "law:청소년복지지원법#ADDENDUM",
   "amendment_provision_id": "law:청소년복지지원법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261113"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "청소년복지 지원법/법률/청소년복지 지원법.json"
 }
