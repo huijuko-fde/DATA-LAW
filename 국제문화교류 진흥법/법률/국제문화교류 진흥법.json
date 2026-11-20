@@ -53,7 +53,7 @@
   "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n현행법은 국제문화교류 진흥에 필요한 사업을 효율적으로 수행하기 위하여 국제문화교류 진흥 업무를 전담하는 기관을 지정할 수 있음.\n다만, 전담기관이 거짓 또는 부정한 방법으로 지정을 받거나 지정요건을 갖추지 못하게 된 경우 등이 발생하면 문화체육관광부장관은 그 지정을 취소할 수 있음.\n그러나, 전담기관의 지정 취소는 법률관계의 안정성에 변화를 초래하고, 그 변화의 영향이 해당 기관은 물론 기관에 고용된 인력과 관계 기관 등에까지 광범위하게 미칠 수 있기 때문에 지정 취소에 대한 해당 기관의 방어권을 제도적으로 보장할 필요가 있음.\n이에 전담기관의 지정 취소에 대한 청문 절차를 규정하여 해당 기관이 취소의 부당함을 소명할 수 있는 기회를 부여하려는 것임.\n<법제처 제공>",
   "body": {
     "format": "articles",
-    "article_count": 16,
+    "article_count": 17,
     "articles": [
       {
         "article_no": "제1조",
@@ -144,6 +144,30 @@
         "article_key": "0005001",
         "images": [],
         "provision_id": "law:국제문화교류진흥법#JO0005"
+      },
+      {
+        "article_no": "제5조의2",
+        "article_title": "국제개발협력의 추진",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제5조의2(국제개발협력의 추진) 문화체육관광부장관은 개발도상국의 문화적 역량을 강화하고 지속가능한 발전을 도모하기 위하여 문화분야 국제개발협력(「국제개발협력기본법」 제2조제1호의 국제개발협력을 말한다)을 추진하여야 한다.",
+        "enforcement_date": "20261120",
+        "relations": [],
+        "note": "[본조신설 2026.5.19]",
+        "revision_type": "일부개정",
+        "changed": "Y",
+        "article_key": "0005021",
+        "moved": "000000",
+        "images": [],
+        "provision_id": "law:국제문화교류진흥법#JO0005_02",
+        "future_only": true,
+        "scheduled": [
+          {
+            "enforcement_date": "20261120",
+            "change": "신설",
+            "content": "제5조의2(국제개발협력의 추진) 문화체육관광부장관은 개발도상국의 문화적 역량을 강화하고 지속가능한 발전을 도모하기 위하여 문화분야 국제개발협력(「국제개발협력기본법」 제2조제1호의 국제개발협력을 말한다)을 추진하여야 한다."
+          }
+        ]
       },
       {
         "article_no": "제6조",
@@ -518,6 +542,19 @@
       "source_version_uid": "012818:239469:20220118",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20220118"
+    },
+    {
+      "promulgation_date": "20260519",
+      "promulgation_no": "21673",
+      "addendum_key": "2026051921673",
+      "content": "부칙 <제21673호,2026.5.19>\n이 법은 공포 후 6개월이 경과한 날부터 시행한다.",
+      "provision_id": "law:국제문화교류진흥법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "285889",
+      "source_version_uid": "012818:285889:20261120",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261120",
+      "enforcement_date": "20261120"
     }
   ],
   "appendices": [],
@@ -627,8 +664,10 @@
   "provision_id": "law:국제문화교류진흥법#DOC",
   "addendum_provision_id": "law:국제문화교류진흥법#ADDENDUM",
   "amendment_provision_id": "law:국제문화교류진흥법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261120"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "국제문화교류 진흥법/법률/국제문화교류 진흥법.json"
 }
