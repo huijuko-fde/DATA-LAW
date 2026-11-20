@@ -359,7 +359,14 @@
         "article_key": "0009001",
         "moved": "000000",
         "images": [],
-        "provision_id": "law:국가교육위원회설치및운영에관한법률#JO0009"
+        "provision_id": "law:국가교육위원회설치및운영에관한법률#JO0009",
+        "scheduled": [
+          {
+            "enforcement_date": "20261120",
+            "change": "개정",
+            "content": "제9조(겸직금지 등)\n① 위원은 재직 중 다음 각 호의 직을 겸하거나 업무를 할 수 없다.\n1. 국회 또는 지방의회의 의원의 직\n2. 영리를 목적으로 하는 교육 관련 업무\n② 상임위원은 제3조에 따른 임명권자의 허가 없이 다른 직무를 겸할 수 없다. 다만, 제1항 각 호의 직은 겸하거나 업무를 할 수 없다. <신설 2026.5.19>\n③ 제1항제2호에 따른 영리를 목적으로 하는 교육 관련 업무의 한계는 대통령령으로 정한다. <개정 2026.5.19>\n④ 위원은 정당에 가입하거나 정치활동에 관여할 수 없다. <개정 2026.5.19>"
+          }
+        ]
       },
       {
         "article_no": "제10조",
@@ -1417,6 +1424,19 @@
       "source_version_uid": "014118:233989:20220721",
       "source_revision_type": "제정",
       "version_enforcement_date": "20220721"
+    },
+    {
+      "promulgation_date": "20260519",
+      "promulgation_no": "21678",
+      "addendum_key": "2026051921678",
+      "content": "부칙 <제21678호,2026.5.19>\n제1조(시행일) 이 법은 공포 후 6개월이 경과한 날부터 시행한다.\n제2조(겸직에 관한 경과조치) 이 법 시행 당시 다른 직을 겸하고 있는 상임위원에 대하여는 임명권자의 겸직 허가가 있는 것으로 본다. 다만, 이 법 시행 이후 3개월 이내에 제9조제2항의 개정규정에 따라 겸직 허가를 다시 받아야 한다.",
+      "provision_id": "law:국가교육위원회설치및운영에관한법률#ADDENDUM",
+      "is_future": true,
+      "source_mst": "286117",
+      "source_version_uid": "014118:286117:20261120",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261120",
+      "enforcement_date": "20261120"
     }
   ],
   "appendices": [],
@@ -1450,8 +1470,10 @@
   "provision_id": "law:국가교육위원회설치및운영에관한법률#DOC",
   "addendum_provision_id": "law:국가교육위원회설치및운영에관한법률#ADDENDUM",
   "amendment_provision_id": "law:국가교육위원회설치및운영에관한법률#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261120"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "국가교육위원회 설치 및 운영에 관한 법률/법률/국가교육위원회 설치 및 운영에 관한 법률.json"
 }
