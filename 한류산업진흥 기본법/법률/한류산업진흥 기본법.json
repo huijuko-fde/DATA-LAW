@@ -571,7 +571,14 @@
         "article_key": "0020001",
         "moved": "000000",
         "images": [],
-        "provision_id": "law:한류산업진흥기본법#JO0020"
+        "provision_id": "law:한류산업진흥기본법#JO0020",
+        "scheduled": [
+          {
+            "enforcement_date": "20261120",
+            "change": "개정",
+            "content": "제20조(지역문화자원을 활용한 한류의 확산 지원)\n① 지방자치단체는 지역 내 문화자원을 활용하여 한류사업자를 지원할 수 있다.\n② 지방자치단체는 한류산업등의 진흥과 관련된 분야의 일자리를 창출하기 위하여 한류사업자를 유치하고 우선하여 지원할 수 있다.\n③ 지방자치단체는 한류산업등의 진흥과 관련된 분야에서의 지역 주민에게 일자리 제공을 지원하기 위하여 다음 각 호의 사업을 실시할 수 있다. <신설 2026.5.19>\n1. 교육훈련 실시\n2. 일자리 연계 지원\n3. 일자리 알선을 위한 정보 제공\n4. 그 밖에 지역 주민에게 일자리 제공을 지원하기 위하여 필요하다고 인정되는 사업\n④ 특별시장ㆍ통합특별시장ㆍ광역시장ㆍ특별자치시장ㆍ도지사 및 특별자치도지사는 지역의 한류산업을 효율적으로 진흥하기 위하여 필요하다고 인정하는 경우에는 관할구역의 시장ㆍ군수ㆍ구청장(자치구의 구청장을 말한다)과 협의하여 한류산업진흥을 위한 거점기관(이하 \"거점기관\"이라 한다)을 지정하거나 지원할 수 있다. <신설 2026.5.19>\n⑤ 지방자치단체는 지역 한류산업의 기반 조성을 위하여 관련 전문인력 양성, 창작ㆍ제작 시설 및 유통 기반 구축, 기업 육성 등의 사업을 거점기관과 협력하여 추진할 수 있다. <신설 2026.5.19>"
+          }
+        ]
       },
       {
         "article_no": "제21조",
@@ -702,6 +709,19 @@
       "source_version_uid": "014752:265887:20250423",
       "source_revision_type": "제정",
       "version_enforcement_date": "20250423"
+    },
+    {
+      "promulgation_date": "20260519",
+      "promulgation_no": "21676",
+      "addendum_key": "2026051921676",
+      "content": "부칙 <제21676호,2026.5.19>\n이 법은 공포 후 6개월이 경과한 날부터 시행한다.",
+      "provision_id": "law:한류산업진흥기본법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "286113",
+      "source_version_uid": "014752:286113:20261120",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261120",
+      "enforcement_date": "20261120"
     }
   ],
   "appendices": [],
@@ -734,8 +754,10 @@
   "provision_id": "law:한류산업진흥기본법#DOC",
   "addendum_provision_id": "law:한류산업진흥기본법#ADDENDUM",
   "amendment_provision_id": "law:한류산업진흥기본법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261120"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "한류산업진흥 기본법/법률/한류산업진흥 기본법.json"
 }
