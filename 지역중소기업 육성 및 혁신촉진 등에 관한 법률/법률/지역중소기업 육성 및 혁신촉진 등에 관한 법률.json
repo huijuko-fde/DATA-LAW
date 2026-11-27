@@ -51,7 +51,7 @@
   "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n중소기업 지원사업 통합관리시스템을 중소기업빅데이터플랫폼으로 확대 개편하면서 현재보다 상세한 과세정보와 고용정보 등을 관계 기관의 장에게 요청할 수 있는 근거를 마련하고, 중소벤처기업부장관이 중소기업빅데이터플랫폼을 통해 통합 관리하고 있는 중소기업 지원사업에 대한 중소기업의 지원이력에 관한 자료ㆍ정보를 통계적 목적 또는 정책수립을 위해 관련 기관 또는 단체에 제공할 수 있도록 하는 한편, 중소벤처기업연구원의 사업에 규제의 신설ㆍ강화가 중소기업에 미치는 영향에 대한 분석ㆍ연구를 명시함.\n<법제처 제공>",
   "body": {
     "format": "articles",
-    "article_count": 33,
+    "article_count": 35,
     "articles": [
       {
         "article_no": "제1조",
@@ -1353,7 +1353,62 @@
         "changed": "N",
         "article_key": "0033001",
         "images": [],
-        "provision_id": "law:지역중소기업육성및혁신촉진등에관한법률#JO0033"
+        "provision_id": "law:지역중소기업육성및혁신촉진등에관한법률#JO0033",
+        "scheduled": [
+          {
+            "enforcement_date": "20261127",
+            "change": "개정",
+            "content": "제33조(권한 등의 위임ㆍ위탁)\n① 이 법에 따른 중소벤처기업부장관의 권한은 대통령령으로 정하는 바에 따라 그 일부를 시ㆍ도지사에게 위임할 수 있다.\n② 이 법에 따른 중소벤처기업부장관 또는 시ㆍ도지사의 업무는 대통령령으로 정하는 바에 따라 그 일부를 전문 능력과 인력을 갖춘 관계 기관 또는 단체에 위탁할 수 있다.\n③ 중소벤처기업부장관 또는 시ㆍ도지사는 제2항에 따라 업무를 위탁받은 기관 또는 단체가 해당 업무를 원활하게 수행할 수 있도록 예산의 범위에서 필요한 비용의 전부 또는 일부를 지원할 수 있다."
+          }
+        ]
+      },
+      {
+        "article_no": "제34조",
+        "article_title": "벌칙 적용에서 공무원 의제",
+        "chapter": "제5장 보칙",
+        "chapter_path": "제5장 보칙",
+        "content": "제34조(벌칙 적용에서 공무원 의제) 제33조제2항에 따라 위탁받은 업무에 종사하는 기관 또는 단체의 임직원은 「형법」 제129조부터 제132조까지를 적용할 때에는 공무원으로 본다.",
+        "enforcement_date": "20261127",
+        "relations": [],
+        "note": "[본조신설 2026.5.26]",
+        "revision_type": "일부개정",
+        "changed": "Y",
+        "article_key": "0034001",
+        "moved": "000000",
+        "images": [],
+        "provision_id": "law:지역중소기업육성및혁신촉진등에관한법률#JO0034",
+        "future_only": true,
+        "scheduled": [
+          {
+            "enforcement_date": "20261127",
+            "change": "신설",
+            "content": "제34조(벌칙 적용에서 공무원 의제) 제33조제2항에 따라 위탁받은 업무에 종사하는 기관 또는 단체의 임직원은 「형법」 제129조부터 제132조까지를 적용할 때에는 공무원으로 본다."
+          }
+        ]
+      },
+      {
+        "article_no": "제35조",
+        "article_title": "벌칙",
+        "chapter": "제6장 벌칙",
+        "chapter_path": "제6장 벌칙",
+        "content": "제35조(벌칙) 제30조제5항을 위반하여 업무상 알게 된 기업의 비밀을 누설하거나 목적 외의 용도로 사용한 자는 1년 이하의 징역 또는 1천만원 이하의 벌금에 처한다.",
+        "enforcement_date": "20261127",
+        "relations": [],
+        "note": "[제33조에서 이동 <2026.5.26>]",
+        "revision_type": "일부개정",
+        "changed": "Y",
+        "article_key": "0035001",
+        "moved": "003300",
+        "images": [],
+        "provision_id": "law:지역중소기업육성및혁신촉진등에관한법률#JO0035",
+        "future_only": true,
+        "scheduled": [
+          {
+            "enforcement_date": "20261127",
+            "change": "신설",
+            "content": "제35조(벌칙) 제30조제5항을 위반하여 업무상 알게 된 기업의 비밀을 누설하거나 목적 외의 용도로 사용한 자는 1년 이하의 징역 또는 1천만원 이하의 벌금에 처한다."
+          }
+        ]
       }
     ]
   },
@@ -1393,6 +1448,19 @@
       "source_version_uid": "014126:258341:20240710",
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20240710"
+    },
+    {
+      "promulgation_date": "20260526",
+      "promulgation_no": "21706",
+      "addendum_key": "2026052621706",
+      "content": "부칙 <제21706호,2026.5.26>\n이 법은 공포 후 6개월이 경과한 날부터 시행한다.",
+      "provision_id": "law:지역중소기업육성및혁신촉진등에관한법률#ADDENDUM",
+      "is_future": true,
+      "source_mst": "286267",
+      "source_version_uid": "014126:286267:20261127",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261127",
+      "enforcement_date": "20261127"
     }
   ],
   "appendices": [],
@@ -1425,8 +1493,10 @@
   "provision_id": "law:지역중소기업육성및혁신촉진등에관한법률#DOC",
   "addendum_provision_id": "law:지역중소기업육성및혁신촉진등에관한법률#ADDENDUM",
   "amendment_provision_id": "law:지역중소기업육성및혁신촉진등에관한법률#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261127"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "지역중소기업 육성 및 혁신촉진 등에 관한 법률/법률/지역중소기업 육성 및 혁신촉진 등에 관한 법률.json"
 }
